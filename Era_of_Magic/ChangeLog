@@ -1,0 +1,23 @@
+Era of Magic - ChangeLog
+------------------------
+
+Version 0.12.1
+
+- Other
+    * Fixed directory name in a metatag
+
+Version 0.12.0
+
+- Abilities and Weapon Specials
+    * Balancing changes
+
+- Other
+    * Removed Mercurial cruft
+    * Added a "dist" directory that contains metatags useful for Wesnoth-UMC-Dev's tools
+    * Began to keep a changelog
+
+- Translation
+    * Made the plural string for the Tharis distinct from the singular string
+
+- Units
+    * Balancing changes
