@@ -2,40 +2,40 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-03-23 19:58+0100\n"
-"PO-Revision-Date: 2011-03-23 19:58+0100\n"
+"POT-Creation-Date: 2011-03-25 06:47-0400\n"
+"PO-Revision-Date: 2010-10-03 12:37+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. [multiplayer_side]: id=Random
 #: Era_of_Magic/EoMa_eras.cfg:6
 msgid "Random Default"
-msgstr ""
+msgstr "Zufällige Standartfaktion"
 
 #. [unstore_unit]
 #: Era_of_Magic/EoMa_eras.cfg:41
 msgid "Double attack!"
-msgstr ""
+msgstr "Doppelter Angriff"
 
 #. [era]: id=era_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:55
 msgid "Era of Magic"
-msgstr ""
+msgstr "Zeit der Magie"
 
 #. [era]: id=era_magic_rpg_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:71
 msgid "Era of Magic RPG"
-msgstr ""
+msgstr "Rollenspiel der Magie"
 
 #. [era]: id=era_magic_masters_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:87
 msgid "Era of Magic Masters"
-msgstr ""
+msgstr "Meister der Magie"
 
 #. [era]: id=era_default_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:103
@@ -49,81 +49,83 @@ msgstr ""
 
 #. [language]
 #: Era_of_Magic/english.cfg:4
+#, fuzzy
 msgid "range^kamikaze"
-msgstr ""
+msgstr "Kamikaze"
 
+#. [multiplayer_side]: id=barbarians_masters, type=I8 Barbarian_GreatBarbarian
 #. [multiplayer_side]: id=barbarians, type=I8 Barbarian_OrcishBarbarian
 #. [multiplayer_side]: id=barbarians_rpg, type=I8 Barbarian_Cyclop
-#. [multiplayer_side]: id=barbarians_masters, type=I8 Barbarian_GreatBarbarian
+#: Era_of_Magic/factions/barbarians-masters.cfg:4
 #: Era_of_Magic/factions/barbarians-magic.cfg:4
 #: Era_of_Magic/factions/barbarians-mrpg.cfg:4
-#: Era_of_Magic/factions/barbarians-masters.cfg:4
 msgid "Barbarians"
-msgstr ""
+msgstr "Barbaren"
 
-#. [multiplayer_side]: id=darkblood, type=I8_DB_ShamanAdept
-#. [multiplayer_side]: id=darkblood, type=I8_DB_Mystic
 #. [multiplayer_side]: id=darkblood, type=I8_DB_Shaman
-#: Era_of_Magic/factions/darkblood-mrpg.cfg:4
-#: Era_of_Magic/factions/darkblood-masters.cfg:4
+#. [multiplayer_side]: id=darkblood, type=I8_DB_Mystic
+#. [multiplayer_side]: id=darkblood, type=I8_DB_ShamanAdept
 #: Era_of_Magic/factions/darkblood-magic.cfg:4
+#: Era_of_Magic/factions/darkblood-masters.cfg:4
+#: Era_of_Magic/factions/darkblood-mrpg.cfg:4
 msgid "Dark Blood Alliance"
-msgstr ""
+msgstr "Die Allianz der Dunkelblüter"
 
-#. [multiplayer_side]: id=enlightenedones_masters, type=I8 enlightened_mastermage
-#. [multiplayer_side]: id=newenlightened_rpg, type=I8 enlightened_battlemage
 #. [multiplayer_side]: id=enlightenedones, type=I8 enlightened_archmage
-#: Era_of_Magic/factions/enlightenedones-masters.cfg:4
-#: Era_of_Magic/factions/enlightenedones-mrpg.cfg:4
+#. [multiplayer_side]: id=newenlightened_rpg, type=I8 enlightened_battlemage
+#. [multiplayer_side]: id=enlightenedones_masters, type=I8 enlightened_mastermage
 #: Era_of_Magic/factions/enlightenedones-magic.cfg:4
+#: Era_of_Magic/factions/enlightenedones-mrpg.cfg:4
+#: Era_of_Magic/factions/enlightenedones-masters.cfg:4
 msgid "Sky Kingdom"
-msgstr ""
+msgstr "Reich des Himmels"
 
+#. [multiplayer_side]: id=kharos, type=I8 Kharos_LightCleric
 #. [multiplayer_side]: id=kharos_rpg, type=I8 Kharos_SunWhitewarrior
 #. [multiplayer_side]: id=kharos_masters, type=I8 Kharos_LightProphetoflight
-#. [multiplayer_side]: id=kharos, type=I8 Kharos_LightCleric
+#: Era_of_Magic/factions/kharos-magic.cfg:4
 #: Era_of_Magic/factions/kharos-mrpg.cfg:4
 #: Era_of_Magic/factions/kharos-masters.cfg:4
-#: Era_of_Magic/factions/kharos-magic.cfg:4
 msgid "Kharos"
-msgstr ""
+msgstr "Kharos"
 
-#. [multiplayer_side]: id=ancientdwarves_masters, type=I8 AD_RuneArtist
 #. [multiplayer_side]: id=ancientdwarves_rpg, type=I8 AD_maRuneAdept
 #. [multiplayer_side]: id=ancientdwarves, type=I8 AD_maRuneSmith
-#: Era_of_Magic/factions/runemasters-masters.cfg:4
+#. [multiplayer_side]: id=ancientdwarves_masters, type=I8 AD_RuneArtist
 #: Era_of_Magic/factions/runemasters-mrpg.cfg:4
 #: Era_of_Magic/factions/runemasters-magic.cfg:4
+#: Era_of_Magic/factions/runemasters-masters.cfg:4
 msgid "Runemasters"
-msgstr ""
+msgstr "Runologen"
 
-#. [multiplayer_side]: id=summoners, type=I8 Ak_SummonerII
 #. [multiplayer_side]: id=summoners_masters, type=I8 Ak_SummonerIII
+#. [multiplayer_side]: id=summoners, type=I8 Ak_SummonerII
 #. [multiplayer_side]: id=alkamija_rpg, type=I8 Ak_Summoner
-#: Era_of_Magic/factions/summoners-magic.cfg:4
 #: Era_of_Magic/factions/summoners-masters.cfg:4
+#: Era_of_Magic/factions/summoners-magic.cfg:4
 #: Era_of_Magic/factions/summoners-mrpg.cfg:4
+#, fuzzy
 msgid "al-Kamija"
-msgstr ""
+msgstr "Al-Kamija"
 
 #. [multiplayer_side]: id=warlocks_masters, type=I8 Tharis_Greatwarlock
-#. [multiplayer_side]: id=warlocks, type=I8 Tharis_Darkwizard
 #. [multiplayer_side]: id=warlocks_rpg, type=I8 Tharis_Disciple
+#. [multiplayer_side]: id=warlocks, type=I8 Tharis_Darkwizard
 #: Era_of_Magic/factions/warlocks-masters.cfg:4
-#: Era_of_Magic/factions/warlocks-magic.cfg:4
 #: Era_of_Magic/factions/warlocks-mrpg.cfg:4
+#: Era_of_Magic/factions/warlocks-magic.cfg:4
 msgid "Tharis"
-msgstr ""
+msgstr "Tharis"
 
 #. [unit_type]: id=I8 Barbarian_Cyclop, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_Cyclop.cfg:4
 msgid "Cyclops"
-msgstr ""
+msgstr "Zyklop"
 
-#. [unit_type]: id=I8 Barbarian_CyclopBreaker, race=I8 cyclop
 #. [unit_type]: id=I8 Barbarian_Cyclop, race=I8 cyclop
-#: Era_of_Magic/units/Barbarians/Barbarian_CyclopBreaker.cfg:21
+#. [unit_type]: id=I8 Barbarian_CyclopBreaker, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_Cyclop.cfg:20
+#: Era_of_Magic/units/Barbarians/Barbarian_CyclopBreaker.cfg:21
 msgid ""
 "Cumbersome and lacking fine intellect the Cyclop race had been driven near "
 "to extinction before becoming a part of the barbarian horde. Two centuries "
@@ -137,228 +139,228 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_AncientCyclop, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopAncient.cfg:4
 msgid "Ancient Cyclops"
-msgstr ""
+msgstr "Zyklopenältester"
 
-#. [unit_type]: id=I8 AD_RuneArtist, race=dwarf
+#. [unit_type]: id=I8 enlightened_masterofelements, race=human
+#. [unit_type]: id=I8 Barbarian_OrcishBarbarian, race=orc
+#. [unit_type]: id=I8 Barbarian_OrcishBloodWarrior, race=orc
+#. [unit_type]: id=I8 Barbarian_CyclopMighty, race=I8 cyclop
+#. [unit_type]: id=I8 Barbarian_GoblinArcher, race=goblin
+#. [unit_type]: id=I8 Barbarian_CyclopDestroyer, race=I8 cyclop
+#. [unit_type]: id=I8 Barbarian_OrcishBerserker, race=orc
+#. [unit_type]: id=I8 Barbarian_BarbarianKing, race=orc
+#. [unit_type]: id=I8 Barbarian_GoblinAssassin, race=goblin
+#. [unit_type]: id=I8 Barbarian_GoblinKamikaze, race=goblin
+#. [unit_type]: id=I8 Barbarian_RocMaster, race=I8 roc
+#. [unit_type]: id=I8 Barbarian_GoblinHunter, race=goblin
+#. [unit_type]: id=I8 Barbarian_TrollWarbanner, race=troll
+#. [unit_type]: id=I8 Barbarian_AncientCyclop, race=I8 cyclop
+#. [unit_type]: id=I8 Barbarian_GreatBarbarian, race=orc
+#. [unit_type]: id=I8 Barbarian_MadCyclop, race=I8 cyclop
+#. [unit_type]: id=I8 Barbarian_CyclopFire, race=I8 cyclop
+#. [unit_type]: id=I8 Barbarian_GoblinSniper, race=goblin
+#. [unit_type]: id=I8_DB_SalamanderGreen, race=I8 salamander
+#. [unit_type]: id=I8_DB_GreatLancer, race=lizard
+#. [unit_type]: id=I8_DB_MysticalToadRecruit, race=lizard
+#. [unit_type]: id=I8_DB_WyvernGreat, race=monster
+#. [unit_type]: id=I8_DB_WyvernLancerRecruit, race=lizard
+#. [unit_type]: id=I8_DB_Shaman, race=lizard
+#. [unit_type]: id=I8_DB_Mystic, race=lizard
+#. [unit_type]: id=I8_DB_ChaosRider, race=lizard
+#. [unit_type]: id=I8_DB_DrednaughtRecruit, race=lizard
+#. [unit_type]: id=I8_DB_WyvernGreatLancerRecruit, race=lizard
+#. [unit_type]: id=I8_DB_SalamanderBlack, race=I8 salamander
+#. [unit_type]: id=I8_DB_ShamanisticToadRecruit, race=lizard
+#. [unit_type]: id=I8_DB_RangedToadRecruit, race=lizard
+#. [unit_type]: id=I8_DB_Lancer, race=lizard
+#. [unit_type]: id=I8_DB_ZSalamander, race=I8 salamander
+#. [unit_type]: id=I8_DB_BattleToadRecruit, race=lizard
+#. [unit_type]: id=I8_DB_WyvernChaos, race=monster
+#. [unit_type]: id=I8_DB_RangedToadDouble, race=lizard
+#. [unit_type]: id=I8_DB_ChosenOfForest, race=lizard
+#. [unit_type]: id=I8_DB_SalamanderBlue, race=I8 salamander
+#. [unit_type]: id=I8 Kharos_SunCavalryArcherHeavy, race=human
+#. [unit_type]: id=I8 Kharos_SunCavalryArcher, race=human
+#. [unit_type]: id=I8 Kharos_SunCavalryArcherII, race=human
+#. [unit_type]: id=I8 Tharis_Slayer, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Commander, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Darkwarrior, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Blademaster, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Deephydra, race=monster
+#. [unit_type]: id=I8 Tharis_Hunter, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Sworddancer, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Masterofwar, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Commander_in_chief, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Assassin, race=I8 tharis
 #. [unit_type]: id=I8_AD_RuneMaster, race=dwarf
-#. [unit_type]: id=I8 AD_RuneLord, race=dwarf
-#. [unit_type]: id=I8 AD_Parachutist, race=dwarf
-#. [unit_type]: id=I8 AD_Pacificator, race=mechanical
-#. [unit_type]: id=I8 AD_RuneWarrior, race=dwarf
-#. [unit_type]: id=I8 AD_SteamBerserker, race=mechanical
-#. [unit_type]: id=I8 AD_mecTank, race=mechanical
 #. [unit_type]: id=I8 AD_mecSM, race=mechanical
 #. [unit_type]: id=I8 AD_dHeavyWarrior, race=dwarf
-#. [unit_type]: id=I8 AD_MD, race=mechanical
+#. [unit_type]: id=I8 AD_Pacificator, race=mechanical
+#. [unit_type]: id=I8 AD_SteamBerserker, race=mechanical
 #. [unit_type]: id=I8_AD_RuneMaster2, race=dwarf
 #. [unit_type]: id=I8 AD_maRuneSmith, race=dwarf
-#. [unit_type]: id=I8_DB_ChosenOfForest, race=lizard
-#. [unit_type]: id=I8_DB_RangedToadDouble, race=lizard
-#. [unit_type]: id=I8_DB_WyvernLancerRecruit, race=lizard
-#. [unit_type]: id=I8_DB_MysticalToadRecruit, race=lizard
-#. [unit_type]: id=I8_DB_BattleToadRecruit, race=lizard
-#. [unit_type]: id=I8_DB_Lancer, race=lizard
-#. [unit_type]: id=I8_DB_RangedToadRecruit, race=lizard
-#. [unit_type]: id=I8_DB_Shaman, race=lizard
-#. [unit_type]: id=I8_DB_WyvernGreatLancerRecruit, race=lizard
-#. [unit_type]: id=I8_DB_WyvernGreat, race=monster
-#. [unit_type]: id=I8_DB_WyvernChaos, race=monster
-#. [unit_type]: id=I8_DB_ZSalamander, race=I8 salamander
-#. [unit_type]: id=I8_DB_ShamanisticToadRecruit, race=lizard
-#. [unit_type]: id=I8_DB_Mystic, race=lizard
-#. [unit_type]: id=I8_DB_DrednaughtRecruit, race=lizard
-#. [unit_type]: id=I8_DB_SalamanderBlack, race=I8 salamander
-#. [unit_type]: id=I8_DB_ChaosRider, race=lizard
-#. [unit_type]: id=I8_DB_SalamanderBlue, race=I8 salamander
-#. [unit_type]: id=I8_DB_GreatLancer, race=lizard
-#. [unit_type]: id=I8_DB_SalamanderGreen, race=I8 salamander
-#. [unit_type]: id=I8 Tharis_Deephydra, race=monster
-#. [unit_type]: id=I8 Tharis_Darkwarrior, race=I8 tharis
-#. [unit_type]: id=I8 Tharis_Hunter, race=I8 tharis
-#. [unit_type]: id=I8 Tharis_Assassin, race=I8 tharis
-#. [unit_type]: id=I8 Tharis_Sworddancer, race=I8 tharis
-#. [unit_type]: id=I8 Tharis_Commander, race=I8 tharis
-#. [unit_type]: id=I8 Tharis_Blademaster, race=I8 tharis
-#. [unit_type]: id=I8 Tharis_Commander_in_chief, race=I8 tharis
-#. [unit_type]: id=I8 Tharis_Slayer, race=I8 tharis
-#. [unit_type]: id=I8 Tharis_Masterofwar, race=I8 tharis
-#. [unit_type]: id=I8 Kharos_SunCavalryArcher, race=human
-#. [unit_type]: id=I8 Kharos_SunCavalryArcherHeavy, race=human
-#. [unit_type]: id=I8 Kharos_SunCavalryArcherII, race=human
-#. [unit_type]: id=I8 enlightened_masterofelements, race=human
-#. [unit_type]: id=I8 Barbarian_GoblinKamikaze, race=goblin
-#. [unit_type]: id=I8 Barbarian_GoblinSniper, race=goblin
-#. [unit_type]: id=I8 Barbarian_AncientCyclop, race=I8 cyclop
-#. [unit_type]: id=I8 Barbarian_MadCyclop, race=I8 cyclop
-#. [unit_type]: id=I8 Barbarian_OrcishBerserker, race=orc
-#. [unit_type]: id=I8 Barbarian_OrcishBarbarian, race=orc
-#. [unit_type]: id=I8 Barbarian_TrollWarbanner, race=troll
-#. [unit_type]: id=I8 Barbarian_CyclopMighty, race=I8 cyclop
-#. [unit_type]: id=I8 Barbarian_GreatBarbarian, race=orc
-#. [unit_type]: id=I8 Barbarian_CyclopDestroyer, race=I8 cyclop
-#. [unit_type]: id=I8 Barbarian_GoblinHunter, race=goblin
-#. [unit_type]: id=I8 Barbarian_GoblinArcher, race=goblin
-#. [unit_type]: id=I8 Barbarian_CyclopFire, race=I8 cyclop
-#. [unit_type]: id=I8 Barbarian_OrcishBloodWarrior, race=orc
-#. [unit_type]: id=I8 Barbarian_BarbarianKing, race=orc
-#. [unit_type]: id=I8 Barbarian_RocMaster, race=I8 roc
-#. [unit_type]: id=I8 Barbarian_GoblinAssassin, race=goblin
-#: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:18
+#. [unit_type]: id=I8 AD_Parachutist, race=dwarf
+#. [unit_type]: id=I8 AD_MD, race=mechanical
+#. [unit_type]: id=I8 AD_RuneLord, race=dwarf
+#. [unit_type]: id=I8 AD_RuneWarrior, race=dwarf
+#. [unit_type]: id=I8 AD_mecTank, race=mechanical
+#. [unit_type]: id=I8 AD_RuneArtist, race=dwarf
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:19
+#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarian.cfg:17
+#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBloodWarrior.cfg:18
+#: Era_of_Magic/units/Barbarians/Barbarian_CyclopMighty.cfg:20
+#: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:18
+#: Era_of_Magic/units/Barbarians/Barbarian_CyclopDestroyer.cfg:21
+#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBerserker.cfg:17
+#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianKing.cfg:18
+#: Era_of_Magic/units/Barbarians/Barbarian_GoblinAssassin.cfg:26
+#: Era_of_Magic/units/Barbarians/Barbarian_GoblinKamikaze.cfg:19
+#: Era_of_Magic/units/Barbarians/Barbarian_RocMaster.cfg:19
+#: Era_of_Magic/units/Barbarians/Barbarian_GoblinHunter.cfg:25
+#: Era_of_Magic/units/Barbarians/Barbarian_TrollWarbanner.cfg:28
+#: Era_of_Magic/units/Barbarians/Barbarian_CyclopAncient.cfg:21
+#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianLord.cfg:17
+#: Era_of_Magic/units/Barbarians/Barbarian_CyclopMad.cfg:20
+#: Era_of_Magic/units/Barbarians/Barbarian_CyclopFire.cfg:20
+#: Era_of_Magic/units/Barbarians/Barbarian_GoblinSniper.cfg:19
+#: Era_of_Magic/units/Darkblood/DB_GreenSalamander.cfg:19
+#: Era_of_Magic/units/Darkblood/DB_GreatLancer.cfg:21
+#: Era_of_Magic/units/Darkblood/DB_MysticalToadRecruit.cfg:19
+#: Era_of_Magic/units/Darkblood/DB_WyvernGreat.cfg:16
+#: Era_of_Magic/units/Darkblood/DB_WyvernLancer_recruit.cfg:16
+#: Era_of_Magic/units/Darkblood/DB_Shaman.cfg:19
+#: Era_of_Magic/units/Darkblood/DB_Mystic.cfg:19
+#: Era_of_Magic/units/Darkblood/DB_ChaosRider.cfg:17
+#: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:19
+#: Era_of_Magic/units/Darkblood/DB_WyvernGreatLancer_recruit.cfg:16
+#: Era_of_Magic/units/Darkblood/DB_BlackSalamander.cfg:19
+#: Era_of_Magic/units/Darkblood/DB_ShamanisticToad_recruit.cfg:18
+#: Era_of_Magic/units/Darkblood/DB_RangedToad_recruit.cfg:18
+#: Era_of_Magic/units/Darkblood/DB_Lancer.cfg:20
+#: Era_of_Magic/units/Darkblood/DB_Salamander.cfg:18
+#: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:18
+#: Era_of_Magic/units/Darkblood/DB_WyvernChaos.cfg:17
+#: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:19
+#: Era_of_Magic/units/Darkblood/DB_ChosenOfForest.cfg:20
+#: Era_of_Magic/units/Darkblood/DB_BlueSalamander.cfg:19
+#: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherHeavy.cfg:19
+#: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcher.cfg:18
+#: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:19
+#: Era_of_Magic/units/Warlocks/Tharis_Slayer.cfg:18
+#: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:18
+#: Era_of_Magic/units/Warlocks/Tharis_DWarrior.cfg:18
+#: Era_of_Magic/units/Warlocks/Tharis_Blademaster.cfg:19
+#: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:17
+#: Era_of_Magic/units/Warlocks/Tharis_Hunter.cfg:17
+#: Era_of_Magic/units/Warlocks/Tharis_Sworddancer.cfg:19
+#: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:18
+#: Era_of_Magic/units/Warlocks/Tharis_General.cfg:17
+#: Era_of_Magic/units/Warlocks/Tharis_Assassin.cfg:21
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster.cfg:19
-#: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:19
-#: Era_of_Magic/units/Runemasters/AD_Parachutist.cfg:19
-#: Era_of_Magic/units/Runemasters/AD_Pacificator.cfg:20
-#: Era_of_Magic/units/Runemasters/AD_RuneWarrior.cfg:18
-#: Era_of_Magic/units/Runemasters/AD_SteamBerserker.cfg:19
-#: Era_of_Magic/units/Runemasters/AD_Tank.cfg:19
 #: Era_of_Magic/units/Runemasters/AD_SM.cfg:19
 #: Era_of_Magic/units/Runemasters/AD_HeavyWarrior.cfg:18
-#: Era_of_Magic/units/Runemasters/AD_MechanicalDragon.cfg:19
+#: Era_of_Magic/units/Runemasters/AD_Pacificator.cfg:20
+#: Era_of_Magic/units/Runemasters/AD_SteamBerserker.cfg:19
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster2.cfg:19
 #: Era_of_Magic/units/Runemasters/AD_RuneSmith.cfg:18
-#: Era_of_Magic/units/Darkblood/DB_ChosenOfForest.cfg:20
-#: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:19
-#: Era_of_Magic/units/Darkblood/DB_WyvernLancer_recruit.cfg:16
-#: Era_of_Magic/units/Darkblood/DB_MysticalToadRecruit.cfg:19
-#: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:18
-#: Era_of_Magic/units/Darkblood/DB_Lancer.cfg:20
-#: Era_of_Magic/units/Darkblood/DB_RangedToad_recruit.cfg:18
-#: Era_of_Magic/units/Darkblood/DB_Shaman.cfg:19
-#: Era_of_Magic/units/Darkblood/DB_WyvernGreatLancer_recruit.cfg:16
-#: Era_of_Magic/units/Darkblood/DB_WyvernGreat.cfg:16
-#: Era_of_Magic/units/Darkblood/DB_WyvernChaos.cfg:17
-#: Era_of_Magic/units/Darkblood/DB_Salamander.cfg:18
-#: Era_of_Magic/units/Darkblood/DB_ShamanisticToad_recruit.cfg:18
-#: Era_of_Magic/units/Darkblood/DB_Mystic.cfg:19
-#: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:19
-#: Era_of_Magic/units/Darkblood/DB_BlackSalamander.cfg:19
-#: Era_of_Magic/units/Darkblood/DB_ChaosRider.cfg:17
-#: Era_of_Magic/units/Darkblood/DB_BlueSalamander.cfg:19
-#: Era_of_Magic/units/Darkblood/DB_GreatLancer.cfg:21
-#: Era_of_Magic/units/Darkblood/DB_GreenSalamander.cfg:19
-#: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:17
-#: Era_of_Magic/units/Warlocks/Tharis_DWarrior.cfg:18
-#: Era_of_Magic/units/Warlocks/Tharis_Hunter.cfg:17
-#: Era_of_Magic/units/Warlocks/Tharis_Assassin.cfg:21
-#: Era_of_Magic/units/Warlocks/Tharis_Sworddancer.cfg:19
-#: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:18
-#: Era_of_Magic/units/Warlocks/Tharis_Blademaster.cfg:19
-#: Era_of_Magic/units/Warlocks/Tharis_General.cfg:17
-#: Era_of_Magic/units/Warlocks/Tharis_Slayer.cfg:18
-#: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:18
-#: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcher.cfg:18
-#: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherHeavy.cfg:19
-#: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:19
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:19
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinKamikaze.cfg:19
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinSniper.cfg:19
-#: Era_of_Magic/units/Barbarians/Barbarian_CyclopAncient.cfg:21
-#: Era_of_Magic/units/Barbarians/Barbarian_CyclopMad.cfg:20
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBerserker.cfg:17
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarian.cfg:17
-#: Era_of_Magic/units/Barbarians/Barbarian_TrollWarbanner.cfg:28
-#: Era_of_Magic/units/Barbarians/Barbarian_CyclopMighty.cfg:20
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianLord.cfg:17
-#: Era_of_Magic/units/Barbarians/Barbarian_CyclopDestroyer.cfg:21
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinHunter.cfg:25
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:18
-#: Era_of_Magic/units/Barbarians/Barbarian_CyclopFire.cfg:20
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBloodWarrior.cfg:18
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianKing.cfg:18
-#: Era_of_Magic/units/Barbarians/Barbarian_RocMaster.cfg:19
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinAssassin.cfg:26
+#: Era_of_Magic/units/Runemasters/AD_Parachutist.cfg:19
+#: Era_of_Magic/units/Runemasters/AD_MechanicalDragon.cfg:19
+#: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:19
+#: Era_of_Magic/units/Runemasters/AD_RuneWarrior.cfg:18
+#: Era_of_Magic/units/Runemasters/AD_Tank.cfg:19
+#: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:18
 msgid "."
 msgstr ""
 
 #. [attack]: type=arcane
 #. [attack]: type=fire
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_MagicalEye.cfg:61
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:74
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_MagicalEye.cfg:61
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopAncient.cfg:37
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopFire.cfg:64
 msgid "eye"
-msgstr ""
+msgstr "Böses Auge"
 
 #. [unit_type]: id=I8 Barbarian_CyclopBreaker, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopBreaker.cfg:4
 msgid "Cyclops Breaker"
-msgstr ""
+msgstr "Reihenbrecher"
 
 #. [unit_type]: id=I8 Barbarian_CyclopDestroyer, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopDestroyer.cfg:4
 msgid "Cyclops Destroyer"
-msgstr ""
+msgstr "Zerstörer-Zyklop"
 
 #. [attack]: type=impact
-#: Era_of_Magic/units/Barbarians/Barbarian_CyclopMad.cfg:113
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopMighty.cfg:28
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopDestroyer.cfg:69
+#: Era_of_Magic/units/Barbarians/Barbarian_CyclopMad.cfg:113
 msgid "tree"
-msgstr ""
+msgstr "Baumkeule"
 
 #. [attack]: type=pierce
-#: Era_of_Magic/units/Barbarians/Barbarian_CyclopMad.cfg:126
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopDestroyer.cfg:82
+#: Era_of_Magic/units/Barbarians/Barbarian_CyclopMad.cfg:126
 msgid "tree thrown"
-msgstr ""
+msgstr "Geworfener Baum"
 
 #. [unit_type]: id=I8 Barbarian_CyclopFire, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopFire.cfg:4
 msgid "Fire Cyclops"
-msgstr ""
+msgstr "Feuerzyklop"
 
 #. [unit_type]: id=I8 Barbarian_MadCyclop, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopMad.cfg:4
 msgid "Raging Cyclops"
-msgstr ""
+msgstr "Rasender Zyklop"
 
 #. [unit_type]: id=I8 Barbarian_CyclopMighty, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopMighty.cfg:4
 msgid "Mighty Cyclops"
-msgstr ""
+msgstr "Mächtiger Zyklop"
 
 #. [unit_type]: id=I8 Barbarian_GoblinArcher, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:4
 msgid "Goblin Archer"
-msgstr ""
+msgstr "Kobold-Schütze"
 
 #. [attack]: type=pierce
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinSniper.cfg:40
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:71
+#: Era_of_Magic/units/Barbarians/Barbarian_GoblinSniper.cfg:40
 msgid "poisoned arrow"
-msgstr ""
+msgstr "Giftpfeil"
 
 #. [unit_type]: id=I8 Barbarian_GoblinAssassin, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinAssassin.cfg:4
 msgid "Goblin Assassin"
-msgstr ""
+msgstr "Goblinmörder"
 
 #. [attack]: type=impact
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinHunter.cfg:49
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinAssassin.cfg:46
+#: Era_of_Magic/units/Barbarians/Barbarian_GoblinHunter.cfg:49
 msgid "bolas"
-msgstr ""
+msgstr "Bolas"
 
 #. [unit_type]: id=I8 Barbarian_GoblinHunter, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinHunter.cfg:4
 msgid "Goblin Hunter"
-msgstr ""
+msgstr "Koboldjäger"
 
 #. [unit_type]: id=I8 Barbarian_GoblinKamikaze, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinKamikaze.cfg:4
 msgid "Goblin Kamikaze"
-msgstr ""
+msgstr "Kamikaze-Kobold"
 
 #. [attack]: type=fire
-#: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:39
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinKamikaze.cfg:27
+#: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:39
 msgid "explosion"
-msgstr ""
+msgstr "Explosion"
 
 #. [unit_type]: id=I8 Barbarian_GoblinRouser, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRouser.cfg:4
 msgid "Goblin Rouser"
-msgstr ""
+msgstr "Kobold-Standartenträger"
 
 #. [unit_type]: id=I8 Barbarian_GoblinRouser, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRouser.cfg:19
@@ -372,24 +374,24 @@ msgstr ""
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
-#: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:62
-#: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:63
+#: Era_of_Magic/units/Barbarians/Barbarian_GoblinRunt.cfg:68
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRouser.cfg:44
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarrior.cfg:72
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinRunt.cfg:68
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarbaner.cfg:56
+#: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:63
+#: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:62
 msgid "spear throw"
-msgstr ""
+msgstr "Wurfspieß"
 
 #. [unit_type]: id=I8 Barbarian_GoblinRunt, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRunt.cfg:4
 msgid "Goblin Runt"
-msgstr ""
+msgstr "Kobold-Speerträger"
 
-#. [unit_type]: id=I8 Barbarian_GoblinWarrior, race=goblin
 #. [unit_type]: id=I8 Barbarian_GoblinRunt, race=goblin
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarrior.cfg:18
+#. [unit_type]: id=I8 Barbarian_GoblinWarrior, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRunt.cfg:18
+#: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarrior.cfg:18
 msgid ""
 "Belonging to a race already small in statue Goblin runts are born smaller "
 "and weaker then most. Indeed it is a wonder that such tiny creatures can "
@@ -401,67 +403,67 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_GoblinSniper, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinSniper.cfg:4
 msgid "Goblin Sniper"
-msgstr ""
+msgstr "Kobold-Scharfschütze"
 
 #. [unit_type]: id=I8 Barbarian_GoblinWarbanner, race=goblin, description=
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarbaner.cfg:4
 msgid "Goblin Warbanner"
-msgstr ""
+msgstr "Bannerträger der Kobolde"
 
 #. [unit_type]: id=I8 Barbarian_GoblinWarrior, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarrior.cfg:4
 msgid "Goblin Warrior"
-msgstr ""
+msgstr "Koboldkrieger"
 
 #. [unit_type]: id=I8 Barbarian_OrcishBarbarian, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarian.cfg:4
 msgid "Barbarian"
-msgstr ""
+msgstr "Barbar"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarian.cfg:22
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianLord.cfg:26
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianKing.cfg:27
+#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianLord.cfg:26
 msgid "sword+axe"
-msgstr ""
+msgstr "Schwert und Axt"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarian.cfg:31
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianLord.cfg:38
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianKing.cfg:48
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarrior.cfg:33
+#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianKing.cfg:48
+#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianLord.cfg:38
 msgid "hatchet"
-msgstr ""
+msgstr "Wurfbeil"
 
 #. [unit_type]: id=I8 Barbarian_BarbarianKing, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianKing.cfg:4
 msgid "Barbarian King"
-msgstr ""
+msgstr "Chefbarbar"
 
 #. [unit_type]: id=I8 Barbarian_GreatBarbarian, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianLord.cfg:4
 msgid "Barbarian Lord"
-msgstr ""
+msgstr "Oberbarbar"
 
 #. [unit_type]: id=I8 Barbarian_OrcishBerserker, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBerserker.cfg:4
 msgid "Barbarian Berserker"
-msgstr ""
+msgstr "Berserker"
 
 #. [unit_type]: id=I8 Barbarian_OrcishBloodWarrior, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBloodWarrior.cfg:4
 msgid "Blood Warrior"
-msgstr ""
+msgstr "Blutrünstiger"
 
 #. [unit_type]: id=I8 Barbarian_OrcishWarbanner, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarbanner.cfg:4
 msgid "Orcish Warbanner"
-msgstr ""
+msgstr "Bannerträger der Orks"
 
-#. [unit_type]: id=I8 Barbarian_OrcishWarbanner, race=orc
 #. [unit_type]: id=I8 Barbarian_OrcishWarrior, race=orc
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarbanner.cfg:20
+#. [unit_type]: id=I8 Barbarian_OrcishWarbanner, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarrior.cfg:19
+#: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarbanner.cfg:20
 msgid ""
 "Savage and warlike Orcs form the back bone of the Barbarian hordes.\n"
 "\n"
@@ -477,17 +479,17 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_OrcishWarrior, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarrior.cfg:4
 msgid "Orcish Warrior"
-msgstr ""
+msgstr "Orkkrieger"
 
 #. [unit_type]: id=I8 Barbarian_RocMaster, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Barbarian_RocMaster.cfg:4
 msgid "Roc Master"
-msgstr ""
+msgstr "Rokhbändiger"
 
 #. [unit_type]: id=I8 Barbarian_RocRider, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Barbarian_RocRider.cfg:4
 msgid "Roc Rider"
-msgstr ""
+msgstr "Rokhreiter"
 
 #. [unit_type]: id=I8 Barbarian_RocRider, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Barbarian_RocRider.cfg:18
@@ -506,7 +508,7 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_TrollFireWizard, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollFireWizard.cfg:4
 msgid "Troll Fire Wizard"
-msgstr ""
+msgstr "Feuerzauberer der Trolle"
 
 #. [unit_type]: id=I8 Barbarian_TrollFireWizard, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollFireWizard.cfg:27
@@ -517,16 +519,16 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=fire
-#: Era_of_Magic/units/Barbarians/Barbarian_TrollWarbanner.cfg:42
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollFireWizard.cfg:43
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollSorcerer.cfg:81
+#: Era_of_Magic/units/Barbarians/Barbarian_TrollWarbanner.cfg:42
 msgid "flame blast"
-msgstr ""
+msgstr "Feuer"
 
 #. [unit_type]: id=I8 Barbarian_TrollSorcerer, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollSorcerer.cfg:4
 msgid "Troll Sorcerer"
-msgstr ""
+msgstr "Zauberer der Trolle"
 
 #. [unit_type]: id=I8 Barbarian_TrollSorcerer, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollSorcerer.cfg:26
@@ -544,119 +546,119 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_TrollWarbanner, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollWarbanner.cfg:4
 msgid "Troll Warbanner"
-msgstr ""
+msgstr "Bannerträger der Trolle"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollWarbanner.cfg:33
 msgid "banner"
-msgstr ""
+msgstr "Banner"
 
 #. [unit_type]: id=I8_DB_BattleToadRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:4
 msgid "Battle Toad"
-msgstr ""
+msgstr "Kriegskröte"
 
 #. [attack]: type=impact
-#: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:23
 #: Era_of_Magic/units/Darkblood/DB_MysticalToadRecruit.cfg:26
-#: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:22
-#: Era_of_Magic/units/Darkblood/DB_RangedToad_recruit.cfg:22
-#: Era_of_Magic/units/Darkblood/DB_Toad.cfg:73
-#: Era_of_Magic/units/Darkblood/DB_ShamanisticToad_recruit.cfg:25
 #: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:23
+#: Era_of_Magic/units/Darkblood/DB_ShamanisticToad_recruit.cfg:25
+#: Era_of_Magic/units/Darkblood/DB_Toad.cfg:73
+#: Era_of_Magic/units/Darkblood/DB_RangedToad_recruit.cfg:22
+#: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:22
+#: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:23
 msgid "paw"
-msgstr ""
+msgstr "Trampeln"
 
 #. [attack]: type=impact
-#: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:32
 #: Era_of_Magic/units/Darkblood/DB_MysticalToadRecruit.cfg:35
-#: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:31
-#: Era_of_Magic/units/Darkblood/DB_RangedToad_recruit.cfg:31
-#: Era_of_Magic/units/Darkblood/DB_Toad.cfg:82
-#: Era_of_Magic/units/Darkblood/DB_ShamanisticToad_recruit.cfg:34
 #: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:32
+#: Era_of_Magic/units/Darkblood/DB_ShamanisticToad_recruit.cfg:34
+#: Era_of_Magic/units/Darkblood/DB_Toad.cfg:82
+#: Era_of_Magic/units/Darkblood/DB_RangedToad_recruit.cfg:31
+#: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:31
+#: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:32
 msgid "tongue"
-msgstr ""
+msgstr "Zunge"
 
-#. [attack]: type=pierce
 #. [attack]: type=impact
-#: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:43
-#: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:44
+#. [attack]: type=pierce
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Golem.cfg:48
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:195
+#: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:44
+#: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:43
 msgid "charge"
-msgstr ""
+msgstr "Ansturm"
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
 #: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:53
+#: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:23
+#: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:27
+#: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:28
+#: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:75
+#: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:63
+#: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:27
+#: Era_of_Magic/units/Warlocks/Tharis_General.cfg:26
 #: Era_of_Magic/units/Warlocks/Tharis_Matriarch.cfg:42
 #: Era_of_Magic/units/Warlocks/Tharis_Matriarch.cfg:54
-#: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:63
-#: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:28
-#: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:27
-#: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:23
-#: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:75
-#: Era_of_Magic/units/Warlocks/Tharis_General.cfg:26
-#: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:27
 msgid "spear"
-msgstr ""
+msgstr "Speer"
 
 #. [unit_type]: id=I8_DB_SalamanderBlack, race=I8 salamander
 #: Era_of_Magic/units/Darkblood/DB_BlackSalamander.cfg:4
 msgid "Black Salamander"
-msgstr ""
+msgstr "Schwarzer Salamander"
 
 #. [attack]: type=blade
-#: Era_of_Magic/units/Darkblood/DB_Salamander.cfg:62
-#: Era_of_Magic/units/Darkblood/DB_BlackSalamander.cfg:53
-#: Era_of_Magic/units/Darkblood/DB_BlueSalamander.cfg:88
 #: Era_of_Magic/units/Darkblood/DB_GreenSalamander.cfg:53
+#: Era_of_Magic/units/Darkblood/DB_BlackSalamander.cfg:53
+#: Era_of_Magic/units/Darkblood/DB_Salamander.cfg:62
+#: Era_of_Magic/units/Darkblood/DB_BlueSalamander.cfg:88
 msgid "wrist blade"
-msgstr ""
+msgstr "Handklinge"
 
 #. [unit_type]: id=I8_DB_SalamanderBlue, race=I8 salamander
 #: Era_of_Magic/units/Darkblood/DB_BlueSalamander.cfg:4
 msgid "Blue Salamander"
-msgstr ""
+msgstr "Blauer Salamander"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Darkblood/DB_BlueSalamander.cfg:100
+#: Era_of_Magic/units/Warlocks/Tharis_Sworddancer.cfg:36
 #: Era_of_Magic/units/Warlocks/Tharis_Bladedancer.cfg:24
 #: Era_of_Magic/units/Warlocks/Tharis_Bladedancer.cfg:36
-#: Era_of_Magic/units/Warlocks/Tharis_Sworddancer.cfg:36
 msgid "chakram"
-msgstr ""
+msgstr "Chakram"
 
 #. [unit_type]: id=I8_DB_ChaosRider, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ChaosRider.cfg:4
 msgid "Chaos Rider"
-msgstr ""
+msgstr "Chaosreiter"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Darkblood/DB_WyvernGreat.cfg:50
-#: Era_of_Magic/units/Darkblood/DB_WyvernChaos.cfg:52
 #: Era_of_Magic/units/Darkblood/DB_ChaosRider.cfg:64
+#: Era_of_Magic/units/Darkblood/DB_WyvernChaos.cfg:52
 msgid "scream"
-msgstr ""
+msgstr "Gebrüll"
 
 #. [unit_type]: id=I8_DB_ChosenOfForest, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ChosenOfForest.cfg:4
 msgid "Chosen of Forest"
-msgstr ""
+msgstr "Auserwählter des Waldes"
 
 #. [attack]: type=cold
-#: Era_of_Magic/units/Darkblood/DB_ChosenOfForest.cfg:147
-#: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:71
 #: Era_of_Magic/units/Darkblood/DB_Shaman.cfg:117
 #: Era_of_Magic/units/Darkblood/DB_Mystic.cfg:115
+#: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:71
+#: Era_of_Magic/units/Darkblood/DB_ChosenOfForest.cfg:147
 msgid "iceball"
-msgstr ""
+msgstr "Eisball"
 
 #. [unit_type]: id=I8_DB_Crossbowman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Crossbowman.cfg:4
 msgid "Crossbowman"
-msgstr ""
+msgstr "Armbrustschütze"
 
 #. [unit_type]: id=I8_DB_Shooter, race=lizard
 #. [unit_type]: id=I8_DB_Crossbowman, race=lizard
@@ -675,7 +677,7 @@ msgstr ""
 #. [unit_type]: id=I8_DB_DamnedShaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:4
 msgid "Swamp Mage"
-msgstr ""
+msgstr "Sumpfmagier"
 
 #. [unit_type]: id=I8_DB_DamnedShaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:20
@@ -693,12 +695,12 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:102
 msgid "damned flame"
-msgstr ""
+msgstr "Flamme der Verderbnis"
 
 #. [unit_type]: id=I8_DB_DarkShaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DarkShaman.cfg:4
 msgid "Corrupted Shaman"
-msgstr ""
+msgstr "Verdorbener Schamane"
 
 #. [unit_type]: id=I8_DB_DarkShaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DarkShaman.cfg:20
@@ -717,83 +719,83 @@ msgstr ""
 #. [unit_type]: id=I8_DB_DrednaughtRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:4
 msgid "Dreadnaught"
-msgstr ""
+msgstr "Behemoth"
 
 #. [unit_type]: id=I8_DB_GreatLancer, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_GreatLancer.cfg:5
 msgid "Great Pikeman"
-msgstr ""
+msgstr "Pikenrecke"
 
 #. [unit_type]: id=I8_DB_SalamanderGreen, race=I8 salamander
 #: Era_of_Magic/units/Darkblood/DB_GreenSalamander.cfg:4
 msgid "Green Salamander"
-msgstr ""
+msgstr "Grüner Salamander"
 
 #. [unit_type]: id=I8_DB_Lancer, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Lancer.cfg:5
 msgid "Saurian Pikeman"
-msgstr ""
+msgstr "Saurianischer Pikenträger"
 
 #. [unit_type]: id=I8_DB_Mystic, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Mystic.cfg:4
 msgid "Mystic"
-msgstr ""
+msgstr "Mystiker"
 
 #. [unit_type]: id=I8_DB_MysticalToadRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_MysticalToadRecruit.cfg:4
 msgid "Mystical Toad"
-msgstr ""
+msgstr "Mystische Kröte"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Darkblood/DB_MysticalToadRecruit.cfg:47
 #: Era_of_Magic/units/Darkblood/DB_ShamanisticToad_recruit.cfg:46
 msgid "magic missile"
-msgstr ""
+msgstr "Magisches Geschoss"
 
 #. [unit_type]: id=I8_DB_RangedToadDouble, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:4
 msgid "Double Ranged Toad"
-msgstr ""
+msgstr "Howdakröte"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:44
 msgid "aimed shot"
-msgstr ""
+msgstr "Anvisieren"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:53
 msgid "crossbow x2"
-msgstr ""
+msgstr "Beide Armbrüste"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:65
 msgid "concentrated fire"
-msgstr ""
+msgstr "Sperrfeuer"
 
 #. [unstore_unit]
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:351
 msgid "Second target!"
-msgstr ""
+msgstr "Zweites Ziel!"
 
 #. [unit_type]: id=I8_DB_RangedToadRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_RangedToad_recruit.cfg:4
 msgid "Ranged Toad"
-msgstr ""
+msgstr "Schützenkröte"
 
 #. [unit_type]: id=I8_DB_ZSalamander, race=I8 salamander
 #: Era_of_Magic/units/Darkblood/DB_Salamander.cfg:4
 msgid "Salamander"
-msgstr ""
+msgstr "Salamander"
 
 #. [unit_type]: id=I8_DB_Shaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Shaman.cfg:4
 msgid "Clan Leader"
-msgstr ""
+msgstr "Stammesführer"
 
 #. [unit_type]: id=I8_DB_ShamanAdept, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:5
 msgid "Shamanistic Adept"
-msgstr ""
+msgstr "Schamane"
 
 #. [unit_type]: id=I8_DB_ShamanAdept, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:20
@@ -808,22 +810,22 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:62
 msgid "claws"
-msgstr ""
+msgstr "Klauen"
 
 #. [unit_type]: id=I8_DB_ShamanisticToadRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ShamanisticToad_recruit.cfg:4
 msgid "Shamanistic Toad"
-msgstr ""
+msgstr "Schamanenkröte"
 
 #. [unit_type]: id=I8_DB_Shooter, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Shooter.cfg:5
 msgid "Shooter"
-msgstr ""
+msgstr "Schütze"
 
 #. [unit_type]: id=I8_DB_Toad, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Toad.cfg:4
 msgid "Toad"
-msgstr ""
+msgstr "Kröte"
 
 #. [unit_type]: id=I8_DB_Toad, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Toad.cfg:18
@@ -839,12 +841,12 @@ msgstr ""
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Darkblood/DB_Toad.cfg:94
 msgid "dart"
-msgstr ""
+msgstr "Wurfpfeil"
 
 #. [unit_type]: id=I8_DB_Wyvern, race=monster
 #: Era_of_Magic/units/Darkblood/DB_Wyvern.cfg:4
 msgid "Wyvern"
-msgstr ""
+msgstr "Wyvern"
 
 #. [unit_type]: id=I8_DB_Wyvern, race=monster
 #: Era_of_Magic/units/Darkblood/DB_Wyvern.cfg:16
@@ -858,37 +860,37 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Era_of_Magic/units/Darkblood/DB_Wyvern.cfg:40
 #: Era_of_Magic/units/Darkblood/DB_WyvernGreat.cfg:41
+#: Era_of_Magic/units/Darkblood/DB_Wyvern.cfg:40
 #: Era_of_Magic/units/Darkblood/DB_WyvernChaos.cfg:43
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:146
 msgid "tackle"
-msgstr ""
+msgstr "Niederwerfen"
 
 #. [unit_type]: id=I8_DB_WyvernChaos, race=monster
 #: Era_of_Magic/units/Darkblood/DB_WyvernChaos.cfg:4
 msgid "Chaos Wyvern"
-msgstr ""
+msgstr "Chaoswyvern"
 
 #. [unit_type]: id=I8_DB_WyvernGreat, race=monster
 #: Era_of_Magic/units/Darkblood/DB_WyvernGreat.cfg:4
 msgid "Great Wyvern"
-msgstr ""
+msgstr "Großer Wyvern"
 
 #. [unit_type]: id=I8_DB_WyvernGreatLancerRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_WyvernGreatLancer_recruit.cfg:4
 msgid "Wyvern Tamer"
-msgstr ""
+msgstr "Wyvernbändiger"
 
 #. [unit_type]: id=I8_DB_WyvernLancerRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_WyvernLancer_recruit.cfg:4
 msgid "Wyvern Rider"
-msgstr ""
+msgstr "Wyvernreiter"
 
 #. [unit_type]: id=I8 enlightened_abyssmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:4
 msgid "Abyss Mage"
-msgstr ""
+msgstr "Magier der Tiefe"
 
 #. [unit_type]: id=I8 enlightened_abyssmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:19
@@ -897,26 +899,26 @@ msgid ""
 "spells."
 msgstr ""
 
-#. [attack]: type=arcane
 #. [attack]: type=cold
 #. [attack]: type=fire
-#: Era_of_Magic/units/Kharos/Kharos_SunSilverwarrior.cfg:154
+#. [attack]: type=arcane
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Subversivemage.cfg:156
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:93
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Goldenmage.cfg:60
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:31
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Blackmage.cfg:92
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Elementalist.cfg:92
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:93
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Subversivemage.cfg:156
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Battlemage.cfg:54
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Goldenmage.cfg:60
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:207
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:31
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Battlemage.cfg:54
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Sorcerer.cfg:81
+#: Era_of_Magic/units/Kharos/Kharos_SunSilverwarrior.cfg:154
 msgid "missile"
-msgstr ""
+msgstr "Geschoss"
 
 #. [unit_type]: id=I8 enlightened_battlemage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Battlemage.cfg:4
 msgid "Battlemage"
-msgstr ""
+msgstr "Kampfmagier"
 
 #. [unit_type]: id=I8 enlightened_battlemage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Battlemage.cfg:18
@@ -929,7 +931,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_blackmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Blackmage.cfg:4
 msgid "Black Mage"
-msgstr ""
+msgstr "Schwarzer Magier"
 
 #. [unit_type]: id=I8 enlightened_blackmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Blackmage.cfg:18
@@ -941,7 +943,7 @@ msgstr ""
 #. [unit_type]: id=I8 DeadlyEye, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:4
 msgid "Deadly Eye"
-msgstr ""
+msgstr "Auge des Todes"
 
 #. [unit_type]: id=I8 DeadlyEye, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:17
@@ -953,12 +955,12 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:62
 msgid "blades"
-msgstr ""
+msgstr "Klingen"
 
 #. [unit_type]: id=I8 Elementalist, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Elementalist.cfg:4
 msgid "Elementalist"
-msgstr ""
+msgstr "Alchemist"
 
 #. [unit_type]: id=I8 Elementalist, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Elementalist.cfg:18
@@ -971,7 +973,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_goldenmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Goldenmage.cfg:4
 msgid "Golden Mage"
-msgstr ""
+msgstr "Goldener Magier"
 
 #. [unit_type]: id=I8 enlightened_goldenmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Goldenmage.cfg:17
@@ -984,7 +986,7 @@ msgstr ""
 #. [unit_type]: id=I8 Golem, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Golem.cfg:4
 msgid "Golem"
-msgstr ""
+msgstr "Golem"
 
 #. [unit_type]: id=I8 Golem, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Golem.cfg:17
@@ -997,7 +999,7 @@ msgstr ""
 #. [unit_type]: id=I8 Golem_boss, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:4
 msgid "Golem Boss"
-msgstr ""
+msgstr "Verbesserter Golem"
 
 #. [unit_type]: id=I8 Golem_boss, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:18
@@ -1009,7 +1011,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_Guru, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Guru.cfg:4
 msgid "Guru"
-msgstr ""
+msgstr "Guru"
 
 #. [unit_type]: id=I8 enlightened_Guru, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Guru.cfg:18
@@ -1023,17 +1025,17 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Guru.cfg:142
 msgid "touch of magic"
-msgstr ""
+msgstr "Magische Berührung"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Guru.cfg:154
 msgid "landmass"
-msgstr ""
+msgstr "Lawine"
 
 #. [unit_type]: id=I8 enlightened_HiddenFace, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_HiddenFace.cfg:4
 msgid "Hidden Face"
-msgstr ""
+msgstr "Maskenträger"
 
 #. [unit_type]: id=I8 enlightened_HiddenFace, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_HiddenFace.cfg:18
@@ -1045,7 +1047,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_mage_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:4
 msgid "Mage of air"
-msgstr ""
+msgstr "Magier der Lüfte"
 
 #. [unit_type]: id=I8 enlightened_mage_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:17
@@ -1059,23 +1061,23 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:141
 msgid "short-circuit"
-msgstr ""
+msgstr "Kurzschluss"
 
 #. [attack]: type=arcane
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:171
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:150
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:171
 msgid "sparks"
-msgstr ""
+msgstr "Funken"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:162
 msgid "small lightning"
-msgstr ""
+msgstr "Blitz"
 
 #. [unit_type]: id=I8 enlightened_mage_of_fire, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:4
 msgid "Mage of fire"
-msgstr ""
+msgstr "Magier der Flammen"
 
 #. [unit_type]: id=I8 enlightened_mage_of_fire, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:16
@@ -1087,18 +1089,18 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:85
 msgid "fire blast"
-msgstr ""
+msgstr "Feuerstoß"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:94
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:197
 msgid "flames"
-msgstr ""
+msgstr "Flammen"
 
 #. [unit_type]: id=I8 enlightened_mage_of_water, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Water.cfg:4
 msgid "Mage of water"
-msgstr ""
+msgstr "Magier des Wassers"
 
 #. [unit_type]: id=I8 enlightened_mage_of_water, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Water.cfg:27
@@ -1111,21 +1113,21 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Water.cfg:133
 msgid "water blast"
-msgstr ""
+msgstr "Wasserstoß"
 
 #. [attack]: type=cold
 #. [attack]: type=pierce
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:125
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:101
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:121
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Water.cfg:145
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:101
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:125
 msgid "icecles"
-msgstr ""
+msgstr "Eiszapfen"
 
 #. [unit_type]: id=I8 MagicalEye, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MagicalEye.cfg:4
 msgid "Magical Eye"
-msgstr ""
+msgstr "Magisches Auge"
 
 #. [unit_type]: id=I8 MagicalEye, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MagicalEye.cfg:17
@@ -1138,7 +1140,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_master_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:4
 msgid "Master of Air"
-msgstr ""
+msgstr "Meister der Lüfte"
 
 #. [unit_type]: id=I8 enlightened_master_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:18
@@ -1150,25 +1152,25 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:162
 msgid "short circuit"
-msgstr ""
+msgstr "Kurzschluss"
 
 #. [attack]: type=arcane
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:183
 #: Era_of_Magic/units/Summoners/AlKamija_God_Air.cfg:122
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Air.cfg:63
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:183
 msgid "thunder"
-msgstr ""
+msgstr "Donner"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:145
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:195
 msgid "eye of the storm"
-msgstr ""
+msgstr "Sturm"
 
 #. [unit_type]: id=I8 enlightened_master_of_fire, race=I8 magical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:4
 msgid "Master of Fire"
-msgstr ""
+msgstr "Meister der Flammen"
 
 #. [unit_type]: id=I8 enlightened_master_of_fire, race=I8 magical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:18
@@ -1179,22 +1181,22 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=fire
-#: Era_of_Magic/units/Summoners/AlKamija_Avatar_Fire.cfg:113
-#: Era_of_Magic/units/Summoners/AlKamija_Elemental_Fire.cfg:164
-#: Era_of_Magic/units/Summoners/AlKamija_God_Fire.cfg:124
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:188
+#: Era_of_Magic/units/Summoners/AlKamija_Elemental_Fire.cfg:164
+#: Era_of_Magic/units/Summoners/AlKamija_Avatar_Fire.cfg:113
+#: Era_of_Magic/units/Summoners/AlKamija_God_Fire.cfg:124
 msgid "burning fist"
-msgstr ""
+msgstr "Flammende Faust"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:220
 msgid "inferno"
-msgstr ""
+msgstr "Höllenfeuer"
 
 #. [unit_type]: id=I8 enlightened_master_of_water, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:4
 msgid "Master of Water"
-msgstr ""
+msgstr "Meister des Wassers"
 
 #. [unit_type]: id=I8 enlightened_master_of_water, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:27
@@ -1204,29 +1206,29 @@ msgid ""
 "slow their foes."
 msgstr ""
 
-#. [attack]: type=cold
 #. [attack]: type=impact
-#: Era_of_Magic/units/Summoners/AlKamija_God_Water.cfg:152
+#. [attack]: type=cold
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:89
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Water.cfg:118
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:232
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:89
+#: Era_of_Magic/units/Summoners/AlKamija_God_Water.cfg:152
 msgid "frozen fist"
-msgstr ""
+msgstr "Gefrorene Faust"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:114
 msgid "ice strike"
-msgstr ""
+msgstr "Eis"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:127
 msgid "bubble"
-msgstr ""
+msgstr "Blase"
 
 #. [unit_type]: id=I8 enlightened_mastermage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:4
 msgid "Mastermage"
-msgstr ""
+msgstr "Hermetiker"
 
 #. [unit_type]: id=I8 enlightened_mastermage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:18
@@ -1235,37 +1237,39 @@ msgid ""
 "attacks. When Mastermage is under attack, he creates an energy shield, which "
 "absorbs damage."
 msgstr ""
+"Hermeitker kennen alle Formen der Magie und können deshalb auf viele Arten "
+"angrefien und soch durch ein Kraftfeld schützen."
 
-#. [attack]: type=arcane
 #. [attack]: type=impact
+#. [attack]: type=arcane
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:113
 #: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:112
 #: Era_of_Magic/units/Kharos/Kharos_LightChild.cfg:60
 #: Era_of_Magic/units/Kharos/Kharos_LightSister.cfg:71
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:113
 msgid "light touch"
-msgstr ""
+msgstr "Berührung des Lichtes"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:149
 msgid "lightning"
-msgstr ""
+msgstr "Blitz"
 
 #. [unit_type]: id=I8 enlightened_masterofelements, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:4
 msgid "Master of Elements"
-msgstr ""
+msgstr "Herr der Elemente"
 
-#. [attack]: type=fire
 #. [attack]: type=impact
-#: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:104
+#. [attack]: type=fire
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:109
+#: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:104
 msgid "touch"
-msgstr ""
+msgstr "Berührung"
 
 #. [unit_type]: id=I8 Mu, race=monster
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mu.cfg:4
 msgid "Mu"
-msgstr ""
+msgstr "Mu"
 
 #. [unit_type]: id=I8 Mu, race=monster
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mu.cfg:18
@@ -1277,12 +1281,12 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mu.cfg:80
 msgid "mu"
-msgstr ""
+msgstr "mu"
 
 #. [unit_type]: id=I8 MysticMu, race=monster
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MysticMu.cfg:4
 msgid "Um"
-msgstr ""
+msgstr "Um"
 
 #. [unit_type]: id=I8 MysticMu, race=monster
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MysticMu.cfg:18
@@ -1295,12 +1299,12 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MysticMu.cfg:70
 msgid "um"
-msgstr ""
+msgstr "um"
 
 #. [unit_type]: id=I8 enlightened_MysticWarrior, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MysticalWarrior.cfg:4
 msgid "Mystic Warrior"
-msgstr ""
+msgstr "Mystischer Krieger"
 
 #. [unit_type]: id=I8 enlightened_MysticWarrior, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MysticalWarrior.cfg:70
@@ -1312,12 +1316,12 @@ msgstr ""
 #. [attack]: type=cold
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MysticalWarrior.cfg:211
 msgid "secret hit"
-msgstr ""
+msgstr "Schlag"
 
 #. [unit_type]: id=I8 enlightened_shadowmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Shadowmage.cfg:4
 msgid "Shadowmage"
-msgstr ""
+msgstr "Magier des Schattens"
 
 #. [unit_type]: id=I8 enlightened_shadowmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Shadowmage.cfg:18
@@ -1329,12 +1333,12 @@ msgstr ""
 #. [attack]: type=cold
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Shadowmage.cfg:41
 msgid "cursed knifes"
-msgstr ""
+msgstr "Fluchmesser"
 
 #. [unit_type]: id=I8 enlightened_archmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Sorcerer.cfg:4
 msgid "Sorcerer"
-msgstr ""
+msgstr "Gelehrter"
 
 #. [unit_type]: id=I8 enlightened_archmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Sorcerer.cfg:17
@@ -1346,7 +1350,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_subversivemage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Subversivemage.cfg:4
 msgid "Subversive mage"
-msgstr ""
+msgstr "Abtrünniger Magier"
 
 #. [unit_type]: id=I8 enlightened_subversivemage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Subversivemage.cfg:18
@@ -1358,7 +1362,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_spellsword, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:4
 msgid "War Mage"
-msgstr ""
+msgstr "Kriegsmagier"
 
 #. [unit_type]: id=I8 enlightened_spellsword, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:17
@@ -1369,17 +1373,18 @@ msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightAdept, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightAdept.cfg:4
+#, fuzzy
 msgid "female^Adept of Light"
-msgstr ""
+msgstr "Schülerin des Lichts"
 
+#. [unit_type]: id=I8 Kharos_LightAdept, race=human
+#. [unit_type]: id=I8 Kharos_LightInspired, race=human
 #. [unit_type]: id=I8 Kharos_LightChild, race=human
 #. [unit_type]: id=I8 Kharos_LightSister, race=human
-#. [unit_type]: id=I8 Kharos_LightInspired, race=human
-#. [unit_type]: id=I8 Kharos_LightAdept, race=human
+#: Era_of_Magic/units/Kharos/Kharos_LightAdept.cfg:20
+#: Era_of_Magic/units/Kharos/Kharos_LightInspired.cfg:21
 #: Era_of_Magic/units/Kharos/Kharos_LightChild.cfg:20
 #: Era_of_Magic/units/Kharos/Kharos_LightSister.cfg:20
-#: Era_of_Magic/units/Kharos/Kharos_LightInspired.cfg:21
-#: Era_of_Magic/units/Kharos/Kharos_LightAdept.cfg:20
 msgid ""
 "\n"
 "\n"
@@ -1388,19 +1393,21 @@ msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightChild, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightChild.cfg:4
+#, fuzzy
 msgid "female^Child of Light"
-msgstr ""
+msgstr "Tochter des Lichts"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Kharos_LightChild.cfg:72
 #: Era_of_Magic/units/Kharos/Kharos_LightSister.cfg:83
 msgid "ray of light"
-msgstr ""
+msgstr "Lichtblitz"
 
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightCleric.cfg:4
+#, fuzzy
 msgid "female^Cleric"
-msgstr ""
+msgstr "female^magisch"
 
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightCleric.cfg:20
@@ -1413,13 +1420,15 @@ msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightInspired, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightInspired.cfg:4
+#, fuzzy
 msgid "female^Inspired"
-msgstr ""
+msgstr "Erleuchtete"
 
 #. [unit_type]: id=I8 Kharos_LightMistress, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:4
+#, fuzzy
 msgid "female^Mistress of Light"
-msgstr ""
+msgstr "Herrin des Lichts"
 
 #. [unit_type]: id=I8 Kharos_LightMistress, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:22
@@ -1434,12 +1443,13 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:124
 msgid "lightstorm"
-msgstr ""
+msgstr "Gleißendes Licht"
 
 #. [unit_type]: id=I8 Kharos_LightProphetoflight, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:4
+#, fuzzy
 msgid "female^Prophet of Light"
-msgstr ""
+msgstr "Prophetin des Lichts"
 
 #. [unit_type]: id=I8 Kharos_LightProphetoflight, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:20
@@ -1451,78 +1461,80 @@ msgstr ""
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:136
+#, fuzzy
 msgid "blinding light"
-msgstr ""
+msgstr "Blitz"
 
 #. [unit_type]: id=I8 Kharos_LightSister, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightSister.cfg:4
+#, fuzzy
 msgid "female^Sister of Light"
-msgstr ""
+msgstr "Schwester des Lichts"
 
 #. [unit_type]: id=I8 Kharos_SunBrownwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunBrownwarrior.cfg:4
 msgid "Brown Warrior"
-msgstr ""
+msgstr "Brauner Soldat"
 
 #. [unit_type]: id=I8 Kharos_SunBrownwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunBrownwarrior.cfg:18
 msgid "Brown warriors are equipped with a very sharp sword and a mace."
-msgstr ""
+msgstr "Braune Soldaten tragen scharfe Schwerter und Streitkolben."
 
 #. [unit_type]: id=I8 Kharos_SunCavalryArcher, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcher.cfg:4
 msgid "Cavalry Archer"
-msgstr ""
+msgstr "Berittener Bogenschütze"
 
 #. [attack]: type=impact
-#: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcher.cfg:25
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherHeavy.cfg:35
+#: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcher.cfg:25
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:47
 msgid "bow bash"
-msgstr ""
+msgstr "Bogenschlag"
 
 #. [unit_type]: id=I8 Kharos_SunCavalryArcherHeavy, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherHeavy.cfg:4
 msgid "Heavy Cavalry Archer"
-msgstr ""
+msgstr "Kavaleriebogeschütze"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherHeavy.cfg:44
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:81
 msgid "arrow"
-msgstr ""
+msgstr "Pfeil"
 
 #. [unit_type]: id=I8 Kharos_SunCavalryArcherII, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:4
 msgid "Elemental Archer"
-msgstr ""
+msgstr "Zauberbogen"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:56
 msgid "fire arrow"
-msgstr ""
+msgstr "Feuerpfeil"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:68
 msgid "ice arrow"
-msgstr ""
+msgstr "Eispfeil"
 
 #. [unit_type]: id=I8 Kharos_SunFanatic, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunFanatic.cfg:4
 msgid "Fanatic"
-msgstr ""
+msgstr "Fanatiker"
 
 #. [unit_type]: id=I8 Kharos_SunSlicer, race=human
 #. [unit_type]: id=I8 Kharos_SunFanatic, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunSlicer.cfg:18
 #: Era_of_Magic/units/Kharos/Kharos_SunFanatic.cfg:19
 msgid "You will die in a twinkling of an eye."
-msgstr ""
+msgstr "Du lebst nur noch einen Wimpernschlag."
 
 #. [unit_type]: id=I8 Kharos_SunFollower, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunFollower.cfg:4
 msgid "Sun Follower"
-msgstr ""
+msgstr "Jünger der Sonne"
 
 #. [unit_type]: id=I8 Kharos_SunFollower, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunFollower.cfg:18
@@ -1534,7 +1546,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunGoldenwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:4
 msgid "Golden Warrior"
-msgstr ""
+msgstr "Goldener Soldat"
 
 #. [unit_type]: id=I8 Kharos_SunGoldenwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:18
@@ -1547,18 +1559,18 @@ msgstr ""
 #: Era_of_Magic/units/Kharos/Kharos_SunSilverwarrior.cfg:145
 #: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:139
 msgid "white sword"
-msgstr ""
+msgstr "Weißes Schwert"
 
 #. [attack]: type=arcane
-#: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:148
 #: Era_of_Magic/units/Kharos/Kharos_SunMasterofsun.cfg:237
+#: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:148
 msgid "light focusing"
-msgstr ""
+msgstr "Konzentriertes Licht"
 
 #. [unit_type]: id=I8 Kharos_SunGuardian, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunGuardian.cfg:4
 msgid "Sun Guardian"
-msgstr ""
+msgstr "Wächter der Sonne"
 
 #. [unit_type]: id=I8 Kharos_SunGuardian, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunGuardian.cfg:18
@@ -1572,12 +1584,12 @@ msgstr ""
 #: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:63
 #: Era_of_Magic/units/Kharos/Kharos_SunGuardian.cfg:56
 msgid "fusion"
-msgstr ""
+msgstr "Scmelze"
 
 #. [unit_type]: id=I8 Kharos_SunKirios, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:4
 msgid "Kirios"
-msgstr ""
+msgstr "Kirios"
 
 #. [unit_type]: id=I8 Kharos_SunKirios, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:19
@@ -1591,13 +1603,13 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:75
 msgid "solar beam"
-msgstr ""
+msgstr "Sonnenstrahl"
 
 #. [damage]: id=i8kiriosbeam
 #: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:85
 #: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:86
 msgid "beam"
-msgstr ""
+msgstr "Strahl"
 
 #. [damage]: id=i8kiriosbeam
 #: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:88
@@ -1611,7 +1623,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunMasterofsun, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunMasterofsun.cfg:4
 msgid "Master of Sun"
-msgstr ""
+msgstr "Sonnenmeister"
 
 #. [unit_type]: id=I8 Kharos_SunMasterofsun, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunMasterofsun.cfg:18
@@ -1624,12 +1636,12 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Kharos_SunMasterofsun.cfg:225
 msgid "ultraspeed"
-msgstr ""
+msgstr "Schnellster Angriff"
 
 #. [unit_type]: id=I8 Kharos_SunPlatinumwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunPlatinumwarrior.cfg:4
 msgid "Platinum Warrior"
-msgstr ""
+msgstr "Platinsoldat"
 
 #. [unit_type]: id=I8 Kharos_SunPlatinumwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunPlatinumwarrior.cfg:19
@@ -1639,15 +1651,15 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Magic/units/Kharos/Kharos_SunWhitewarrior.cfg:29
 #: Era_of_Magic/units/Kharos/Kharos_SunPlatinumwarrior.cfg:29
+#: Era_of_Magic/units/Kharos/Kharos_SunWhitewarrior.cfg:29
 msgid "sword"
-msgstr ""
+msgstr "Schwert"
 
 #. [unit_type]: id=I8 Kharos_SunProtector, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunProtector.cfg:4
 msgid "Protector"
-msgstr ""
+msgstr "Verteidiger"
 
 #. [unit_type]: id=I8 Kharos_SunProtector, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunProtector.cfg:19
@@ -1660,12 +1672,12 @@ msgstr ""
 #: Era_of_Magic/units/Kharos/Kharos_SunShielder.cfg:57
 #: Era_of_Magic/units/Kharos/Kharos_SunProtector.cfg:58
 msgid "shield"
-msgstr ""
+msgstr "Schild"
 
 #. [unit_type]: id=I8 Kharos_SunRevenger, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunRevenger.cfg:4
 msgid "Revenger"
-msgstr ""
+msgstr "Vergelter"
 
 #. [unit_type]: id=I8 Kharos_SunRevenger, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunRevenger.cfg:19
@@ -1677,7 +1689,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunShielder, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunShielder.cfg:4
 msgid "Shielder"
-msgstr ""
+msgstr "Schützer"
 
 #. [unit_type]: id=I8 Kharos_SunShielder, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunShielder.cfg:19
@@ -1689,37 +1701,38 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunSilverwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunSilverwarrior.cfg:4
 msgid "Silver Warrior"
-msgstr ""
+msgstr "Silbersoldat"
 
 #. [unit_type]: id=I8 Kharos_SunSilverwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunSilverwarrior.cfg:18
 msgid "He wears a good armor and is very dangerous because of his skills."
 msgstr ""
+"Gute Panzerung und Erfahrung machen den Silbersoldaten sehr gefährlich."
 
 #. [unit_type]: id=I8 Kharos_SunSlicer, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunSlicer.cfg:4
 msgid "Slicer"
-msgstr ""
+msgstr "Zelot"
 
 #. [unit_type]: id=I8 Kharos_SunWhitewarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunWhitewarrior.cfg:4
 msgid "White Warrior"
-msgstr ""
+msgstr "Weißer Soldat"
 
 #. [unit_type]: id=I8 Kharos_SunWhitewarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunWhitewarrior.cfg:18
 msgid "White warriors are equipped with a very sharp sword."
-msgstr ""
+msgstr "Weiße Soldaten führen sehr scharfe Schwerter."
 
 #. [unit_type]: id=I8 Kharos_Warbanner, race=human
 #: Era_of_Magic/units/Kharos/Kharos_Warbanner.cfg:4
 msgid "War Banner"
-msgstr ""
+msgstr "Standarte"
 
-#. [unit_type]: id=I8 Kharos_Warbanner, race=human
 #. [unit_type]: id=I8 Kharos_WarbannerKharos, race=human
-#: Era_of_Magic/units/Kharos/Kharos_Warbanner.cfg:17
+#. [unit_type]: id=I8 Kharos_Warbanner, race=human
 #: Era_of_Magic/units/Kharos/Kharos_WarbannerKharos.cfg:18
+#: Era_of_Magic/units/Kharos/Kharos_Warbanner.cfg:17
 msgid ""
 "Kharosans use war banners to increase morale of all near troops. The War "
 "Banner shows gold sun - emblem of the Kharos nation. Two people protect the "
@@ -1730,12 +1743,12 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_WarbannerKharos, race=human
 #: Era_of_Magic/units/Kharos/Kharos_WarbannerKharos.cfg:4
 msgid "Kharos War Banner"
-msgstr ""
+msgstr "Banner"
 
 #. [unit_type]: id=I8 AD_mbBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Baloon.cfg:4
 msgid "Balloon"
-msgstr ""
+msgstr "Luftballon"
 
 #. [unit_type]: id=I8 AD_mbBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Baloon.cfg:17
@@ -1749,16 +1762,16 @@ msgstr ""
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_HeavyBaloon.cfg:59
+#: Era_of_Magic/units/Runemasters/AD_Baloon.cfg:57
 #: Era_of_Magic/units/Runemasters/AD_Steamcopter.cfg:66
 #: Era_of_Magic/units/Runemasters/AD_FlyingFortress.cfg:59
-#: Era_of_Magic/units/Runemasters/AD_Baloon.cfg:57
 msgid "bombs"
-msgstr ""
+msgstr "Bombardierung"
 
 #. [unit_type]: id=I8 AD_FlyingFortress, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_FlyingFortress.cfg:4
 msgid "Flying Fortress"
-msgstr ""
+msgstr "Fliegende Festung"
 
 #. [unit_type]: id=I8 AD_FlyingFortress, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_FlyingFortress.cfg:20
@@ -1782,17 +1795,17 @@ msgstr ""
 #: Era_of_Magic/units/Runemasters/AD_HeavyBaloon.cfg:71
 #: Era_of_Magic/units/Runemasters/AD_FlyingFortress.cfg:71
 msgid "machine gun"
-msgstr ""
+msgstr "Maschinengewehr"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Runemasters/AD_FlyingFortress.cfg:83
 msgid "cannon"
-msgstr ""
+msgstr "Kanone"
 
 #. [unit_type]: id=I8 AD_mbHeavyBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_HeavyBaloon.cfg:4
 msgid "Heavy Balloon"
-msgstr ""
+msgstr "Schwerer Ballon"
 
 #. [unit_type]: id=I8 AD_mbHeavyBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_HeavyBaloon.cfg:19
@@ -1813,23 +1826,23 @@ msgstr ""
 #. [unit_type]: id=I8 AD_dHeavyWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_HeavyWarrior.cfg:4
 msgid "Dwarvish Heavy Warrior"
-msgstr ""
+msgstr "Schwerer Infanterist"
 
-#. [attack]: type=pierce
 #. [attack]: type=fire
-#: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:56
-#: Era_of_Magic/units/Runemasters/AD_Warrior.cfg:40
-#: Era_of_Magic/units/Runemasters/AD_Parachutist.cfg:33
-#: Era_of_Magic/units/Runemasters/AD_RuneWarrior.cfg:40
+#. [attack]: type=pierce
 #: Era_of_Magic/units/Runemasters/AD_SM.cfg:310
 #: Era_of_Magic/units/Runemasters/AD_HeavyWarrior.cfg:38
+#: Era_of_Magic/units/Runemasters/AD_Warrior.cfg:40
+#: Era_of_Magic/units/Runemasters/AD_Parachutist.cfg:33
+#: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:56
+#: Era_of_Magic/units/Runemasters/AD_RuneWarrior.cfg:40
 msgid "gun"
-msgstr ""
+msgstr "Gewehr"
 
 #. [unit_type]: id=I8 AD_rMechanic, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:4
 msgid "Mechanic"
-msgstr ""
+msgstr "Mechaniker"
 
 #. [unit_type]: id=I8 AD_rMechanic, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:18
@@ -1844,73 +1857,73 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Magic/units/Runemasters/AD_Technician.cfg:48
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:33
+#: Era_of_Magic/units/Runemasters/AD_Technician.cfg:48
 msgid "saw"
-msgstr ""
+msgstr "Säge"
 
 #. [attack]: type=impact
-#: Era_of_Magic/units/Runemasters/AD_Technician.cfg:57
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:42
+#: Era_of_Magic/units/Runemasters/AD_Technician.cfg:57
 msgid "key"
-msgstr ""
+msgstr "Schraubenshlüssel"
 
 #. [attack]: type=pierce
-#: Era_of_Magic/units/Runemasters/AD_Technician.cfg:66
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:51
+#: Era_of_Magic/units/Runemasters/AD_Technician.cfg:66
 msgid "screwdriver"
-msgstr ""
+msgstr "Schraubenzieher"
 
-#. [damage]: id=i8grenade
 #. [attack]: type=pierce
-#: Era_of_Magic/utils/abilities.cfg:748 Era_of_Magic/utils/abilities.cfg:749
-#: Era_of_Magic/units/Runemasters/AD_Technician.cfg:84
+#. [damage]: id=i8grenade
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:60
+#: Era_of_Magic/units/Runemasters/AD_Technician.cfg:84
+#: Era_of_Magic/utils/abilities.cfg:748 Era_of_Magic/utils/abilities.cfg:749
 msgid "grenade"
-msgstr ""
+msgstr "Granate"
 
 #. [unit_type]: id=I8 AD_MD, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_MechanicalDragon.cfg:4
 msgid "Mechanical Dragon"
-msgstr ""
+msgstr "Mechanischer Drache"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_MechanicalDragon.cfg:99
 msgid "flame"
-msgstr ""
+msgstr "Flammenwerfer"
 
 #. [unit_type]: id=I8 AD_Pacificator, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Pacificator.cfg:4
 msgid "Pacificator"
-msgstr ""
+msgstr "Kampfpanzer"
 
 #. [attack]: type=impact
+#: Era_of_Magic/units/Runemasters/AD_SM.cfg:300
 #: Era_of_Magic/units/Runemasters/AD_Pacificator.cfg:79
 #: Era_of_Magic/units/Runemasters/AD_Tank.cfg:78
-#: Era_of_Magic/units/Runemasters/AD_SM.cfg:300
 msgid "trample"
-msgstr ""
+msgstr "Niedertrampeln"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_Pacificator.cfg:89
 msgid "explosive ammo"
-msgstr ""
+msgstr "Explosivgeschoss"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Runemasters/AD_Pacificator.cfg:101
 #: Era_of_Magic/units/Runemasters/AD_Tank.cfg:100
 msgid "piercing ammo"
-msgstr ""
+msgstr "Durchbruchsgeschoss"
 
 #. [unit_type]: id=I8 AD_Parachutist, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Parachutist.cfg:4
 msgid "Parachutist"
-msgstr ""
+msgstr "Fallschirmspringer"
 
 #. [unit_type]: id=I8 AD_SteamUlfserkerRed, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_RedUlfserker.cfg:4
 msgid "Red Ulfserker"
-msgstr ""
+msgstr "Kampfroboter"
 
 #. [unit_type]: id=I8 AD_SteamUlfserkerRed, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_RedUlfserker.cfg:21
@@ -1929,7 +1942,7 @@ msgstr ""
 #. [unit_type]: id=I8 AD_maRuneAdept, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneAdept.cfg:4
 msgid "Runeadept"
-msgstr ""
+msgstr "Runenschüler"
 
 #. [unit_type]: id=I8 AD_maRuneAdept, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneAdept.cfg:18
@@ -1944,65 +1957,65 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=fire
-#: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:41
 #: Era_of_Magic/units/Runemasters/AD_RuneAdept.cfg:41
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster.cfg:39
 #: Era_of_Magic/units/Runemasters/AD_RuneSmith.cfg:41
+#: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:41
 msgid "runes"
-msgstr ""
+msgstr "Ruenfluch"
 
 #. [unit_type]: id=I8 AD_RuneArtist, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:4
 msgid "Rune Artist"
-msgstr ""
+msgstr "Runenschneider"
 
 #. [attack]: type=fire
-#: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:53
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster.cfg:54
+#: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:53
 msgid "lightning bolt"
-msgstr ""
+msgstr "Blitz"
 
 #. [unit_type]: id=I8 AD_RuneLord, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:4
 msgid "Dwarvish Rune Lord"
-msgstr ""
+msgstr "Runenelitist"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:44
 msgid "runic sword"
-msgstr ""
+msgstr "Verzaubertes Schwert"
 
 #. [unit_type]: id=I8_AD_RuneMaster, race=dwarf
 #. [unit_type]: id=I8_AD_RuneMaster2, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster.cfg:4
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster2.cfg:4
 msgid "Runemaster"
-msgstr ""
+msgstr "Runologe"
 
 #. [unit_type]: id=I8 AD_maRuneSmith, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneSmith.cfg:4
 msgid "Runesmith"
-msgstr ""
+msgstr "Runenschmied"
 
 #. [unit_type]: id=I8 AD_RuneWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneWarrior.cfg:4
 msgid "Dwarvish Rune Warrior"
-msgstr ""
+msgstr "Runeninfanterist"
 
 #. [unit_type]: id=I8 AD_mecSM, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_SM.cfg:4
 msgid "Striding Machine"
-msgstr ""
+msgstr "Kriegsmaschine"
 
 #. [unit_type]: id=I8 AD_SteamBerserker, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_SteamBerserker.cfg:4
 msgid "Steam Berserker"
-msgstr ""
+msgstr "Dampfberserker"
 
 #. [unit_type]: id=I8 AD_SteamaUlfserker, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_SteamUlfserker.cfg:4
 msgid "Steam Ulfserker"
-msgstr ""
+msgstr "Dampfulfserker"
 
 #. [unit_type]: id=I8 AD_SteamaUlfserker, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_SteamUlfserker.cfg:18
@@ -2017,7 +2030,7 @@ msgstr ""
 #. [unit_type]: id=I8 AD_meSteamcopter, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Steamcopter.cfg:4
 msgid "Steamcopter"
-msgstr ""
+msgstr "Hubschrauber"
 
 #. [unit_type]: id=I8 AD_meSteamcopter, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Steamcopter.cfg:16
@@ -2029,17 +2042,17 @@ msgstr ""
 #. [unit_type]: id=I8 AD_mecTank, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Tank.cfg:4
 msgid "Dwarvish Tank"
-msgstr ""
+msgstr "Panzer"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_Tank.cfg:88
 msgid "exlosive ammo"
-msgstr ""
+msgstr "Sprenggeschoss"
 
 #. [unit_type]: id=I8 AD_rTechnician, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:4
 msgid "Technician"
-msgstr ""
+msgstr "Techniker"
 
 #. [unit_type]: id=I8 AD_rTechnician, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:21
@@ -2060,12 +2073,12 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:75
 msgid "burner"
-msgstr ""
+msgstr "Lötlampe"
 
 #. [unit_type]: id=I8 AD_dWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Warrior.cfg:4
 msgid "Dwarvish Warrior"
-msgstr ""
+msgstr "Infanterist"
 
 #. [unit_type]: id=I8 AD_dWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Warrior.cfg:20
@@ -2085,7 +2098,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Avatar_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Air.cfg:4
 msgid "Air Avatar"
-msgstr ""
+msgstr "Luftmanifestion"
 
 #. [unit_type]: id=I8 Ak_Avatar_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Air.cfg:18
@@ -2104,12 +2117,12 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Air.cfg:51
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:117
 msgid "hurricane"
-msgstr ""
+msgstr "Wirbelsturm"
 
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Earth.cfg:4
 msgid "Earth Avatar"
-msgstr ""
+msgstr "Erdmanifestion"
 
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Earth.cfg:16
@@ -2125,16 +2138,16 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
+#: Era_of_Magic/units/Summoners/AlKamija_Elemental_Earth.cfg:136
 #: Era_of_Magic/units/Summoners/AlKamija_God_Earth.cfg:147
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Earth.cfg:51
-#: Era_of_Magic/units/Summoners/AlKamija_Elemental_Earth.cfg:136
 msgid "hit"
-msgstr ""
+msgstr "Lawine"
 
 #. [unit_type]: id=I8 Ak_Avatar_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Fire.cfg:4
 msgid "Fire Avatar"
-msgstr ""
+msgstr "Feuermanifestion"
 
 #. [unit_type]: id=I8 Ak_Avatar_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Fire.cfg:17
@@ -2151,7 +2164,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Avatar_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Water.cfg:4
 msgid "Water Avatar"
-msgstr ""
+msgstr "Wassermanifestion"
 
 #. [unit_type]: id=I8 Ak_Avatar_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Water.cfg:25
@@ -2168,7 +2181,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Banisher, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:4
 msgid "Banisher"
-msgstr ""
+msgstr "Banner"
 
 #. [unit_type]: id=I8 Ak_Banisher, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:19
@@ -2186,18 +2199,18 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:33
 #: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:30
 msgid "banishment"
-msgstr ""
+msgstr "Bannen"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:54
 #: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:51
 msgid "frozen gate"
-msgstr ""
+msgstr "Schließen des Tors"
 
 #. [unit_type]: id=I8 Ak_CamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:4
 msgid "Camel Rider"
-msgstr ""
+msgstr "Kamelreiter"
 
 #. [unit_type]: id=I8 Ak_CamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:20
@@ -2215,27 +2228,27 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:117
-#: Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:147
-#: Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:32
-#: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:120
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:121
+#: Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:32
+#: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:117
 #: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:88
-#: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:98
+#: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:120
 #: Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:33
+#: Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:147
+#: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:98
 msgid "scimitar"
-msgstr ""
+msgstr "Säbel"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:41
 #: Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:42
 msgid "scimitar throw"
-msgstr ""
+msgstr "Säbelwurf"
 
 #. [unit_type]: id=I8 Ak_CarpetMaster, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetMaster.cfg:4
 msgid "Carpet Master"
-msgstr ""
+msgstr "Legendärer Teppich"
 
 #. [unit_type]: id=I8 Ak_CarpetMaster, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetMaster.cfg:19
@@ -2250,15 +2263,15 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=cold
-#: Era_of_Magic/units/Summoners/AlKamija_CarpetMaster.cfg:48
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetRider.cfg:74
+#: Era_of_Magic/units/Summoners/AlKamija_CarpetMaster.cfg:48
 msgid "magical powder"
-msgstr ""
+msgstr "Zauberpulver"
 
 #. [unit_type]: id=I8 Ak_CarpetRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetRider.cfg:4
 msgid "Carpet Rider"
-msgstr ""
+msgstr "Fliegender Teppich"
 
 #. [unit_type]: id=I8 Ak_CarpetRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetRider.cfg:21
@@ -2283,13 +2296,14 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DG.cfg:108
+#, fuzzy
 msgid "Dimensional Gate"
-msgstr ""
+msgstr "Dimensiontor 2"
 
-#. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
 #. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
-#: Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:16
+#. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DG.cfg:120
+#: Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:16
 msgid ""
 "The most inexperienced of summoners are capable of summoning only "
 "dimensional gates: unstable bridges of arcane energy between this world and "
@@ -2301,23 +2315,25 @@ msgstr ""
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_DG.cfg:254
+#, fuzzy
 msgid "blue flame"
-msgstr ""
+msgstr "Flammenwerfer"
 
 #. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:4
 msgid "Dimensional Gate 2"
-msgstr ""
+msgstr "Dimensiontor 2"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:29
 msgid "yellow flame"
-msgstr ""
+msgstr "Gelbe Flamme"
 
 #. [unit_type]: id=I8 Ak_DharmaRhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:4
+#, fuzzy
 msgid "Dharma’rhami"
-msgstr ""
+msgstr "Dharma'rhami"
 
 #. [unit_type]: id=I8 Ak_DharmaRhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:18
@@ -2331,24 +2347,24 @@ msgid ""
 "DharmaRhami with brutal force and tactics."
 msgstr ""
 
-#. [attack]: type=blade
 #. [attack]: type=pierce
+#. [attack]: type=blade
+#: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:134
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:122
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:134
-#: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:134
 msgid "devine spear"
-msgstr ""
+msgstr "Göttlicher Speer"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:158
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiDatu.cfg:143
 msgid "cup of fire"
-msgstr ""
+msgstr "Feuerschale"
 
 #. [unit_type]: id=I8 Ak_Dispeller, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:4
 msgid "Dispeller"
-msgstr ""
+msgstr "Vertreiber"
 
 #. [unit_type]: id=I8 Ak_Dispeller, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:19
@@ -2364,8 +2380,9 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Efreeti.cfg:4
+#, fuzzy
 msgid "Efreet"
-msgstr ""
+msgstr "Afrit"
 
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Efreeti.cfg:18
@@ -2381,23 +2398,23 @@ msgstr ""
 #. [attack]: type=fire
 #. [attack]: type=arcane
 #. [attack]: type=cold
+#: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:116
 #: Era_of_Magic/units/Summoners/AlKamija_Efreeti.cfg:180
+#: Era_of_Magic/units/Summoners/AlKamija_Jinn_Great.cfg:182
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn.cfg:369
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Mystic.cfg:219
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Mystic.cfg:232
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Mystic.cfg:245
-#: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:116
-#: Era_of_Magic/units/Summoners/AlKamija_Jinn_Great.cfg:182
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:199
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:212
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:225
 msgid "magic"
-msgstr ""
+msgstr "Zauber"
 
 #. [unit_type]: id=I8 Ak_EfreetiGreat, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:4
 msgid "Great Efreeti"
-msgstr ""
+msgstr "Großer Afrit"
 
 #. [unit_type]: id=I8 Ak_EfreetiGreat, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:19
@@ -2415,12 +2432,13 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:128
 msgid "destruction"
-msgstr ""
+msgstr "Vernichtung"
 
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:4
+#, fuzzy
 msgid "Air Elemental"
-msgstr ""
+msgstr "Luftgeist"
 
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:20
@@ -2440,12 +2458,13 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:129
 msgid "small thunder"
-msgstr ""
+msgstr "Kleiner Donner"
 
 #. [unit_type]: id=I8 Ak_Elemental_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Earth.cfg:4
+#, fuzzy
 msgid "Earth Elemental"
-msgstr ""
+msgstr "Erdgeist"
 
 #. [unit_type]: id=I8 Ak_Elemental_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Earth.cfg:18
@@ -2464,8 +2483,9 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Fire.cfg:4
+#, fuzzy
 msgid "Fire Elemental"
-msgstr ""
+msgstr "Feuergeist"
 
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Fire.cfg:17
@@ -2482,8 +2502,9 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:4
+#, fuzzy
 msgid "Water Elemental"
-msgstr ""
+msgstr "Wassergeist"
 
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:27
@@ -2504,7 +2525,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Air.cfg:4
 msgid "Air God"
-msgstr ""
+msgstr "Luftgott"
 
 #. [unit_type]: id=I8 Ak_God_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Air.cfg:21
@@ -2525,7 +2546,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Earth.cfg:4
 msgid "Earth God"
-msgstr ""
+msgstr "Erdgott"
 
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Earth.cfg:17
@@ -2542,7 +2563,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Fire.cfg:4
 msgid "Fire God"
-msgstr ""
+msgstr "Feuergott"
 
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Fire.cfg:18
@@ -2559,7 +2580,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Water.cfg:4
 msgid "Water God"
-msgstr ""
+msgstr "Wassergott"
 
 #. [unit_type]: id=I8 Ak_God_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Water.cfg:28
@@ -2578,7 +2599,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_HeavyCamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:4
 msgid "Heavy Camel Rider"
-msgstr ""
+msgstr "Kamelritter"
 
 #. [unit_type]: id=I8 Ak_HeavyCamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:19
@@ -2595,7 +2616,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_SummonerHeavy, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:4
 msgid "Heavy Summoner"
-msgstr ""
+msgstr "Schwerer Beschwörer"
 
 #. [unit_type]: id=I8 Ak_SummonerHeavy, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:23
@@ -2620,19 +2641,20 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:116
 msgid "magic arrow II"
-msgstr ""
+msgstr "Magischer Pfeil"
 
 #. [attack]: type=pierce
-#: Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:165
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:150
+#: Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:165
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:128
 msgid "scroll"
-msgstr ""
+msgstr "Zauberspruch"
 
 #. [unit_type]: id=I8 Ak_HoRhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:4
+#, fuzzy
 msgid "Ho’rhami"
-msgstr ""
+msgstr "Ho'rhami"
 
 #. [unit_type]: id=I8 Ak_HoRhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:18
@@ -2649,23 +2671,23 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:123
 msgid "double devine spear"
-msgstr ""
+msgstr "Doppelt Göttlicher Speer"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:135
 msgid "double divine spear"
-msgstr ""
+msgstr "Doppelt Göttlicher Speer"
 
 #. [attack]: type=arcane
-#: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:146
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:147
+#: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:146
 msgid "gaze"
-msgstr ""
+msgstr "Böser Blick"
 
 #. [unit_type]: id=I8 Ak_Jinn, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn.cfg:4
 msgid "Jinn"
-msgstr ""
+msgstr "Dschinn"
 
 #. [unit_type]: id=I8 Ak_Jinn, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn.cfg:18
@@ -2682,12 +2704,12 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn.cfg:357
 msgid "magical dagger"
-msgstr ""
+msgstr "Magischer Dolch"
 
 #. [unit_type]: id=I8 Ak_Jinn_Great, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Great.cfg:4
 msgid "Great Jinn"
-msgstr ""
+msgstr "Großer Dschinn"
 
 #. [unit_type]: id=I8 Ak_Jinn_Great, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Great.cfg:19
@@ -2706,17 +2728,17 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:78
-#: Era_of_Magic/units/Summoners/AlKamija_Jinn_Mystic.cfg:206
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Great.cfg:170
+#: Era_of_Magic/units/Summoners/AlKamija_Jinn_Mystic.cfg:206
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:187
+#: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:78
 msgid "magical scimitar"
-msgstr ""
+msgstr "Magischer Säbel"
 
 #. [unit_type]: id=I8 Ak_Jinn_Mystic, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Mystic.cfg:4
 msgid "Mystical Jinn"
-msgstr ""
+msgstr "Legendärer Dschinn"
 
 #. [unit_type]: id=I8 Ak_Jinn_Mystic, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Mystic.cfg:24
@@ -2743,16 +2765,35 @@ msgid ""
 "\n"
 "-Mystic Jinn"
 msgstr ""
+"'Was ist Erleuchtung? Ist es der Vorhang der Dunkelheit, der vor dem Auge "
+"fällt.wenn der Tod sich anschleicht? Ist es das leuchtende Rot vergossenen "
+"Bluts, dasaus durchschnittener Gurgel strömt? Das Reißen der verzerrten "
+"Realität? Oder die letzte Schrei, wenn mein Zauber des Kämpen Herz erreicht? "
+"Ich weiß es nicht.\n"
+"\n"
+"Und doch gibt es eine gewisse Satisfikation, die nur durch meine Taten und "
+"Werke über die Zeitalter der Menschen zu erreichen sind. Es ist eine Freude "
+"so glatt, dass meine Existenz nicts anders kann als zu frohlocken. Doch da "
+"ist noch mehr...Welten, deren Erforschung ich erst begonnen habe. So groß "
+"meine Macht auch sein mag, ist sie nichtig verglichen mit Größerem. Ich muss "
+"alle Welten erkunden, ungeachtet ihrer Zahl und Größe im Multiversum.\n"
+"\n"
+"Jenseits des Vorstellbaren werde ich greifen und erreichen, was immer in den "
+"Schatten liegt. Auch wenn ich Millionen von Leeren schaffen muss in "
+"Millionen von Dimesionen, ich muss die Suche nach Wissen verfolgen. Ich "
+"werde weiter lernen. Ich werde mehr entdecken.'\n"
+"\n"
+"-Legendärer Dschinn"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Mystic.cfg:258
 msgid "dimensional vortex"
-msgstr ""
+msgstr "Verzerrung der Dimensionen"
 
 #. [unit_type]: id=I8 Ak_Jinn_Wonderful, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:4
 msgid "Wonderful Jinn"
-msgstr ""
+msgstr "Erhabener Dschinn"
 
 #. [unit_type]: id=I8 Ak_Jinn_Wonderful, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:17
@@ -2771,12 +2812,12 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:238
 msgid "ultra circle"
-msgstr ""
+msgstr "Kreis der Erhabenheit"
 
 #. [unit_type]: id=I8 Ak_Masterofbalance, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:4
 msgid "Neutral Summoner"
-msgstr ""
+msgstr "Neutraler Beschwörer"
 
 #. [unit_type]: id=I8 Ak_Masterofbalance, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:19
@@ -2793,12 +2834,12 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:109
 msgid "circle of balance"
-msgstr ""
+msgstr "Ausgleichskreis"
 
 #. [unit_type]: id=I8 Ak_Rhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Rhami.cfg:4
 msgid "Rhami"
-msgstr ""
+msgstr "Rhami"
 
 #. [unit_type]: id=I8 Ak_Rhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Rhami.cfg:17
@@ -2817,12 +2858,13 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_Rhami.cfg:274
 msgid "sworddance"
-msgstr ""
+msgstr "Schwertwirbel"
 
 #. [unit_type]: id=I8 Ak_RhamiDatu, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiDatu.cfg:4
+#, fuzzy
 msgid "Rhami’datu"
-msgstr ""
+msgstr "Rhami'datu"
 
 #. [unit_type]: id=I8 Ak_RhamiDatu, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiDatu.cfg:19
@@ -2842,12 +2884,13 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiDatu.cfg:130
 #: Era_of_Magic/units/Warlocks/Tharis_Sworddancer.cfg:24
 msgid "swords"
-msgstr ""
+msgstr "Schwerter"
 
 #. [unit_type]: id=I8 Ak_RhamiKai, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:4
+#, fuzzy
 msgid "Rhami’kai"
-msgstr ""
+msgstr "Rhami'kai"
 
 #. [unit_type]: id=I8 Ak_RhamiKai, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:17
@@ -2863,7 +2906,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Summoner, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:4
 msgid "Novice Summoner"
-msgstr ""
+msgstr "Jungbeschwörer"
 
 #. [unit_type]: id=I8 Ak_Summoner, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:22
@@ -2884,7 +2927,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_SummonerII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:4
 msgid "Summoner"
-msgstr ""
+msgstr "Beschwörer"
 
 #. [unit_type]: id=I8 Ak_SummonerII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:20
@@ -2902,12 +2945,12 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:138
 msgid "magic arrow"
-msgstr ""
+msgstr "Zauberpfeil"
 
 #. [unit_type]: id=I8 Ak_SummonerIII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:4
 msgid "Grand Summoner"
-msgstr ""
+msgstr "Großer Beschwörer"
 
 #. [unit_type]: id=I8 Ak_SummonerIII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:20
@@ -2928,12 +2971,12 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:135
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:99
 msgid "circle of destruction"
-msgstr ""
+msgstr "Kreis der Zerstörung"
 
 #. [unit_type]: id=I8 Ak_SummonerIV, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:4
 msgid "Summons master"
-msgstr ""
+msgstr "Meister der Beschwörung"
 
 #. [unit_type]: id=I8 Ak_SummonerIV, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:24
@@ -2961,17 +3004,17 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:90
 msgid "hammer"
-msgstr ""
+msgstr "Wammer"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:111
 msgid "incantation of power"
-msgstr ""
+msgstr "Machtwort"
 
 #. [unit_type]: id=I8 Dread Bat, race=bats
 #: Era_of_Magic/units/Warlocks/I8Dread_Bat.cfg:4
 msgid "Dread Bat"
-msgstr ""
+msgstr "Horrorfledermaus"
 
 #. [unit_type]: id=I8 Dread Bat, race=bats
 #: Era_of_Magic/units/Warlocks/I8Dread_Bat.cfg:19
@@ -2985,12 +3028,12 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Magic/units/Warlocks/I8Dread_Bat.cfg:34
 msgid "fangs"
-msgstr ""
+msgstr "Biss"
 
 #. [unit_type]: id=I8 Tharis_Assassin, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Assassin.cfg:4
 msgid "Dark Assassin"
-msgstr ""
+msgstr "Nächtlicher Attentäter"
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -3001,12 +3044,12 @@ msgstr ""
 #: Era_of_Magic/units/Warlocks/Tharis_Assassin.cfg:25
 #: Era_of_Magic/units/Warlocks/Tharis_Assassin.cfg:37
 msgid "knives"
-msgstr ""
+msgstr "Messer"
 
 #. [unit_type]: id=I8 Tharis_Bladedancer, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Bladedancer.cfg:4
 msgid "Bladedancer"
-msgstr ""
+msgstr "Klingentänzer"
 
 #. [unit_type]: id=I8 Tharis_Bladedancer, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Bladedancer.cfg:19
@@ -3018,19 +3061,19 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Blademaster, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Blademaster.cfg:4
 msgid "Blademaster"
-msgstr ""
+msgstr "Meister des Dolchs"
 
 #. [attack]: type=blade
+#: Era_of_Magic/units/Warlocks/Tharis_Slayer.cfg:62
 #: Era_of_Magic/units/Warlocks/Tharis_DWarrior.cfg:155
 #: Era_of_Magic/units/Warlocks/Tharis_Blademaster.cfg:145
-#: Era_of_Magic/units/Warlocks/Tharis_Slayer.cfg:62
 msgid "daggers"
-msgstr ""
+msgstr "Dolche"
 
 #. [unit_type]: id=I8 Tharis_Chaoshydra, race=monster
 #: Era_of_Magic/units/Warlocks/Tharis_Chaos_Hydra.cfg:4
 msgid "Chaos Hydra"
-msgstr ""
+msgstr "Chaoshydra"
 
 #. [unit_type]: id=I8 Tharis_Chaoshydra, race=monster
 #: Era_of_Magic/units/Warlocks/Tharis_Chaos_Hydra.cfg:18
@@ -3040,22 +3083,22 @@ msgstr ""
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:90
-#: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:82
 #: Era_of_Magic/units/Warlocks/Tharis_Chaos_Hydra.cfg:91
+#: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:82
 msgid "bite"
-msgstr ""
+msgstr "Beißen"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:103
-#: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:94
 #: Era_of_Magic/units/Warlocks/Tharis_Chaos_Hydra.cfg:104
+#: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:94
 msgid "headbutt"
-msgstr ""
+msgstr "Rammen"
 
 #. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:4
 msgid "Cold Matriarch"
-msgstr ""
+msgstr "MAtriarchin der Kälte"
 
 #. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:19
@@ -3067,28 +3110,28 @@ msgstr ""
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:84
 msgid "matriarch-fire"
-msgstr ""
+msgstr "Brennende Kälte"
 
 #. [unit_type]: id=I8 Tharis_Commander, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:4
 msgid "Commander"
-msgstr ""
+msgstr "Kommandant"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:39
 #: Era_of_Magic/units/Warlocks/Tharis_General.cfg:38
 msgid "fireball"
-msgstr ""
+msgstr "Feuerball"
 
 #. [unit_type]: id=I8 Tharis_Darkwarrior, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_DWarrior.cfg:4
 msgid "Dark Warrior"
-msgstr ""
+msgstr "Soldat"
 
 #. [unit_type]: id=I8 Tharis_Darkwizard, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:4
 msgid "Dark Wizard"
-msgstr ""
+msgstr "Hexer"
 
 #. [unit_type]: id=I8 Tharis_Darkwizard, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:18
@@ -3101,22 +3144,22 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:91
 msgid "staff"
-msgstr ""
+msgstr "Stab"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:100
 msgid "dark spark"
-msgstr ""
+msgstr "Funke der Finsternis"
 
 #. [unit_type]: id=I8 Tharis_Deephydra, race=monster
 #: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:4
 msgid "Raging Hydra"
-msgstr ""
+msgstr "Zorneshydra"
 
 #. [unit_type]: id=I8 Tharis_Disciple, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Disciple.cfg:4
 msgid "Disciple"
-msgstr ""
+msgstr "Eingeweihter"
 
 #. [unit_type]: id=I8 Tharis_Disciple, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Disciple.cfg:18
@@ -3128,17 +3171,17 @@ msgstr ""
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_Disciple.cfg:37
 msgid "shadow wave"
-msgstr ""
+msgstr "Schattenwoge"
 
 #. [unit_type]: id=I8 Tharis_Commander_in_chief, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_General.cfg:4
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #. [unit_type]: id=I8 Tharis_GreatHunter, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_GreatHunter.cfg:4
 msgid "Great Hunter"
-msgstr ""
+msgstr "Großwildjäger"
 
 #. [unit_type]: id=I8 Tharis_GreatHunter, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_GreatHunter.cfg:18
@@ -3148,12 +3191,12 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Warlocks/Tharis_GreatHunter.cfg:46
 msgid "net"
-msgstr ""
+msgstr "Netz"
 
 #. [unit_type]: id=I8 Tharis_Greatwarlock, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:4
 msgid "Great Warlock"
-msgstr ""
+msgstr "Hexenmeister"
 
 #. [unit_type]: id=I8 Tharis_Greatwarlock, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:18
@@ -3164,31 +3207,31 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:262
 #: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:104
+#: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:262
 msgid "scythe"
-msgstr ""
+msgstr "Sense"
 
 #. [attack]: type=impact
-#: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:271
 #: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:113
+#: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:271
 msgid "fist"
-msgstr ""
+msgstr "Faust"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:123
 msgid "dark ball"
-msgstr ""
+msgstr "Kugel der Finsternis"
 
 #. [unit_type]: id=I8 Tharis_Hunter, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Hunter.cfg:4
 msgid "Dark Hunter"
-msgstr ""
+msgstr "Jäger"
 
 #. [unit_type]: id=I8 Tharis_Hydra, race=monster
 #: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:4
 msgid "Hydra"
-msgstr ""
+msgstr "Hydra"
 
 #. [unit_type]: id=I8 Tharis_Hydra, race=monster
 #: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:17
@@ -3200,7 +3243,7 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Masterofdarkness, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:4
 msgid "Master of Darkness"
-msgstr ""
+msgstr "Herr der Finsternis"
 
 #. [unit_type]: id=I8 Tharis_Masterofdarkness, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:18
@@ -3213,17 +3256,17 @@ msgstr ""
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:281
 msgid "implosion"
-msgstr ""
+msgstr "Implosion"
 
 #. [unit_type]: id=I8 Tharis_Masterofwar, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:4
 msgid "Master of War"
-msgstr ""
+msgstr "Heerführer"
 
 #. [unit_type]: id=I8 Tharis_Matriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Matriarch.cfg:4
 msgid "Matriarch of Emptiness"
-msgstr ""
+msgstr "Matriarchin der Leere"
 
 #. [unit_type]: id=I8 Tharis_Matriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Matriarch.cfg:18
@@ -3235,7 +3278,7 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Shadowmatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:4
 msgid "Matriarch of Darkness"
-msgstr ""
+msgstr "Matriarchin des Düstern"
 
 #. [unit_type]: id=I8 Tharis_Shadowmatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:20
@@ -3246,21 +3289,21 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=fire
-#: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:72
-#: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:37
 #: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:32
+#: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:37
+#: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:72
 msgid "witch-fire"
-msgstr ""
+msgstr "Hexenfeuer"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:50
 msgid "blood gate"
-msgstr ""
+msgstr "Tor des Blutes"
 
 #. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:4
 msgid "Dark Witch"
-msgstr ""
+msgstr "Hexe des Düstern"
 
 #. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:18
@@ -3272,22 +3315,22 @@ msgstr ""
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:85
 msgid "curse"
-msgstr ""
+msgstr "Fluch"
 
 #. [unit_type]: id=I8 Tharis_Slayer, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Slayer.cfg:4
 msgid "Dark Slayer"
-msgstr ""
+msgstr "Schlächter"
 
 #. [unit_type]: id=I8 Tharis_Sworddancer, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Sworddancer.cfg:4
 msgid "Sworddancer"
-msgstr ""
+msgstr "Schwertänzer"
 
 #. [unit_type]: id=I8 Tharis_Witch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:4
 msgid "Witch"
-msgstr ""
+msgstr "Hexe"
 
 #. [unit_type]: id=I8 Tharis_Witch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:18
@@ -3299,43 +3342,51 @@ msgstr ""
 
 #. [race]: id=I8 tharis
 #: Era_of_Magic/units/units.cfg:5
+#, fuzzy
 msgid "race^Tharis"
-msgstr ""
+msgstr "Tharis"
 
 #. [race]: id=I8 tharis
 #: Era_of_Magic/units/units.cfg:6
+#, fuzzy
 msgid "race+female^Tharis"
-msgstr ""
+msgstr "race+female^Mensch"
 
 #. [race]: id=I8 tharis
 #: Era_of_Magic/units/units.cfg:7
+#, fuzzy
 msgid "race+plural^Tharis"
-msgstr ""
+msgstr "race+plural^Zauberwesen"
 
 #. [race]: id=I8 cyclop
 #: Era_of_Magic/units/units.cfg:15
+#, fuzzy
 msgid "race^Cyclops"
-msgstr ""
+msgstr "Feuerzyklop"
 
 #. [race]: id=I8 cyclop
 #: Era_of_Magic/units/units.cfg:16
+#, fuzzy
 msgid "race+female^Cyclops"
-msgstr ""
+msgstr "race+female^Mensch"
 
 #. [race]: id=I8 cyclop
 #: Era_of_Magic/units/units.cfg:17
+#, fuzzy
 msgid "race^Cyclopes"
-msgstr ""
+msgstr "Feuerzyklop"
 
 #. [race]: id=I8 roc
 #: Era_of_Magic/units/units.cfg:29
+#, fuzzy
 msgid "race^Roc"
-msgstr ""
+msgstr "race^Zauberwesen"
 
 #. [race]: id=I8 roc
 #: Era_of_Magic/units/units.cfg:30
+#, fuzzy
 msgid "race+female^Roc"
-msgstr ""
+msgstr "race+female^Mensch"
 
 #. [race]: id=I8 roc
 #: Era_of_Magic/units/units.cfg:31
@@ -3345,57 +3396,64 @@ msgstr ""
 #. [race]: id=I8 magical, description=
 #: Era_of_Magic/units/units.cfg:39
 msgid "race^Magical"
-msgstr ""
+msgstr "race^Zauberwesen"
 
 #. [race]: id=I8 magical, description=
 #: Era_of_Magic/units/units.cfg:40
+#, fuzzy
 msgid "race+female^Magical"
-msgstr ""
+msgstr "race+plural^Zauberwesen"
 
 #. [race]: id=I8 magical, description=
 #: Era_of_Magic/units/units.cfg:41
 msgid "race+plural^Magical"
-msgstr ""
+msgstr "race+plural^Zauberwesen"
 
 #. [trait]: id=magical, description={STR_NONLIVING_DESCRIPTION}
 #: Era_of_Magic/units/units.cfg:49
 msgid "magical"
-msgstr ""
+msgstr "magisch"
 
 #. [trait]: id=magical, description={STR_NONLIVING_DESCRIPTION}
 #: Era_of_Magic/units/units.cfg:50
 msgid "female^magical"
-msgstr ""
+msgstr "female^magisch"
 
 #. [race]: id=I8 salamander
 #: Era_of_Magic/units/units.cfg:61
+#, fuzzy
 msgid "race^Salamander"
-msgstr ""
+msgstr "Salamander"
 
 #. [race]: id=I8 salamander
 #: Era_of_Magic/units/units.cfg:62
+#, fuzzy
 msgid "race+female^Salamander"
-msgstr ""
+msgstr "race+female^Mensch"
 
 #. [race]: id=I8 salamander
 #: Era_of_Magic/units/units.cfg:63
+#, fuzzy
 msgid "race^Salamanders"
-msgstr ""
+msgstr "Salamander"
 
 #. [race]: id=akhuman, description=
 #: Era_of_Magic/units/units.cfg:76
+#, fuzzy
 msgid "race^Human"
-msgstr ""
+msgstr "race^Mensch"
 
 #. [race]: id=akhuman, description=
 #: Era_of_Magic/units/units.cfg:77
+#, fuzzy
 msgid "race+female^Human"
-msgstr ""
+msgstr "race+female^Mensch"
 
 #. [race]: id=akhuman, description=
 #: Era_of_Magic/units/units.cfg:78
+#, fuzzy
 msgid "race^Humans"
-msgstr ""
+msgstr "race^Mensch"
 
 #. [race]: id=akhuman, description=
 #: Era_of_Magic/units/units.cfg:81 Era_of_Magic/units/units.cfg:82
@@ -3405,11 +3463,15 @@ msgid ""
 "Yusuf,Ahmed,Najib,Samir,Hassan,Hisham,Karim,Saif,Rahul,Rohan,Rohit,Nikhil,"
 "Shahrukh,Krishi"
 msgstr ""
+"Alib,Kalib,Balib,Safay,Jaffar,Semir,Celal,Fatih,Ferhan,Mustafa,Mehmet,Melih,"
+"Ali,Adem,Ahmet,Altan,Ismet,Ibrahim,Hakan,Kemal,Kenan,Rafet,Tahir,Yasar,Yasin,"
+"Yusuf,Ahmed,Najib,Samir,Hassan,Hisham,Karim,Saif,Rahul,Rohan,Rohit,Nikhil,"
+"Shahrukh,Krishi"
 
 #. [regenerate]: id=water
 #: Era_of_Magic/utils/abilities.cfg:7
 msgid "water"
-msgstr ""
+msgstr "Wasser"
 
 #. [regenerate]: id=water
 #: Era_of_Magic/utils/abilities.cfg:9
@@ -3418,18 +3480,20 @@ msgid ""
 "This unit is made of water. As a result, if it is standing in water, it will "
 "receive 6 hp."
 msgstr ""
+"Besteht aus WasserDa diese Einheit aus Wasser besteht, erlangt sie im Wasser "
+"sechs Lebenspunkte."
 
 #. [regenerate]: id=water
 #: Era_of_Magic/utils/abilities.cfg:10
 msgid "waterhome"
-msgstr ""
+msgstr "Wasserbewohner"
 
 #. [regenerate]: id=water
 #: Era_of_Magic/utils/abilities.cfg:12
 msgid ""
 "waterhome:\n"
 "This unit is made of water. If it stands in water, it will receive 6 hp."
-msgstr ""
+msgstr "Diese Einheit besteht aus Wasser und heilt 6 LP in Gewässern"
 
 #. [regenerate]: id=fire
 #: Era_of_Magic/utils/abilities.cfg:27
@@ -3458,7 +3522,7 @@ msgstr ""
 #. [regenerate]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:47
 msgid "megacircle"
-msgstr ""
+msgstr "Zirkel der Macht"
 
 #. [regenerate]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:49
@@ -3472,19 +3536,19 @@ msgstr ""
 #. [chance_to_hit]: id=circle
 #: Era_of_Magic/utils/abilities.cfg:137
 msgid "always hits"
-msgstr ""
+msgstr "Unausweichlich"
 
 #. [chance_to_hit]: id=circle
 #: Era_of_Magic/utils/abilities.cfg:139
 msgid ""
 "always hits:\n"
 "This attack always has a 100% chance to hit"
-msgstr ""
+msgstr "Dieser Angriff trifft immer"
 
 #. [attacks]: id=nocounter
 #: Era_of_Magic/utils/abilities.cfg:148 Era_of_Magic/utils/abilities.cfg:151
 msgid "no counter-attack"
-msgstr ""
+msgstr "Keine Gegenwehr"
 
 #. [attacks]: id=nocounter
 #: Era_of_Magic/utils/abilities.cfg:150 Era_of_Magic/utils/abilities.cfg:153
@@ -3492,11 +3556,12 @@ msgid ""
 "no counter-attack:\n"
 "The opponent has always a 0% chance to hit, when this unit is attacking."
 msgstr ""
+"Es ist dem Feind unmöglich (0%), diese Einheit in Gegenwehr zu treffen."
 
 #. [damage]: id=evasion
 #: Era_of_Magic/utils/abilities.cfg:164 Era_of_Magic/utils/abilities.cfg:165
 msgid "evasion"
-msgstr ""
+msgstr "Ausfall"
 
 #. [damage]: id=evasion
 #: Era_of_Magic/utils/abilities.cfg:167
@@ -3505,6 +3570,8 @@ msgid ""
 "When this attack is used offensively, this unit takes one third less damage "
 "in retaliation."
 msgstr ""
+"Wenn hiermit angegriffen wird, erleidet diese Einheit nur zwei Drittel des "
+"Scha-dens, den die Gegenwehr verursacht."
 
 #. [damage]: id=evasion
 #: Era_of_Magic/utils/abilities.cfg:169
@@ -3517,17 +3584,17 @@ msgstr ""
 #. [leadership]: id=darkaura
 #: Era_of_Magic/utils/abilities.cfg:181
 msgid "dark aura"
-msgstr ""
+msgstr "Aura des Düstern"
 
 #. [leadership]: id=darkaura
 #: Era_of_Magic/utils/abilities.cfg:182
 msgid "Dark aura makes all enemy units fight worse (-25% for attack)."
-msgstr ""
+msgstr "Die Aura des Düstern schwächt alle Gegner (senkt den Schaden um 25%)"
 
 #. [heals]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:200
 msgid "ultracures"
-msgstr ""
+msgstr "Perfekte Heilung"
 
 #. [heals]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:205
@@ -3544,7 +3611,7 @@ msgstr ""
 #. [resistance]: id=i8protection
 #: Era_of_Magic/utils/abilities.cfg:226
 msgid "defender"
-msgstr ""
+msgstr "Verteidiger"
 
 #. [resistance]: id=i8protection
 #: Era_of_Magic/utils/abilities.cfg:228
@@ -3557,19 +3624,19 @@ msgstr ""
 #. [chance_to_hit]: id=precision
 #: Era_of_Magic/utils/abilities.cfg:243
 msgid "precision"
-msgstr ""
+msgstr "Genauigkeit"
 
 #. [chance_to_hit]: id=precision
 #: Era_of_Magic/utils/abilities.cfg:245
 msgid ""
 "precision:\n"
 "This attack always has a 80% chance to hit"
-msgstr ""
+msgstr "Dieser Angriff trifft mit 80% Wahrschienlichkeit."
 
 #. [resistance]: id=cr
 #: Era_of_Magic/utils/abilities.cfg:257
 msgid "circle of resistance"
-msgstr ""
+msgstr "Schutzkreis"
 
 #. [resistance]: id=cr
 #: Era_of_Magic/utils/abilities.cfg:259
@@ -3582,7 +3649,7 @@ msgstr ""
 #. [resistance]: id=deadzone
 #: Era_of_Magic/utils/abilities.cfg:274
 msgid "deadzone"
-msgstr ""
+msgstr "Sperrgebiet"
 
 #. [resistance]: id=deadzone
 #: Era_of_Magic/utils/abilities.cfg:276
@@ -3595,7 +3662,7 @@ msgstr ""
 #. [resistance]: id=coldaura
 #: Era_of_Magic/utils/abilities.cfg:291
 msgid "cold aura"
-msgstr ""
+msgstr "Aure der Kälte"
 
 #. [resistance]: id=coldaura
 #: Era_of_Magic/utils/abilities.cfg:293
@@ -3608,7 +3675,7 @@ msgstr ""
 #. [chance_to_hit]: id=i8revenge
 #: Era_of_Magic/utils/abilities.cfg:322 Era_of_Magic/utils/abilities.cfg:325
 msgid "revenge"
-msgstr ""
+msgstr "Vergeltung"
 
 #. [chance_to_hit]: id=i8revenge
 #: Era_of_Magic/utils/abilities.cfg:324 Era_of_Magic/utils/abilities.cfg:327
@@ -3620,7 +3687,7 @@ msgstr ""
 #. [dummy]: id=i8 kamikaze
 #: Era_of_Magic/utils/abilities.cfg:339
 msgid "kamikaze"
-msgstr ""
+msgstr "Kamikaze"
 
 #. [dummy]: id=i8 kamikaze
 #: Era_of_Magic/utils/abilities.cfg:340
@@ -3631,8 +3698,9 @@ msgstr ""
 
 #. [dummy]: id=i8hitandrun
 #: Era_of_Magic/utils/abilities.cfg:363
+#, fuzzy
 msgid "hit and run"
-msgstr ""
+msgstr "Rückzug"
 
 #. [dummy]: id=i8hitandrun
 #: Era_of_Magic/utils/abilities.cfg:365
@@ -3640,11 +3708,13 @@ msgid ""
 "Hit and Run:\n"
 "This unit gains 3 moves back after attacking, but cannot attack again."
 msgstr ""
+"Diese Einheit erhält 3 BP nach einem Angriff, kann aber nicht "
+"nochmalangreifen"
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/abilities.cfg:379
 msgid "FLEE!"
-msgstr ""
+msgstr "LAUF!"
 
 #. [hides]: id=mountainambush
 #: Era_of_Magic/utils/abilities.cfg:389
@@ -3689,17 +3759,18 @@ msgstr ""
 msgid ""
 "Fury:\n"
 "This unit can attack another after killing an enemy."
-msgstr ""
+msgstr "Diese Einheit kann nach dem Töten ihres Gegners erneutangreifen."
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/abilities.cfg:438
 msgid "FURY!"
-msgstr ""
+msgstr "RASEREI!"
 
 #. [damage]: id=i8furiousdeath
 #: Era_of_Magic/utils/abilities.cfg:517
+#, fuzzy
 msgid "furious death"
-msgstr ""
+msgstr "Zorniger Tod"
 
 #. [damage]: id=i8furiousdeath
 #: Era_of_Magic/utils/abilities.cfg:518
@@ -3711,7 +3782,7 @@ msgstr ""
 #. [damage]: id=i8battlefrenzy
 #: Era_of_Magic/utils/abilities.cfg:532 Era_of_Magic/utils/abilities.cfg:533
 msgid "battlefrenzy"
-msgstr ""
+msgstr "Mordlust"
 
 #. [damage]: id=i8battlefrenzy
 #: Era_of_Magic/utils/abilities.cfg:534
@@ -3730,7 +3801,7 @@ msgstr ""
 #. [dummy]: id=i8hardlanding
 #: Era_of_Magic/utils/abilities.cfg:643
 msgid "Hard landing"
-msgstr ""
+msgstr "Bruchlandung"
 
 #. [dummy]: id=i8hardlanding
 #: Era_of_Magic/utils/abilities.cfg:644
@@ -3741,8 +3812,9 @@ msgstr ""
 
 #. [dummy]: id=i8parachute
 #: Era_of_Magic/utils/abilities.cfg:651
+#, fuzzy
 msgid "parachute"
-msgstr ""
+msgstr "Fallschirm"
 
 #. [dummy]: id=i8parachute
 #: Era_of_Magic/utils/abilities.cfg:652
@@ -3753,8 +3825,9 @@ msgstr ""
 
 #. [heals]: id=i8repair
 #: Era_of_Magic/utils/abilities.cfg:680
+#, fuzzy
 msgid "repairs +5"
-msgstr ""
+msgstr "Reparatur 5"
 
 #. [heals]: id=i8repair
 #: Era_of_Magic/utils/abilities.cfg:684
@@ -3768,8 +3841,9 @@ msgstr ""
 
 #. [heals]: id=i8repair
 #: Era_of_Magic/utils/abilities.cfg:701
+#, fuzzy
 msgid "repairs +8"
-msgstr ""
+msgstr "Reparatur 8"
 
 #. [heals]: id=i8repair
 #: Era_of_Magic/utils/abilities.cfg:705
@@ -3791,8 +3865,9 @@ msgstr ""
 #. [dummy]: id=runeaura
 #. [resistance]: id=runeauraactive
 #: Era_of_Magic/utils/abilities.cfg:758 Era_of_Magic/utils/abilities.cfg:863
+#, fuzzy
 msgid "rune aura"
-msgstr ""
+msgstr "Runenaura"
 
 #. [dummy]: id=runeaura
 #: Era_of_Magic/utils/abilities.cfg:760
@@ -3841,13 +3916,14 @@ msgstr ""
 
 #. [damage]: id=swallow
 #: Era_of_Magic/utils/abilities.cfg:890
+#, fuzzy
 msgid "swallow +4"
-msgstr ""
+msgstr "Verschlingen"
 
 #. [damage]: id=swallow
 #: Era_of_Magic/utils/abilities.cfg:891
 msgid "Swallow +4"
-msgstr ""
+msgstr "Verschlingen"
 
 #. [damage]: id=swallow
 #: Era_of_Magic/utils/abilities.cfg:893 Era_of_Magic/utils/abilities.cfg:895
@@ -3865,7 +3941,7 @@ msgstr ""
 #. [hides]: id=swampambush
 #: Era_of_Magic/utils/abilities.cfg:944 Era_of_Magic/utils/abilities.cfg:945
 msgid "swamp ambush"
-msgstr ""
+msgstr "Sumpfkrieger"
 
 #. [hides]: id=swampambush
 #: Era_of_Magic/utils/abilities.cfg:949
@@ -3892,7 +3968,7 @@ msgstr ""
 #. [hides]: id=waterambush
 #: Era_of_Magic/utils/abilities.cfg:966 Era_of_Magic/utils/abilities.cfg:967
 msgid "water ambush"
-msgstr ""
+msgstr "Wasserkrieger"
 
 #. [hides]: id=waterambush
 #: Era_of_Magic/utils/abilities.cfg:971
@@ -3919,7 +3995,7 @@ msgstr ""
 #. [hides]: id=caveambush
 #: Era_of_Magic/utils/abilities.cfg:988 Era_of_Magic/utils/abilities.cfg:989
 msgid "cave ambush"
-msgstr ""
+msgstr "Höhlenkrieger"
 
 #. [hides]: id=caveambush
 #: Era_of_Magic/utils/abilities.cfg:993
@@ -3946,7 +4022,7 @@ msgstr ""
 #. [regenerate]: id=regen4
 #: Era_of_Magic/utils/abilities.cfg:1011 Era_of_Magic/utils/abilities.cfg:1014
 msgid "regenerates +4"
-msgstr ""
+msgstr "Schwächere Regeneration"
 
 #. [regenerate]: id=regen4
 #: Era_of_Magic/utils/abilities.cfg:1013 Era_of_Magic/utils/abilities.cfg:1016
@@ -3958,8 +4034,9 @@ msgstr ""
 
 #. [dummy]: id=i8awake
 #: Era_of_Magic/utils/abilities.cfg:1159
+#, fuzzy
 msgid "awaken"
-msgstr ""
+msgstr "Erweckung"
 
 #. [dummy]: id=i8awake
 #: Era_of_Magic/utils/abilities.cfg:1160
@@ -3972,8 +4049,9 @@ msgstr ""
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/abilities.cfg:1274 Era_of_Magic/utils/abilities.cfg:1344
+#, fuzzy
 msgid "female^awoken"
-msgstr ""
+msgstr "race+female^Mensch"
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/abilities.cfg:1298 Era_of_Magic/utils/abilities.cfg:1368
@@ -3998,7 +4076,7 @@ msgstr ""
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/abilities.cfg:1407 Era_of_Magic/utils/abilities.cfg:1440
 msgid "inspire"
-msgstr ""
+msgstr "Begeistern"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/abilities.cfg:1412
@@ -4027,7 +4105,7 @@ msgstr ""
 #: Era_of_Magic/utils/abilities.cfg:1487 Era_of_Magic/utils/abilities.cfg:1523
 #: Era_of_Magic/utils/abilities.cfg:1573
 msgid "awe"
-msgstr ""
+msgstr "Einschüchtern"
 
 #. [leadership]: id=terror
 #: Era_of_Magic/utils/abilities.cfg:1491 Era_of_Magic/utils/abilities.cfg:1527
@@ -4046,7 +4124,7 @@ msgstr ""
 #. [damage]: id=banish
 #: Era_of_Magic/utils/abilities.cfg:1635 Era_of_Magic/utils/abilities.cfg:1636
 msgid "banish"
-msgstr ""
+msgstr "Bannen"
 
 #. [damage]: id=banish
 #: Era_of_Magic/utils/abilities.cfg:1638 Era_of_Magic/utils/abilities.cfg:1640
@@ -4061,7 +4139,7 @@ msgstr ""
 #. [leadership]: id=cob
 #: Era_of_Magic/utils/abilities.cfg:1782
 msgid "circle of banishment"
-msgstr ""
+msgstr "Zirkel des Bannens"
 
 #. [leadership]: id=cob
 #: Era_of_Magic/utils/abilities.cfg:1786
@@ -4079,7 +4157,7 @@ msgstr ""
 #. [chance_to_hit]: id=i8bloodlust
 #: Era_of_Magic/utils/bloodlust.cfg:5 Era_of_Magic/utils/bloodlust.cfg:6
 msgid "bloodlust"
-msgstr ""
+msgstr "Blutrausch"
 
 #. [chance_to_hit]: id=i8bloodlust
 #: Era_of_Magic/utils/bloodlust.cfg:7
@@ -4097,8 +4175,9 @@ msgstr ""
 
 #. [damage]: id=i8concentrated
 #: Era_of_Magic/utils/concentrated.cfg:5 Era_of_Magic/utils/concentrated.cfg:6
+#, fuzzy
 msgid "growing fury"
-msgstr ""
+msgstr "Wachsender Zorn"
 
 #. [damage]: id=i8concentrated
 #: Era_of_Magic/utils/concentrated.cfg:7 Era_of_Magic/utils/concentrated.cfg:8
@@ -4110,7 +4189,7 @@ msgstr ""
 #. [damage]: id=agility
 #: Era_of_Magic/utils/doubleattack.cfg:5 Era_of_Magic/utils/doubleattack.cfg:8
 msgid "double attack"
-msgstr ""
+msgstr "Doppelangriff"
 
 #. [damage]: id=agility
 #: Era_of_Magic/utils/doubleattack.cfg:7
@@ -4125,7 +4204,7 @@ msgstr ""
 #: Era_of_Magic/utils/i8cleave.cfg:144 Era_of_Magic/utils/i8cleave.cfg:295
 #: Era_of_Magic/utils/i8cleave.cfg:446
 msgid "cleave"
-msgstr ""
+msgstr "Ausholen"
 
 #. [dummy]: id=i8cleave
 #: Era_of_Magic/utils/i8cleave.cfg:145 Era_of_Magic/utils/i8cleave.cfg:296
@@ -4149,8 +4228,9 @@ msgstr ""
 
 #. [dummy]: id=i8cleavehydra
 #: Era_of_Magic/utils/i8cleave.cfg:670 Era_of_Magic/utils/i8cleave.cfg:894
+#, fuzzy
 msgid "hydra's strike"
-msgstr ""
+msgstr "Schlag der Hydra"
 
 #. [dummy]: id=i8cleavehydra
 #: Era_of_Magic/utils/i8cleave.cfg:671 Era_of_Magic/utils/i8cleave.cfg:895
@@ -4173,8 +4253,9 @@ msgstr ""
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:7
+#, fuzzy
 msgid "goblin leader"
-msgstr ""
+msgstr "Koboldführer"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:11
@@ -4188,8 +4269,9 @@ msgstr ""
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:27
+#, fuzzy
 msgid "orcish leader"
-msgstr ""
+msgstr "Orkführer"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:31
@@ -4203,8 +4285,9 @@ msgstr ""
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:47
+#, fuzzy
 msgid "troll leader"
-msgstr ""
+msgstr "Trollführer"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:51
@@ -4221,8 +4304,9 @@ msgstr ""
 
 #. [set_menu_item]: id=summon_{ID}
 #: Era_of_Magic/utils/summon.cfg:24
+#, fuzzy
 msgid "Summon "
-msgstr ""
+msgstr "Beschwörung"
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/summon.cfg:131 Era_of_Magic/utils/summon.cfg:168
@@ -4232,12 +4316,12 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Era_of_Magic/utils/summon.cfg:180
 msgid "Error"
-msgstr ""
+msgstr "Fehler"
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/utils/summon.cfg:181
 msgid "I have insufficient materials. I am unable to summon."
-msgstr ""
+msgstr "Ich habe nicht genug zum Beschwören"
 
 #. [set_menu_item]: id=summon_zhelp
 #: Era_of_Magic/utils/summon.cfg:192
@@ -4274,8 +4358,9 @@ msgstr ""
 #: Era_of_Magic/utils/summon.cfg:331 Era_of_Magic/utils/summon.cfg:384
 #: Era_of_Magic/utils/summon.cfg:433 Era_of_Magic/utils/summon.cfg:482
 #: Era_of_Magic/utils/summon.cfg:531
+#, fuzzy
 msgid "summon"
-msgstr ""
+msgstr "Beschwörung"
 
 #. [dummy]: id=summon_lvl3
 #. [dummy]: id=summon_lvl4
@@ -4304,8 +4389,9 @@ msgstr ""
 
 #. [dummy]: id=summon_roc
 #: Era_of_Magic/utils/summon.cfg:584
+#, fuzzy
 msgid "summon roc"
-msgstr ""
+msgstr "Rokh herbeirufen"
 
 #. [dummy]: id=summon_roc
 #: Era_of_Magic/utils/summon.cfg:586
@@ -4313,3 +4399,57 @@ msgid ""
 "Summon Roc:\n"
 "this unit can summon new units near him, but not in villages."
 msgstr ""
+
+#~ msgid "Fury"
+#~ msgstr "Raserei"
+
+#~ msgid "Summon {DESCRIPTION} ({COST}g)"
+#~ msgstr "Rufe {DESCRIPTION} herbei ({COST} Gold)"
+
+#~ msgid "dagger"
+#~ msgstr "Dolch"
+
+#~ msgid "axe"
+#~ msgstr "Axt"
+
+#~ msgid "berserker frenzy"
+#~ msgstr "Berserkergang"
+
+#~ msgid "bow"
+#~ msgstr "Bogen"
+
+#~ msgid "throwing knives"
+#~ msgstr "Wurfmesser"
+
+#~ msgid "tail"
+#~ msgstr "Schwanz"
+
+#~ msgid "entangle"
+#~ msgstr "Verstricken"
+
+#~ msgid "crossbow"
+#~ msgstr "Armbrust"
+
+#~ msgid "ensnare"
+#~ msgstr "Falle"
+
+#~ msgid "waterspray"
+#~ msgstr "Wasser"
+
+#~ msgid "lightbeam"
+#~ msgstr "Lichtstrahl"
+
+#~ msgid "Cleric"
+#~ msgstr "Geistliche"
+
+#~ msgid "mace"
+#~ msgstr "Streitkolben"
+
+#~ msgid "runic hammer"
+#~ msgstr "Verzauberter Hammer"
+
+#~ msgid "trident"
+#~ msgstr "Dreizack"
+
+#~ msgid "Immune to drain, poison and plague"
+#~ msgstr "Nicht lebendig"
