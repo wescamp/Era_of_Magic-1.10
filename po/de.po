@@ -1,16 +1,18 @@
+# Drakefriend, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-03-25 06:47-0400\n"
-"PO-Revision-Date: 2010-10-03 12:37+0200\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2011-03-28 17:04-0400\n"
+"PO-Revision-Date: 2011-03-28 19:04+0200\n"
+"Last-Translator: Drakefriend <>\n"
 "Language-Team: none\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.6.1\n"
 
 #. [multiplayer_side]: id=Random
 #: Era_of_Magic/EoMa_eras.cfg:6
@@ -49,7 +51,6 @@ msgstr ""
 
 #. [language]
 #: Era_of_Magic/english.cfg:4
-#, fuzzy
 msgid "range^kamikaze"
 msgstr "Kamikaze"
 
@@ -104,7 +105,6 @@ msgstr "Runologen"
 #: Era_of_Magic/factions/summoners-masters.cfg:4
 #: Era_of_Magic/factions/summoners-magic.cfg:4
 #: Era_of_Magic/factions/summoners-mrpg.cfg:4
-#, fuzzy
 msgid "al-Kamija"
 msgstr "Al-Kamija"
 
@@ -715,6 +715,16 @@ msgid ""
 "usually make their way out and hire themselves to some of the morally "
 "bankrupt Tribes."
 msgstr ""
+"Einige der Schamanen der Dunkelblüter werden verdorben. Wer oder was dafür "
+"verantwortlich ist, liegt im Dunkeln, jedenfalls lässt es sie ihre "
+"Wassermagie mit ihrem genauen Gegenteil tauschen- Feuer. Sie verlieren "
+"dieFähigkeit zu heilen, doch es scheinr sie nicht zu kämmern,da Feuer Wasser "
+"laut ihnen von Grund auf überlegen ist.\n"
+"Was immer die Verderbtheit bewirkt, verändert auch ihren Charakter, sie "
+"werden arrogant und grausam. Aus diesem Grund werden sie von ihren Stämmen "
+"verachtet und in den Kern des Großen Moores vertrieben. Nach Jahren der "
+"Wanderschaft erreichen sie meist das Ende des Moores und verdingen sich als "
+"Söldner für die skrupeloseren Stämme."
 
 #. [unit_type]: id=I8_DB_DrednaughtRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:4
@@ -806,6 +816,11 @@ msgid ""
 "invaluable in battle, both to heal their allies, and to hurl balls of ice at "
 "their foes."
 msgstr ""
+"Beim Wort Dunkelblüter denken viele als erstes an ihren Schamanenzauber. "
+"Jene Saurianer, die ihn erlernen wollen, sind meist schwächlich und für "
+"direkten Kampf ungeeigner. Doch ihre Macht über Wasser ist von unschätzbaren "
+"Wert auf dem Schlachtfeld, sowohl um Verbündete zu heilen als auch um Gegner "
+"mit Eisbällen zu bewerfen."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:62
@@ -1407,7 +1422,7 @@ msgstr "Lichtblitz"
 #: Era_of_Magic/units/Kharos/Kharos_LightCleric.cfg:4
 #, fuzzy
 msgid "female^Cleric"
-msgstr "female^magisch"
+msgstr "magisch"
 
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightCleric.cfg:20
@@ -1967,7 +1982,7 @@ msgstr "Ruenfluch"
 #. [unit_type]: id=I8 AD_RuneArtist, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:4
 msgid "Rune Artist"
-msgstr "Runenschneider"
+msgstr "Runenkundler"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster.cfg:54
@@ -1978,7 +1993,7 @@ msgstr "Blitz"
 #. [unit_type]: id=I8 AD_RuneLord, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:4
 msgid "Dwarvish Rune Lord"
-msgstr "Runenelitist"
+msgstr "Runenoberer"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:44
@@ -2700,6 +2715,13 @@ msgid ""
 "valued allies of the summoners, with their curious thoughts always wandering "
 "about."
 msgstr ""
+"Dschinn sind sogar in bezug auf die Beschwörer eine Besonderheit, wegen "
+"ihrer geistigen Fähigkeiten zu sprechen, zu denken, zu lernen, zu verstehen; "
+"ein Hang, den kein anderer Bewohner des Dimensionalen Abgrundes je erreichen "
+"kann. Da sie vollständig aus Magie bestehen, sind sie zwar verwundbar durch "
+"arkane Zauber, nicht so sehr jedoch durch physische Waffen. Auch wenn diese "
+"Wesen wie Menschen fehlbar sind, sind sie kostbare Verbündete Al-Kamijas. "
+"Ihre neugierigen Gedanken sind immer auf der Suche."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn.cfg:357
@@ -2726,6 +2748,16 @@ msgid ""
 "jinns still search for answers to life's questions, despite what position "
 "they are given."
 msgstr ""
+"Jungbeschwörer lernen schnell, dass Dschinn grundverschieden sind von den "
+"Elementargeistern, die sie aus dem Dimensionalen Abgrund beschworen. Dschinn "
+"besitzen eine unstillbaren Wissenshunger, und das Wissen wird sie bald zu "
+"Großen Dschinn erheben. Nun weiser als ihre Heerren und der Grundlagen der "
+"Beschwörung kundig, werden Große Dschinn wie Menschen behandelt, wenn sie "
+"nicht gar als noch intelligenter gelten.\n"
+"\n"
+"Große Dschinn bekleiden oft Führungspositionen, führen Regimenter und halten "
+"gar Posten in Räten inne. Dank ihrer klugen Geister und trotz der ihnen "
+"verliehenen Ämter suchen Große Dschinn immernoch Antworten."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Great.cfg:170
@@ -2808,6 +2840,16 @@ msgid ""
 "they have sated their immeasurable thirst, for they still follow the orders "
 "of their superiors and have not yet retired into the shadows of the world."
 msgstr ""
+"Erhabene Dschinn sind Mentoren der Gesellschaft Al-Kamijas, bereut ihre "
+"Weisheit an jeden weiterzugeben, der sie zu vernehmen bereit ist. Ihre "
+"konkurrenzlose Vorstellungskraft und Intelligenz zeigt sich in ihrem "
+"gewaltigen Arsenal an Angriffszaubern. Dschinn von hohem Kaliber, die sich "
+"selbst offensive Beschwörungen erarbeitet haben, verlangen ihren "
+"menschlichen Kollegen gewaltigen Respekt ab. Erhabene Dschinn sind schon "
+"seit langen unabhängig, nicht länger Diener ihrer Herren. Es ist ein Rätsel, "
+"ob sie ihren unermesslichen Hunger gestillt haben, da sie noch immer die "
+"Befehle ihrer Vorgesetzten befolgen und sich noch nicht in die Schatten der "
+"Welt zurückgezogen haben."
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:238
@@ -3000,11 +3042,28 @@ msgid ""
 "\n"
 "All around the summons master, miracles occur. Ruin is wrought."
 msgstr ""
+"Wenige Männer haben je das verborgene Wissen erworben, das der Titel des "
+"Vierten Ranges mit sich bringt. Dies sind jene grroßen Männer, die die "
+"gesamte Macht des Dimensionalabgrunds in der rechten und die volle Kraft der "
+"Beschwörung in der linken Hand tragen. Die Gesamtheit aller bisher "
+"durchgeführten und verstandenen Beschwörungen hat ein Meister der "
+"Beschwörung erlernt.\n"
+"\n"
+"Den Meister der Beschwörung umgibt sein Magnum Opus: Der Kreis der Macht. "
+"Der Kreis ist belegt mit allen vorstellbaren Zaubern- zu stärken, zu "
+"schwächen, zu segnen, zu heilen, zu zerstören, zu erschaffen, zu erneuern. "
+"Die Luft selbst schreit, während Elementargeister aus ihrer Welt in diese "
+"brechen durch des Kreises irdische Inschriften. Männer in des Meisters Kreis "
+"erhalten übernatürliche Gaben, ihre Wunden schließen sich durch reine Magie "
+"und ihre Stärke verdoppelt sich. Säulen himmlischen Lichts schießen zum "
+"Himmel auf durch die Symbole des Kreises und zerstören alles in ihrem Weg.\n"
+"\n"
+"Überall um den Meister der Beschwörung geschehen Wunder."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:90
 msgid "hammer"
-msgstr "Wammer"
+msgstr "Hammer"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:111
@@ -3098,7 +3157,7 @@ msgstr "Rammen"
 #. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:4
 msgid "Cold Matriarch"
-msgstr "MAtriarchin der Kälte"
+msgstr "Matriarchin der Kälte"
 
 #. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:19
@@ -3342,72 +3401,63 @@ msgstr ""
 
 #. [race]: id=I8 tharis
 #: Era_of_Magic/units/units.cfg:5
-#, fuzzy
 msgid "race^Tharis"
 msgstr "Tharis"
 
 #. [race]: id=I8 tharis
 #: Era_of_Magic/units/units.cfg:6
-#, fuzzy
 msgid "race+female^Tharis"
-msgstr "race+female^Mensch"
+msgstr "Tharis"
 
 #. [race]: id=I8 tharis
 #: Era_of_Magic/units/units.cfg:7
-#, fuzzy
 msgid "race+plural^Tharis"
-msgstr "race+plural^Zauberwesen"
+msgstr "Tharis"
 
 #. [race]: id=I8 cyclop
 #: Era_of_Magic/units/units.cfg:15
-#, fuzzy
 msgid "race^Cyclops"
-msgstr "Feuerzyklop"
+msgstr "Zyklop"
 
 #. [race]: id=I8 cyclop
 #: Era_of_Magic/units/units.cfg:16
-#, fuzzy
 msgid "race+female^Cyclops"
-msgstr "race+female^Mensch"
+msgstr "Zyklop"
 
 #. [race]: id=I8 cyclop
 #: Era_of_Magic/units/units.cfg:17
-#, fuzzy
 msgid "race^Cyclopes"
-msgstr "Feuerzyklop"
+msgstr "Zyklopen"
 
 #. [race]: id=I8 roc
 #: Era_of_Magic/units/units.cfg:29
-#, fuzzy
 msgid "race^Roc"
-msgstr "race^Zauberwesen"
+msgstr "Rokh"
 
 #. [race]: id=I8 roc
 #: Era_of_Magic/units/units.cfg:30
-#, fuzzy
 msgid "race+female^Roc"
-msgstr "race+female^Mensch"
+msgstr "Rokh"
 
 #. [race]: id=I8 roc
 #: Era_of_Magic/units/units.cfg:31
 msgid "race^Rocs"
-msgstr ""
+msgstr "Rokh"
 
 #. [race]: id=I8 magical, description=
 #: Era_of_Magic/units/units.cfg:39
 msgid "race^Magical"
-msgstr "race^Zauberwesen"
+msgstr "Zauberwesen"
 
 #. [race]: id=I8 magical, description=
 #: Era_of_Magic/units/units.cfg:40
-#, fuzzy
 msgid "race+female^Magical"
-msgstr "race+plural^Zauberwesen"
+msgstr "Zauberwesen"
 
 #. [race]: id=I8 magical, description=
 #: Era_of_Magic/units/units.cfg:41
 msgid "race+plural^Magical"
-msgstr "race+plural^Zauberwesen"
+msgstr "Zauberwesen"
 
 #. [trait]: id=magical, description={STR_NONLIVING_DESCRIPTION}
 #: Era_of_Magic/units/units.cfg:49
@@ -3417,43 +3467,37 @@ msgstr "magisch"
 #. [trait]: id=magical, description={STR_NONLIVING_DESCRIPTION}
 #: Era_of_Magic/units/units.cfg:50
 msgid "female^magical"
-msgstr "female^magisch"
+msgstr "magisch"
 
 #. [race]: id=I8 salamander
 #: Era_of_Magic/units/units.cfg:61
-#, fuzzy
 msgid "race^Salamander"
 msgstr "Salamander"
 
 #. [race]: id=I8 salamander
 #: Era_of_Magic/units/units.cfg:62
-#, fuzzy
 msgid "race+female^Salamander"
-msgstr "race+female^Mensch"
+msgstr "Salamander"
 
 #. [race]: id=I8 salamander
 #: Era_of_Magic/units/units.cfg:63
-#, fuzzy
 msgid "race^Salamanders"
 msgstr "Salamander"
 
 #. [race]: id=akhuman, description=
 #: Era_of_Magic/units/units.cfg:76
-#, fuzzy
 msgid "race^Human"
-msgstr "race^Mensch"
+msgstr "Mensch"
 
 #. [race]: id=akhuman, description=
 #: Era_of_Magic/units/units.cfg:77
-#, fuzzy
 msgid "race+female^Human"
-msgstr "race+female^Mensch"
+msgstr "Mensch"
 
 #. [race]: id=akhuman, description=
 #: Era_of_Magic/units/units.cfg:78
-#, fuzzy
 msgid "race^Humans"
-msgstr "race^Mensch"
+msgstr "Menschen"
 
 #. [race]: id=akhuman, description=
 #: Era_of_Magic/units/units.cfg:81 Era_of_Magic/units/units.cfg:82
@@ -3480,8 +3524,9 @@ msgid ""
 "This unit is made of water. As a result, if it is standing in water, it will "
 "receive 6 hp."
 msgstr ""
-"Besteht aus WasserDa diese Einheit aus Wasser besteht, erlangt sie im Wasser "
-"sechs Lebenspunkte."
+"Besteht aus Wasser.\n"
+"Da diese Einheit aus Wasser besteht, erlangt sie im Wasser sechs "
+"Lebenspunkte."
 
 #. [regenerate]: id=water
 #: Era_of_Magic/utils/abilities.cfg:10
@@ -3698,7 +3743,6 @@ msgstr ""
 
 #. [dummy]: id=i8hitandrun
 #: Era_of_Magic/utils/abilities.cfg:363
-#, fuzzy
 msgid "hit and run"
 msgstr "Rückzug"
 
@@ -3768,7 +3812,6 @@ msgstr "RASEREI!"
 
 #. [damage]: id=i8furiousdeath
 #: Era_of_Magic/utils/abilities.cfg:517
-#, fuzzy
 msgid "furious death"
 msgstr "Zorniger Tod"
 
@@ -3812,7 +3855,6 @@ msgstr ""
 
 #. [dummy]: id=i8parachute
 #: Era_of_Magic/utils/abilities.cfg:651
-#, fuzzy
 msgid "parachute"
 msgstr "Fallschirm"
 
@@ -3865,7 +3907,6 @@ msgstr ""
 #. [dummy]: id=runeaura
 #. [resistance]: id=runeauraactive
 #: Era_of_Magic/utils/abilities.cfg:758 Era_of_Magic/utils/abilities.cfg:863
-#, fuzzy
 msgid "rune aura"
 msgstr "Runenaura"
 
@@ -3916,7 +3957,6 @@ msgstr ""
 
 #. [damage]: id=swallow
 #: Era_of_Magic/utils/abilities.cfg:890
-#, fuzzy
 msgid "swallow +4"
 msgstr "Verschlingen"
 
@@ -4034,7 +4074,6 @@ msgstr ""
 
 #. [dummy]: id=i8awake
 #: Era_of_Magic/utils/abilities.cfg:1159
-#, fuzzy
 msgid "awaken"
 msgstr "Erweckung"
 
@@ -4049,14 +4088,13 @@ msgstr ""
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/abilities.cfg:1274 Era_of_Magic/utils/abilities.cfg:1344
-#, fuzzy
 msgid "female^awoken"
-msgstr "race+female^Mensch"
+msgstr "erweckt"
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/abilities.cfg:1298 Era_of_Magic/utils/abilities.cfg:1368
 msgid "awoken"
-msgstr ""
+msgstr "erweckt"
 
 #. [heals]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:1389
@@ -4175,7 +4213,6 @@ msgstr ""
 
 #. [damage]: id=i8concentrated
 #: Era_of_Magic/utils/concentrated.cfg:5 Era_of_Magic/utils/concentrated.cfg:6
-#, fuzzy
 msgid "growing fury"
 msgstr "Wachsender Zorn"
 
@@ -4228,7 +4265,6 @@ msgstr ""
 
 #. [dummy]: id=i8cleavehydra
 #: Era_of_Magic/utils/i8cleave.cfg:670 Era_of_Magic/utils/i8cleave.cfg:894
-#, fuzzy
 msgid "hydra's strike"
 msgstr "Schlag der Hydra"
 
@@ -4253,7 +4289,6 @@ msgstr ""
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:7
-#, fuzzy
 msgid "goblin leader"
 msgstr "Koboldführer"
 
@@ -4269,7 +4304,6 @@ msgstr ""
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:27
-#, fuzzy
 msgid "orcish leader"
 msgstr "Orkführer"
 
@@ -4285,7 +4319,6 @@ msgstr ""
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:47
-#, fuzzy
 msgid "troll leader"
 msgstr "Trollführer"
 
@@ -4304,7 +4337,6 @@ msgstr ""
 
 #. [set_menu_item]: id=summon_{ID}
 #: Era_of_Magic/utils/summon.cfg:24
-#, fuzzy
 msgid "Summon "
 msgstr "Beschwörung"
 
@@ -4321,7 +4353,7 @@ msgstr "Fehler"
 #. [message]: speaker=narrator
 #: Era_of_Magic/utils/summon.cfg:181
 msgid "I have insufficient materials. I am unable to summon."
-msgstr "Ich habe nicht genug zum Beschwören"
+msgstr "Unzureichende Indegrenzien"
 
 #. [set_menu_item]: id=summon_zhelp
 #: Era_of_Magic/utils/summon.cfg:192
@@ -4358,7 +4390,6 @@ msgstr ""
 #: Era_of_Magic/utils/summon.cfg:331 Era_of_Magic/utils/summon.cfg:384
 #: Era_of_Magic/utils/summon.cfg:433 Era_of_Magic/utils/summon.cfg:482
 #: Era_of_Magic/utils/summon.cfg:531
-#, fuzzy
 msgid "summon"
 msgstr "Beschwörung"
 
@@ -4389,7 +4420,6 @@ msgstr ""
 
 #. [dummy]: id=summon_roc
 #: Era_of_Magic/utils/summon.cfg:584
-#, fuzzy
 msgid "summon roc"
 msgstr "Rokh herbeirufen"
 
