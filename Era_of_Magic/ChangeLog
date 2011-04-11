@@ -1,6 +1,14 @@
 Era of Magic - ChangeLog
 ------------------------
 
+Version 0.12.2
+
+- Translation
+    * New translations: German
+
+- Other
+    * Added a loader file for campaigns (campaign.cfg)
+
 Version 0.12.1
 
 - Other

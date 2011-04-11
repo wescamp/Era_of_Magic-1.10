@@ -33,6 +33,9 @@ Mica
 -stf- (savegames)
 Karambol
 
+TRANSLATIONS
+Drakefriend
+
 SPECIAL THANKS
 All creators of: Era of Myths, Extended Era (dark elves concept), Imperial Era, Mercenaries Era
 
