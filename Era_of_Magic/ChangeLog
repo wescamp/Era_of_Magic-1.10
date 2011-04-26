@@ -1,6 +1,25 @@
 Era of Magic - ChangeLog
 ------------------------
 
+Version 0.13.0
+
+- Translation
+    * New translations: Hungarian, Japanese
+    
+- Units
+    * Increased Magical Eye defenses to 60
+    * Battlemage: increased hp and damage
+    * Elementalist: added heal+4
+    * Subversive Magi: changed damage type to impact (ensnares)
+    * Golems: added the regeneration ability, reduced cost to 20
+    * Prophet of Light: decreased blinding light's damage to 20
+    * Avatar and God of Water: increased shallow water defense to 70
+    * The water regeneration ability works in swamp now
+    * Neutral Summoner: 
+        - summons Jinns instead of Rhamis;
+        - has an aura of susceptibility;
+        - his range attack deals more damage (14)
+
 Version 0.12.2
 
 - Translation
