@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-04-12 14:23+0200\n"
+"POT-Creation-Date: 2011-04-29 17:05+0200\n"
 "PO-Revision-Date: 2011-03-23 19:58+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -273,8 +273,8 @@ msgstr ""
 
 #. [attack]: type=arcane
 #. [attack]: type=fire
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_MagicalEye.cfg:61
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:74
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_MagicalEye.cfg:76
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:89
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopAncient.cfg:37
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopFire.cfg:64
 msgid "eye"
@@ -583,8 +583,8 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:43
 #: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:44
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Golem.cfg:48
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:195
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Golem.cfg:51
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:198
 msgid "charge"
 msgstr ""
 
@@ -903,12 +903,12 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Kharos/Kharos_SunSilverwarrior.cfg:154
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Blackmage.cfg:92
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Elementalist.cfg:92
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Elementalist.cfg:95
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:93
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Subversivemage.cfg:156
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Battlemage.cfg:54
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Goldenmage.cfg:60
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:207
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:210
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:31
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Sorcerer.cfg:81
 msgid "missile"
@@ -952,7 +952,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:62
+#: Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:77
 msgid "blades"
 msgstr ""
 
@@ -1864,7 +1864,7 @@ msgstr ""
 
 #. [damage]: id=i8grenade
 #. [attack]: type=pierce
-#: Era_of_Magic/utils/abilities.cfg:748 Era_of_Magic/utils/abilities.cfg:749
+#: Era_of_Magic/utils/abilities.cfg:766 Era_of_Magic/utils/abilities.cfg:767
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:84
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:60
 msgid "grenade"
@@ -2219,10 +2219,10 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:117
 #: Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:147
+#: Era_of_Magic/units/Summoners/AlKamija_NeutralSummoner.cfg:89
 #: Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:32
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:120
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:121
-#: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:88
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:98
 #: Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:33
 msgid "scimitar"
@@ -2774,24 +2774,24 @@ msgid "ultra circle"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Masterofbalance, race=akhuman
-#: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:4
+#: Era_of_Magic/units/Summoners/AlKamija_NeutralSummoner.cfg:4
 msgid "Neutral Summoner"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Masterofbalance, race=akhuman
-#: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:19
+#: Era_of_Magic/units/Summoners/AlKamija_NeutralSummoner.cfg:19
 msgid ""
 "Neutral summoners are the most enigmatic of the Summoners of the Third "
 "Degree. These summoners specialize in strange enfeebling magic that robs the "
 "life of foes with every strike. A covert group among summoners, neutral "
 "summoners infuse their scimitars with their 'draining' magic and also have "
 "learned to create their own unique circles of the same magic. Neutral "
-"summoners are able to summon the agile Rhamis through complex circles that "
+"summoners are able to summon the fas Jinns through complex circles that "
 "connect their world with the Abyss."
 msgstr ""
 
 #. [attack]: type=fire
-#: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:109
+#: Era_of_Magic/units/Summoners/AlKamija_NeutralSummoner.cfg:110
 msgid "circle of balance"
 msgstr ""
 
@@ -3579,13 +3579,26 @@ msgid ""
 "and arcane resistance."
 msgstr ""
 
-#. [resistance]: id=deadzone
+#. [resistance]: id=cr
 #: Era_of_Magic/utils/abilities.cfg:274
+msgid "circle of susceptibility"
+msgstr ""
+
+#. [resistance]: id=cr
+#: Era_of_Magic/utils/abilities.cfg:276
+msgid ""
+"Circle of Susceptibility:\n"
+"This unit and all adjacent friendly units receive a -20% to fire, cold and "
+"arcane resistance."
+msgstr ""
+
+#. [resistance]: id=deadzone
+#: Era_of_Magic/utils/abilities.cfg:292
 msgid "deadzone"
 msgstr ""
 
 #. [resistance]: id=deadzone
-#: Era_of_Magic/utils/abilities.cfg:276
+#: Era_of_Magic/utils/abilities.cfg:294
 msgid ""
 "Deadzone:\n"
 "Adjacent friendly units receive a 99% bonus to fire,cold and arcane "
@@ -3593,12 +3606,12 @@ msgid ""
 msgstr ""
 
 #. [resistance]: id=coldaura
-#: Era_of_Magic/utils/abilities.cfg:291
+#: Era_of_Magic/utils/abilities.cfg:309
 msgid "cold aura"
 msgstr ""
 
 #. [resistance]: id=coldaura
-#: Era_of_Magic/utils/abilities.cfg:293
+#: Era_of_Magic/utils/abilities.cfg:311
 msgid ""
 "Cold Aura:\n"
 "Adjacent units receive a 50% bonus to fire resistance and a -25% bonus to "
@@ -3606,58 +3619,58 @@ msgid ""
 msgstr ""
 
 #. [chance_to_hit]: id=i8revenge
-#: Era_of_Magic/utils/abilities.cfg:322 Era_of_Magic/utils/abilities.cfg:325
+#: Era_of_Magic/utils/abilities.cfg:340 Era_of_Magic/utils/abilities.cfg:343
 msgid "revenge"
 msgstr ""
 
 #. [chance_to_hit]: id=i8revenge
-#: Era_of_Magic/utils/abilities.cfg:324 Era_of_Magic/utils/abilities.cfg:327
+#: Era_of_Magic/utils/abilities.cfg:342 Era_of_Magic/utils/abilities.cfg:345
 msgid ""
 "revenge:\n"
 "The unit has always a 100% chance to hit, during retalitation."
 msgstr ""
 
 #. [dummy]: id=i8 kamikaze
-#: Era_of_Magic/utils/abilities.cfg:339
+#: Era_of_Magic/utils/abilities.cfg:357
 msgid "kamikaze"
 msgstr ""
 
 #. [dummy]: id=i8 kamikaze
-#: Era_of_Magic/utils/abilities.cfg:340
+#: Era_of_Magic/utils/abilities.cfg:358
 msgid ""
 "Kamikaze: this unit always hits a target when attacking, but it dies "
 "instantly."
 msgstr ""
 
 #. [dummy]: id=i8hitandrun
-#: Era_of_Magic/utils/abilities.cfg:363
+#: Era_of_Magic/utils/abilities.cfg:381
 msgid "hit and run"
 msgstr ""
 
 #. [dummy]: id=i8hitandrun
-#: Era_of_Magic/utils/abilities.cfg:365
+#: Era_of_Magic/utils/abilities.cfg:383
 msgid ""
 "Hit and Run:\n"
 "This unit gains 3 moves back after attacking, but cannot attack again."
 msgstr ""
 
 #. [unstore_unit]
-#: Era_of_Magic/utils/abilities.cfg:379
+#: Era_of_Magic/utils/abilities.cfg:397
 msgid "FLEE!"
 msgstr ""
 
 #. [hides]: id=mountainambush
-#: Era_of_Magic/utils/abilities.cfg:389
+#: Era_of_Magic/utils/abilities.cfg:407
 msgid "mountain ambush"
 msgstr ""
 
 #. [hides]: id=mountainambush
-#: Era_of_Magic/utils/abilities.cfg:390
+#: Era_of_Magic/utils/abilities.cfg:408
 msgid " mountain ambush"
 msgstr ""
 
 #. [hides]: id=mountainambush
-#: Era_of_Magic/utils/abilities.cfg:394
+#: Era_of_Magic/utils/abilities.cfg:412
 msgid ""
 "Mountain Ambush:\n"
 "This unit can hide in mountains and hills, and remain undetected by its "
@@ -3669,7 +3682,7 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=mountainambush
-#: Era_of_Magic/utils/abilities.cfg:398
+#: Era_of_Magic/utils/abilities.cfg:416
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -3680,84 +3693,84 @@ msgid ""
 msgstr ""
 
 #. [dummy]: id=i8fury
-#: Era_of_Magic/utils/abilities.cfg:415
+#: Era_of_Magic/utils/abilities.cfg:433
 msgid "fury"
 msgstr ""
 
 #. [dummy]: id=i8fury
-#: Era_of_Magic/utils/abilities.cfg:417
+#: Era_of_Magic/utils/abilities.cfg:435
 msgid ""
 "Fury:\n"
 "This unit can attack another after killing an enemy."
 msgstr ""
 
 #. [unstore_unit]
-#: Era_of_Magic/utils/abilities.cfg:438
+#: Era_of_Magic/utils/abilities.cfg:456
 msgid "FURY!"
 msgstr ""
 
 #. [damage]: id=i8furiousdeath
-#: Era_of_Magic/utils/abilities.cfg:517
+#: Era_of_Magic/utils/abilities.cfg:535
 msgid "furious death"
 msgstr ""
 
 #. [damage]: id=i8furiousdeath
-#: Era_of_Magic/utils/abilities.cfg:518
+#: Era_of_Magic/utils/abilities.cfg:536
 msgid ""
 "Furious Death: When this unit dies, it flies into a fury. The unit with this "
 "ability atacks all adjecent units and then it finally dies."
 msgstr ""
 
 #. [damage]: id=i8battlefrenzy
-#: Era_of_Magic/utils/abilities.cfg:532 Era_of_Magic/utils/abilities.cfg:533
+#: Era_of_Magic/utils/abilities.cfg:550 Era_of_Magic/utils/abilities.cfg:551
 msgid "battlefrenzy"
 msgstr ""
 
 #. [damage]: id=i8battlefrenzy
-#: Era_of_Magic/utils/abilities.cfg:534
+#: Era_of_Magic/utils/abilities.cfg:552
 msgid ""
 "Battlefrenzy: When this attack is used, this units gets an extra strike and "
 "additional damage (+2) after each successful hit. Does not work on defence."
 msgstr ""
 
 #. [damage]: id=i8battlefrenzy
-#: Era_of_Magic/utils/abilities.cfg:535
+#: Era_of_Magic/utils/abilities.cfg:553
 msgid ""
 "Battlefrenzy: This unit gets one extra strike and additional damage (+2) "
 "with each hit during attack. Does not work on defense."
 msgstr ""
 
 #. [dummy]: id=i8hardlanding
-#: Era_of_Magic/utils/abilities.cfg:643
+#: Era_of_Magic/utils/abilities.cfg:661
 msgid "Hard landing"
 msgstr ""
 
 #. [dummy]: id=i8hardlanding
-#: Era_of_Magic/utils/abilities.cfg:644
+#: Era_of_Magic/utils/abilities.cfg:662
 msgid ""
 "Hard landing: When this large unit is destroyed, it falls on a ground "
 "dealing damage to all adjecent units. "
 msgstr ""
 
 #. [dummy]: id=i8parachute
-#: Era_of_Magic/utils/abilities.cfg:651
+#: Era_of_Magic/utils/abilities.cfg:669
 msgid "parachute"
 msgstr ""
 
 #. [dummy]: id=i8parachute
-#: Era_of_Magic/utils/abilities.cfg:652
+#: Era_of_Magic/utils/abilities.cfg:670
 msgid ""
 "Parachute: The pilot of this machine is equipped with parachute and he can "
 "survive a destruction of his vehicle."
 msgstr ""
 
 #. [heals]: id=i8repair
-#: Era_of_Magic/utils/abilities.cfg:680
+#: Era_of_Magic/utils/abilities.cfg:698
 msgid "repairs +5"
 msgstr ""
 
 #. [heals]: id=i8repair
-#: Era_of_Magic/utils/abilities.cfg:684
+#: Era_of_Magic/utils/abilities.cfg:702
 msgid ""
 "Repairs +5:\n"
 "Allows the unit to repair adjacent friendly mechanical units at the "
@@ -3767,12 +3780,12 @@ msgid ""
 msgstr ""
 
 #. [heals]: id=i8repair
-#: Era_of_Magic/utils/abilities.cfg:701
+#: Era_of_Magic/utils/abilities.cfg:719
 msgid "repairs +8"
 msgstr ""
 
 #. [heals]: id=i8repair
-#: Era_of_Magic/utils/abilities.cfg:705
+#: Era_of_Magic/utils/abilities.cfg:723
 msgid ""
 "Repairs +8:\n"
 "Allows the unit to repair adjacent friendly mechanical units at the "
@@ -3782,7 +3795,7 @@ msgid ""
 msgstr ""
 
 #. [damage]: id=i8grenade
-#: Era_of_Magic/utils/abilities.cfg:750 Era_of_Magic/utils/abilities.cfg:751
+#: Era_of_Magic/utils/abilities.cfg:768 Era_of_Magic/utils/abilities.cfg:769
 msgid ""
 "Grenade: When this attack is used, all units adjecent to a target get "
 "damage. Does not work on defense."
@@ -3790,12 +3803,12 @@ msgstr ""
 
 #. [dummy]: id=runeaura
 #. [resistance]: id=runeauraactive
-#: Era_of_Magic/utils/abilities.cfg:758 Era_of_Magic/utils/abilities.cfg:863
+#: Era_of_Magic/utils/abilities.cfg:776 Era_of_Magic/utils/abilities.cfg:881
 msgid "rune aura"
 msgstr ""
 
 #. [dummy]: id=runeaura
-#: Era_of_Magic/utils/abilities.cfg:760
+#: Era_of_Magic/utils/abilities.cfg:778
 msgid ""
 "Rune Aura:\n"
 "When this ability is activated, all Rune Masters create special auras. "
@@ -3806,32 +3819,32 @@ msgid ""
 msgstr ""
 
 #. [set_menu_item]: id=runeaura_menu
-#: Era_of_Magic/utils/abilities.cfg:799
+#: Era_of_Magic/utils/abilities.cfg:817
 msgid "Activate Aura (24g)"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Era_of_Magic/utils/abilities.cfg:823
+#: Era_of_Magic/utils/abilities.cfg:841
 msgid "Activate aura? (cost: 24g)"
 msgstr ""
 
 #. [option]: speaker=unit
-#: Era_of_Magic/utils/abilities.cfg:825
+#: Era_of_Magic/utils/abilities.cfg:843
 msgid "No"
 msgstr ""
 
 #. [option]: speaker=unit
-#: Era_of_Magic/utils/abilities.cfg:831
+#: Era_of_Magic/utils/abilities.cfg:849
 msgid "Yes"
 msgstr ""
 
 #. [print]
-#: Era_of_Magic/utils/abilities.cfg:844
+#: Era_of_Magic/utils/abilities.cfg:862
 msgid "You don't have enough gold to activate the rune aura!"
 msgstr ""
 
 #. [resistance]: id=runeauraactive
-#: Era_of_Magic/utils/abilities.cfg:865
+#: Era_of_Magic/utils/abilities.cfg:883
 msgid ""
 "Rune Aura:\n"
 "Adjacent friendly units on hexes: s, ne, nw receive a 99% bonus to fire, "
@@ -3840,17 +3853,17 @@ msgid ""
 msgstr ""
 
 #. [damage]: id=swallow
-#: Era_of_Magic/utils/abilities.cfg:890
+#: Era_of_Magic/utils/abilities.cfg:908
 msgid "swallow +4"
 msgstr ""
 
 #. [damage]: id=swallow
-#: Era_of_Magic/utils/abilities.cfg:891
+#: Era_of_Magic/utils/abilities.cfg:909
 msgid "Swallow +4"
 msgstr ""
 
 #. [damage]: id=swallow
-#: Era_of_Magic/utils/abilities.cfg:893 Era_of_Magic/utils/abilities.cfg:895
+#: Era_of_Magic/utils/abilities.cfg:911 Era_of_Magic/utils/abilities.cfg:913
 msgid ""
 "Swallow +4:\n"
 "This unit gains 4 hitpoints added to its current health whenever it kills a "
@@ -3858,17 +3871,17 @@ msgid ""
 msgstr ""
 
 #. [unstore_unit]
-#: Era_of_Magic/utils/abilities.cfg:921
+#: Era_of_Magic/utils/abilities.cfg:939
 msgid "4"
 msgstr ""
 
 #. [hides]: id=swampambush
-#: Era_of_Magic/utils/abilities.cfg:944 Era_of_Magic/utils/abilities.cfg:945
+#: Era_of_Magic/utils/abilities.cfg:962 Era_of_Magic/utils/abilities.cfg:963
 msgid "swamp ambush"
 msgstr ""
 
 #. [hides]: id=swampambush
-#: Era_of_Magic/utils/abilities.cfg:949
+#: Era_of_Magic/utils/abilities.cfg:967
 msgid ""
 "Swamp Ambush:\n"
 "This unit can hide in swamp, and remain undetected by its enemies.\n"
@@ -3879,7 +3892,7 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=swampambush
-#: Era_of_Magic/utils/abilities.cfg:953
+#: Era_of_Magic/utils/abilities.cfg:971
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -3890,12 +3903,12 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=waterambush
-#: Era_of_Magic/utils/abilities.cfg:966 Era_of_Magic/utils/abilities.cfg:967
+#: Era_of_Magic/utils/abilities.cfg:984 Era_of_Magic/utils/abilities.cfg:985
 msgid "water ambush"
 msgstr ""
 
 #. [hides]: id=waterambush
-#: Era_of_Magic/utils/abilities.cfg:971
+#: Era_of_Magic/utils/abilities.cfg:989
 msgid ""
 "water Ambush:\n"
 "This unit can hide in water, and remain undetected by its enemies.\n"
@@ -3906,7 +3919,7 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=waterambush
-#: Era_of_Magic/utils/abilities.cfg:975
+#: Era_of_Magic/utils/abilities.cfg:993
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -3917,12 +3930,12 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=caveambush
-#: Era_of_Magic/utils/abilities.cfg:988 Era_of_Magic/utils/abilities.cfg:989
+#: Era_of_Magic/utils/abilities.cfg:1006 Era_of_Magic/utils/abilities.cfg:1007
 msgid "cave ambush"
 msgstr ""
 
 #. [hides]: id=caveambush
-#: Era_of_Magic/utils/abilities.cfg:993
+#: Era_of_Magic/utils/abilities.cfg:1011
 msgid ""
 "Cave Ambush:\n"
 "This unit can hide in cave, and remain undetected by its enemies.\n"
@@ -3933,7 +3946,7 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=caveambush
-#: Era_of_Magic/utils/abilities.cfg:997
+#: Era_of_Magic/utils/abilities.cfg:1015
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -3944,12 +3957,12 @@ msgid ""
 msgstr ""
 
 #. [regenerate]: id=regen4
-#: Era_of_Magic/utils/abilities.cfg:1011 Era_of_Magic/utils/abilities.cfg:1014
+#: Era_of_Magic/utils/abilities.cfg:1029 Era_of_Magic/utils/abilities.cfg:1032
 msgid "regenerates +4"
 msgstr ""
 
 #. [regenerate]: id=regen4
-#: Era_of_Magic/utils/abilities.cfg:1013 Era_of_Magic/utils/abilities.cfg:1016
+#: Era_of_Magic/utils/abilities.cfg:1031 Era_of_Magic/utils/abilities.cfg:1034
 msgid ""
 "Regenerates +4:\n"
 "At the begining of each turn this unit heals +4 hp. If it is poisoned, it "
@@ -3957,12 +3970,12 @@ msgid ""
 msgstr ""
 
 #. [dummy]: id=i8awake
-#: Era_of_Magic/utils/abilities.cfg:1159
+#: Era_of_Magic/utils/abilities.cfg:1177
 msgid "awaken"
 msgstr ""
 
 #. [dummy]: id=i8awake
-#: Era_of_Magic/utils/abilities.cfg:1160
+#: Era_of_Magic/utils/abilities.cfg:1178
 msgid ""
 "Awaken: if a friendly adjacent unit with more than one hitpoint at the "
 "beginning of the battle dies, it is resurrected, gets +6 experience and "
@@ -3971,22 +3984,22 @@ msgid ""
 msgstr ""
 
 #. [unstore_unit]
-#: Era_of_Magic/utils/abilities.cfg:1274 Era_of_Magic/utils/abilities.cfg:1344
+#: Era_of_Magic/utils/abilities.cfg:1292 Era_of_Magic/utils/abilities.cfg:1362
 msgid "female^awoken"
 msgstr ""
 
 #. [unstore_unit]
-#: Era_of_Magic/utils/abilities.cfg:1298 Era_of_Magic/utils/abilities.cfg:1368
+#: Era_of_Magic/utils/abilities.cfg:1316 Era_of_Magic/utils/abilities.cfg:1386
 msgid "awoken"
 msgstr ""
 
 #. [heals]: id=healing
-#: Era_of_Magic/utils/abilities.cfg:1389
+#: Era_of_Magic/utils/abilities.cfg:1407
 msgid "heals +2"
 msgstr ""
 
 #. [heals]: id=healing
-#: Era_of_Magic/utils/abilities.cfg:1393
+#: Era_of_Magic/utils/abilities.cfg:1411
 msgid ""
 "Heals +2:\n"
 "Allows the unit to heal adjacent friendly units at the beginning of each "
@@ -3996,12 +4009,12 @@ msgid ""
 msgstr ""
 
 #. [leadership]: id=leadership
-#: Era_of_Magic/utils/abilities.cfg:1407 Era_of_Magic/utils/abilities.cfg:1440
+#: Era_of_Magic/utils/abilities.cfg:1425 Era_of_Magic/utils/abilities.cfg:1458
 msgid "inspire"
 msgstr ""
 
 #. [leadership]: id=leadership
-#: Era_of_Magic/utils/abilities.cfg:1412
+#: Era_of_Magic/utils/abilities.cfg:1430
 msgid ""
 "Inspire:\n"
 "This unit can inspire friendly units that are next to it, making them fight "
@@ -4012,7 +4025,7 @@ msgid ""
 msgstr ""
 
 #. [leadership]: id=leadership
-#: Era_of_Magic/utils/abilities.cfg:1446
+#: Era_of_Magic/utils/abilities.cfg:1464
 msgid ""
 "Inspire:\n"
 "This unit can inspire friendly units that are next to it, making them fight "
@@ -4024,14 +4037,14 @@ msgid ""
 msgstr ""
 
 #. [leadership]: id=terror
-#: Era_of_Magic/utils/abilities.cfg:1487 Era_of_Magic/utils/abilities.cfg:1523
-#: Era_of_Magic/utils/abilities.cfg:1573
+#: Era_of_Magic/utils/abilities.cfg:1505 Era_of_Magic/utils/abilities.cfg:1541
+#: Era_of_Magic/utils/abilities.cfg:1591
 msgid "awe"
 msgstr ""
 
 #. [leadership]: id=terror
-#: Era_of_Magic/utils/abilities.cfg:1491 Era_of_Magic/utils/abilities.cfg:1527
-#: Era_of_Magic/utils/abilities.cfg:1577
+#: Era_of_Magic/utils/abilities.cfg:1509 Era_of_Magic/utils/abilities.cfg:1545
+#: Era_of_Magic/utils/abilities.cfg:1595
 msgid ""
 "Awe:\n"
 "This unit can frighten enemy units that are next to it, making them fight "
@@ -4044,12 +4057,12 @@ msgid ""
 msgstr ""
 
 #. [damage]: id=banish
-#: Era_of_Magic/utils/abilities.cfg:1635 Era_of_Magic/utils/abilities.cfg:1636
+#: Era_of_Magic/utils/abilities.cfg:1653 Era_of_Magic/utils/abilities.cfg:1654
 msgid "banish"
 msgstr ""
 
 #. [damage]: id=banish
-#: Era_of_Magic/utils/abilities.cfg:1638 Era_of_Magic/utils/abilities.cfg:1640
+#: Era_of_Magic/utils/abilities.cfg:1656 Era_of_Magic/utils/abilities.cfg:1658
 msgid ""
 "banish:\n"
 "If a Banisher hits an enemy magical unit, the enemy will turn into a DG "
@@ -4059,12 +4072,12 @@ msgid ""
 msgstr ""
 
 #. [leadership]: id=cob
-#: Era_of_Magic/utils/abilities.cfg:1782
+#: Era_of_Magic/utils/abilities.cfg:1800
 msgid "circle of banishment"
 msgstr ""
 
 #. [leadership]: id=cob
-#: Era_of_Magic/utils/abilities.cfg:1786
+#: Era_of_Magic/utils/abilities.cfg:1804
 msgid ""
 "circle of banishment:\n"
 "This unit can affect enemy magical units that are next to it, making them "
@@ -4266,49 +4279,52 @@ msgstr ""
 #. [dummy]: id=summon_lvl3
 #. [dummy]: id=summon_lvl4
 #. [dummy]: id=summon_hs
+#. [dummy]: id=summon_ns
 #. [dummy]: id=mof
 #. [dummy]: id=mow
 #. [dummy]: id=moa
 #. [dummy]: id=guru
 #: Era_of_Magic/utils/summon.cfg:227 Era_of_Magic/utils/summon.cfg:278
-#: Era_of_Magic/utils/summon.cfg:331 Era_of_Magic/utils/summon.cfg:384
-#: Era_of_Magic/utils/summon.cfg:433 Era_of_Magic/utils/summon.cfg:482
-#: Era_of_Magic/utils/summon.cfg:531
+#: Era_of_Magic/utils/summon.cfg:331 Era_of_Magic/utils/summon.cfg:379
+#: Era_of_Magic/utils/summon.cfg:432 Era_of_Magic/utils/summon.cfg:481
+#: Era_of_Magic/utils/summon.cfg:530 Era_of_Magic/utils/summon.cfg:579
 msgid "summon"
 msgstr ""
 
 #. [dummy]: id=summon_lvl3
 #. [dummy]: id=summon_lvl4
 #. [dummy]: id=summon_hs
+#. [dummy]: id=summon_ns
 #. [dummy]: id=mof
 #. [dummy]: id=mow
 #. [dummy]: id=moa
 #. [dummy]: id=guru
 #: Era_of_Magic/utils/summon.cfg:229 Era_of_Magic/utils/summon.cfg:280
-#: Era_of_Magic/utils/summon.cfg:333 Era_of_Magic/utils/summon.cfg:386
-#: Era_of_Magic/utils/summon.cfg:435 Era_of_Magic/utils/summon.cfg:484
-#: Era_of_Magic/utils/summon.cfg:533
+#: Era_of_Magic/utils/summon.cfg:333 Era_of_Magic/utils/summon.cfg:381
+#: Era_of_Magic/utils/summon.cfg:434 Era_of_Magic/utils/summon.cfg:483
+#: Era_of_Magic/utils/summon.cfg:532 Era_of_Magic/utils/summon.cfg:581
 msgid ""
 "Summon:\n"
 "this unit can summon new units near him, but not in villages."
 msgstr ""
 
 #: Era_of_Magic/utils/summon.cfg:270 Era_of_Magic/utils/summon.cfg:325
-#: Era_of_Magic/utils/summon.cfg:373 Era_of_Magic/utils/summon.cfg:426
-#: Era_of_Magic/utils/summon.cfg:475 Era_of_Magic/utils/summon.cfg:524
-#: Era_of_Magic/utils/summon.cfg:573 Era_of_Magic/utils/summon.cfg:626
+#: Era_of_Magic/utils/summon.cfg:373 Era_of_Magic/utils/summon.cfg:421
+#: Era_of_Magic/utils/summon.cfg:474 Era_of_Magic/utils/summon.cfg:523
+#: Era_of_Magic/utils/summon.cfg:572 Era_of_Magic/utils/summon.cfg:621
+#: Era_of_Magic/utils/summon.cfg:674
 msgid ""
 " this unit can create other units in the near free spaces, but not in "
 "villages."
 msgstr ""
 
 #. [dummy]: id=summon_roc
-#: Era_of_Magic/utils/summon.cfg:584
+#: Era_of_Magic/utils/summon.cfg:632
 msgid "summon roc"
 msgstr ""
 
 #. [dummy]: id=summon_roc
-#: Era_of_Magic/utils/summon.cfg:586
+#: Era_of_Magic/utils/summon.cfg:634
 msgid ""
 "Summon Roc:\n"
 "this unit can summon new units near him, but not in villages."
