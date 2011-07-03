@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-05-29 02:51-0400\n"
-"PO-Revision-Date: 2011-04-15 21:42-0800\n"
+"PO-Revision-Date: 2011-07-02 10:00-0800\n"
 "Last-Translator: Carson Callis aka Mountian_King <tree_rings@rocketmail."
 "com>\n"
 "Language-Team: none\n"
@@ -27,27 +27,27 @@ msgstr "Ionsaí dhúbailte!"
 #. [era]: id=era_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:55
 msgid "Era of Magic"
-msgstr "Aois Draíochtúil"
+msgstr "Aois Draíochta"
 
 #. [era]: id=era_magic_rpg_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:71
 msgid "Era of Magic RPG"
-msgstr "Aois Draíochtúil RPG"
+msgstr "Aois Draíochta RPG"
 
 #. [era]: id=era_magic_masters_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:87
 msgid "Era of Magic Masters"
-msgstr "Aois Draíochtúil Máistrí"
+msgstr "Máistrí hAois Draíochta"
 
 #. [era]: id=era_default_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:103
 msgid "Default+Magic"
-msgstr "Réamhshocrú+Draíochtúil"
+msgstr "Réamhshocrú+Draíocht"
 
 #. [era]: id=era_heroes_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:126
 msgid "Heroes+Magic"
-msgstr "Héaróis+Draíochtúil"
+msgstr "Héaróis+Draíocht"
 
 #. [language]
 #: Era_of_Magic/english.cfg:4
@@ -70,7 +70,7 @@ msgstr "Barbaraigh"
 #: Era_of_Magic/factions/darkblood-masters.cfg:4
 #: Era_of_Magic/factions/darkblood-magic.cfg:4
 msgid "Dark Blood Alliance"
-msgstr "Cairdeas Fuil Dorcha"
+msgstr "Cairdeas Fola Dhorcha"
 
 #. [multiplayer_side]: id=enlightenedones, type=I8 enlightened_archmage
 #. [multiplayer_side]: id=newenlightened_rpg, type=I8 enlightened_battlemage
@@ -79,7 +79,7 @@ msgstr "Cairdeas Fuil Dorcha"
 #: Era_of_Magic/factions/enlightenedones-mrpg.cfg:4
 #: Era_of_Magic/factions/enlightenedones-masters.cfg:4
 msgid "Sky Kingdom"
-msgstr "Ríocht sa Spéir"
+msgstr "Ríocht Spéire"
 
 #. [multiplayer_side]: id=kharos_masters, type=I8 Kharos_LightProphetoflight
 #. [multiplayer_side]: id=kharos, type=I8 Kharos_LightCleric
@@ -284,12 +284,12 @@ msgstr "súil"
 #. [unit_type]: id=I8 Barbarian_CyclopBreaker, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopBreaker.cfg:4
 msgid "Cyclops Breaker"
-msgstr "Cioclóp Bristeoir"
+msgstr "Bristeoir Chioclóp"
 
 #. [unit_type]: id=I8 Barbarian_CyclopDestroyer, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopDestroyer.cfg:4
 msgid "Cyclops Destroyer"
-msgstr "Airgtheoir Cioclóp"
+msgstr "Airgtheoir Chioclóp"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopMighty.cfg:28
@@ -322,18 +322,18 @@ msgstr "Cioclóp Neartmhar"
 #. [unit_type]: id=I8 Barbarian_GoblinArcher, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:4
 msgid "Goblin Archer"
-msgstr "Boghdóir Bobodha"
+msgstr "Boghdóir Lucharacháin"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:71
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinSniper.cfg:40
 msgid "poisoned arrow"
-msgstr "Saighead Nimheanta"
+msgstr "Saighead Nimhiúil"
 
 #. [unit_type]: id=I8 Barbarian_GoblinAssassin, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinAssassin.cfg:4
 msgid "Goblin Assassin"
-msgstr "Feallmharfóir Bobodha"
+msgstr "Feallmharfóir Lucharacháin"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinHunter.cfg:49
@@ -344,12 +344,12 @@ msgstr "bolas"
 #. [unit_type]: id=I8 Barbarian_GoblinHunter, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinHunter.cfg:4
 msgid "Goblin Hunter"
-msgstr "Sealgaire Bobodha"
+msgstr "Sealgaire Lucharacháin"
 
 #. [unit_type]: id=I8 Barbarian_GoblinKamikaze, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinKamikaze.cfg:4
 msgid "Goblin Kamikaze"
-msgstr "Kamikaze Bobdha"
+msgstr "Kamikaze Lucharacháin"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:39
@@ -360,7 +360,7 @@ msgstr "pléascadh"
 #. [unit_type]: id=I8 Barbarian_GoblinRouser, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRouser.cfg:4
 msgid "Goblin Rouser"
-msgstr "Múscailoir Bobodha "
+msgstr "Múscailoir Lucharacháin"
 
 #. [unit_type]: id=I8 Barbarian_GoblinRouser, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRouser.cfg:19
@@ -386,7 +386,7 @@ msgstr "sléa caitimh"
 #. [unit_type]: id=I8 Barbarian_GoblinRunt, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRunt.cfg:4
 msgid "Goblin Runt"
-msgstr "Arcán Bobodha"
+msgstr "Arcán Lucharacháin"
 
 #. [unit_type]: id=I8 Barbarian_GoblinRunt, race=goblin
 #. [unit_type]: id=I8 Barbarian_GoblinWarrior, race=goblin
@@ -403,17 +403,17 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_GoblinSniper, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinSniper.cfg:4
 msgid "Goblin Sniper"
-msgstr "Snípéir Bobodha"
+msgstr "Snípéir Lucharacháin"
 
 #. [unit_type]: id=I8 Barbarian_GoblinWarbanner, race=goblin, description=
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarbaner.cfg:4
 msgid "Goblin Warbanner"
-msgstr "Bratachchogha Bobodha"
+msgstr "Bratachchogaidh Lucharacháin"
 
 #. [unit_type]: id=I8 Barbarian_GoblinWarrior, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarrior.cfg:4
 msgid "Goblin Warrior"
-msgstr "Laoch Bobodha"
+msgstr "Laoch Lucharacháin"
 
 #. [unit_type]: id=I8 Barbarian_OrcishBarbarian, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarian.cfg:4
@@ -453,12 +453,12 @@ msgstr "Dásachtach Barbarach"
 #. [unit_type]: id=I8 Barbarian_OrcishBloodWarrior, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBloodWarrior.cfg:4
 msgid "Blood Warrior"
-msgstr "Fuil Laoch"
+msgstr "Laoch Fola"
 
 #. [unit_type]: id=I8 Barbarian_OrcishWarbanner, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarbanner.cfg:4
 msgid "Orcish Warbanner"
-msgstr "Bratachchogha Oircheach"
+msgstr "Bratachchogaidh Orchach"
 
 #. [unit_type]: id=I8 Barbarian_OrcishWarbanner, race=orc
 #. [unit_type]: id=I8 Barbarian_OrcishWarrior, race=orc
@@ -479,17 +479,17 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_OrcishWarrior, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarrior.cfg:4
 msgid "Orcish Warrior"
-msgstr "Laoch Oircheach"
+msgstr "Laoch Orchach"
 
 #. [unit_type]: id=I8 Barbarian_RocMaster, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Barbarian_RocMaster.cfg:4
 msgid "Roc Master"
-msgstr "Máistir an Róc"
+msgstr "Máistir Róic"
 
 #. [unit_type]: id=I8 Barbarian_RocRider, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Barbarian_RocRider.cfg:4
 msgid "Roc Rider"
-msgstr "Róc Marcach"
+msgstr "Marcach Róic"
 
 #. [unit_type]: id=I8 Barbarian_RocRider, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Barbarian_RocRider.cfg:18
@@ -508,7 +508,7 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_TrollFireWizard, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollFireWizard.cfg:4
 msgid "Troll Fire Wizard"
-msgstr "Asarlaí Tine Troll"
+msgstr "Asarlaí Thine Troill"
 
 #. [unit_type]: id=I8 Barbarian_TrollFireWizard, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollFireWizard.cfg:27
@@ -523,12 +523,12 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollFireWizard.cfg:43
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollSorcerer.cfg:81
 msgid "flame blast"
-msgstr "sinneán tine"
+msgstr "soinneán bladhma"
 
 #. [unit_type]: id=I8 Barbarian_TrollSorcerer, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollSorcerer.cfg:4
 msgid "Troll Sorcerer"
-msgstr "Asarlái Troll"
+msgstr "Asarlái Troill"
 
 #. [unit_type]: id=I8 Barbarian_TrollSorcerer, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollSorcerer.cfg:26
@@ -546,7 +546,7 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_TrollWarbanner, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollWarbanner.cfg:4
 msgid "Troll Warbanner"
-msgstr "Bratachchogha Troll"
+msgstr "Bratachchogaidh Troill"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollWarbanner.cfg:33
@@ -615,7 +615,7 @@ msgstr "Salamandar Dubh"
 #: Era_of_Magic/units/Darkblood/DB_Salamander.cfg:62
 #: Era_of_Magic/units/Darkblood/DB_BlackSalamander.cfg:53
 msgid "wrist blade"
-msgstr "claíomh-cogadh"
+msgstr "lann rosta"
 
 #. [unit_type]: id=I8_DB_SalamanderBlue, race=I8 salamander
 #: Era_of_Magic/units/Darkblood/DB_BlueSalamander.cfg:4
@@ -645,7 +645,7 @@ msgstr "scréach"
 #. [unit_type]: id=I8_DB_ChosenOfForest, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ChosenOfForest.cfg:4
 msgid "Chosen of Forest"
-msgstr "Tofa Foraois"
+msgstr "Tofa an Fhoraoise"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Darkblood/DB_ChosenOfForest.cfg:147
@@ -677,7 +677,7 @@ msgstr ""
 #. [unit_type]: id=I8_DB_DamnedShaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:4
 msgid "Swamp Mage"
-msgstr "Asarlaí Corcach"
+msgstr "Asarlaí Chorcaí"
 
 #. [unit_type]: id=I8_DB_DamnedShaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:20
@@ -695,7 +695,7 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:102
 msgid "damned flame"
-msgstr "tine damanta"
+msgstr "tine dhamanta"
 
 #. [unit_type]: id=I8_DB_DarkShaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DarkShaman.cfg:4
@@ -734,7 +734,7 @@ msgstr "Salamandar Glas"
 #. [unit_type]: id=I8_DB_Lancer, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Lancer.cfg:5
 msgid "Saurian Pikeman"
-msgstr "Píceálaí Sáraíoch"
+msgstr "Píceálaí Sáraígh"
 
 #. [unit_type]: id=I8_DB_Mystic, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Mystic.cfg:4
@@ -770,7 +770,7 @@ msgstr "dhá chrosbhogha"
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:65
 msgid "concentrated fire"
-msgstr "scaoil tiubhaithe"
+msgstr "scaoileadh tiubhaithe"
 
 #. [unstore_unit]
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:351
@@ -795,7 +795,7 @@ msgstr "Tuathach"
 #. [unit_type]: id=I8_DB_ShamanAdept, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:5
 msgid "Shamanistic Adept"
-msgstr "Seamanach Mástir"
+msgstr "Máistir Seamanach"
 
 #. [unit_type]: id=I8_DB_ShamanAdept, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:20
@@ -810,7 +810,7 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:62
 msgid "claws"
-msgstr "iongainge"
+msgstr "crúba"
 
 #. [unit_type]: id=I8_DB_ShamanisticToadRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ShamanisticToad_recruit.cfg:4
@@ -890,7 +890,7 @@ msgstr "Marcach Vuibhearn"
 #. [unit_type]: id=I8 enlightened_abyssmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:4
 msgid "Abyss Mage"
-msgstr "Asarlaí Duibheagán"
+msgstr "Asarlaí Dhuibheagáin"
 
 #. [unit_type]: id=I8 enlightened_abyssmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:19
@@ -931,7 +931,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_blackmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Blackmage.cfg:4
 msgid "Black Mage"
-msgstr "Asarlaí Dubh"
+msgstr "Asarlaí Dhubh"
 
 #. [unit_type]: id=I8 enlightened_blackmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Blackmage.cfg:18
@@ -1025,7 +1025,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Guru.cfg:142
 msgid "touch of magic"
-msgstr "tadhaill draíocht"
+msgstr "tadhaill draíochta"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Guru.cfg:154
@@ -1035,7 +1035,7 @@ msgstr "ilchríoch"
 #. [unit_type]: id=I8 enlightened_HiddenFace, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_HiddenFace.cfg:4
 msgid "Hidden Face"
-msgstr "Aghaidh Folaithe"
+msgstr "Aghaidh Fholaithe"
 
 #. [unit_type]: id=I8 enlightened_HiddenFace, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_HiddenFace.cfg:18
@@ -1047,7 +1047,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_mage_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:4
 msgid "Mage of air"
-msgstr "Aer Asarlaí"
+msgstr "Asarlaí Aeir"
 
 #. [unit_type]: id=I8 enlightened_mage_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:17
@@ -1077,7 +1077,7 @@ msgstr "tintreach beag"
 #. [unit_type]: id=I8 enlightened_mage_of_fire, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:4
 msgid "Mage of fire"
-msgstr "Asarlaí Tine"
+msgstr "Asarlaí Thine"
 
 #. [unit_type]: id=I8 enlightened_mage_of_fire, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:16
@@ -1089,7 +1089,7 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:85
 msgid "fire blast"
-msgstr "sinneán tine"
+msgstr "soinneán tine"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:197
@@ -1113,7 +1113,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Water.cfg:133
 msgid "water blast"
-msgstr "sinneán uisce"
+msgstr "soinneán uisce"
 
 #. [attack]: type=pierce
 #. [attack]: type=cold
@@ -1140,7 +1140,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_master_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:4
 msgid "Master of Air"
-msgstr "Aer Máistir"
+msgstr "Máistir Aeir"
 
 #. [unit_type]: id=I8 enlightened_master_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:18
@@ -1186,7 +1186,7 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_God_Fire.cfg:124
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Fire.cfg:113
 msgid "burning fist"
-msgstr "dorn na tine"
+msgstr "dorn ar lasadh"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:220
@@ -1213,7 +1213,7 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:232
 #: Era_of_Magic/units/Summoners/AlKamija_God_Water.cfg:152
 msgid "frozen fist"
-msgstr "dorm oighreata"
+msgstr "dorn oighreata"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:114
@@ -1245,7 +1245,7 @@ msgstr ""
 #: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:112
 #: Era_of_Magic/units/Kharos/Kharos_LightChild.cfg:60
 msgid "light touch"
-msgstr "lámh asarlaí"
+msgstr "lámh sholais"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:149
@@ -1255,7 +1255,7 @@ msgstr "tintreach"
 #. [unit_type]: id=I8 enlightened_masterofelements, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:4
 msgid "Master of Elements"
-msgstr "Máistir Eiliminteach"
+msgstr "Máistir Eilimintí"
 
 #. [attack]: type=impact
 #. [attack]: type=fire
@@ -1360,7 +1360,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_spellsword, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:4
 msgid "War Mage"
-msgstr "Asarlaí Chogadh"
+msgstr "Asarlaí Chogaidh"
 
 #. [unit_type]: id=I8 enlightened_spellsword, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:17
@@ -1424,7 +1424,7 @@ msgstr "Inspioráidithe"
 #. [unit_type]: id=I8 Kharos_LightMistress, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:4
 msgid "female^Mistress of Light"
-msgstr "Máistreás Solas"
+msgstr "Máistreás Solais"
 
 #. [unit_type]: id=I8 Kharos_LightMistress, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:22
@@ -1444,7 +1444,7 @@ msgstr "stoirmsolais"
 #. [unit_type]: id=I8 Kharos_LightProphetoflight, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:4
 msgid "female^Prophet of Light"
-msgstr "Banfháidh na Solas"
+msgstr "Banfháidh Solais"
 
 #. [unit_type]: id=I8 Kharos_LightProphetoflight, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:20
@@ -1465,7 +1465,7 @@ msgstr "dallóg ghréine"
 #. [unit_type]: id=I8 Kharos_LightSister, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightSister.cfg:4
 msgid "female^Sister of Light"
-msgstr "Siúr na Solas"
+msgstr "Siúr Sholais"
 
 #. [unit_type]: id=I8 Kharos_SunBrownwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunBrownwarrior.cfg:4
@@ -1475,12 +1475,12 @@ msgstr "Laoch Donn"
 #. [unit_type]: id=I8 Kharos_SunBrownwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunBrownwarrior.cfg:18
 msgid "Brown warriors are equipped with a very sharp sword and a mace."
-msgstr ""
+msgstr "Tá laochra donn claíomh an-ghéar agus más acu."
 
 #. [unit_type]: id=I8 Kharos_SunCavalryArcher, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcher.cfg:4
 msgid "Cavalry Archer"
-msgstr "Boghdóir Marcshlua"
+msgstr "Boghdóir Marcra"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherHeavy.cfg:35
@@ -1492,7 +1492,7 @@ msgstr "bualadh le bogha"
 #. [unit_type]: id=I8 Kharos_SunCavalryArcherHeavy, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherHeavy.cfg:4
 msgid "Heavy Cavalry Archer"
-msgstr "Boghdóir Marcshlua Trom"
+msgstr "Boghdóir Marcra Trom"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherHeavy.cfg:44
@@ -1508,12 +1508,12 @@ msgstr "Boghdóir Eiliminteach"
 #. [attack]: type=fire
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:56
 msgid "fire arrow"
-msgstr "breo saighead"
+msgstr "saighead thine"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:68
 msgid "ice arrow"
-msgstr "oighir saighead"
+msgstr "saighead oighir"
 
 #. [unit_type]: id=I8 Kharos_SunFanatic, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunFanatic.cfg:4
@@ -1530,7 +1530,7 @@ msgstr "Gheobhaidh tú bás i bhfaiteadh na súl."
 #. [unit_type]: id=I8 Kharos_SunFollower, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunFollower.cfg:4
 msgid "Sun Follower"
-msgstr "Giolla an Greine"
+msgstr "Giolla an Ghréine"
 
 #. [unit_type]: id=I8 Kharos_SunFollower, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunFollower.cfg:18
@@ -1619,7 +1619,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunMasterofsun, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunMasterofsun.cfg:4
 msgid "Master of Sun"
-msgstr "Máistir na Gréine"
+msgstr "Máistir Gréine"
 
 #. [unit_type]: id=I8 Kharos_SunMasterofsun, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunMasterofsun.cfg:18
@@ -1637,7 +1637,7 @@ msgstr "ultraluas"
 #. [unit_type]: id=I8 Kharos_SunPlatinumwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunPlatinumwarrior.cfg:4
 msgid "Platinum Warrior"
-msgstr "Laoch Platanam"
+msgstr "Laoch Platanaim"
 
 #. [unit_type]: id=I8 Kharos_SunPlatinumwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunPlatinumwarrior.cfg:19
@@ -1722,7 +1722,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_Warbanner, race=human
 #: Era_of_Magic/units/Kharos/Kharos_Warbanner.cfg:4
 msgid "War Banner"
-msgstr "Bratach Chogha"
+msgstr "Bratach Chogaidh"
 
 #. [unit_type]: id=I8 Kharos_WarbannerKharos, race=human
 #. [unit_type]: id=I8 Kharos_Warbanner, race=human
@@ -1738,7 +1738,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_WarbannerKharos, race=human
 #: Era_of_Magic/units/Kharos/Kharos_WarbannerKharos.cfg:4
 msgid "Kharos War Banner"
-msgstr "Bratach Chogha Charos"
+msgstr "Bratach Chogaidh Charois"
 
 #. [unit_type]: id=I8 AD_mbBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Baloon.cfg:4
@@ -1800,7 +1800,7 @@ msgstr "gunna mór"
 #. [unit_type]: id=I8 AD_mbHeavyBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_HeavyBaloon.cfg:4
 msgid "Heavy Balloon"
-msgstr "Balún Móra"
+msgstr "Balún Mór"
 
 #. [unit_type]: id=I8 AD_mbHeavyBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_HeavyBaloon.cfg:19
@@ -1962,18 +1962,18 @@ msgstr "rúnscríbhinní"
 #. [unit_type]: id=I8 AD_RuneArtist, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:4
 msgid "Rune Artist"
-msgstr "Ealaíontóir Rúnscríbhinn"
+msgstr "Ealaíontóir Rúnscríbhinne"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster.cfg:54
 #: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:53
 msgid "lightning bolt"
-msgstr "saighead thintrí"
+msgstr "splanc thintrí"
 
 #. [unit_type]: id=I8 AD_RuneLord, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:4
 msgid "Dwarvish Rune Lord"
-msgstr "Rúntiarna Abhcach"
+msgstr "Rúnthiarna Abhcach"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:44
@@ -1985,12 +1985,12 @@ msgstr "claíomh rúnach"
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster2.cfg:4
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster.cfg:4
 msgid "Runemaster"
-msgstr "Rúnmáistir"
+msgstr "Rúnmháistir"
 
 #. [unit_type]: id=I8 AD_maRuneSmith, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneSmith.cfg:4
 msgid "Runesmith"
-msgstr "Rúngabha"
+msgstr "Rúnghabha"
 
 #. [unit_type]: id=I8 AD_RuneWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneWarrior.cfg:4
@@ -2037,7 +2037,7 @@ msgstr ""
 #. [unit_type]: id=I8 AD_mecTank, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Tank.cfg:4
 msgid "Dwarvish Tank"
-msgstr "Tanc Abhac"
+msgstr "Tanc Abhcach"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_Tank.cfg:88
@@ -2093,7 +2093,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Avatar_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Air.cfg:4
 msgid "Air Avatar"
-msgstr "Abhatár Aer"
+msgstr "Abhatár Aeir"
 
 #. [unit_type]: id=I8 Ak_Avatar_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Air.cfg:18
@@ -2117,7 +2117,7 @@ msgstr "hairicín"
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Earth.cfg:4
 msgid "Earth Avatar"
-msgstr "Abhatár Talamh"
+msgstr "Abhatár Talún"
 
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Earth.cfg:16
@@ -2209,7 +2209,7 @@ msgstr "geata reoite"
 #. [unit_type]: id=I8 Ak_CamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:4
 msgid "Camel Rider"
-msgstr "Marcach Camall"
+msgstr "Marcach Camaill"
 
 #. [unit_type]: id=I8 Ak_CamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:20
@@ -2247,7 +2247,7 @@ msgstr "simeatár caitimh"
 #. [unit_type]: id=I8 Ak_CarpetMaster, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetMaster.cfg:4
 msgid "Carpet Master"
-msgstr "Ridire Cairpéad"
+msgstr "Ridire Cairpéid"
 
 #. [unit_type]: id=I8 Ak_CarpetMaster, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetMaster.cfg:19
@@ -2270,7 +2270,7 @@ msgstr "púdar draíochtúil"
 #. [unit_type]: id=I8 Ak_CarpetRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetRider.cfg:4
 msgid "Carpet Rider"
-msgstr "Marcach Cairpéad"
+msgstr "Marcach Cairpéid"
 
 #. [unit_type]: id=I8 Ak_CarpetRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetRider.cfg:21
@@ -2314,7 +2314,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_DG.cfg:254
 msgid "blue flame"
-msgstr "tine gorm"
+msgstr "bladhm gorm"
 
 #. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:4
@@ -2324,7 +2324,7 @@ msgstr "Geata Thoiseach a 2"
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:29
 msgid "yellow flame"
-msgstr "tine buí"
+msgstr "bladhm buí"
 
 #. [unit_type]: id=I8 Ak_DharmaRhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:4
@@ -2355,7 +2355,7 @@ msgstr "sléa sácráilte"
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiDatu.cfg:143
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:158
 msgid "cup of fire"
-msgstr "cupán bladhmadh"
+msgstr "cupán bladhma"
 
 #. [unit_type]: id=I8 Ak_Dispeller, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:4
@@ -2432,7 +2432,7 @@ msgstr "millteanas"
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:4
 msgid "Air Elemental"
-msgstr "Eiliminteach as Aer"
+msgstr "Eiliminteach Aeir"
 
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:20
@@ -2457,7 +2457,7 @@ msgstr "toirneach beag"
 #. [unit_type]: id=I8 Ak_Elemental_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Earth.cfg:4
 msgid "Earth Elemental"
-msgstr "Eiliminteach as Talamh"
+msgstr "Eiliminteach Talún"
 
 #. [unit_type]: id=I8 Ak_Elemental_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Earth.cfg:18
@@ -2477,7 +2477,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Fire.cfg:4
 msgid "Fire Elemental"
-msgstr "Eiliminteach as Tine"
+msgstr "Eiliminteach Tine"
 
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Fire.cfg:17
@@ -2495,7 +2495,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:4
 msgid "Water Elemental"
-msgstr "Eiliminteach as Uisce"
+msgstr "Eiliminteach Uisce"
 
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:27
@@ -2516,7 +2516,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Air.cfg:4
 msgid "Air God"
-msgstr "Dia as Aer"
+msgstr "Dia Aeir"
 
 #. [unit_type]: id=I8 Ak_God_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Air.cfg:21
@@ -2537,7 +2537,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Earth.cfg:4
 msgid "Earth God"
-msgstr "Dia as Talamh"
+msgstr "Dia Talún"
 
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Earth.cfg:17
@@ -2554,7 +2554,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Fire.cfg:4
 msgid "Fire God"
-msgstr "Dia as Tine"
+msgstr "Dia Tine"
 
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Fire.cfg:18
@@ -2571,7 +2571,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Water.cfg:4
 msgid "Water God"
-msgstr "Dia as Uisce"
+msgstr "Dia Uisce"
 
 #. [unit_type]: id=I8 Ak_God_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Water.cfg:28
@@ -2590,7 +2590,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_HeavyCamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:4
 msgid "Heavy Camel Rider"
-msgstr "Marcach Camall Trom"
+msgstr "Marcach Camaill Trom"
 
 #. [unit_type]: id=I8 Ak_HeavyCamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:19
@@ -2803,7 +2803,7 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_NeutralSummoner.cfg:110
 msgid "circle of balance"
-msgstr "cóimheá ciorcal"
+msgstr "ciorcal cothroim"
 
 #. [unit_type]: id=I8 Ak_Rhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Rhami.cfg:4
@@ -2938,12 +2938,12 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:99
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:135
 msgid "circle of destruction"
-msgstr "ciorcal mhillteanas"
+msgstr "ciorcal scriosta"
 
 #. [unit_type]: id=I8 Ak_SummonerIV, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:4
 msgid "Summons master"
-msgstr "Máistir Toghairm"
+msgstr "Máistir Toghairme"
 
 #. [unit_type]: id=I8 Ak_SummonerIV, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:24
@@ -3016,7 +3016,7 @@ msgstr "sceana"
 #. [unit_type]: id=I8 Tharis_Bladedancer, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Bladedancer.cfg:4
 msgid "Bladedancer"
-msgstr "Damhsóir na lanna"
+msgstr "Rinceoir Lainne"
 
 #. [unit_type]: id=I8 Tharis_Bladedancer, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Bladedancer.cfg:19
@@ -3067,7 +3067,7 @@ msgstr "bualadh le ceann"
 #. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:4
 msgid "Cold Matriarch"
-msgstr "Máthair Fuar"
+msgstr "Máthair Fhuar"
 
 #. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:19
@@ -3079,7 +3079,7 @@ msgstr ""
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:84
 msgid "matriarch-fire"
-msgstr "tine-máthair"
+msgstr "Máthair Thine"
 
 #. [unit_type]: id=I8 Tharis_Commander, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:4
@@ -3100,7 +3100,7 @@ msgstr "Laoch Dochrach"
 #. [unit_type]: id=I8 Tharis_Darkwizard, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:4
 msgid "Dark Wizard"
-msgstr "Asarlaí Dochrach"
+msgstr "Asarlaí Dhochrach"
 
 #. [unit_type]: id=I8 Tharis_Darkwizard, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:18
@@ -3140,7 +3140,7 @@ msgstr ""
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_Disciple.cfg:37
 msgid "shadow wave"
-msgstr "tonn scáth"
+msgstr "tonn scátha"
 
 #. [unit_type]: id=I8 Tharis_Commander_in_chief, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_General.cfg:4
@@ -3247,7 +3247,7 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Shadowmatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:4
 msgid "Matriarch of Darkness"
-msgstr "Máthair Dorchadais"
+msgstr "Máthair Dhorchadais"
 
 #. [unit_type]: id=I8 Tharis_Shadowmatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:20
@@ -3262,7 +3262,7 @@ msgstr ""
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:37
 #: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:32
 msgid "witch-fire"
-msgstr "cailleach-tine"
+msgstr "Cailleach Thine"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:50
@@ -3272,7 +3272,7 @@ msgstr "fuilgeata"
 #. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:4
 msgid "Dark Witch"
-msgstr "Cailleach Dubh"
+msgstr "Cailleach Dhubh"
 
 #. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:18
@@ -3367,7 +3367,7 @@ msgstr "Draíochtúil"
 #. [race]: id=I8 magical, description=
 #: Era_of_Magic/units/units.cfg:41
 msgid "race+plural^Magical"
-msgstr "Draíochtúil"
+msgstr "Draíochtúla"
 
 #. [trait]: id=magical, description={STR_NONLIVING_DESCRIPTION}
 #: Era_of_Magic/units/units.cfg:49
@@ -3488,7 +3488,7 @@ msgstr ""
 #. [regenerate]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:47
 msgid "megacircle"
-msgstr "meigeaciorcal"
+msgstr "meigeachiorcal"
 
 #. [regenerate]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:49
@@ -3633,7 +3633,7 @@ msgstr ""
 #. [resistance]: id=cr
 #: Era_of_Magic/utils/abilities.cfg:257
 msgid "circle of resistance"
-msgstr "ciorcal seasmhacht"
+msgstr "ciorcal seasmhachta"
 
 #. [resistance]: id=cr
 #: Era_of_Magic/utils/abilities.cfg:259
@@ -3649,9 +3649,8 @@ msgstr ""
 
 #. [resistance]: id=cr
 #: Era_of_Magic/utils/abilities.cfg:274
-#, fuzzy
 msgid "circle of susceptibility"
-msgstr "ciorcal mhillteanas"
+msgstr "ciorcal so-ghabhálachta"
 
 #. [resistance]: id=cr
 #: Era_of_Magic/utils/abilities.cfg:276
@@ -3661,7 +3660,7 @@ msgid ""
 "This unit and all adjacent friendly units receive a -20% to fire, cold and "
 "arcane resistance."
 msgstr ""
-"Ciorcal Seasmhacht:\n"
+"Ciorcal So-ghabhálachta:\n"
 "This unit and all adjacent friendly units receive a +20% bonus to fire, cold "
 "and arcane resistance."
 
@@ -3944,7 +3943,7 @@ msgstr ""
 #. [resistance]: id=runeauraactive
 #: Era_of_Magic/utils/abilities.cfg:776 Era_of_Magic/utils/abilities.cfg:881
 msgid "rune aura"
-msgstr "luan rúnscríbhinn"
+msgstr "luan rúnscríbhinne"
 
 #. [dummy]: id=runeaura
 #: Era_of_Magic/utils/abilities.cfg:778
@@ -4033,7 +4032,7 @@ msgstr "4"
 #. [hides]: id=swampambush
 #: Era_of_Magic/utils/abilities.cfg:962 Era_of_Magic/utils/abilities.cfg:963
 msgid "swamp ambush"
-msgstr "luíochán i corcach"
+msgstr "luíochán i gcorcach"
 
 #. [hides]: id=swampambush
 #: Era_of_Magic/utils/abilities.cfg:967
@@ -4223,7 +4222,7 @@ msgstr ""
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/abilities.cfg:1425 Era_of_Magic/utils/abilities.cfg:1458
 msgid "inspire"
-msgstr "inanálaím"
+msgstr "ionanálú"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/abilities.cfg:1430
@@ -4316,7 +4315,7 @@ msgstr ""
 #. [leadership]: id=cob
 #: Era_of_Magic/utils/abilities.cfg:1800
 msgid "circle of banishment"
-msgstr "díbirt ciorcal"
+msgstr "ciorcal díbeartha"
 
 #. [leadership]: id=cob
 #: Era_of_Magic/utils/abilities.cfg:1804
@@ -4430,7 +4429,7 @@ msgstr "9"
 #. [dummy]: id=i8cleavehydra
 #: Era_of_Magic/utils/i8cleave.cfg:670 Era_of_Magic/utils/i8cleave.cfg:894
 msgid "hydra's strike"
-msgstr "bualadh híodra"
+msgstr "bualadh hiodra"
 
 #. [dummy]: id=i8cleavehydra
 #: Era_of_Magic/utils/i8cleave.cfg:671 Era_of_Magic/utils/i8cleave.cfg:895
@@ -4457,7 +4456,7 @@ msgstr "12"
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:7
 msgid "goblin leader"
-msgstr "treoraí bobodha"
+msgstr "treoraí lucharacháin"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:11
@@ -4499,7 +4498,7 @@ msgstr ""
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:47
 msgid "troll leader"
-msgstr "treoraí troll"
+msgstr "treoraí troill"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:51
@@ -4546,7 +4545,7 @@ msgstr ""
 #. [set_menu_item]: id=summon_zhelp
 #: Era_of_Magic/utils/summon.cfg:192
 msgid "Summon Help"
-msgstr "Cabhar Tionóil"
+msgstr "Cabhair Tionóil"
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/utils/summon.cfg:206
