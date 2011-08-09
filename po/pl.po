@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-05-29 02:51-0400\n"
-"PO-Revision-Date: 2011-06-07 20:33+0100\n"
+"POT-Creation-Date: 2011-08-09 09:00-0400\n"
+"PO-Revision-Date: 2011-08-09 11:52+0100\n"
 "Last-Translator: Łukasz Wawrowski <inferno-8@wp.pl>\n"
 "Language-Team: none\n"
 "Language: pl\n"
@@ -51,7 +51,7 @@ msgstr "Bohaterowie+Magii"
 #. [language]
 #: Era_of_Magic/english.cfg:4
 msgid "range^kamikaze"
-msgstr "na odległość^kamikaze"
+msgstr "kamikaze"
 
 #. [multiplayer_side]: id=barbarians, type=I8 Barbarian_OrcishBarbarian
 #. [multiplayer_side]: id=barbarians_rpg, type=I8 Barbarian_Cyclop
@@ -105,7 +105,7 @@ msgstr "Mistrzowie Run"
 #: Era_of_Magic/factions/summoners-mrpg.cfg:4
 #: Era_of_Magic/factions/summoners-masters.cfg:4
 msgid "al-Kamija"
-msgstr "al-Kamija"
+msgstr "Al-Kamija"
 
 #. [multiplayer_side]: id=warlocks_masters, type=I8 Tharis_Greatwarlock
 #. [multiplayer_side]: id=warlocks_rpg, type=I8 Tharis_Disciple
@@ -328,7 +328,7 @@ msgstr "Mocarny Cyklop"
 #. [unit_type]: id=I8 Barbarian_GoblinArcher, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:4
 msgid "Goblin Archer"
-msgstr "Gobliński Łucznik"
+msgstr "Goblin Łucznik"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:71
@@ -350,7 +350,7 @@ msgstr "bole"
 #. [unit_type]: id=I8 Barbarian_GoblinHunter, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinHunter.cfg:4
 msgid "Goblin Hunter"
-msgstr "Gobliński Myśliwy"
+msgstr "Goblin Myśliwy"
 
 #. [unit_type]: id=I8 Barbarian_GoblinKamikaze, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinKamikaze.cfg:4
@@ -429,7 +429,7 @@ msgstr "Gobliński Chorąży"
 #. [unit_type]: id=I8 Barbarian_GoblinWarrior, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarrior.cfg:4
 msgid "Goblin Warrior"
-msgstr "Gobliński Wojownik"
+msgstr "Goblin Wojownik"
 
 #. [unit_type]: id=I8 Barbarian_OrcishBarbarian, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarian.cfg:4
@@ -544,7 +544,7 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_TrollFireWizard, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollFireWizard.cfg:4
 msgid "Troll Fire Wizard"
-msgstr "Troll Czarownik Ognia"
+msgstr "Czarownik Ognia"
 
 #. [unit_type]: id=I8 Barbarian_TrollFireWizard, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollFireWizard.cfg:27
@@ -929,7 +929,7 @@ msgstr "Jeździec Wiwern"
 #. [unit_type]: id=I8 enlightened_abyssmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:4
 msgid "Abyss Mage"
-msgstr "Mag Otchłani"
+msgstr "Mag Ciemności"
 
 #. [unit_type]: id=I8 enlightened_abyssmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:19
@@ -1074,7 +1074,7 @@ msgstr "fragment ziemi"
 #. [unit_type]: id=I8 enlightened_HiddenFace, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_HiddenFace.cfg:4
 msgid "Hidden Face"
-msgstr "Ukryta Twarz"
+msgstr "Zamaskowany"
 
 #. [unit_type]: id=I8 enlightened_HiddenFace, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_HiddenFace.cfg:18
@@ -1267,7 +1267,7 @@ msgstr "bańka"
 #. [unit_type]: id=I8 enlightened_mastermage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:4
 msgid "Mastermage"
-msgstr "Mistrzowski Mag"
+msgstr "Mistrz Magów"
 
 #. [unit_type]: id=I8 enlightened_mastermage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:18
@@ -1294,7 +1294,7 @@ msgstr "piorun"
 #. [unit_type]: id=I8 enlightened_masterofelements, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:4
 msgid "Master of Elements"
-msgstr "Mistrz Elementów"
+msgstr "Mistrz Żywiołów"
 
 #. [attack]: type=impact
 #. [attack]: type=fire
@@ -3161,7 +3161,7 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:138
 msgid "magic arrow"
-msgstr "miagiczna strzała"
+msgstr "magiczna strzała"
 
 #. [unit_type]: id=I8 Ak_SummonerIII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:4
@@ -4296,14 +4296,7 @@ msgstr ""
 #. [hides]: id=waterambush
 #: Era_of_Magic/utils/abilities.cfg:984 Era_of_Magic/utils/abilities.cfg:985
 msgid "water ambush"
-msgstr ""
-"Wodna Zasadzka:\n"
-"Jednostka potrafi się chować pod wodą.\n"
-"\n"
-"Wrogie oddziały nie mogą dostrzeć tej jednostki, kiedy stoi ona w wodzie, "
-"ale tylko pod warunkiem, że obok tej jednostki nie stoją inne, również "
-"wrogie oddziały. Jeśli jakakolwiek jednostka przypadkiem natrafi na "
-"jednostkę ukrywającą się, traci wszystkie punkty ruchu."
+msgstr "Wodna Zasadzka"
 
 #. [hides]: id=waterambush
 #: Era_of_Magic/utils/abilities.cfg:989
@@ -4344,14 +4337,7 @@ msgstr ""
 #. [hides]: id=caveambush
 #: Era_of_Magic/utils/abilities.cfg:1006 Era_of_Magic/utils/abilities.cfg:1007
 msgid "cave ambush"
-msgstr ""
-"Jaskiniowa Zasadzka:\n"
-"Jednostka potrafi się chować w jaskiniach.\n"
-"\n"
-"Wrogie oddziały nie mogą dostrzeć tej jednostki, kiedy stoi ona w tunelach "
-"jaskiń, ale tylko pod warunkiem, że obok tej jednostki nie stoją inne, "
-"również wrogie oddziały. Jeśli jakakolwiek jednostka przypadkiem natrafi na "
-"jednostkę ukrywającą się, traci wszystkie punkty ruchu."
+msgstr "Jaskiniowa Zasadzka"
 
 #. [hides]: id=caveambush
 #: Era_of_Magic/utils/abilities.cfg:1011
