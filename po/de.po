@@ -8,12 +8,13 @@
 # Drakefriend, 2011.
 # Drakefriend, 2011.
 # Drakefriend, 2011.
+# Drakefriend, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-05-29 02:51-0400\n"
-"PO-Revision-Date: 2011-06-04 19:00+0200\n"
+"POT-Creation-Date: 2011-08-14 15:06-0400\n"
+"PO-Revision-Date: 2011-07-25 18:25+0200\n"
 "Last-Translator: Drakefriend <>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -50,11 +51,13 @@ msgstr "Meister der Magie"
 
 #. [era]: id=era_default_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:103
+#, fuzzy
 msgid "Default+Magic"
 msgstr "Standard der Magie"
 
 #. [era]: id=era_heroes_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:126
+#, fuzzy
 msgid "Heroes+Magic"
 msgstr "Helden der Magie"
 
@@ -135,6 +138,7 @@ msgstr "Zyklop"
 #. [unit_type]: id=I8 Barbarian_CyclopBreaker, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_Cyclop.cfg:20
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopBreaker.cfg:21
+#, fuzzy
 msgid ""
 "Cumbersome and lacking fine intellect the Cyclop race had been driven near "
 "to extinction before becoming a part of the barbarian horde. Two centuries "
@@ -696,6 +700,7 @@ msgstr "Sumpfmagier"
 
 #. [unit_type]: id=I8_DB_DamnedShaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:20
+#, fuzzy
 msgid ""
 "Some of the Corrupted Shamans do not come out of the Great Bog. Instead, "
 "they opt to remain and find their fate there. Some of those wander to a "
@@ -728,6 +733,7 @@ msgstr "Verdorbener Schamane"
 
 #. [unit_type]: id=I8_DB_DarkShaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DarkShaman.cfg:20
+#, fuzzy
 msgid ""
 "Some of the Dark Blood Shamans get corrupted. By who, or what, nobody knows, "
 "but it makes them exchange their Water Magic for that of its polar opposite "
@@ -798,6 +804,7 @@ msgstr "Anvisieren"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:53
+#, fuzzy
 msgid "crossbow x2"
 msgstr "Beide Armbrüste"
 
@@ -808,6 +815,7 @@ msgstr "Sperrfeuer"
 
 #. [unstore_unit]
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:351
+#, fuzzy
 msgid "Second target!"
 msgstr "Zweites Ziel!"
 
@@ -833,6 +841,7 @@ msgstr "Schamane"
 
 #. [unit_type]: id=I8_DB_ShamanAdept, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:20
+#, fuzzy
 msgid ""
 "If the Dark Blood Tribe is known for something, it's their shamanistic "
 "magic. Those saurians who choose to learn it are usually frail of body and "
@@ -868,6 +877,7 @@ msgstr "Kröte"
 
 #. [unit_type]: id=I8_DB_Toad, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Toad.cfg:18
+#, fuzzy
 msgid ""
 "In the middle of the Jungle of Life lies the Great Bog, dark and marshy. It "
 "is said that many a creature make their homes there.\n"
@@ -895,6 +905,7 @@ msgstr "Wyvern"
 
 #. [unit_type]: id=I8_DB_Wyvern, race=monster
 #: Era_of_Magic/units/Darkblood/DB_Wyvern.cfg:16
+#, fuzzy
 msgid ""
 "From the marshy lands of the Great Bog hail the bloodthirsty Wyvrens. These "
 "majestic beasts of prey, which are said to be the offspring of the great "
@@ -1011,7 +1022,7 @@ msgstr "Klingen"
 #. [unit_type]: id=I8 Elementalist, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Elementalist.cfg:4
 msgid "Elementalist"
-msgstr "Kundiger"
+msgstr "Elementarier"
 
 #. [unit_type]: id=I8 Elementalist, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Elementalist.cfg:18
@@ -1097,6 +1108,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 enlightened_mage_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:4
+#, fuzzy
 msgid "Mage of air"
 msgstr "Magier der Lüfte"
 
@@ -1127,6 +1139,7 @@ msgstr "Blitz"
 
 #. [unit_type]: id=I8 enlightened_mage_of_fire, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:4
+#, fuzzy
 msgid "Mage of fire"
 msgstr "Magier der Flammen"
 
@@ -1150,6 +1163,7 @@ msgstr "Flammen"
 
 #. [unit_type]: id=I8 enlightened_mage_of_water, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Water.cfg:4
+#, fuzzy
 msgid "Mage of water"
 msgstr "Magier des Wassers"
 
@@ -1172,6 +1186,7 @@ msgstr "Wasserstoß"
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:101
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:125
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:121
+#, fuzzy
 msgid "icecles"
 msgstr "Eiszapfen"
 
@@ -1400,6 +1415,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 enlightened_subversivemage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Subversivemage.cfg:4
+#, fuzzy
 msgid "Subversive mage"
 msgstr "Verdeckter Magier"
 
@@ -1589,7 +1605,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunGoldenwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:4
 msgid "Golden Warrior"
-msgstr "Goldener Soldat"
+msgstr "Güldener Soldat"
 
 #. [unit_type]: id=I8 Kharos_SunGoldenwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:18
@@ -1828,6 +1844,7 @@ msgstr "Fliegende Festung"
 
 #. [unit_type]: id=I8 AD_FlyingFortress, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_FlyingFortress.cfg:20
+#, fuzzy
 msgid ""
 "Flying Fortresses symbolise the height of dwarfish ingenuity. Looked upon as "
 "an airborne tank, a Flying Fortress employs a trio of immense rotor blades "
@@ -1875,6 +1892,7 @@ msgstr "Schwerer Ballon"
 
 #. [unit_type]: id=I8 AD_mbHeavyBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_HeavyBaloon.cfg:19
+#, fuzzy
 msgid ""
 "As a member of the homunculus light brigade, they are most widely used as "
 "its military arm.\n"
@@ -1920,6 +1938,7 @@ msgstr "Mechaniker"
 
 #. [unit_type]: id=I8 AD_rMechanic, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:18
+#, fuzzy
 msgid ""
 "These dwarves are recruited for their uncanny knack for engineering. If "
 "their robotic creations are at the head of an offense, then the mechanics "
@@ -2008,6 +2027,7 @@ msgstr "Roter Ulfserker"
 
 #. [unit_type]: id=I8 AD_SteamUlfserkerRed, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_RedUlfserker.cfg:21
+#, fuzzy
 msgid ""
 "These beings are born from a ancient tradition, when dwarves become attached "
 "to their creations, and instead of reducing robotic corpses to scrap, they "
@@ -2075,7 +2095,7 @@ msgstr "Blitz"
 #. [unit_type]: id=I8 AD_RuneLord, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:4
 msgid "Dwarvish Rune Lord"
-msgstr "Runenoberer"
+msgstr "Runeneroberer"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:44
@@ -2158,6 +2178,7 @@ msgstr "Techniker"
 
 #. [unit_type]: id=I8 AD_rTechnician, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:21
+#, fuzzy
 msgid ""
 "Blessed with remarkable deftness with their fingers, these Technicians "
 "refute all that demean their race as heavy handed, drunkards, and if any "
@@ -2195,6 +2216,7 @@ msgstr "Infanterist"
 
 #. [unit_type]: id=I8 AD_dWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Warrior.cfg:20
+#, fuzzy
 msgid ""
 "Though Runists in name, very few of dwarfish kin have both have the capacity "
 "and the willingness to dedicate their existences in rune-making. Instead, "
@@ -2207,14 +2229,25 @@ msgid ""
 "inhabit, then they will be greeted by these foot soldiers, blade bearing "
 "warriors that are sure to fend off any attempts at assault."
 msgstr ""
+"Auch wenn sie de iure Runologen sind, bringen nur sehr wenige Zwerge sowohl "
+"Talent als auch Wille auf, ihr Leben der Runenkunde zu widmen. Stattdessen "
+"wenden sie sich dem zu, was sie für das von der Natur vorgesehene halten- "
+"dem Soldatentum. Ihre stämmige Statur ist dazu sehr geeignet, wenn sie mit "
+"natürlicher Begeisterung den Umgang mit den Waffen lernen.\n"
+"\n"
+"Sollte jemand um den Zorn eines Zwergenreiches sein, dann gescheh dies auf "
+"eigene Gefahr, denn falls jemand in ihre eisernen Bastionen eindringt und "
+"ihr leben bedroht, werden sie von dieser Infanterie begrüßt werden, "
+"klingenschwingende Soldaten, die jeden Angriff vereiteln werden."
 
 #. [unit_type]: id=I8 Ak_Avatar_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Air.cfg:4
 msgid "Air Avatar"
-msgstr "Luftmanifestion"
+msgstr "Luftmanifestation"
 
 #. [unit_type]: id=I8 Ak_Avatar_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Air.cfg:18
+#, fuzzy
 msgid ""
 "Air avatars have distinguished themselves from mere elementals, developing "
 "into stormy vortexes, wind and dark clouds circulating inside and outside "
@@ -2224,6 +2257,12 @@ msgid ""
 "created, drifting from place to place, crackling with lightning from within "
 "their ethereal innards."
 msgstr ""
+"Luftmanifestionen unterscheiden sich von bloßen Luftgeistern: Sie entwickeln "
+"sich zu tosenden Windhosen, von Gewitterwolken umtost. Manifestationen haben "
+"sich in lebende Stürme verwandelt. Durch ihren festeren Körper sind sie "
+"weniger anfällig gegen gemeine Schwerter und Pfeile. Luftmanifestationen "
+"bewegen sich in den von ihnen erschaffenen Winden, während Blitze aus ihrem "
+"ätherischen Inneren zucken."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Summoners/AlKamija_God_Air.cfg:110
@@ -2235,10 +2274,11 @@ msgstr "Wirbelsturm"
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Earth.cfg:4
 msgid "Earth Avatar"
-msgstr "Erdmanifestion"
+msgstr "Erdmanifestation"
 
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Earth.cfg:16
+#, fuzzy
 msgid ""
 "Avatars of the earth, though colossal, are slow-moving, hobbled by the "
 "weight of their bulk. For this reason, earth avatars are bought out into the "
@@ -2249,6 +2289,13 @@ msgid ""
 "sculptures; over time, avatars begin to house tiny sprigs of vegetation "
 "growing outside of its rocky cracks."
 msgstr ""
+"Die Manifestationen der Erde sind gewaltig, doch auch langsam durch ihre "
+"immense Masse. Deshalb werden sie in der Schlacht eingesetzt, um wichtige "
+"Landmarken wie Berge zu halten. In den zu verteidigenden Gebieten "
+"zerquetschen sie gegnerische Trupps mit unnatürlicher Stärke, ohne selbst an "
+"den Angriffen zu leiden. Ist alles getan, stehen diese Riesen still wie "
+"gewaltige Statuen; im Laufe der Zeit siedeln sich in den Felsspalten einer "
+"Erdmanifestation Pflanzen an."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Earth.cfg:51
@@ -2260,10 +2307,11 @@ msgstr "Lawine"
 #. [unit_type]: id=I8 Ak_Avatar_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Fire.cfg:4
 msgid "Fire Avatar"
-msgstr "Feuermanifestion"
+msgstr "Feuermanifestation"
 
 #. [unit_type]: id=I8 Ak_Avatar_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Fire.cfg:17
+#, fuzzy
 msgid ""
 "After fire consumes enough fuel-flesh, bones, wood, iron, even entire "
 "landscapes-it will unavoidably grow into something far more sinister in "
@@ -2273,14 +2321,23 @@ msgid ""
 "its fire-wrought claws. Only dauntless summoners are able to lead such "
 "devastating beings in war without fear of being reduced to ashes."
 msgstr ""
+"Wenn Feuer genug Brennstoff- sprich: Fleisch, Knochen, Holz, Eisen, ganze "
+"Landstriche gar- verzehrt, wird es zwangsläufig zu etwas wachsen von viel "
+"ominöserer Gestalt. Es ist ein entsetzlicher Anblick, wie eine "
+"Feuermanifestation mit feurigen Schwingen emporsteigt und Erde und Menschen "
+"in lohendes Licht taucht. Die verstärkte Magie ihres Körpers verleiht ihren "
+"flammenden Krallen Zauberkraft. Nur die furchtlosesten Beschwörer können mit "
+"solch zerstörerischen Kreaturen in den Krieg ziehehn, ohne zu fürchten, zu "
+"einem Häufchen Asche zu verbrennen."
 
 #. [unit_type]: id=I8 Ak_Avatar_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Water.cfg:4
 msgid "Water Avatar"
-msgstr "Wassermanifestion"
+msgstr "Wassermanifestation"
 
 #. [unit_type]: id=I8 Ak_Avatar_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Water.cfg:25
+#, fuzzy
 msgid ""
 "With time, the water elemental dramatically increases both its size and "
 "strength of current to become something grander: an avatar of water. "
@@ -2291,6 +2348,14 @@ msgid ""
 "sometimes wondered why the frothy tides of a beach were pulling at his feet "
 "in the middle of a battlefield."
 msgstr ""
+"Im Laufe der Zeit werden Größe und Strömung eines Wassergeistes zu etwas "
+"viel gewaltigeren erhoben: Einer Manofestation des Wassers. "
+"Wassermanifestationen verändern ihre ruhelos in hypnotisierenden Spiralen "
+"pulsierenden Leiber in jene Form, welche in der Schlacht nützlich ist. Ihre "
+"Körper sind unruhiger geworden und wilder in der Hitze des Gefechts, eine "
+"chaotische Brandung aus Wasser und Regen. Aus diesem Grund haben sich viele "
+"verwirrte Soldaten gefragt, wieso die Tiden eines Strandes in der Schlacht "
+"ihn von den Füßen rissen."
 
 #. [unit_type]: id=I8 Ak_Banisher, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:4
@@ -2328,6 +2393,7 @@ msgstr "Kamelreiter"
 
 #. [unit_type]: id=I8 Ak_CamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:20
+#, fuzzy
 msgid ""
 "For the fledgling soldier, camels are a rare spectacle to be seen on the "
 "fronts. Unlike their traditional brothers and sisters used as beasts of "
@@ -2340,6 +2406,15 @@ msgid ""
 "forerunners of the Summoners' brunt strength, moving at galloping speed into "
 "the fray."
 msgstr ""
+"Für Rekruten sind Kamele ein seltener Anblick an der Front. Anders als ihre "
+"traditionellen Geschwister, die Fernhändlern als Lasttiere dienen, sind die "
+"Schlachtkamele speziell auf Schnelligkeit und Stärke gezüchtet, nicht auf "
+"Ausdauer. Ihre Reiter tragen einen Säbel in der Hand für den Nahkampf sowie "
+"dutzende kleinere, die auf entfernte Gegner geworfen werden; auf diese "
+"Fertigkeit sind die Kamelreiter besonders stolz.\n"
+"\n"
+"Als Experten der Erkundung und für Überfälle dienen Kamelsreiter als die "
+"Vorhut der Truppen der Beschwörer, die zur Flanke galoppiert."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:98
@@ -2366,6 +2441,7 @@ msgstr "Legendärer Teppich"
 
 #. [unit_type]: id=I8 Ak_CarpetMaster, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetMaster.cfg:19
+#, fuzzy
 msgid ""
 "Captains of the winds, any carpet master can attest to having ridden the "
 "skies more times than he can count. A carpet master's worth is still his "
@@ -2375,6 +2451,13 @@ msgid ""
 "well-protected of targets. Prized with a more regal carpet, the carpet "
 "master soars through the air as effortlessly as any bird."
 msgstr ""
+"Als Meister der Winde kann jeder Pilot eines Legendären Teppichs bezeugen, "
+"öfter den Himmel geritten zu sein, als er zählen kann, Sein Wert besteht "
+"immer noch darin, weite Entfernungen zurückzulegen, auch wenn seine "
+"Fernkampffähigkeiten formidabel sind. Durch die Schlachten ist sein "
+"Zielvermögen mit den Pulverbomben merklich gestiegen, weshalb er auch die "
+"wendigsten oder bestgeschützten Ziele treffen kann. Durch den Legendären "
+"Teppich kann er so mühelos fliegen wie ein Vogel."
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetRider.cfg:74
@@ -2389,6 +2472,7 @@ msgstr "Fliegender Teppich"
 
 #. [unit_type]: id=I8 Ak_CarpetRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetRider.cfg:21
+#, fuzzy
 msgid ""
 "\n"
 "According to legend, the magic carpet originated from the desires of of a "
@@ -2407,6 +2491,23 @@ msgid ""
 "A magical carpet cannot hold much weight, so their riders are armed with "
 "explosive powder bombs which they use to attack and disorient their targets."
 msgstr ""
+"\n"
+"Der Legende zufolge ist der Fliegende Teppich folge der Wünsche einer "
+"reichen Prinzessin. Soe wünschte eine neue Form der Reise, die bequem und "
+"entspannend sei, aber ostentativ genug für ihren Geschmack. Kutschen und "
+"Kamele waren ihr zu gewöhnlich und schlicht, denn sie wollte eine Neuheit "
+"für die Reisen al-Kamijas. Schließlich verwob einer ihrer erfahrenen "
+"Zauberer verzauberten Stoff und nannte das Ergebnis \"Fliegender Teppich\". "
+"Bald danach begann die ganze Oberschicht, diese magischen Teppiche zu "
+"benutzen.\n"
+"\n"
+"Selbstverständlich erlangten die Fliegenden Teppiche große militärische "
+"Bedeutung, wobei sie nur von den verwegendsten und furchtlosesten jungen "
+"Männern geflogen werden. Auf ihren seltsamen Gefährten vollbringen diese "
+"Fliegerasse respekteinflößende Taten bei Aufklärung und schneller "
+"Kriegsführung. Ein Fliegender Teppich kann nicht viel Gewicht aushalten, "
+"sodass seine Rieter mit Pulverbommben bewaffnet sind, um ihre Gegner "
+"anzugreifen und zu verwirren."
 
 #. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DG.cfg:108
@@ -2417,6 +2518,7 @@ msgstr "Dimensiontor"
 #. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:16
 #: Era_of_Magic/units/Summoners/AlKamija_DG.cfg:120
+#, fuzzy
 msgid ""
 "The most inexperienced of summoners are capable of summoning only "
 "dimensional gates: unstable bridges of arcane energy between this world and "
@@ -2425,6 +2527,12 @@ msgid ""
 "a single fallen life is all that the gate requires in order to solidify "
 "itself into a true door for a being from the Abyss to emerge out of."
 msgstr ""
+"Die erfahrungsloseste Beschwörer können nur Dimensionstore beschwören: "
+"instabile Brücken mystischer Energien zwischen dieser Welt und dem Abgrund. "
+"Dimensionstore sind ihrer primitiver Natur zu Trotz mit genauen Nadelstichen "
+"angreifen. Sind sie auch schwach und leicht zu zerstören, reicht ein "
+"einziges ausgehauchtes Leben aus, dass sich das Tor zu einem wahren Portal "
+"verfestigt, durch die ein Wesen aus dem Abgrund austreten kann"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_DG.cfg:254
@@ -2448,6 +2556,7 @@ msgstr "Dharma'rhami"
 
 #. [unit_type]: id=I8 Ak_DharmaRhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:18
+#, fuzzy
 msgid ""
 "Dharma'rhamis are inflamed with blood-red skin, ornamented in trinkets and "
 "carrying a spear with their other two blades. Their appearances grant them "
@@ -2457,12 +2566,21 @@ msgid ""
 "with their weaponry as their lesser beings, opposition will crushed by a "
 "Dharma'rhami with brutal force and tactics."
 msgstr ""
+"Dharma'rhami' sind mit blutroter Haut gezeichtet, durch Ringe verziert und "
+"neben ihren beiden anderen Klingen mit einem Speer bewaffnet. Ihr Aussehen "
+"lässt einen leidenschaftlichen Kämpfer erwarten, doch sind sie nach außen "
+"hin ruhig und abwiegend und kämpfen ohne Verlangen nach Blutvergießen. "
+"Trotzdem werden sie immer noch von einem gehiemnisvollen Rachegedanken in "
+"den Reihen der Beschwörer getrieben, Ebenso geschickt mit ihren Waffen wie "
+"niedere Rhami', wird eine Dharma'rhami Widerstand durch brutale Gewalt und "
+"Taktik niederschlagen."
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:122
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:134
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:134
+#, fuzzy
 msgid "devine spear"
 msgstr "Göttlicher Speer"
 
@@ -2479,6 +2597,7 @@ msgstr "Austreiber"
 
 #. [unit_type]: id=I8 Ak_Dispeller, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:19
+#, fuzzy
 msgid ""
 "Some Summoners choose opposite path of the summoning arts, which is known as "
 "the art of banishment. Instead of bringing magical beings to this world, "
@@ -2488,6 +2607,12 @@ msgid ""
 "Special Notes: Banish: this unit can effecively fight with magical units by "
 "turning them into Dimensional Gates."
 msgstr ""
+"Einige Beschwörer wählen den der Beschwörung entgegengesetzten Pfad, bekannt "
+"als die Kunst des Bannens. Statt magische Kreaturen in diese Welt zu "
+"bringen, spezialisieren sie sich darauf, sie in den Abgrund "
+"zurückzuschicken. Wegen dieses nützlichen Wissens werden Austreiber oft von "
+"den anderen Beschwörern zu Hilfe gerufen, wenn etwas schief geht, etwa, wenn "
+"ein Afrit sich auflehnt."
 
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Efreeti.cfg:4
@@ -2496,6 +2621,7 @@ msgstr "Afrit"
 
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Efreeti.cfg:18
+#, fuzzy
 msgid ""
 "Cataclysmic by nature, efreets are jinns who have rejected most, if not all, "
 "of their inner desires to learn. Efreets, for profound reasons beyond the "
@@ -2504,6 +2630,13 @@ msgid ""
 "hue, tempering their magic with fire's touch. In battles, efreets bask in "
 "razing and laying waste to whatever their blazes can reach."
 msgstr ""
+"Von Natur aus eine Katastrophe sind Afriten Dschinn, die ihren innneren "
+"Wissensdurst größten teils oder gar vollständig abgelehnt haben. Aus "
+"Gründen, die für ihre Genossen nicht nachvollziehbar sind, versuchen "
+"Afriten, Zerstörung auf ihren Streifzügen auszusähen. Ihre Haut hat ist "
+"scharlach geworden, ihre Magie mit feuriger Berührung verändert. In der "
+"Schlacht legen Afriten alles in Schutt und Asche, was ihre Lohen erreichen "
+"können."
 
 #. [attack]: type=arcane
 #. [attack]: type=fire
@@ -2528,6 +2661,7 @@ msgstr "Großer Afrit"
 
 #. [unit_type]: id=I8 Ak_EfreetiGreat, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:19
+#, fuzzy
 msgid ""
 "Great efreetis seethe with a fiery rage that manifests itself in the form of "
 "their magic's wake. In bodies of smoldering heat and flames, both militants "
@@ -2538,6 +2672,14 @@ msgid ""
 "summoners who drive them forward, making as much use as possible of their "
 "blasts of hellfire and ravaging firestorms."
 msgstr ""
+"Ein Großer Afrit glüht mit einer feurigen Rage, die sich in der Gestalt "
+"ihrer Zauber niederschlägt. In Körpern aus brütender Hitze und Flammen "
+"wurden Kämpfer wie Zivilisten zu verkohlten Leichen und schließlich zu Asche "
+"verbrannt von diesen glühenden Wesen. Siedlungen werden über Nacht von eienm "
+"Großen Afriten ausgelöscht, nichts bleibt über als rauchende Ruinen. Wenig "
+"ist über ihr Ziel oder ihren Zorn bekannt, aber wenig kümmert dies die "
+"Beschwörer, weche sie vorwärts treiben, um ihre Brünste aus Höllenfeuer und "
+"wütenden Feuerstürme am besten auszunutzen."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:128
@@ -2551,6 +2693,7 @@ msgstr "Luftgeist"
 
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:20
+#, fuzzy
 msgid ""
 "Air elementals are magical entities built entirely out of the Abyssal "
 "atmosphere. Summoned elementals, introduced in a world where air is "
@@ -2563,6 +2706,16 @@ msgid ""
 "Still, summoners who stir such beings into their world know that an air "
 "elemental could vanish just as quickly as it was summoned forth."
 msgstr ""
+"Luftgeister sind magische Geschöpfe, die ausschließlich aus der Atmosphäre "
+"des Abgrundes bestehen. Werden diese Geister in eine Welt befördert, in der "
+"Luft allgegenwärtig ist, erneuert sich ihr Körper fortwährend. Aufgrund "
+"ihrer Anatomie ist diese Form von Elementargeist schnell und schlecht zu "
+"fassen, obschon ein gut plazierter Angriff sie sofort zerstören könnte. "
+"Allerdings ist ein \"gut plazierter Angriff\" recht schwer bei diesen "
+"Geistern zu plazieren, wenn man bedenkt, dass sie aus Luft bestehen,\n"
+"\n"
+"Nichtsdestotrotz wissen Beschwörer, die diese Wesen in ihre Welt rufen, dass "
+"ein Luftgeist ebensoschnell vergehen kann, wie er herbeibeschworen wurde."
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:129
@@ -2588,6 +2741,16 @@ msgid ""
 "regenerative abilities by their summoners to improve them as living shields, "
 "thus expanding their lifespans and their services to their masters."
 msgstr ""
+"Die unnachgiebigsten Elementargeister sind jene, die der Erde entspringen. "
+"Diese riesigen Geister haben jeder für sich die Kraft von gut zehn Männern, "
+"doch ihre wahre Funktion ist die lebender Festungen, die die Schlachtreihen "
+"mit ihrer unnachgiebigen und harten Felsenhaut verteidigen. Erdgeister "
+"können schwere Schläge einstecken, bis sie schlussendlich zu Felsbrocken "
+"zerfallen, um zur Erde zurückzukehren.\n"
+"\n"
+"Nachdem sie aus dem Abgrund beschworen wurden, werden Erdgeister von ihren "
+"Beschwörern mit Regenerationsfähigkeit verzaubert, um sie als lebende "
+"Schilde zu verbessern, sodass ihre Lebens- und Dienstzeit verlängert wird."
 
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Fire.cfg:4
@@ -2596,6 +2759,7 @@ msgstr "Feuergeist"
 
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Fire.cfg:17
+#, fuzzy
 msgid ""
 "Fire is a dangerous manifestation of nature's destruction. While adept users "
 "of magic can craft fire from nothing but thin air, there is nothing more "
@@ -2606,6 +2770,13 @@ msgid ""
 "bright with mindlessness and follows the orders of its summoner until its "
 "very extinguishing."
 msgstr ""
+"Feuer ist eine gefährliche Form der zerstörerischen Natur. Während fähige "
+"Zauberer Feuer aus dünner Luft schaffen können, ist nichts schrecklicher als "
+"eine wahrliche Verkörperung von lebenden Feuer und Zorn. Als aus dem Abgrund "
+"beschworenes Geschöpf mystischer Energien, fast immer für den Krieg, ist die "
+"feurige Gestalt des Feuergeistes in tiefster Nacht sichtbar. Sobald der "
+"Geist in diese Welt eintritt, brennt er voller Gedankenlosigkeit und folgt "
+"den Befehlen seines Beschwörers, bis er erloschen ist."
 
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:4
@@ -2614,6 +2785,7 @@ msgstr "Wassergeist"
 
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:27
+#, fuzzy
 msgid ""
 "The Abyss is home to aquatic beings composed of nothing more than the same "
 "pure water essential for all living creatures. Such a being is held together "
@@ -2627,6 +2799,18 @@ msgid ""
 "find their bodies frozen at a moment's glance, their limbs transformed into "
 "cold, useless ice."
 msgstr ""
+"Der Abgrund ist Heimat aquatischer Wesen, die aus nichts bestehen als dem "
+"reinen Wasser, das alles Leben benötigt. Ein solches Wesen wird durch einen "
+"Zauber zusammengehalten, der seinen ganzen wässrigen Körper durchfließt. "
+"Deshalb regeneriert es sich, wenn es in einem anderen Wasserkörper "
+"untertaucht. Das außergewöhnliche Wasser in seinem Körper hat beschränkte "
+"Heilkraft, die die Wunden  Verbündeter lindern kann. Weniger aggressiv als "
+"andere Bewohner des Abgrundes, werden Wassergeister von eher konservativen "
+"Beschwörern bevorzugt.\n"
+"\n"
+"Doch diese Geister sind ganz und gar nicht harmlos, und ein unvorsichtiger "
+"Gegner wird möglicherweise im nu erstarren, seine Glieder nicht mehr als "
+"kaltes, nutzloses Eis."
 
 #. [unit_type]: id=I8 Ak_God_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Air.cfg:4
@@ -2635,6 +2819,7 @@ msgstr "Luftgott"
 
 #. [unit_type]: id=I8 Ak_God_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Air.cfg:21
+#, fuzzy
 msgid ""
 "Men fear the wind-what can be a gentle zephyr in the afternoon can turn into "
 "a twister in the evening. Wind and storm can turn the staunchest man into a "
@@ -2648,6 +2833,18 @@ msgid ""
 "nimbus of raging thunder and rain living in the skies, extending calamity to "
 "wherever the eye of its storm gazes."
 msgstr ""
+"Die Menschen füchten den Wind- was am Nachmittag eine sanfte Brise war, kann "
+"am Abend eine Windhose geworden sein. Wind und Sturm können den Stärksten in "
+"eine am Himmel tanzende Puppe verwandeln; Blitze werden ihn dann zurück auf "
+"den Boden bringen. Doch Luftgötter sind aus noch mehr Gründen zu fürchten, "
+"wie sie auf ihren eigenen Winden reiten, um jederzeit ihre eigenen "
+"Katastrophen zu entfesseln, sobald es ihnen befohlen wird. Die Götter der "
+"Lüfte sind nahezu immun gegen nahezu jeden körperlichen Angriff, und ihre "
+"Körper sind so gut wie nicht von einem echten Sturm zu unterscheiden.\n"
+"\n"
+"Die Beschwörer al-Kamijas glauben, selbst der Himmel erzittere im Angesicht "
+"diesem riesigen Gewitters rasender Blitze, das allem, was das Auge des "
+"Sturmes erblickt, das verderben bringt."
 
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Earth.cfg:4
@@ -2656,6 +2853,7 @@ msgstr "Erdgott"
 
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Earth.cfg:17
+#, fuzzy
 msgid ""
 "Earth gods are simply gargantuan: one raised fist can shake the very "
 "foundations of the land. Many tales have been told about the work of such "
@@ -2665,6 +2863,13 @@ msgid ""
 "strike, and continuously regenerating their stony bodies, earth gods are no "
 "easy feat to bring down-or even force back."
 msgstr ""
+"Erdgötter sind schlicht gigantisch: eine erhobene Faust kann den Grund des "
+"Landes erschüttern. Viele Geschichten werden erzählt von den Taten jener "
+"Götter, die die Erde überragten, so gewaltig, dass ganze Dörfer in ihrer "
+"Gegenwart winzig erscheinen. Als Bollwerke gegen Schwerter, Lanzen und "
+"Zauber, Dutzende mit einem einzigen Schlag auf dem Boden zermalmend, stets "
+"ihre steinernden Körper regenerierend, sind Erdgötter nur schwerlich nieder- "
+"oder auch nur auf die Knie zu zwingen."
 
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Fire.cfg:4
@@ -2673,6 +2878,7 @@ msgstr "Feuergott"
 
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Fire.cfg:18
+#, fuzzy
 msgid ""
 "Upon reaching the pinnacle of its conflagration, the elemental has utterly "
 "become a moving inferno, a god of its own respect. Even the summoners who "
@@ -2682,6 +2888,14 @@ msgid ""
 "its flames, the fire god appears as a miniature sun in the darkest of "
 "nights. Everything in its marked path is set ablaze."
 msgstr ""
+"Am Höhepunkt seiner Lohe wird ein Feuergeist ein sich bewegendes Inferno, "
+"ein Gott. Selbst jene Beschwörer, die solche Legenden aus dem Abgrund "
+"fördern, erzittern vor dem Anblick des Flugs des lodernden Phönix, wenn "
+"seine riesigen Flügel Funken und Flammen dem Boden weit unterhalb entgegen "
+"schicken. Mit jedem Feind, der seinen Flammen anheil fällt, wird er heller "
+"und stärker, in der Nacht erscheint der Feuergott wie eine kleine Sonne in "
+"der dunkelsten der Nächte. Alles, was in seinem Wege steht, wird in Flammen "
+"gelegt."
 
 #. [unit_type]: id=I8 Ak_God_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Water.cfg:4
@@ -2690,6 +2904,7 @@ msgstr "Wassergott"
 
 #. [unit_type]: id=I8 Ak_God_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Water.cfg:28
+#, fuzzy
 msgid ""
 "Scarce even in the Abyss, water gods have frozen into the shape of glacial "
 "serpents. Despite their rigid appearance, these beasts of water dart across "
@@ -2701,6 +2916,15 @@ msgid ""
 "can freeze a man's heart even before his body is engulfed in a bone-chilling "
 "blizzard."
 msgstr ""
+"Selbst im Abgrund sind Wassergötter selten. Sie sond in die Gestalt eisiger "
+"Schlangen gefroren. Ihrem starren Aussehen zu trotz gleiten jene Monster des "
+"Wassers über das Land mit erstaunlichem Anmut und Beweglichkeit. "
+"Wassergötter gelten in al-Kamija als Wunder des Lebens, das magische Wasser "
+"in ihnen erlaubt ihnen, Verbündete durch ihre bloße Anwesenheit zu heilen.\n"
+"\n"
+"Ihre frostige Schönheit und Stärke, die jeden, der sich al-Kamija "
+"entgegenstellt. verwirrt, kann das Herz gefrieren lassen, noch bevor der "
+"Körper in einem bitterkalten Schneestumr gefangen ist."
 
 #. [unit_type]: id=I8 Ak_HeavyCamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:4
@@ -2709,6 +2933,7 @@ msgstr "Kamelritter"
 
 #. [unit_type]: id=I8 Ak_HeavyCamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:19
+#, fuzzy
 msgid ""
 "Camels and riders that survive their first battles together and become "
 "versed in their skill are promoted to the next and highest rank, the heavy "
@@ -2718,6 +2943,13 @@ msgid ""
 "they train small groups of less experienced riders, while in war they "
 "perform the role of vanguard, riding ahead of summoners and their elementals."
 msgstr ""
+"Kamele und Reiter, die ihre ersten gemeinsamen Schlachten überleben und sehr "
+"großes Geschick erlangen, werden in den nächsten Rang erhoben, den des "
+"Kamelritters. Mit ihrer neuen Position setzen sich Kamelritter von den "
+"übrigen Kamelreitern ab, indem sie ihr Kamel und sich mit farbigen Stoffen, "
+"Amuletten und Perlen schmücken. Im Frieden bilden sie kleine Gruppen weniger "
+"erfahrener Reiter aus, während sie im Krieg als Vorhut dienen und den "
+"Beschwörern und ihren Geistern vorausreiten."
 
 #. [unit_type]: id=I8 Ak_SummonerHeavy, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:4
@@ -2726,6 +2958,7 @@ msgstr "Schwerer Beschwörer"
 
 #. [unit_type]: id=I8 Ak_SummonerHeavy, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:23
+#, fuzzy
 msgid ""
 "A summoner trained in the 'heavy arts' holds a unique advantage over other "
 "summoners of the Third Degree: the knowledge of summoning a support-based "
@@ -2743,6 +2976,22 @@ msgid ""
 "Like their fellow neutral summoners, heavy summoners can call forth Rhamis "
 "from the Abyss through their summoning circles."
 msgstr ""
+"Ein Beschwörer, der doe \"Schweren Künste\" erlernt, verfügt über einen "
+"einzigartigen Vorteil gegenüber anderen Beschwörern des Drotten Ranges: das "
+"Wissen, wie man einen Hilfskreis beschwören kann, den Schutzkreis, der ihn "
+"und seine Verbündeten gegn magische Angriffe abschirmt, sodass diese weniger "
+"Schaden anrichten und die Kammeraden des Schweren Beschwörers stets "
+"geschützt sind.\n"
+"\n"
+"Schwere Beschwörer sind sehr gut im Handgemenge und haben mächtige Staturen, "
+"die auf Stärke und Zähigkeit ausgelegt sind. Statt sich auf die Verbesserung "
+"ihrer Beschwörungsfähigkeit zu konzentrieren, trainieren sie ihre Muskeln im "
+"Laufe der Jahre, um den Nahkampf zu beherrschen. Schwere Beschwörer benutzen "
+"weiterhin ihre Fähigkeit des Zweiten Ranges, magische Pfeile zu verschießen, "
+"doch diese Föhigkeit ist in den Hintergrund getreten vor ihre Körperkraft.\n"
+"\n"
+"Wie die Neutralen Beschwörer können Schwere Beschwörer durch ihre Portale "
+"Rhami' aus dem Abgrund rufen."
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:116
@@ -2763,6 +3012,7 @@ msgstr "Ho'rhami"
 
 #. [unit_type]: id=I8 Ak_HoRhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:18
+#, fuzzy
 msgid ""
 "Ho'rhamis are the generals of the summoners' armies, looking down upon the "
 "battlefield with an impartial eye. Though still avengers at heart, "
@@ -2772,6 +3022,13 @@ msgid ""
 "their inner magic has emerged to form the shape of a spear, attacking "
 "opponents from afar with precise deadliness."
 msgstr ""
+"Ho'rhami' sind die Feldherren der Armeen al-Kamijas. Sie sehen mit einem "
+"unvoreingenommenen Blick auf das Schlachtfeld hinab. Auch wenn sie immernoch "
+"iim Herzen Rächer sind, haben Ho'rhami' als Anführer begriffen, wie man die "
+"Leben einiger Genossen mit denen anderer abwiegen muss. Wenn Ho'rhami' an "
+"vorderster Front führen, schlagen sie rücksichtslos zu, wobei ihre beiden "
+"Speere durchbohren und lebendig zerfetzen. Selbst ihre innere Magie tritt "
+"als Speer auf, um Gegner aus der Ferne mit tödlicher Genauigkeit zu treffen."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:123
@@ -2807,11 +3064,11 @@ msgid ""
 msgstr ""
 "Dschinn sind sogar in bezug auf die Beschwörer eine Besonderheit, wegen "
 "ihrer geistigen Fähigkeiten zu sprechen, zu denken, zu lernen, zu verstehen; "
-"ein Hang, den kein anderer Bewohner des Dimensionalen Abgrundes je erreichen "
-"kann. Da sie vollständig aus Magie bestehen, sind sie zwar verwundbar durch "
-"arkane Zauber, nicht so sehr jedoch durch physische Waffen. Auch wenn diese "
-"Wesen wie Menschen fehlbar sind, sind sie kostbare Verbündete Al-Kamijas. "
-"Ihre neugierigen Gedanken sind immer auf der Suche."
+"ein Hang, den kein anderer Bewohner des Abgrundes je erreichen kann. Da sie "
+"vollständig aus Magie bestehen, sind sie zwar verwundbar durch arkane "
+"Zauber, nicht so sehr jedoch durch physische Waffen. Auch wenn diese Wesen "
+"wie Menschen fehlbar sind, sind sie kostbare Verbündete Al-Kamijas. Ihre "
+"neugierigen Gedanken sind immer auf der Suche."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn.cfg:357
@@ -2839,11 +3096,11 @@ msgid ""
 "they have."
 msgstr ""
 "Jungbeschwörer lernen schnell, dass Dschinn grundverschieden sind von den "
-"Elementargeistern, die sie aus dem Dimensionalen Abgrund beschworen. Dschinn "
-"besitzen eine unstillbaren Wissenshunger, und das Wissen wird sie bald zu "
-"Großen Dschinn erheben. Nun weiser als ihre Heerren und der Grundlagen der "
-"Beschwörung kundig, werden Große Dschinn wie Menschen behandelt, wenn sie "
-"nicht gar als noch intelligenter gelten.\n"
+"Elementargeistern, die sie aus dem Abgrund beschworen. Dschinn besitzen eine "
+"unstillbaren Wissenshunger, und das Wissen wird sie bald zu Großen Dschinn "
+"erheben. Nun weiser als ihre Heerren und der Grundlagen der Beschwörung "
+"kundig, werden Große Dschinn wie Menschen behandelt, wenn sie nicht gar als "
+"noch intelligenter gelten.\n"
 "\n"
 "Große Dschinn bekleiden oft Führungspositionen, führen Regimenter und halten "
 "gar Posten in Räten inne. Dank ihrer klugen Geister und trotz der ihnen "
@@ -2890,13 +3147,13 @@ msgid ""
 msgstr ""
 "'Was ist Erleuchtung? Ist es der Vorhang der Dunkelheit, der vor dem Auge "
 "fällt.wenn der Tod sich anschleicht? Ist es das leuchtende Rot vergossenen "
-"Bluts, dasaus durchschnittener Gurgel strömt? Das Reißen der verzerrten "
-"Realität? Oder die letzte Schrei, wenn mein Zauber des Kämpen Herz erreicht? "
-"Ich weiß es nicht.\n"
+"Bluts, das aus durchschnittener Gurgel strömt? Das Reißen der Welt, wenn "
+"Diimensionen verzerrt werden? Oder die letzte Schrei, wenn mein Zauber des "
+"Kämpen Herz erreicht? Ich weiß es nicht.\n"
 "\n"
 "Und doch gibt es eine gewisse Satisfikation, die nur durch meine Taten und "
 "Werke über die Zeitalter der Menschen zu erreichen sind. Es ist eine Freude "
-"so glatt, dass meine Existenz nicts anders kann als zu frohlocken. Doch da "
+"so glatt, dass meine Existenz nichts anders kann als zu frohlocken. Doch da "
 "ist noch mehr...Welten, deren Erforschung ich erst begonnen habe. So groß "
 "meine Macht auch sein mag, ist sie nichtig verglichen mit Größerem. Ich muss "
 "alle Welten erkunden, ungeachtet ihrer Zahl und Größe im Multiversum.\n"
@@ -2911,7 +3168,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Mystic.cfg:258
 msgid "dimensional vortex"
-msgstr "Verzerrung der Dimensionen"
+msgstr "Strudel der Dimensionen"
 
 #. [unit_type]: id=I8 Ak_Jinn_Wonderful, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:4
@@ -2932,7 +3189,7 @@ msgid ""
 "they have sated their immeasurable thirst, for they still follow the orders "
 "of their superiors and have not yet retired into the shadows of the world."
 msgstr ""
-"Erhabene Dschinn sind Mentoren der Gesellschaft Al-Kamijas, bereut ihre "
+"Erhabene Dschinn sind Mentoren der Gesellschaft al-Kamijas, bereit ihre "
 "Weisheit an jeden weiterzugeben, der sie zu vernehmen bereit ist. Ihre "
 "konkurrenzlose Vorstellungskraft und Intelligenz zeigt sich in ihrem "
 "gewaltigen Arsenal an Angriffszaubern. Dschinn von hohem Kaliber, die sich "
@@ -2966,6 +3223,11 @@ msgid ""
 "connect their world with the Abyss."
 msgstr ""
 "Die Neutralen Beschwörer sind die rätselhaftesten Träger des Dritten Grades. "
+"Sie spezialisieren sich auf eine eigenartige Magie, die ihren Gegenern mit "
+"jedem Hieb Leben raubt. Diese verschwiegene Gruppe unter den Beschwörern "
+"verzaubert ihre Säbel mit ihrer \"Entzugsmagie\" und haben zudem magische "
+"Kreise erfunden gleicher Natur. Neutrale Beschwörer können zudem die flinken "
+"Rhamis durch komplexe Portale zum Abgrund beschwören."
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_NeutralSummoner.cfg:110
@@ -2979,6 +3241,7 @@ msgstr "Rhami"
 
 #. [unit_type]: id=I8 Ak_Rhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Rhami.cfg:17
+#, fuzzy
 msgid ""
 "Rhamis are a race of limber and swift creatures residing in the Abyss. Four-"
 "armed and, like jinns, blessed with the gift of intelligence, Rhamis carry "
@@ -2990,6 +3253,15 @@ msgid ""
 "react. Rhamis are fiercely loyal and search to enact revenge upon their "
 "fallen comrades."
 msgstr ""
+"Die Rhami' sind eine Rasse schlanker und flinker Geschöpfe, die den Abgrund "
+"bewohnen. Vierarmig und wie Dschinn mit Intelligenz begabt, führen die "
+"Rhami' präzise bOperationen für die Beschwörer aus. Durch eine fremdartige "
+"magische Neigung heilen die Wunden der Rhami' sehr schnell. In jeder Hand "
+"tragen sie eine Klinge, mit der sie Hiebe und Schläge mit erstaunlicher "
+"unmenschlicher Geschwindigkeit austeilen, Durch ihre vier Klingen und "
+"Grazilität kann eine Rhami in doe Schlacht eintauchen und zuschöagen, bevor "
+"die Reflexe ihres Gegners eintreten. Rhami' sind leidenschaftlich treu und "
+"streben nach Vergeltung für ihre gefallenen Kammeraden."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_Rhami.cfg:274
@@ -3003,6 +3275,7 @@ msgstr "Rhami'datu"
 
 #. [unit_type]: id=I8 Ak_RhamiDatu, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiDatu.cfg:19
+#, fuzzy
 msgid ""
 "Embellished in a body of gilded-gold, and always seen with a trinket of "
 "elemental fire dangling from one hand, Rhami'datus have become eagle-eyed, "
@@ -3014,6 +3287,15 @@ msgid ""
 "prefer entering frays alongside their companions, fulfilling their roles as "
 "ardent avengers for the dead."
 msgstr ""
+"Durch einen güldenen Körper gezeichnet und stets mit einem Pokal elementaren "
+"Feuers in einer Hand, verfügen Rhami'datu über Adleraugen und schneiden "
+"präzise mit ihren tödlichen Klingen. Rhami'datu haben das Feuer als Waffe "
+"gemeistert, wodurch sie zu den Flammenwerfern al-Kamijas wurden, hinter den "
+"Feuergeistern, aber weit klüger.\n"
+"\n"
+"Die meisten dieser Rhami' werden in Führungspositionen befördert, auch wenn "
+"einige lieber mit ihren Kammeraden in die Schlacht ziehen, um ihre Rolle des "
+"Vergelters der Toten zu erfüllen."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Warlocks/Tharis_Sworddancer.cfg:24
@@ -3028,6 +3310,7 @@ msgstr "Rhami'kai"
 
 #. [unit_type]: id=I8 Ak_RhamiKai, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:17
+#, fuzzy
 msgid ""
 "Rhami'kais trade in their four scimitars for a single weapon: the spear. "
 "With this, Rhami'kais attain more power and precision with their attacks but "
@@ -3036,6 +3319,12 @@ msgid ""
 "also can launch magical attacks through their eyes that drain the strength "
 "and life of opponents into their own."
 msgstr ""
+"Rhami'kai ersetzen ihre vier Säbel durch eine Waffe: den Speer. Durch diese "
+"erhalten sie schmerzhaftere und genauere Angriffe, doch verlieren sie an "
+"Schnelligkeit. Rhami'kai, charismatisch und dem Menschen intellektuell "
+"ebenbürtig, führen andere in die Schlacht, planen Angriffe mit Zeitgefühl "
+"und Geschick. Zudem können sie mit ihren Augen magische Angriffe abfeuern, "
+"durch die Kraft und Leben ihrer Gegner ihnen zukommt."
 
 #. [unit_type]: id=I8 Ak_Summoner, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:4
@@ -3044,6 +3333,7 @@ msgstr "Jungbeschwörer"
 
 #. [unit_type]: id=I8 Ak_Summoner, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:22
+#, fuzzy
 msgid ""
 "Pupils of the summoning world are first taught the inscriptions and symbols "
 "fundamental to their craft. Lacking the experience that comes with age and "
@@ -3057,6 +3347,14 @@ msgid ""
 "Special Notes: Precison: The ranged attack of this unit always has an 80% "
 "chance to hit."
 msgstr ""
+"Die Schüler der Beschwörung erlernen zuerst die grundlegenden Sigillen und "
+"Symbole ihres Handwerks. Da es ihnen an Erfahrung durch Alter und Schlacht "
+"fehlt, können Anfänger ihre Künste nicht ohne die Hilfe von Medien wie "
+"Schriftrollen für feurige Flüche einsetzen, Da die Beschwörung allerdings "
+"eine exakte Angelegenheit ist, treffen auch die meisten Grundzauber sicher.\n"
+"\n"
+"Anders als die Zauberer anderer Gesellschaften sind Jungbeschwörer ganz und "
+"gar nicht fragil und können mit Säbeln und bloßen Händen kämpfen."
 
 #. [unit_type]: id=I8 Ak_SummonerII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:4
@@ -3065,6 +3363,7 @@ msgstr "Beschwörer"
 
 #. [unit_type]: id=I8 Ak_SummonerII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:20
+#, fuzzy
 msgid ""
 "Promoted to the Second Degree, summoners are proficient enough to perform "
 "minor summonings, using their own bodies as the medium. With a magical "
@@ -3075,6 +3374,11 @@ msgid ""
 "Special Notes: Precison: Ranged attack of this unit always has a 80% chance "
 "to hit."
 msgstr ""
+"In den Zweiten Rang erhobenen Beschwörer sind erfahren genug, um geringere "
+"Beschwörungen durchzuführen, wobei ihr Körper als Medium dient. Mit einem "
+"magischen Kreis in der Hand verschießen sie magische Pfeile verläßlicher "
+"Genauigkeit. Beschwörer sind darin geübt, mit Hammer und Säbel bewaffnet, "
+"Gegner von nah wie fern niederzustrecken."
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:138
@@ -3084,10 +3388,11 @@ msgstr "Zauberpfeil"
 #. [unit_type]: id=I8 Ak_SummonerIII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:4
 msgid "Grand Summoner"
-msgstr "Großer Beschwörer"
+msgstr "Hoher Beschwörer"
 
 #. [unit_type]: id=I8 Ak_SummonerIII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:20
+#, fuzzy
 msgid ""
 "Summoners, scholars and warriors alike will eventually reach the Second "
 "Degree provided enough talent and cunning. The Third Degree, however, does "
@@ -3100,6 +3405,13 @@ msgid ""
 "Special Notes: Circle: The ranged attack of this unit always has a 100% "
 "chance to hit."
 msgstr ""
+"Beschwörer erreichen als Kriegergelehrte irgendwann den Zweiten Rang, "
+"solange sie klug und talentiert genug sind. Der Dritte Rang ist hingegn nur "
+"schwerlich zugängig für Nicht-Genies. \"Hohe Beschwörer\", wie sie von ihren "
+"Kollegen genannt werden, schätzen Kriegskunst und Weisheit gleich, um ihr "
+"kostbares Wissen über die Beschwörung der Geister des Abgrundes zu erlangen. "
+"Geschätzt und gefürchtet vernichten Hohe Beschwörer mit vollkommener "
+"Sicherheit, wenn ihre Kreise der Zerstörung ihr Werk aufnehmen."
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:99
@@ -3136,8 +3448,8 @@ msgid ""
 "All around the summons master, miracles occur. Ruin is wrought."
 msgstr ""
 "Wenige Männer haben je das verborgene Wissen erworben, das der Titel des "
-"Vierten Ranges mit sich bringt. Dies sind jene grroßen Männer, die die "
-"gesamte Macht des Dimensionalabgrunds in der rechten und die volle Kraft der "
+"Vierten Ranges mit sich bringt. Dies sind jene großen Männer, die die "
+"gesamte Macht des Abgrundes in der rechten und die volle Kraft der "
 "Beschwörung in der linken Hand tragen. Die Gesamtheit aller bisher "
 "durchgeführten und verstandenen Beschwörungen hat ein Meister der "
 "Beschwörung erlernt.\n"
@@ -3151,7 +3463,7 @@ msgstr ""
 "und ihre Stärke verdoppelt sich. Säulen himmlischen Lichts schießen zum "
 "Himmel auf durch die Symbole des Kreises und zerstören alles in ihrem Weg.\n"
 "\n"
-"Überall um den Meister der Beschwörung geschehen Wunder."
+"Überall um den Meister der Beschwörung geschehen Wunder. Das Ende ist nahe."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:90
@@ -3640,10 +3952,11 @@ msgstr ""
 
 #. [regenerate]: id=fire
 #: Era_of_Magic/utils/abilities.cfg:29
+#, fuzzy
 msgid ""
 "Made of Fire:\n"
 "This unit is made of fire. If it stands in lava, it will recive 6 hp."
-msgstr ""
+msgstr "Diese Einheit besteht aus Wasser und heilt 6 LP in Gewässern"
 
 #. [regenerate]: id=fire
 #: Era_of_Magic/utils/abilities.cfg:30
@@ -3652,10 +3965,11 @@ msgstr ""
 
 #. [regenerate]: id=fire
 #: Era_of_Magic/utils/abilities.cfg:32
+#, fuzzy
 msgid ""
 "lavahome:\n"
 "This unit is made of fire. If it stands in lava, it will recive 6 hp."
-msgstr ""
+msgstr "Diese Einheit besteht aus Wasser und heilt 6 LP in Gewässern"
 
 #. [regenerate]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:47
@@ -3726,6 +4040,7 @@ msgstr "Aura des Düstern"
 
 #. [leadership]: id=darkaura
 #: Era_of_Magic/utils/abilities.cfg:182
+#, fuzzy
 msgid "Dark aura makes all enemy units fight worse (-25% for attack)."
 msgstr "Die Aura des Düstern schwächt alle Gegner (senkt den Schaden um 25%)"
 
@@ -3831,10 +4146,12 @@ msgstr "Vergeltung"
 
 #. [chance_to_hit]: id=i8revenge
 #: Era_of_Magic/utils/abilities.cfg:342 Era_of_Magic/utils/abilities.cfg:345
+#, fuzzy
 msgid ""
 "revenge:\n"
 "The unit has always a 100% chance to hit, during retalitation."
 msgstr ""
+"Es ist dem Feind unmöglich (0%), diese Einheit in Gegenwehr zu treffen."
 
 #. [dummy]: id=i8 kamikaze
 #: Era_of_Magic/utils/abilities.cfg:357
@@ -3907,6 +4224,7 @@ msgstr ""
 
 #. [dummy]: id=i8fury
 #: Era_of_Magic/utils/abilities.cfg:435
+#, fuzzy
 msgid ""
 "Fury:\n"
 "This unit can attack another after killing an enemy."
@@ -3950,6 +4268,7 @@ msgstr ""
 
 #. [dummy]: id=i8hardlanding
 #: Era_of_Magic/utils/abilities.cfg:661
+#, fuzzy
 msgid "Hard landing"
 msgstr "Bruchlandung"
 
@@ -4370,6 +4689,7 @@ msgstr "9"
 
 #. [dummy]: id=i8cleavehydra
 #: Era_of_Magic/utils/i8cleave.cfg:670 Era_of_Magic/utils/i8cleave.cfg:894
+#, fuzzy
 msgid "hydra's strike"
 msgstr "Schlag der Hydra"
 
@@ -4537,6 +4857,54 @@ msgid ""
 "Summon Roc:\n"
 "this unit can summon new units near him, but not in villages."
 msgstr ""
+
+#, fuzzy
+#~ msgid "Default + Khalifate + Magic"
+#~ msgstr "Standard der Magie"
+
+#, fuzzy
+#~ msgid "Mage of Darkness"
+#~ msgstr "Herr der Finsternis"
+
+#, fuzzy
+#~ msgid "split fire"
+#~ msgstr "Hexenfeuer"
+
+#, fuzzy
+#~ msgid "Summon Fire Elemental (15g)"
+#~ msgstr "Feuergeist"
+
+#, fuzzy
+#~ msgid "Summon Water Elemental (16g)"
+#~ msgstr "Wassergeist"
+
+#, fuzzy
+#~ msgid "Summon Fire Elemental (7g)"
+#~ msgstr "Feuergeist"
+
+#, fuzzy
+#~ msgid "Summon Water Elemental (7g)"
+#~ msgstr "Wassergeist"
+
+#, fuzzy
+#~ msgid "Summon Air Elemental (8g)"
+#~ msgstr "Luftgeist"
+
+#, fuzzy
+#~ msgid "Summon Earth Elemental (8g)"
+#~ msgstr "Erdgeist"
+
+#, fuzzy
+#~ msgid "Summon Fire Elemental (12g)"
+#~ msgstr "Feuergeist"
+
+#, fuzzy
+#~ msgid "Summon Water Elemental (12g)"
+#~ msgstr "Wassergeist"
+
+#, fuzzy
+#~ msgid "Summon Air Elemental (16g)"
+#~ msgstr "Luftgeist"
 
 #~ msgid "Fury"
 #~ msgstr "Raserei"
