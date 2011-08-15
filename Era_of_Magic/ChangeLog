@@ -1,11 +1,67 @@
 Era of Magic - ChangeLog
 ------------------------
 
+Version 0.15.0
+
+- Translation
+    * Updated translations: Polish
+
+- Eras
+    * Guarded the Default + Khalifate + Magic era with #ifdef WESNOTH_VERSION, thus preventing it from
+      being used in 1.8
+
+- Units
+    * Black Mage advances to Mage of Darkness (fixed wrong id error)
+    * Removed 'evasion' from Tharis Commander's line
+    * Removed resistance bonuses from Troll Warbanner's leadership ability
+    * +2 for ranged damage of Sorcerer and Warmage
+    * Added +10% of defense of Mage of Air and Master of Air
+    * Mage of Water: added 'heals +8' and 'cures' ability
+    * Efreeti: +1 to ranged attack
+    * Kharos Warbanner and Warbanner: added leadership ability
+
+Version 0.14.0
+
+- Translation
+    * New translations: Irish, Polish, Russian
+    * Updated translations: German
+
+- Eras
+    * Added a Default + Khalifate + Magic era
+
+- Units
+    * Reduced costs for all DBA units apart from Salamanders
+    * Added 'fearless'trait for Wyverns and Salamanders
+    * Reduced pierce resistance for Fire Elementals and advancements
+    * Increased cost of Rhami to 15 gold
+    * Decreased arcane resistance for all magical units except for Air, Earth Elementals and Dimensional Gates
+    * Shielder: melee damage -1
+    * Protector: spear damage -1, shield/spear throw damage -2
+    * Carpet Rider: added 'marksman', damage +2
+    * Jinn: range attack damage/strike +1/+1
+    * Goblin Kamikaze: increased damage +10
+    * Magical Eye, Deadly Eye: added 'precision' to all attacks
+    * Hidden Face, Mystical Warrior: added magical resistance 15%
+    * Corrected genders for female units
+    * Minor graphic improvements
+    * Improved some abilities descriptions
+    * Renamed the Abyssal Mage to Mage of Darkness
+    * Added sur.nhm's descriptions
+
+- Other
+    * Removed unused images
+    * Improved the dimensional vortex attack animation
+    * Renamed units' files to match their in-game names
+    * Changed directories names to match factions names
+    * Rewrote double attack and the DRT's version of it; renamed the DRT's version to "split fire"
+    * Modularized double attack, split fire, and energy draining
+    * Added a [binary_path] codeblock for the EoMa to campaign.cfg
+
 Version 0.13.0
 
 - Translation
     * New translations: Hungarian, Japanese
-    
+
 - Units
     * Increased Magical Eye defenses to 60
     * Battlemage: increased hp and damage
@@ -15,7 +71,7 @@ Version 0.13.0
     * Prophet of Light: decreased blinding light's damage to 20
     * Avatar and God of Water: increased shallow water defense to 70
     * The water regeneration ability works in swamp now
-    * Neutral Summoner: 
+    * Neutral Summoner:
         - summons Jinns instead of Rhamis;
         - has an aura of susceptibility;
         - his range attack deals more damage (14)

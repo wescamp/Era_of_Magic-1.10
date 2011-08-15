@@ -1,4 +1,4 @@
---Credits--
+﻿--Credits--
 ERA CREATOR
 inferno8
 
@@ -23,6 +23,7 @@ Froz
 nikon
 Poliuks
 Sagez
+salvor
 vul6
 wesfreak
 WindEnchanter
@@ -35,8 +36,10 @@ Karambol
 
 TRANSLATIONS
 Drakefriend
+inferno8
 IWAI Masaharu
 Kelemen Zoltán
+Mountain_King
 
 SPECIAL THANKS
 All creators of: Era of Myths, Extended Era (dark elves concept), Imperial Era, Mercenaries Era
