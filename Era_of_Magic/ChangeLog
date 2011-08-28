@@ -1,10 +1,19 @@
 Era of Magic - ChangeLog
 ------------------------
 
+Version 0.16.0
+- Translation
+    * Updated translations: German, Russian
+- Units
+    * Summoning now correctly excludes all impassible and water terrains
+
 Version 0.15.0
 
 - Translation
     * Updated translations: Polish
+
+- Units
+	* Mage of Darkness renamed to Void Mage
 
 - Eras
     * Guarded the Default + Khalifate + Magic era with #ifdef WESNOTH_VERSION, thus preventing it from
