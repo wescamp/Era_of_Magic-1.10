@@ -1,6 +1,23 @@
 Era of Magic - ChangeLog
 ------------------------
 
+Version 0.17.0a
+
+- Other
+    * Fixed version number in detect.cfg
+
+Version 0.17.0
+
+- Translation
+    * Updated translations: German, Russian
+
+- Eras
+    * Removed the Default + Khalifate + Magic era
+
+- Units
+    * New unit: Sculptor: new advancement for the Subversive Mage
+    * Made all units conform to new AMLA XP standards on 1.9.10 and beyond
+
 Version 0.16.0
 - Translation
     * Updated translations: German, Russian
@@ -13,11 +30,14 @@ Version 0.15.0
     * Updated translations: Polish
 
 - Units
-	* Mage of Darkness renamed to Void Mage
+    * Mage of Darkness renamed to Void Mage
 
 - Eras
     * Guarded the Default + Khalifate + Magic era with #ifdef WESNOTH_VERSION, thus preventing it from
       being used in 1.8
+
+- Other
+    * Added macros that hide non-EoMa units' help topics
 
 - Units
     * Black Mage advances to Mage of Darkness (fixed wrong id error)
