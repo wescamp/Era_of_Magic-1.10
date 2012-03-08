@@ -35,6 +35,7 @@ Mica
 Karambol
 
 TRANSLATIONS
+BioHazardX
 Drakefriend
 inferno8
 IWAI Masaharu

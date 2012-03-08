@@ -1,6 +1,18 @@
 Era of Magic - ChangeLog
 ------------------------
 
+Version 0.18.0
+
+- Translation
+    * New translation: Italian
+
+- Other
+    * Dropped support for 1.9.9 and below, including all of 1.8.x.
+    * Fixed sculpted units' not being unpetrified if they were hit by a retaliating sculpt attack
+    * Enchanced sculpt's unpetrification event
+    * Made it so that hydra's strike's event code gets placed outside of [attack] blocks
+    * Made circle of susceptibility work properly
+
 Version 0.17.0a
 
 - Other
@@ -13,6 +25,10 @@ Version 0.17.0
 
 - Eras
     * Removed the Default + Khalifate + Magic era
+
+- Other
+    * Reimplemented cleave for 1.9.x clients. The new implementation is canned (and can be used with
+      the WEAPON_SPECIAL_CLEAVE macro) and takes things such as defense and alignment into account.
 
 - Units
     * New unit: Sculptor: new advancement for the Subversive Mage
