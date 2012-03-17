@@ -1,26 +1,10 @@
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
-# Drakefriend, 2011.
+# # Drakefriend, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-08 16:15-0500\n"
-"PO-Revision-Date: 2011-10-09 14:08+0200\n"
+"PO-Revision-Date: 2011-10-25 12:37+0200\n"
 "Last-Translator: Drakefriend <>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -1586,7 +1570,7 @@ msgstr "Flammenwerfer"
 #. [unit_type]: id=I8 AD_Pacificator, race=mechanical
 #: Era_of_Magic/units/Runemasters/Pacificator.cfg:4
 msgid "Pacificator"
-msgstr "Kampfpanzer"
+msgstr "Befrieder"
 
 #. [unit_type]: id=I8 AD_Parachutist, race=dwarf
 #: Era_of_Magic/units/Runemasters/Parachutist.cfg:4
@@ -1649,7 +1633,7 @@ msgstr "Blitz"
 #. [unit_type]: id=I8 AD_maRuneAdept, race=dwarf
 #: Era_of_Magic/units/Runemasters/Runeadept.cfg:4
 msgid "Runeadept"
-msgstr "Runenschreiber"
+msgstr "Runenschnitzer"
 
 #. [unit_type]: id=I8 AD_maRuneAdept, race=dwarf
 #: Era_of_Magic/units/Runemasters/Runeadept.cfg:19
@@ -1662,7 +1646,7 @@ msgid ""
 "attacks, for these items of weaponary are imbued with potent forces of magic "
 "that rip through any trick aimed at hazing assault."
 msgstr ""
-"Diese kleinen, aber stämmigen Zwerge sind als Runenschreiber bekannt, "
+"Diese kleinen, aber stämmigen Zwerge sind als Runenschnitzer bekannt, "
 "Schmiede des Feuers in Alten Zungen. Wenn sie in Gruppen agieren, sind sie "
 "ein furchteinflößender Anblick, zudem tragen sie riesige Hammer, die die "
 "Frontlinien der Feinde zerschmettern. Und obschon bereits ihr bloßer Anblick "
@@ -2334,7 +2318,7 @@ msgstr "Schlächter"
 #. [unit_type]: id=I8 Tharis_Darkwarrior, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Warrior.cfg:4
 msgid "Dark Warrior"
-msgstr "Soldat"
+msgstr "Streiter"
 
 #. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Witch.cfg:4
