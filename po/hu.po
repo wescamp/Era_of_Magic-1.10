@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-08 16:15-0500\n"
-"PO-Revision-Date: 2011-04-11 11:35+0100\n"
+"PO-Revision-Date: 2012-04-06 15:23+0100\n"
 "Last-Translator: Kelemen Zoltan <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
 "Language: hu\n"
@@ -20,29 +20,27 @@ msgstr "Véletlen alapbeállítás"
 #. [era]: id=era_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:16
 msgid "Era of Magic"
-msgstr "Mágia kora"
+msgstr "Mágikus kor"
 
 #. [era]: id=era_magic_rpg_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:31
 msgid "Era of Magic RPG"
-msgstr "Mágia kora SZJ"
+msgstr "Mágikus kor SZJ"
 
 #. [era]: id=era_magic_masters_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:46
 msgid "Era of Magic Masters"
-msgstr "Mágia kora mesteri szint"
+msgstr "Mágikus kor mesteri szint"
 
 #. [era]: id=era_default_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:61
-#, fuzzy
 msgid "Default + Magic"
-msgstr "Alapbeállítás+Mágia"
+msgstr "Alap+Mágikus"
 
 #. [era]: id=era_heroes_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:83
-#, fuzzy
 msgid "Heroes + Magic"
-msgstr "Hősök+Mágia"
+msgstr "Hősök+Mágikus"
 
 #. [language]
 #: Era_of_Magic/english.cfg:4
@@ -298,7 +296,6 @@ msgstr "Küklopsz"
 #. [unit_type]: id=I8 Barbarian_CyclopBreaker, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Cyclops.cfg:20
 #: Era_of_Magic/units/Barbarians/Cyclops_Breaker.cfg:20
-#, fuzzy
 msgid ""
 "Cumbersome and lacking fine intellect, the Cyclops race had been driven near "
 "to extinction before becoming a part of the barbarian horde. Two centuries "
@@ -313,8 +310,8 @@ msgstr ""
 "szörnyek egy új virágkort értek meg, számuk és erejük is megnövekedett. Azt "
 "rebesgetik, hogy valamilyen különleges mágia kapcsolja ezeket a küklopszokat "
 "az új szövetségeseikhez, s talán ez okozza a megnövekedett erejüket is. "
-"Egyetlen dolog biztos ezekkel a szörnyekkel kapcsolatban, ha csatában "
-"szembekerülsz eggyel, erősen ajánlott elkerülni az ütéseiket. "
+"Egyetlen dolog biztos ezekkel a szörnyekkel kapcsolatban: ha csatában "
+"szembekerülsz velük, erősen ajánlott elkerülni az ütéseiket. "
 
 #. [unit_type]: id=I8 Barbarian_CyclopBreaker, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Cyclops_Breaker.cfg:4
@@ -394,7 +391,6 @@ msgstr "Kobold felbujtó"
 
 #. [unit_type]: id=I8 Barbarian_GoblinRouser, race=goblin
 #: Era_of_Magic/units/Barbarians/Goblin_Rouser.cfg:18
-#, fuzzy
 msgid ""
 "Standard-bearers are an oddity amongst goblins. A goblin who has survived "
 "enough battles to be considered a veteran is rare enough, and it is rarer "
@@ -471,7 +467,6 @@ msgstr "Ork zászlótartó"
 #. [unit_type]: id=I8 Barbarian_OrcishWarrior, race=orc
 #: Era_of_Magic/units/Barbarians/Orcish_Warbanner.cfg:18
 #: Era_of_Magic/units/Barbarians/Orcish_Warrior.cfg:18
-#, fuzzy
 msgid ""
 "Savage and warlike Orcs form the back bone of the Barbarian hordes.\n"
 "\n"
@@ -703,6 +698,11 @@ msgid ""
 "them to enspell their claws to make them more powerful; to cast deadlier ice-"
 "balls; and to cast better healing magic."
 msgstr ""
+"Azok a gyakornokok, akik a csatákban is bizonyították rátermettségüket, "
+"leginkább furfangos vízmágia bevetésével, ténylegesen is a klánjuk vezetőivé "
+"válnak, amelyet a fejpántjukba tűzött tollakkal fejeznek ki. Tudásuk "
+"növekedésével karmaikat is mágikus fegyverré alakítják; még halálosabb "
+"jéggolyókat lövellnek, s hatékonyabban gyógyítanak."
 
 #. [unit_type]: id=I8_DB_DarkShaman, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Corrupted_Shaman.cfg:4
@@ -711,7 +711,6 @@ msgstr "Megrontott sámán"
 
 #. [unit_type]: id=I8_DB_DarkShaman, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Corrupted_Shaman.cfg:18
-#, fuzzy
 msgid ""
 "Some of the Dark Blood Shamans get corrupted. By who, or what, nobody knows, "
 "but it makes them exchange their Water Magic for that of its polar opposite "
@@ -723,7 +722,7 @@ msgid ""
 "usually make their way out and hire themselves to some of the morally "
 "bankrupt Tribes."
 msgstr ""
-"Néhány sámán s Sötétvérűek közül rontásnak esik áldozatul. Hogy ki vagy mi "
+"Néhány sámán a sötétvérűek közül rontásnak esik áldozatul. Hogy ki vagy mi "
 "rontja meg őket, azt senki sem tudja, de a vízmágia helyett annak ellentétét "
 "használják - a tüzet. Elvesztik gyógyító képességüket, de ezzel nem sokat "
 "törődnek, mivel a tűz szerintük vitathatatlanul felülmúlja a vizet.\n"
@@ -770,7 +769,6 @@ msgstr "célzott lövés"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Dark_Blood_Alliance/Double_Ranged_Toad.cfg:52
-#, fuzzy
 msgid "crossbow ×2"
 msgstr "számszeríj x2"
 
@@ -828,6 +826,11 @@ msgid ""
 "are famous for the yellow war-paint they apply to themselves before battle, "
 "and for their knowledge of forest and swamp warfare."
 msgstr ""
+"Az átlagos sötétvérű harcos egy hosszúpengéjű, díszes pikával van "
+"felszerelve, amivel egyaránt tud nyársalni illetve kaszabolni. A máskülönben "
+"átlagos gyíkok arról ismerszenek meg, hogy csata előtt sárga harcijeleket "
+"pingálnak magukra, s különösen jól ismerik az erdei illetve a mocsári harc "
+"fortélyait."
 
 #. [unit_type]: id=I8_DB_RangedToadRecruit, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Ranged_Toad.cfg:4
@@ -842,11 +845,10 @@ msgstr "Szalamandra"
 #. [unit_type]: id=I8_DB_ShamanAdept, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Shamanistic_Adept.cfg:4
 msgid "Shamanistic Adept"
-msgstr "Gyakorló sámán"
+msgstr "Gyakornok sámán"
 
 #. [unit_type]: id=I8_DB_ShamanAdept, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Shamanistic_Adept.cfg:19
-#, fuzzy
 msgid ""
 "If the Dark Blood Tribe is known for something, it’s their shamanistic "
 "magic. Those saurians who choose to learn it are usually frail of body and "
@@ -855,7 +857,7 @@ msgid ""
 "their foes."
 msgstr ""
 "Ha a Sötétvérű törzs valamiről ismert, az a sámáni mágiájuk. Azok a gyíkok, "
-"akik ezt művelik, általában törékeny termetűek, s alkalmatlanopk a fizikai "
+"akik ezt művelik, általában törékeny termetűek, s alkalmatlanok a fizikai "
 "harcra. Ezzel szemben a vízmágiájuk megfizethetetlen a csatában, akár a "
 "szövetségeseket gyógyítják, akár jéggolyókkal bombázzák az ellenséget."
 
@@ -876,7 +878,6 @@ msgstr "Mocsári mágus"
 
 #. [unit_type]: id=I8_DB_DamnedShaman, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Swamp_Mage.cfg:19
-#, fuzzy
 msgid ""
 "Some of the Corrupted Shamans do not come out of the Great Bog. Instead, "
 "they opt to remain and find their fate there. Some of those wander to a "
@@ -907,7 +908,6 @@ msgstr "Varangy"
 
 #. [unit_type]: id=I8_DB_Toad, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Toad.cfg:17
-#, fuzzy
 msgid ""
 "In the middle of the Jungle of Life lies the Great Bog, dark and marshy. It "
 "is said that many a creature make their homes there.\n"
@@ -919,9 +919,10 @@ msgid ""
 msgstr ""
 "Az Élet Dzsungelének közepén fekszik a sötét és mocsaras Nagy Láp. Azt "
 "mondják, hogy sok lénynek az otthona.\n"
+"\n"
 "A Sötétvérű törzs gyíkjai arról ismertek, hogy óriási varangyokat fognak el "
-"és szelidítenek meg, meglovagolják őket és egyfajta harci elefántként "
-"használják őket; köztudottan speciális hinózist alkalmaznak, hogy a "
+"és szelidítenek meg, meglovagolják őket, és egyfajta harci elefántként "
+"használják őket; köztudottan speciális hipnózist alkalmaznak, hogy a "
 "varangyaik hosszú és ragadós nyelvükkel csépeljék az ellenséget."
 
 #. [attack]: type=pierce
@@ -936,7 +937,6 @@ msgstr "Sárkánygyík"
 
 #. [unit_type]: id=I8_DB_Wyvern, race=monster
 #: Era_of_Magic/units/Dark_Blood_Alliance/Wyvern.cfg:17
-#, fuzzy
 msgid ""
 "From the marshy lands of the Great Bog hail the bloodthirsty Wyverns. These "
 "majestic beasts of prey, which are said to be the offspring of the great "
@@ -947,7 +947,7 @@ msgid ""
 msgstr ""
 "A mocsaras területekről származnak a vérszomjas sárkánykígyók is. Ezeket a "
 "fenséges ragadozókat, amelyek állítólag a régi sárkányok leszármazottai, a "
-"Sötétvérűek foglyul ejtik, s egyfajta rohamcsapatként alkalmazzák őket. "
+"sötétvérűek foglyul ejtik, s egyfajta rohamcsapatként alkalmazzák őket. "
 "Tűzzel kínozzák őket, hogy természetadta őrültségüket és vérszomjukat "
 "fokozzák, amelyet számos ellenség volt kénytelen megtapasztalni."
 
@@ -965,6 +965,11 @@ msgid ""
 "goad their mounts to bite their foes; sometimes, the Wyverns swallow them "
 "whole."
 msgstr ""
+"A sötétvérűek által elfogott sárkánykígyók legtöbbjét megkínozzák, s "
+"kihajtják őket a frontra; néhányukat azonban felnyergelik, s a "
+"legvérszomjasabb gyíkok hátasaiként szolgálnak. A lovasaik által pikával "
+"megsebzett ellenséget harapásaikkal gyengítik; olykor előfordul az is, hogy "
+"egészben nyelik le őket."
 
 #. [unit_type]: id=I8_DB_WyvernGreatLancerRecruit, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Wyvern_Tamer.cfg:4
@@ -1026,7 +1031,6 @@ msgstr "Papnő"
 
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
 #: Era_of_Magic/units/Kharos/Cleric.cfg:18
-#, fuzzy
 msgid ""
 "This unit is less effective than white mage but it can perform more magical "
 "attacks. The Cleric heals and leads other units."
@@ -1112,7 +1116,6 @@ msgstr "Kharos zászlótartó"
 #. [unit_type]: id=I8 Kharos_WarbannerKharos, race=human
 #: Era_of_Magic/units/Kharos/Kharos_War_Banner.cfg:18
 #: Era_of_Magic/units/Kharos/War_Banner.cfg:17
-#, fuzzy
 msgid ""
 "Kharosans use war banners to increase morale of all near troops. The War "
 "Banner shows gold sun — emblem of the Kharos nation. Two people protect the "
@@ -1122,7 +1125,7 @@ msgstr ""
 "A Kharosiak hadizászlói ösztönzőleg hatnak a körülöttük lévő egységekre. A "
 "zászlókon arany nap van - a kharos nép szimbóluma. Két ember szolgál a "
 "zászló védelmére - egy pap és egy harcos, aki tartja a zászlót. A pap "
-"speciális aurát kreál, amely megvédi őt a pusztító mágikus támadásoktól."
+"speciális aurát kreál, amely legyengíti a pusztító mágikus támadások erejét."
 
 #. [unit_type]: id=I8 Kharos_SunKirios, race=human
 #: Era_of_Magic/units/Kharos/Kirios.cfg:4
@@ -1177,7 +1180,6 @@ msgstr "Napmester"
 
 #. [unit_type]: id=I8 Kharos_SunMasterofsun, race=human
 #: Era_of_Magic/units/Kharos/Master_of_Sun.cfg:17
-#, fuzzy
 msgid ""
 "Master of Sun attacks in a twinkle of an eye, so enemy can’t succesfully "
 "defend himself. This amazing unit releases huge amounts of sun energy in one "
@@ -1201,7 +1203,7 @@ msgstr "Fényességes Hölgy"
 #. [unit_type]: id=I8 Kharos_LightMistress, race=human
 #: Era_of_Magic/units/Kharos/Mistress_of_Light.cfg:20
 msgid "Mistress of Light is an extremely powerful healer."
-msgstr ""
+msgstr "A Fényességes Hölgy egy rendkívüli erejű gyógyító."
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Mistress_of_Light.cfg:122
@@ -1240,7 +1242,7 @@ msgstr "Védelmező"
 #. [unit_type]: id=I8 Kharos_SunProtector, race=human
 #: Era_of_Magic/units/Kharos/Protector.cfg:18
 msgid "The Protector holds a large towershield."
-msgstr ""
+msgstr "A védelmező hatalmas pajzsot hordoz magával."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Kharos/Protector.cfg:57
@@ -1255,7 +1257,6 @@ msgstr "Bosszúálló"
 
 #. [unit_type]: id=I8 Kharos_SunRevenger, race=human
 #: Era_of_Magic/units/Kharos/Revenger.cfg:18
-#, fuzzy
 msgid ""
 "The Revenger is a heavy tactical defense unit. His retaliation strikes are "
 "always successful."
@@ -1319,14 +1320,13 @@ msgstr "Napőr"
 
 #. [unit_type]: id=I8 Kharos_SunGuardian, race=human
 #: Era_of_Magic/units/Kharos/Sun_Guardian.cfg:17
-#, fuzzy
 msgid ""
 "The Sun Guardian is more powerful than the Follower. Being so strong, he is "
 "chosen to protect the most important shrines in the Kharos country (50% "
 "reduction in spell damage)."
 msgstr ""
 "A napőr sokkal erősebb, mint a hívő. Erejük miatt választották őket Kharos "
-"legfontosabb szent helyeinek védelmére (50%-kal csökkenti a mágikus "
+"országa legfontosabb szent helyeinek védelmére (50%-kal csökkenti a mágikus "
 "támadások erejét)."
 
 #. [unit_type]: id=I8 Kharos_Warbanner, race=human
@@ -1434,7 +1434,6 @@ msgstr "Törp harcos"
 
 #. [unit_type]: id=I8 AD_dWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/Dwarvish_Warrior.cfg:18
-#, fuzzy
 msgid ""
 "Though Runists in name, very few of dwarfish kin have both have the capacity "
 "and the willingness to dedicate their existences in rune-making. Instead, "
@@ -1466,7 +1465,6 @@ msgstr "Repülő erőd"
 
 #. [unit_type]: id=I8 AD_FlyingFortress, race=mechanical
 #: Era_of_Magic/units/Runemasters/Flying_Fortress.cfg:18
-#, fuzzy
 msgid ""
 "Flying Fortresses symbolize the height of dwarfish ingenuity. Looked upon as "
 "an airborne tank, a Flying Fortress employs a trio of immense rotor blades "
@@ -1511,7 +1509,6 @@ msgstr "Nehéz ballon"
 
 #. [unit_type]: id=I8 AD_mbHeavyBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/Heavy_Balloon.cfg:17
-#, fuzzy
 msgid ""
 "As a member of the homunculus light brigade, they are most widely used as "
 "its military arm.\n"
@@ -1542,7 +1539,6 @@ msgstr "Mechanikus"
 
 #. [unit_type]: id=I8 AD_rMechanic, race=dwarf
 #: Era_of_Magic/units/Runemasters/Mechanic.cfg:18
-#, fuzzy
 msgid ""
 "These dwarves are recruited for their uncanny knack for engineering. If "
 "their robotic creations are at the head of an offense, then the mechanics "
@@ -1611,7 +1607,6 @@ msgstr "Vörös dühöngő"
 
 #. [unit_type]: id=I8 AD_SteamUlfserkerRed, race=mechanical
 #: Era_of_Magic/units/Runemasters/Red_Ulfserker.cfg:18
-#, fuzzy
 msgid ""
 "These beings are born from a ancient tradition, when dwarves become attached "
 "to their creations, and instead of reducing robotic corpses to scrap, they "
@@ -1623,11 +1618,11 @@ msgid ""
 "inward vigour and strength, that they can turn back damage accrued through "
 "the tides of time through careful conservation of energy."
 msgstr ""
-"Ezek szerkezetek egy régihagyomány alapján születtek. A törpök annyira "
+"Ezek a szerkezetek egy régi hagyomány alapján születtek. A törpök annyira "
 "kötődtek szerkentyűikhez, hogy a tönkrement  robottesteket nem dobták a "
 "szemétdombra, hanem még erősebb, még gyorsabb, még keményebb fromában "
 "újjáépítették.\n"
-"    \n"
+"\n"
 "A felületüket borító festés összetéveszthetetlen, s a korábbi változatokat "
 "minden szempontból felülmúlják. Egy újabb páncélréteggel felvértezett belső "
 "szerkezetük roppant ellenálló, s nagy erőt képes kifejteni, s képesek "
@@ -1662,7 +1657,7 @@ msgstr "villámló bot"
 #. [unit_type]: id=I8 AD_maRuneAdept, race=dwarf
 #: Era_of_Magic/units/Runemasters/Runeadept.cfg:4
 msgid "Runeadept"
-msgstr "Rúnatanítvány"
+msgstr "Rúnagyakornok"
 
 #. [unit_type]: id=I8 AD_maRuneAdept, race=dwarf
 #: Era_of_Magic/units/Runemasters/Runeadept.cfg:19
@@ -1675,13 +1670,12 @@ msgid ""
 "attacks, for these items of weaponary are imbued with potent forces of magic "
 "that rip through any trick aimed at hazing assault."
 msgstr ""
-"Ezek az alacsony, zömök törpök, mint rúnatanulmányozók ismertek, ősi nyelven "
-"a tűz csiholói. Ha nagyobb számban jelennek meg, félelmetes erőt "
-"képviselnek, hatalmas pörölyeikkel áttörnek bármilyen ellenséges vonalon. "
-"Pusztán a látványuk is elegendő ahooz, hogy a törpök ellenségeinek inába "
-"szálljon a bátorsága, s ez csak fokozódik a támadások pontossága láttán, "
-"mivel a fegyvereiket átjáró mágia hatástalanítja az ellenséges védekező "
-"trükköket."
+"Ezek az alacsony, zömök törpök, mint rúnagyakornokok ismertek, ősi nyelven a "
+"tűz csiholói. Ha nagyobb számban jelennek meg, félelmetes erőt képviselnek, "
+"hatalmas pörölyeikkel áttörnek bármilyen ellenséges vonalon. Pusztán a "
+"látványuk is elegendő ahooz, hogy a törpök ellenségeinek inába szálljon a "
+"bátorsága, s ez csak fokozódik a támadások pontossága láttán, mivel a "
+"fegyvereiket átjáró mágia hatástalanítja az ellenséges védekező trükköket."
 
 #. [unit_type]: id=I8 AD_maRuneSmith, race=dwarf
 #: Era_of_Magic/units/Runemasters/Runesmith.cfg:4
@@ -1738,7 +1732,6 @@ msgstr "Technikus"
 
 #. [unit_type]: id=I8 AD_rTechnician, race=dwarf
 #: Era_of_Magic/units/Runemasters/Technician.cfg:18
-#, fuzzy
 msgid ""
 "Blessed with remarkable deftness with their fingers, these Technicians "
 "refute all that demean their race as heavy handed, drunkards, and if any "
@@ -1752,11 +1745,11 @@ msgid ""
 "converting those tools that they work with into deadly weapons that are more "
 "than a match for any who attempt to harry them."
 msgstr ""
-"Ezek a figyelemre méltó kézügyességgel technikusok alaposan rácáfolnak a "
-"fajukról alkotott előítéletekre, miszerint durvakezű, iszákos népség "
-"lennének. S ha néha érződik körülöttük egy kis alkoholszag, az azokból az "
-"erős folyadékokból ered, amit a rozsdásodás megakadályozására használnak "
-"gépeikben.\n"
+"Ezek a figyelemre méltó kézügyességgel megáldott technikusok alaposan "
+"rácáfolnak a fajukról alkotott előítéletekre, miszerint durvakezű, iszákos "
+"népség lennének. S ha néha érződik körülöttük egy kis alkoholszag, az "
+"azokból az erős folyadékokból ered, amit a rozsdásodás megakadályozására "
+"használnak gépeikben.\n"
 "\n"
 "Habár kevesen vannak, állandó helyük van a mechanikusok táborában, mivel "
 "bármilyen eszköz bármilyen sérülését képesek megjavítani. Ami még ennél is "
@@ -1776,7 +1769,6 @@ msgstr "Harcimágus"
 
 #. [unit_type]: id=I8 enlightened_battlemage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Battlemage.cfg:18
-#, fuzzy
 msgid ""
 "Battle Magi use their magic powers in battle, preforming devastating ranged "
 "attacks. They are, however, equiped only with daggers, and aren’t potent "
@@ -1831,7 +1823,6 @@ msgstr "Elemvarázsló"
 
 #. [unit_type]: id=I8 Elementalist, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Elementalist.cfg:18
-#, fuzzy
 msgid ""
 "Elementalists aren’t as good in battle like other Enlightened Ones, but are "
 "relatively fast and become quite powerful quickly, choosing one of the "
@@ -1848,7 +1839,6 @@ msgstr "Arany mágus"
 
 #. [unit_type]: id=I8 enlightened_goldenmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Golden_Mage.cfg:17
-#, fuzzy
 msgid ""
 "Golden Magi are equally skilled with swords and magic. They wear beautiful "
 "golden armor, after which they’re named, and use greatswords. They are known "
@@ -1896,7 +1886,6 @@ msgstr "Mester"
 
 #. [unit_type]: id=I8 enlightened_Guru, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Guru.cfg:17
-#, fuzzy
 msgid ""
 "When Mastermagi learn all of the world’s secrets, they become gurus. Gurus, "
 "due to their amazing knowledge of the world’s occult secerts, are fearsome "
@@ -1934,7 +1923,6 @@ msgstr ""
 
 #. [unit_type]: id=I8 enlightened_mage_of_air, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Air.cfg:4
-#, fuzzy
 msgid "Mage of Air"
 msgstr "Szélmágus"
 
@@ -1969,7 +1957,6 @@ msgstr "kis villám"
 
 #. [unit_type]: id=I8 enlightened_mage_of_fire, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Fire.cfg:4
-#, fuzzy
 msgid "Mage of Fire"
 msgstr "Tűzmágus"
 
@@ -1995,13 +1982,11 @@ msgstr "lángnyelvek"
 
 #. [unit_type]: id=I8 enlightened_mage_of_water, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Water.cfg:4
-#, fuzzy
 msgid "Mage of Water"
 msgstr "Vízmágus"
 
 #. [unit_type]: id=I8 enlightened_mage_of_water, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Water.cfg:26
-#, fuzzy
 msgid ""
 "Water Magi use their power to heal, not to destroy. In battle, they use "
 "their control of the water inside their enemies’ bodies to slow them, and "
@@ -2022,9 +2007,8 @@ msgstr "hullámverés"
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Elements.cfg:120
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Water.cfg:100
 #: Era_of_Magic/units/Sky_Kingdom/Mastermage.cfg:124
-#, fuzzy
 msgid "icicles"
-msgstr "jégeső"
+msgstr "jégcsap"
 
 #. [unit_type]: id=I8 MagicalEye, race=mechanical
 #: Era_of_Magic/units/Sky_Kingdom/Magical_Eye.cfg:4
@@ -2033,15 +2017,14 @@ msgstr "Mágikus szem"
 
 #. [unit_type]: id=I8 MagicalEye, race=mechanical
 #: Era_of_Magic/units/Sky_Kingdom/Magical_Eye.cfg:17
-#, fuzzy
 msgid ""
 "Magical Eyes are a breed of constructs Enlightened Magi often animate. These "
 "Eyes are surrounded by a gold aura, focusing its powers through their gaze, "
 "and usually ‘seeing’ and therefore hitting their enemies often."
 msgstr ""
-"A mágikus szemek a leggyakoribb, a megvilágosodott mágusok által használt "
+"A mágikus szemek a leggyakoribbak a megvilágosodott mágusok által használt "
 "eszközök közül. Aranyló aura veszi őket körül, ennek energiáját használva "
-"igézik meg ellenségeiket, ezáltal különösen gyakran találják is el őket."
+"igézik meg ellenségeiket, ezáltal különösen gyakran el is találják őket."
 
 #. [unit_type]: id=I8 enlightened_master_of_air, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:4
@@ -2259,7 +2242,6 @@ msgstr ""
 
 #. [unit_type]: id=I8 enlightened_subversivemage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Subversivemage.cfg:4
-#, fuzzy
 msgid "Subversive Mage"
 msgstr "Pusztító mágus"
 
@@ -2279,7 +2261,6 @@ msgstr "Um"
 
 #. [unit_type]: id=I8 MysticMu, race=monster
 #: Era_of_Magic/units/Sky_Kingdom/Um.cfg:18
-#, fuzzy
 msgid ""
 "Ums (<italic>text='um'</italic> in single) are the Enlightened Kingdom's top "
 "secret weapon. These powerful magical creatures are a result of long, hard "
@@ -2295,13 +2276,11 @@ msgstr "um"
 
 #. [unit_type]: id=I8 enlightened_abyssmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Void_Mage.cfg:4
-#, fuzzy
 msgid "Void Mage"
-msgstr "Arany mágus"
+msgstr "Űrmágus"
 
 #. [unit_type]: id=I8 enlightened_abyssmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Void_Mage.cfg:18
-#, fuzzy
 msgid ""
 "Magi of Darkness are masters of the fourth element. They cast powerful "
 "darkness spells."
@@ -2450,7 +2429,6 @@ msgstr "Sötét varázsló"
 
 #. [unit_type]: id=I8 Tharis_Darkwizard, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Wizard.cfg:17
-#, fuzzy
 msgid ""
 "Dark Wizard is equipped whit special staff, which reinforces his spellpower. "
 "He can make a lot of damage but his mana ends quicly. That’s why he performs "
@@ -2472,7 +2450,6 @@ msgstr "Tanítvány"
 
 #. [unit_type]: id=I8 Tharis_Disciple, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Disciple.cfg:18
-#, fuzzy
 msgid ""
 "Every dark dispile dreams about being a great warlock. But for now they must "
 "surive. They have very powerful magic but they can’t perform melee attacks."
@@ -2622,7 +2599,6 @@ msgstr "Boszorkány"
 
 #. [unit_type]: id=I8 Tharis_Witch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Witch.cfg:19
-#, fuzzy
 msgid ""
 "Witches are servants of darkness. They use special magic attack called witch-"
 "fire. It is cheap spell and drains energy from an enemy. In close range "
@@ -2639,7 +2615,6 @@ msgstr "Szélvész"
 
 #. [unit_type]: id=I8 Ak_Avatar_air, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Air_Avatar.cfg:17
-#, fuzzy
 msgid ""
 "Air avatars have distinguished themselves from mere elementals, developing "
 "into stormy vortexes, wind and dark clouds circulating inside and outside "
@@ -2652,7 +2627,7 @@ msgstr ""
 "A szélvészek megkülönböztetik magukat az egyszerű elemi lényektől, viharos "
 "örvényeket kavarnak, szél és sötét felhők kavarognak a besejükben és "
 "körülöttük. A szélvészek viharos förgetegként zúdulnak előre. Légies "
-"testüknek köszönhetően a szélvészeket nem fgják a hagyományos szúró- és "
+"testüknek köszönhetően a szélvészeket nem fogják a hagyományos szúró- és "
 "vágófegyverek. A szélvészek az általuk keltett áramlatokon haladnak pontról-"
 "pontra, s sistergő villámokat szórnak útközben."
 
@@ -2670,7 +2645,6 @@ msgstr "Szellőlény"
 
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Air_Elemental.cfg:18
-#, fuzzy
 msgid ""
 "Air elementals are magical entities built entirely out of the Abyssal "
 "atmosphere. Summoned elementals, introduced in a world where air is "
@@ -2683,8 +2657,16 @@ msgid ""
 "Still, summoners who stir such beings into their world know that an air "
 "elemental could vanish just as quickly as it was summoned forth."
 msgstr ""
-"A szellőlények mágikus lények, teljes egészében a Mélységi atmoszférából "
-"állnak. "
+"A szellőlények mágikus lények, teljes egészében mélységi atmoszférából "
+"állnak. A megidézett lények világunkba lépve a mindenütt jelenlévő levegőt "
+"kihasználva folyamatosan építik testüket. Felépítésükből adódóan ezek a "
+"lények nagyon gyorsak és  könnyedén elkerülik a csapásokat, de a megfelelő "
+"eszközt választva könnyen megsemmisíthetőek. Persze egy jól elhelyezett "
+"támadást nehéz kivitelezni egy rendkívül ellenálló levegővel szemben.\n"
+"\n"
+"Mindazonáltal azok a varázslók, akik megidézik őket a világunkba, nagyon is "
+"tisztában vannak vele, hogy éppoly könnyen eliillanhatnak a szellőlények, "
+"amilyen könnyen megidézhetők."
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/al_Kamija/Air_Elemental.cfg:129
@@ -2698,7 +2680,6 @@ msgstr "Viharisten"
 
 #. [unit_type]: id=I8 Ak_God_air, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Air_God.cfg:18
-#, fuzzy
 msgid ""
 "Men fear the wind — what can be a gentle zephyr in the afternoon can turn "
 "into a twister in the evening. Wind and storm can turn the staunchest man "
@@ -2717,8 +2698,8 @@ msgstr ""
 "rongybabaként táncoltatja az égben; aztán egy villámcsapás újra a földre "
 "teríti. A viharistenek még ennél is félelmetesebbek, saját szélparipán "
 "nyargalnak, s katasztrófa, pusztulás jár a nyomukban minden pillanatban. A "
-"viharistenekre gyakorlatilag nem hatnak a fizikai támadások, mivel légies "
-"testüket nem fogják a fegyverek.\n"
+"viharistenekre gyakorlatilag nem hatnak a fizikai támadások, mivel testük "
+"gyakorlatilag maga a vihar.\n"
 "\n"
 "A varázslók hite szerint a mennyország is beleremeg, amikor ezek a dühöngő "
 "zivataros, égi lények feltűnnek az égben, s szerencsétlenséget terjesztenek "
@@ -2753,7 +2734,6 @@ msgstr "Tevegelő"
 
 #. [unit_type]: id=I8 Ak_CamelRider, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Camel_Rider.cfg:18
-#, fuzzy
 msgid ""
 "For the fledgling soldier, camels are a rare spectacle to be seen on the "
 "fronts. Unlike their traditional brothers and sisters used as beasts of "
@@ -2769,7 +2749,7 @@ msgstr ""
 "A tapasztalatlan harcosok számára a teve ritka látvány a fronton. Velük "
 "ellentétben a hagyományokat folytató testvéreik, nővéreik számára a "
 "kereskedők teherhordói gyors és erős harci hátast képeznek, ha nem is túl "
-"kitartóak e szerepben. A tevegelők handzsárral a kézben harcolnak, míg "
+"kitartóak e szerepükben. A tevegelők handzsárral a kézben harcolnak, míg "
 "távolra kisebb handzsárokat hajítanak, amely képességükért igen nagyra "
 "értékelik őket.\n"
 "\n"
@@ -2801,7 +2781,6 @@ msgstr "Szőnyegmester"
 
 #. [unit_type]: id=I8 Ak_CarpetMaster, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Carpet_Master.cfg:18
-#, fuzzy
 msgid ""
 "Captains of the winds, any carpet master can attest to having ridden the "
 "skies more times than he can count. A carpet master’s worth is still his "
@@ -2815,8 +2794,8 @@ msgstr ""
 "számolni lenne érdemes. A szőnyegmesterek könnyen felderíthetik a távoli "
 "vidékeket is, bár távolsági támadásuk miatt félik őket leginkább. Csatában a "
 "félelmetes pontossággal alkalmazott porbombáikkal megtörik a legravaszabb, "
-"kitűen védett célpontot is. A legjobb anyagból készült szőnyegeikkel a "
-"szőnyegmesterek olyan könnyedén szelik a levegőr, mint a madarak."
+"kitűnően védett célpontot is. A legjobb anyagból készült szőnyegeikkel a "
+"szőnyegmesterek olyan könnyedén szelik a levegőt, mint a madarak."
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/al_Kamija/Carpet_Master.cfg:47
@@ -2831,7 +2810,6 @@ msgstr "Repülőszőnyeges"
 
 #. [unit_type]: id=I8 Ak_CarpetRider, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Carpet_Rider.cfg:18
-#, fuzzy
 msgid ""
 "\n"
 "According to legend, the magic carpet originated from the desires of of a "
@@ -2875,7 +2853,6 @@ msgstr "Dharma’rhami"
 
 #. [unit_type]: id=I8 Ak_DharmaRhami, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/DharmaRhami.cfg:19
-#, fuzzy
 msgid ""
 "Dharma’rhamis are inflamed with blood-red skin, ornamented in trinkets and "
 "carrying a spear with their other two blades. Their appearances grant them "
@@ -2891,14 +2868,13 @@ msgstr ""
 "tárgyilagos lények, s nem a vérszomj vezérli őket. Mégis valami "
 "megfoghatatlan cél vezérli őket, hogy bosszút álljanak. Éppoly kiválóan "
 "forgatják fegyvereiket, mint a gyengébb fajtársaik, de a Dharma'rhami "
-"áldozata a roppant erőnek és a taktikának esik áldozatul."
+"áldozata a roppant erőnek és a ravasz taktikának esik áldozatul."
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
 #: Era_of_Magic/units/al_Kamija/DharmaRhami.cfg:135
 #: Era_of_Magic/units/al_Kamija/RhamiKai.cfg:123
 #: Era_of_Magic/units/al_Kamija/RhamiKai.cfg:135
-#, fuzzy
 msgid "divine spear"
 msgstr "csodás dárda"
 
@@ -2917,7 +2893,6 @@ msgstr "Dimenziókapu"
 #. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Dimensional_Gate.cfg:18
 #: Era_of_Magic/units/al_Kamija/Dimensional_Gate_2.cfg:17
-#, fuzzy
 msgid ""
 "The most inexperienced of summoners are capable of summoning only "
 "dimensional gates: unstable bridges of arcane energy between this world and "
@@ -2931,7 +2906,7 @@ msgstr ""
 "energia számára. A dimenziókapuk, habár nagyon egyszerűek, nagy pontossággal "
 "irányíthatják a földöntúli energiát támadás közben. Habár gyengék és "
 "törékenyek, egyetlen ellenség megölése is elég számukra, hogy a Mélységből "
-"áradó energia lénnyé testesüljön."
+"áradó energia elemi lénnyé testesüljön."
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/al_Kamija/Dimensional_Gate.cfg:152
@@ -2955,7 +2930,6 @@ msgstr "Démonűző"
 
 #. [unit_type]: id=I8 Ak_Dispeller, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Dispeller.cfg:17
-#, fuzzy
 msgid ""
 "Some Summoners choose opposite path of the summoning arts, which is known as "
 "the art of banishment. Instead of bringing magical beings to this world, "
@@ -2965,11 +2939,9 @@ msgid ""
 msgstr ""
 "Néhány varázsló a megidézéssel ellentétes útját választja a mágiának, amit a "
 "likvidálás művészetének neveznek. Ahelyett, hogy mágikus lényeket idéznének "
-"meg evilágba, ők inkább arra koncentrálnak, hogy visszaküldjék őket a "
+"meg világunkba, ők inkább arra koncentrálnak, hogy visszaküldjék őket a "
 "Mélységbe. Ennek a tudásnak a birtokában a démonűzőket rendszerint akkor "
-"hívják a varázslók, ha valami baj történik, például, ha egy ifrit fellázad.\n"
-"Megjegyzés: Likvidálás: az egység képes a mágikus lényeket dimenziókapuvá "
-"alakítani."
+"hívják a varázslók, ha valami baj történik, például, ha egy ifrit fellázad."
 
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Earth_Avatar.cfg:4
@@ -2978,7 +2950,6 @@ msgstr "Földgólem"
 
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Earth_Avatar.cfg:15
-#, fuzzy
 msgid ""
 "Avatars of the earth, though colossal, are slow-moving, hobbled by the "
 "weight of their bulk. For this reason, earth avatars are bought out into the "
@@ -2990,12 +2961,13 @@ msgid ""
 "growing outside of its rocky cracks."
 msgstr ""
 "A földgólemek, habár hatalmasak, lassú mozgásúak, lévén roppant súlyt "
-"hordoznak. Emiatt a földgólemeket a fontos tereptárgyak védelme érdekében "
-"szokták bevetni a csatamezőn. Védelmi pozícióban elhelyezkedve a földgólemek "
-"emberfeletti erejükkel szétzúzzák ellenségeiket, miközben szilárdan "
-"ellenállnak mindenféle támadásnak. Amikor mindennek vége van, ezek az "
-"óriások még mindig ott tornyosulnak a helyükön, mint a szobrok; idővel a "
-"sziklás külső rétegükön megtelepszik a növényzet is."
+"hordoznak. Emiatt a földgólemeket a stratégiailag fontos tereptárgyak "
+"védelme érdekében szokták bevetni a csatamezőn, főleg hegyeken és dombokon. "
+"Védelmi pozícióban elhelyezkedve a földgólemek emberfeletti erejükkel "
+"szétzúzzák ellenségeiket, miközben szilárdan ellenállnak mindenféle "
+"támadásnak. Amikor mindennek vége van, ezek az óriások még mindig ott "
+"tornyosulnak a helyükön, mint a szobrok; idővel a sziklás külső rétegükön "
+"megtelepszik a növényzet is."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/al_Kamija/Earth_Avatar.cfg:50
@@ -3041,7 +3013,6 @@ msgstr "Földisten"
 
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Earth_God.cfg:16
-#, fuzzy
 msgid ""
 "Earth gods are simply gargantuan: one raised fist can shake the very "
 "foundations of the land. Many tales have been told about the work of such "
@@ -3057,7 +3028,7 @@ msgstr ""
 "eltörpülnek. Masszív felépítésük ellenáll a legerősebb kardoknak, "
 "lándzsáknak, de még a varázslatoknak is, s annyi erőt hordoznak magukban, "
 "hogy egy ütéssel tucatnyi ellenséget zúznak szét, ráadásul folyamatosan "
-"regenerálódnak is. A földisteneket kemény dió poba dönteni-de még a térdre "
+"regenerálódnak is. A földisteneket kemény dió porba dönteni-de még a térdre "
 "kényszerítésük is embertpróbáló feladat."
 
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
@@ -3067,7 +3038,6 @@ msgstr "Ifrit"
 
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Efreeti.cfg:18
-#, fuzzy
 msgid ""
 "Cataclysmic by nature, efreets are jinns who have rejected most, if not all, "
 "of their inner desires to learn. Efreets, for profound reasons beyond the "
@@ -3106,7 +3076,6 @@ msgstr "Tűzgólem"
 
 #. [unit_type]: id=I8 Ak_Avatar_fire, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Fire_Avatar.cfg:17
-#, fuzzy
 msgid ""
 "After fire consumes enough fuel-flesh, bones, wood, iron, even entire "
 "landscapes-it will unavoidably grow into something far more sinister in "
@@ -3132,7 +3101,6 @@ msgstr "Tűzlény"
 
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Fire_Elemental.cfg:17
-#, fuzzy
 msgid ""
 "Fire is a dangerous manifestation of nature’s destruction. While adept users "
 "of magic can craft fire from nothing but thin air, there is nothing more "
@@ -3159,7 +3127,6 @@ msgstr "Tűzisten"
 
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Fire_God.cfg:18
-#, fuzzy
 msgid ""
 "Upon reaching the pinnacle of its conflagration, the elemental has utterly "
 "become a moving inferno, a god of its own respect. Even the summoners who "
@@ -3184,7 +3151,6 @@ msgstr "Nagy varázsló"
 
 #. [unit_type]: id=I8 Ak_SummonerIII, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Grand_Summoner.cfg:17
-#, fuzzy
 msgid ""
 "Summoners, scholars and warriors alike will eventually reach the Second "
 "Degree provided enough talent and cunning. The Third Degree, however, does "
@@ -3220,7 +3186,6 @@ msgstr "Nagy ifrit"
 
 #. [unit_type]: id=I8 Ak_EfreetiGreat, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Great_Efreeti.cfg:19
-#, fuzzy
 msgid ""
 "Great efreetis seethe with a fiery rage that manifests itself in the form of "
 "their magic’s wake. In bodies of smoldering heat and flames, both militants "
@@ -3233,11 +3198,12 @@ msgid ""
 msgstr ""
 "A nagy ifritek izzó belső tüze, amely hajtja őket, egyben a gyengeségük is. "
 "E forróvérű lényekkel való találkozás után úgy a civilek, mint a katonák "
-"teste megperzselődik, gyakran csak hamuvá égett maradványok lesznek belőlük. "
-"Ha egy nagy ifrit pusztít el egy települést, csak füstölgő romok maradnak "
-"hátra. Nagyon kevesen értik meg a motivációikat és a dühüket, de azok a "
-"varázslók ezt ki is használják, s a lehetőségekhez képest maximálisan "
-"kihasználják ezeknek a lényeknek a pokoli természetét és pusztító indulatait."
+"teste kegyetlenül megperzselődik, gyakran csak hamuvá égett maradványok "
+"lesznek belőlük. Ha egy nagy ifrit pusztít el egy települést, csak füstölgő "
+"romok maradnak hátra. Nagyon kevesen értik meg a motivációikat és a dühüket, "
+"de azok a varázslók ezt ki is használják, s a lehetőségekhez képest "
+"maximálisan kihasználják ezeknek a lényeknek a pokoli természetét és "
+"pusztító indulatait."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/al_Kamija/Great_Efreeti.cfg:128
@@ -3251,7 +3217,6 @@ msgstr "Nagy dzsinn"
 
 #. [unit_type]: id=I8 Ak_Jinn_Great, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Great_Jinn.cfg:17
-#, fuzzy
 msgid ""
 "New summoners learn early on that jinns are much different from the "
 "elementals they have summoned from the Abyss. Jinns bear an insatiable "
@@ -3271,7 +3236,7 @@ msgstr ""
 "dzsinneket teljesen emberszámba veszik, ha másért nem is, "
 "éleselméjűségükért.\n"
 "\n"
-"A nagy dzsinnek gyakran kerülek parancsnoki pozíciókba, alakulatokat "
+"A nagy dzsinnek gyakran kerülnek parancsnoki pozíciókba, alakulatokat "
 "vezényelnek, s még a tanácskozó asztaloknál is helyet kapnak. Gyors "
 "észjárásuk miatt folyton keresik az élet értelmét, mindegy milyen helyre "
 "állítják őket."
@@ -3291,7 +3256,6 @@ msgstr "Nehéz tevegelő"
 
 #. [unit_type]: id=I8 Ak_HeavyCamelRider, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Heavy_Camel_Rider.cfg:18
-#, fuzzy
 msgid ""
 "Camels and riders that survive their first battles together and become "
 "versed in their skill are promoted to the next and highest rank, the heavy "
@@ -3316,7 +3280,6 @@ msgstr "Tudós varázsló"
 
 #. [unit_type]: id=I8 Ak_SummonerHeavy, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Heavy_Summoner.cfg:18
-#, fuzzy
 msgid ""
 "A summoner trained in the ‘heavy arts’ holds a unique advantage over other "
 "summoners of the Third Degree: the knowledge of summoning a support-based "
@@ -3334,9 +3297,9 @@ msgid ""
 "Like their fellow neutral summoners, heavy summoners can call forth Rhamis "
 "from the Abyss through their summoning circles."
 msgstr ""
-"A mágia tudományában képzett varázsló fontos előnnyel rendelkezik a többi "
-"hármas szintű varázslóhoz képest: hozzájuk hasonlóan a megidézést a köré "
-"vont körben is képes művelni, de az ellenállási köre gyengíti a mágikus "
+"A hadviselés tudományában képzett varázsló fontos előnnyel rendelkezik a "
+"többi hármas szintű varázslóhoz képest: hozzájuk hasonlóan a megidézést a "
+"köré vont körben is képes művelni, de az ellenállási köre gyengíti a mágikus "
 "támadások erejét, csökkenti az ütés okozta sebzést is, s védelmet ad a hozzá "
 "közel állóknak is.\n"
 "\n"
@@ -3369,7 +3332,6 @@ msgstr "Ho’rhami"
 
 #. [unit_type]: id=I8 Ak_HoRhami, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/HoRhami.cfg:19
-#, fuzzy
 msgid ""
 "Ho’rhamis are the generals of the summoners’ armies, looking down upon the "
 "battlefield with an impartial eye. Though still avengers at heart, "
@@ -3383,8 +3345,8 @@ msgstr ""
 "csatatereket. Habár szívükben a bosszú érzete lobog, a Ho'rhamik megtanulták "
 "értékelni a társaságukban lévők életének fontosságát másokéhoz viszonyítva. "
 "A támadósorok élén vadul küzdenek, ikerdárdáikkal cafatokra szaggatják az "
-"ellenséget. Még mágikus erejüket is dárdává formálják, hogy távoli, halálos "
-"pontosságú csapást mérjenek ellenségeikre."
+"ellenséget, mintegy élve boncolják fel őket. Még mágikus erejüket is dárdává "
+"formálják, hogy távoli, halálos pontosságú csapást mérjenek ellenségeikre."
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -3400,7 +3362,6 @@ msgstr "Dzsinn"
 
 #. [unit_type]: id=I8 Ak_Jinn, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Jinn.cfg:19
-#, fuzzy
 msgid ""
 "Jinns are special by even summoners’ standards due to their cognitive "
 "process to think, comprehend, learn, and even talk: an affinity that no "
@@ -3412,7 +3373,7 @@ msgstr ""
 "A dzsinnek még a varázslók számára is különleges lények, lévén sajátos "
 "gondolkodásmódjuk van, vágynak a megismerésre, a tudásra, a beszélgetésekre: "
 "olyan tulajdonság ez, amely a többi elemi lény számára teljesen "
-"elérhetetlen. Mivel maguk mágikus lények, a dzsinnek könnyen sebezhetők "
+"elérhetetlen. Mivel maguk is mágikus lények, a dzsinnek könnyen sebezhetők "
 "földöntúli mágiával, bár a fegyverekkel nehéz őket megsebezni. Ezek a "
 "lények, ugyanúgy képesek hibázni, mint az emberek, mégis értékes "
 "szövetségesei a varázslóknak, szüntelenül csapongó gondolataikkal egyetemben "
@@ -3430,7 +3391,6 @@ msgstr "Csodás dzsinn"
 
 #. [unit_type]: id=I8 Ak_Jinn_Wonderful, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Jinn_Wonderful.cfg:17
-#, fuzzy
 msgid ""
 "Wonderful jinns are sages in the summoners’ society, spreading their wisdom "
 "to any ear willing to listen. Their unequaled imagination and intellect of "
@@ -3443,13 +3403,13 @@ msgid ""
 "of their superiors and have not yet retired into the shadows of the world."
 msgstr ""
 "A csodálatos dzsinnek a varázslók társadalmának bölcsei, akiknek "
-"bölcsességét minden értő fül meghallja. Felülmúlhatatlan tudásuk és "
+"bölcsességét minden értő fül hallani akarja. Felülmúlhatatlan tudásuk és "
 "intellektusuk világossá válik sokféle elemi és földöntúli varázslataik okán "
 "is. E csúcsképességű dzsinnek megtanulták azt is, hogy idézzenek meg támadó "
 "lényeket, amivel kivívták emberi gazdáik tiszteletét is. A csodálatos "
 "dzsinnek sokáig szolgálták az embereket, de ennek az időnek vége szakadt. "
 "Rejtély, hogy kielégítették-e vagy sem tudásszomjukat, mindenesetre még "
-"mindig követik feljebbvalóik utasításait, s nem térnek nyugovóra a világ "
+"mindig követik feljebbvalóik utasításait, s nem húzódnak vissza a világ "
 "árnyékos oldalára."
 
 #. [attack]: type=arcane
@@ -3464,7 +3424,6 @@ msgstr "Misztikus dzsinn"
 
 #. [unit_type]: id=I8 Ak_Jinn_Mystic, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Mystical_Jinn.cfg:18
-#, fuzzy
 msgid ""
 "“What is enlightenment? Is it the curtain of darkness that falls upon a "
 "man’s eyelids when death creep-crawls upon him? Is it the bright red of "
@@ -3488,11 +3447,11 @@ msgid ""
 "\n"
 "― Mystic Jinn"
 msgstr ""
-"'Mi a megvilágosodás? A sötétség függönye tán, amely akkor ereszkedik az "
-"ember szemeire, mikor a halál ólálkodik körülötte? Vagy az elszorított "
-"torokból előspriccelő vöröslő vér? Vagy a föld anyagának meghasadása? Vagy "
-"talán a halál szele, ami meglegyinti a harcosokat, mielőtt a mágiám a "
-"szívüket átjárja? Nem tudom.\n"
+"“Mi a megvilágosodás? A sötétség függönye tán, amely akkor ereszkedik az "
+"ember szemeire, mikor a halál ólálkodik körülötte? Vagy az elvágott torokból "
+"előspriccelő vöröslő vér? Vagy a föld anyagának meghasadása? Vagy talán a "
+"halál szele, ami meglegyinti a harcosokat, mielőtt a mágiám a szívüket "
+"átjárja? Nem tudom.\n"
 "\n"
 "És mégis, nagyszerű érzés az, amikor sokéves vesződség után valamit sikerül "
 "kihozni egy emberből. Olyasvalami ez, mint amikor hájjal kenegetnek valakit, "
@@ -3504,8 +3463,8 @@ msgstr ""
 "\n"
 "Túl minden határon. Elérek bárhová, s meg akarok érteni mindent, ami még "
 "homályos előttem. Mégha milliónyi űrt is kell csinálnom milliónyi "
-"dimenzióban. Semmi sem állíthat meg, a tudás utáni vágyakozásomban. Többet "
-"akarok tudni. Többet akarok felfedezni.'\n"
+"dimenzióban. Semmi sem állíthat meg a tudás utáni vágyakozásomban. Többet "
+"akarok tudni. Többet akarok felfedezni.”\n"
 "\n"
 "-Misztikus Dzsinn"
 
@@ -3521,7 +3480,6 @@ msgstr "Semleges varázsló"
 
 #. [unit_type]: id=I8 Ak_Masterofbalance, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Neutral_Summoner.cfg:18
-#, fuzzy
 msgid ""
 "Neutral summoners are the most enigmatic of the Summoners of the Third "
 "Degree. These summoners specialize in strange enfeebling magic that robs the "
@@ -3551,7 +3509,6 @@ msgstr "Varázslótanonc"
 
 #. [unit_type]: id=I8 Ak_Summoner, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Novice_Summoner.cfg:18
-#, fuzzy
 msgid ""
 "Pupils of the summoning world are first taught the inscriptions and symbols "
 "fundamental to their craft. Lacking the experience that comes with age and "
@@ -3585,7 +3542,6 @@ msgstr "Rhami"
 
 #. [unit_type]: id=I8 Ak_Rhami, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Rhami.cfg:19
-#, fuzzy
 msgid ""
 "Rhamis are a race of limber and swift creatures residing in the Abyss. Four-"
 "armed and, like jinns, blessed with the gift of intelligence, Rhamis carry "
@@ -3618,7 +3574,6 @@ msgstr "Rhami’datu"
 
 #. [unit_type]: id=I8 Ak_RhamiDatu, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/RhamiDatu.cfg:18
-#, fuzzy
 msgid ""
 "Embellished in a body of gilded-gold, and always seen with a trinket of "
 "elemental fire dangling from one hand, Rhami’datus have become eagle-eyed, "
@@ -3647,7 +3602,6 @@ msgstr "Rhami’kai"
 
 #. [unit_type]: id=I8 Ak_RhamiKai, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/RhamiKai.cfg:18
-#, fuzzy
 msgid ""
 "Rhami’kais trade in their four scimitars for a single weapon: the spear. "
 "With this, Rhami’kais attain more power and precision with their attacks but "
@@ -3671,7 +3625,6 @@ msgstr "Varázsló"
 
 #. [unit_type]: id=I8 Ak_SummonerII, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Summoner.cfg:17
-#, fuzzy
 msgid ""
 "Promoted to the Second Degree, summoners are proficient enough to perform "
 "minor summonings, using their own bodies as the medium. With a magical "
@@ -3685,7 +3638,7 @@ msgstr ""
 "Kettes fokozatot elérve a varázslók már elég gyakorlottak ahhoz, hogy kisebb "
 "lényeket idézzenek meg, saját testüket használva közvetítő közegként. A "
 "mágikus körüket használva mágikus nyilat lövellhetnek az ellenségre a biztos "
-"találat tudatával. A varázslók, pöröllyel és handzsárral felfegyverkezve, "
+"találat tudatával. A varázslók pöröllyel és handzsárral felfegyverkezve "
 "közeli és távoli ellenségeket egyaránt megsemmisíthetnek.\n"
 "\n"
 "Megjegyzés: Precizitás: Az egység távoli támadása 80% valószínűséggel talál."
@@ -3703,7 +3656,6 @@ msgstr "Mestervarázsló"
 
 #. [unit_type]: id=I8 Ak_SummonerIV, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Summons_Master.cfg:19
-#, fuzzy
 msgid ""
 "Few men in all of history have ever embraced the veiled mystery that comes "
 "naturally with the title of the Fourth Degree. These are men who can wield "
@@ -3726,13 +3678,13 @@ msgid ""
 msgstr ""
 "A történelem során csak kevés ember tapasztalhatta meg azt a misztikus "
 "homályt, amely a negyedik fokozatot elért varázslókat övezi. Ezek az emberek "
-"tökéletesen uralják a Mélység mágikus erejét, egyik kezükkel teremtenek, "
-"lényeket idéznek meg, másikkal pusztítanak. A megidézés művészete és a "
+"tökéletesen uralják a Mélység mágikus erejét, az egyik kezükkel teremtenek, "
+"lényeket idéznek meg, a másikkal pusztítanak. A megidézés művészete és a "
 "Mélység megértése az a csúcspont, amit ezek a mesterek teljesen a magukévá "
 "tettek.\n"
 "\n"
 "A varázslómestereket övezi a legtökéletesebb mágikus kör: a bűvkör. Ebben a "
-"bűvkörben kiteljesedik a mágia hatása, erővel ruház fel, gyógyít, kúrál, "
+"bűvkörben kiteljesedik a mágia hatása—erővel ruház fel, gyógyít, kúrál, "
 "gyengíti, megsebzi az ellenséget, regenerál, s a megidézés alapját adja. "
 "Ettől a roppant erejű misztikus bűvkörtől a levegő is sivít, amikor az elemi "
 "lények kiszáguldanak másvilági lakhelyükről, hogy e világba lépjenek. A "
@@ -3754,7 +3706,6 @@ msgstr "Folyamlény"
 
 #. [unit_type]: id=I8 Ak_Avatar_water, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Water_Avatar.cfg:24
-#, fuzzy
 msgid ""
 "With time, the water elemental dramatically increases both its size and "
 "strength of current to become something grander: an avatar of water. "
@@ -3769,7 +3720,7 @@ msgstr ""
 "megváltoztak, s valami mássá alakultak: folyamlénnyé. Szakadatlanul örvénylő "
 "áramlataikkal a folyamlények csata közben bármilyen alakot képesek felvenni. "
 "Csata hevében a kavargó testük egy esővel és vízzel örvénylő tájfun képét "
-"idézi fel. Sok embert zavart meg csata közben, a váratlanul lábára pottyanó "
+"idézi fel. Sok embert zavart meg csata közben a váratlanul lábára pottyanó, "
 "tajtékzó víztömeg."
 
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
@@ -3779,7 +3730,6 @@ msgstr "Vízlény"
 
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Water_Elemental.cfg:25
-#, fuzzy
 msgid ""
 "The Abyss is home to aquatic beings composed of nothing more than the same "
 "pure water essential for all living creatures. Such a being is held together "
@@ -3798,8 +3748,8 @@ msgstr ""
 "fontosságú. Ezt a lényt viszont csak a benne áramló mágikus energia tartja "
 "össze. Ez az energia teszi lehetővé azt is, hogy más testekből elvont vízzel "
 "regenerálódjon. A testében felhalmozott víz ugyanakkor azt is lehetővé "
-"teszi, hogy a mellette lévő szövtséges egységek kisebb sebeit begyógyítsa. A "
-"Mélység többi lakójához képest kevésbé változékonyak, így a biztonságot "
+"teszi, hogy a mellette lévő szövetséges egységek kisebb sebeit begyógyítsa. "
+"A Mélység többi lakójához képest kevésbé változékonyak, így a biztonságot "
 "kedvelő varázslók előszeretettel idézik meg őket.\n"
 "\n"
 "Azért ezeket a lényeket sem kell teljesen ártalmatlannak tekinteni, hiszen a "
@@ -3813,7 +3763,6 @@ msgstr "Tengeristen"
 
 #. [unit_type]: id=I8 Ak_God_water, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Water_God.cfg:25
-#, fuzzy
 msgid ""
 "Scarce even in the Abyss, water gods have frozen into the shape of glacial "
 "serpents. Despite their rigid appearance, these beasts of water dart across "
@@ -3959,7 +3908,6 @@ msgstr "tűz"
 
 #. [regenerate]: id=fire
 #: Era_of_Magic/utils/abilities.cfg:28
-#, fuzzy
 msgid ""
 "Made of Fire:\n"
 "This unit is made of fire. If it stands in lava, it will receive 6 hp."
@@ -3974,7 +3922,6 @@ msgstr "lávalakó"
 
 #. [regenerate]: id=fire
 #: Era_of_Magic/utils/abilities.cfg:31
-#, fuzzy
 msgid ""
 "lavahome:\n"
 "This unit is made of fire. If it stands in lava, it will receive 6 hp."
@@ -3989,7 +3936,6 @@ msgstr "bűvkör"
 
 #. [regenerate]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:48
-#, fuzzy
 msgid ""
 "megacircle:\n"
 "This unit owns powerful magic circle which affects all units inside. All "
@@ -3997,7 +3943,7 @@ msgid ""
 "3, 4) and regenerate themselves."
 msgstr ""
 "bűvkör:\n"
-"Ez az egység egy mágikus kisugárzással bír, amely a környező egységekre "
+"Ez az egység egy mágikus kisugárzással bír, amely a szomszédos egységekre "
 "hatást gyakorol. A baráti egységek jobban harcolnak (+125%, +100%, +75% "
 "+50%, +25% - 0, 1, 2, 3, 4 szintű) és regenerálódnak."
 
@@ -4063,11 +4009,12 @@ msgstr "sötét aura"
 
 #. [leadership]: id=darkaura
 #: Era_of_Magic/utils/abilities.cfg:182
-#, fuzzy
 msgid ""
 "Dark Aura:\n"
 "Makes all adjacent enemy units fight worse (−25% for attack)."
-msgstr "A sötét aura az ellenséges támadások sebzését csökkenti (25%-kal)."
+msgstr ""
+"Sötét Aura:\n"
+"A sötét aura az ellenséges támadások sebzését csökkenti (25%-kal)."
 
 #. [heals]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:201
@@ -4129,7 +4076,6 @@ msgstr "ellenállási kör"
 
 #. [resistance]: id=cr
 #: Era_of_Magic/utils/abilities.cfg:259
-#, fuzzy
 msgid ""
 "Circle of Resistance:\n"
 "This unit and all adjacent friendly units receive a +20% bonus to fire, "
@@ -4141,9 +4087,8 @@ msgstr ""
 
 #. [resistance]: id=cr
 #: Era_of_Magic/utils/abilities.cfg:275
-#, fuzzy
 msgid "circle of susceptibility"
-msgstr "pusztítókör"
+msgstr "gyengítő kör"
 
 #. [resistance]: id=cr
 #: Era_of_Magic/utils/abilities.cfg:276
@@ -4153,9 +4098,9 @@ msgid ""
 "All adjacent enemy units’ fire, cold, and arcane resistances are weakened by "
 "20%."
 msgstr ""
-"Ellenállási kör:\n"
-"Ez az egység és a baráti egységek +20% ellenállással vérteződnek fel  a tűz, "
-"a hideg és a földöntúli támadások ellen."
+"Gyengítő kör:\n"
+"Minden szomszédos ellenséges egység ellenállása 20%-kal gyengül a tűz, a "
+"hideg és a földöntúli támadások ellen."
 
 #. [resistance]: id=deadzone
 #: Era_of_Magic/utils/abilities.cfg:293
@@ -4164,7 +4109,6 @@ msgstr "holtsáv"
 
 #. [resistance]: id=deadzone
 #: Era_of_Magic/utils/abilities.cfg:294
-#, fuzzy
 msgid ""
 "Deadzone:\n"
 "Adjacent friendly units receive a 99% bonus to fire, cold, and arcane "
@@ -4181,7 +4125,6 @@ msgstr "hideg aura"
 
 #. [resistance]: id=coldaura
 #: Era_of_Magic/utils/abilities.cfg:311
-#, fuzzy
 msgid ""
 "Cold Aura:\n"
 "Area around this unit provides a 50% bonus to fire resistance and a −25% "
@@ -4189,8 +4132,8 @@ msgid ""
 msgstr ""
 "Hideg aura:\n"
 "A szomszédos  egységek 50% ellenállást kapnak a tűztámadások ellen, s 25%-"
-"kal csökken csökken a hideg támadások elleni védelmük. Minden hideg "
-"varázslat nagyon hatásos ebben az aurában."
+"kal csökken a hideg támadások elleni védelmük. Minden hideg varázslat nagyon "
+"hatásos ebben az aurában."
 
 #. [chance_to_hit]: id=i8revenge
 #: Era_of_Magic/utils/abilities.cfg:341 Era_of_Magic/utils/abilities.cfg:344
@@ -4199,7 +4142,6 @@ msgstr "bosszú"
 
 #. [chance_to_hit]: id=i8revenge
 #: Era_of_Magic/utils/abilities.cfg:342 Era_of_Magic/utils/abilities.cfg:345
-#, fuzzy
 msgid ""
 "revenge:\n"
 "The unit has 100% hitting chance during retalitation."
@@ -4214,7 +4156,6 @@ msgstr "kamikaze"
 
 #. [dummy]: id=i8 kamikaze
 #: Era_of_Magic/utils/abilities.cfg:359
-#, fuzzy
 msgid ""
 "Kamikaze:\n"
 "This unit always hits a target when attacking, but it dies instantly."
@@ -4294,7 +4235,6 @@ msgstr "őrjöngés"
 
 #. [dummy]: id=i8fury
 #: Era_of_Magic/utils/abilities.cfg:436
-#, fuzzy
 msgid ""
 "Fury:\n"
 "This unit can attack another unit after killing an enemy."
@@ -4314,7 +4254,6 @@ msgstr "tomboló halál"
 
 #. [damage]: id=i8furiousdeath
 #: Era_of_Magic/utils/abilities.cfg:538
-#, fuzzy
 msgid ""
 "Furious Death:\n"
 "Moments before this unit's death, it flies into a fury. The unit with this "
@@ -4326,48 +4265,44 @@ msgstr ""
 #. [damage]: id=i8battlefrenzy
 #: Era_of_Magic/utils/abilities.cfg:553 Era_of_Magic/utils/abilities.cfg:554
 msgid "battlefrenzy"
-msgstr "támadókedv"
+msgstr "harcikedv"
 
 #. [damage]: id=i8battlefrenzy
 #: Era_of_Magic/utils/abilities.cfg:555
-#, fuzzy
 msgid ""
 "Battlefrenzy:\n"
 "When this attack is used, this units gets an extra strike and additional "
 "damage (+2) after each successful hit. Does not work on defense."
 msgstr ""
-"Támadókedv: Amikor az egység ilyen támadást használ, egy plusz csapást mér "
-"és minden sikeres találat után egyre nagyobb sebzést(+2) okoz. Védekezésnél "
-"ez nem működik."
+"Harcikedv: Amikor az egység ilyen támadást használ, egy plusz csapást mér és "
+"minden sikeres találat után egyre nagyobb sebzést(+2) okoz. Védekezésnél ez "
+"nem működik."
 
 #. [damage]: id=i8battlefrenzy
 #: Era_of_Magic/utils/abilities.cfg:557
-#, fuzzy
 msgid ""
 "Battlefrenzy:\n"
 "This unit gets one extra strike and additional damage (+2) with each hit "
 "during attack. Does not work on defense."
 msgstr ""
-"Támadókedv: Amikor az egység ilyen támadást használ, egy plusz csapást mér "
-"és minden sikeres találat után egyre nagyobb sebzést(+2) okoz. Védekezésnél "
-"ez nem működik."
+"Harcikedv: Amikor az egység ilyen támadást használ, egy plusz csapást mér és "
+"minden sikeres találat után egyre nagyobb sebzést(+2) okoz. Védekezésnél ez "
+"nem működik."
 
 #. [dummy]: id=i8hardlanding
 #: Era_of_Magic/utils/abilities.cfg:666
-#, fuzzy
 msgid "hard landing"
-msgstr "Megsemmisítő vég"
+msgstr "megsemmisítő vég"
 
 #. [dummy]: id=i8hardlanding
 #: Era_of_Magic/utils/abilities.cfg:667
-#, fuzzy
 msgid ""
 "Hard landing:\n"
 "When this large unit is destroyed, it falls on a ground dealing damage to "
 "all adjacent units. "
 msgstr ""
-"Megsemmisítő vég: Amikor ez az egység meghal, a szomszédos egységeknek is "
-"sebzést okoz."
+"Megsemmisítő vég:\n"
+" Amikor ez az egység meghal, a szomszédos egységeknek is sebzést okoz."
 
 #. [dummy]: id=i8parachute
 #: Era_of_Magic/utils/abilities.cfg:675
@@ -4376,14 +4311,14 @@ msgstr "ejtőernyős"
 
 #. [dummy]: id=i8parachute
 #: Era_of_Magic/utils/abilities.cfg:676
-#, fuzzy
 msgid ""
 "Parachute:\n"
 "The pilot of this machine is equipped with parachute and he can survive a "
 "destruction of his vehicle."
 msgstr ""
-"Ejtőernyős: Ennek a masinának a pilótája fel van szerelve ejtőernyővel, így "
-"túlélheti járművének megsemmisülését."
+"Ejtőernyős:\n"
+" Ennek a masinának a pilótája fel van szerelve ejtőernyővel, így túlélheti "
+"járművének megsemmisülését."
 
 #. [heals]: id=i8repair
 #: Era_of_Magic/utils/abilities.cfg:705
@@ -4425,13 +4360,13 @@ msgstr ""
 
 #. [damage]: id=i8grenade
 #: Era_of_Magic/utils/abilities.cfg:775 Era_of_Magic/utils/abilities.cfg:777
-#, fuzzy
 msgid ""
 "Grenade:\n"
 "When this attack is used, all units adjacent to a target get damage. Does "
 "not work on defense."
 msgstr ""
-"Gránát: Amikor ezt a támadást használják, minden szomszédos egység sebződik. "
+"Gránát:\n"
+" Amikor ezt a támadást használják, minden szomszédos egység sebződik. "
 "Védekezés közben nem használható."
 
 #. [dummy]: id=runeaura
@@ -4442,7 +4377,6 @@ msgstr "rúnaaura"
 
 #. [dummy]: id=runeaura
 #: Era_of_Magic/utils/abilities.cfg:786
-#, fuzzy
 msgid ""
 "Rune Aura:\n"
 "When this ability is activated, all Rune Masters create special auras. "
@@ -4453,7 +4387,10 @@ msgid ""
 msgstr ""
 "Rúnaaura:\n"
 "Amikor aktiválják ezt a képességet, a rúnamesterek egy speciális aurát "
-"kreálnak."
+"kreálnak. A szomszédos déli, északkeleti, északnyugati mezőkön álló egységek "
+"99% ellenállásra tesznek szert a tűz, a hideg és a földöntúli támadások "
+"ellen. A többi szomszédos egység -99% ellenállást szerez ugyanezen támadások "
+"ellen. Az átalakulás egy körig tart. Az átalakult egység nem támadhat."
 
 #. [set_menu_item]: id=runeaura_menu
 #: Era_of_Magic/utils/abilities.cfg:826
@@ -4467,13 +4404,11 @@ msgstr "Aktiválod az aurát? (költsége: 24a)"
 
 #. [print]
 #: Era_of_Magic/utils/abilities.cfg:871
-#, fuzzy
 msgid "You don’t have enough gold to activate the rune aura!"
 msgstr "Nincs elég aranyad, hogy aktiváld a rúnaaurát!"
 
 #. [resistance]: id=runeauraactive
 #: Era_of_Magic/utils/abilities.cfg:891
-#, fuzzy
 msgid ""
 "Rune Aura:\n"
 "Adjacent friendly units on hexes: s, ne, nw receive a 99% bonus to fire, "
@@ -4481,9 +4416,9 @@ msgid ""
 "and arcane resistance."
 msgstr ""
 "Rúnaaura:\n"
-"A szomszédos baráti egységek ellenállása +99%-kal nő a tűz-, a hideg és a "
-"földöntúli támadások ellen. A többi egység ellenállása 99%-kal csökken "
-"ugyanezen támadások ellen."
+"A déli, északkeleti és északnyugati mezőkön álló szomszédos baráti egységek "
+"ellenállása +99%-kal nő a tűz-, a hideg és a földöntúli támadások ellen. A "
+"többi egység ellenállása 99%-kal csökken ugyanezen támadások ellen."
 
 #. [damage]: id=swallow
 #: Era_of_Magic/utils/abilities.cfg:917 Era_of_Magic/utils/abilities.cfg:918
@@ -4554,7 +4489,6 @@ msgstr "vízi rajtaütés"
 
 #. [hides]: id=waterambush
 #: Era_of_Magic/utils/abilities.cfg:995
-#, fuzzy
 msgid ""
 "water ambush:\n"
 "This unit can hide in water, and remain undetected by its enemies.\n"
@@ -4636,7 +4570,6 @@ msgstr "felfrissülés +4"
 
 #. [regenerate]: id=regen4
 #: Era_of_Magic/utils/abilities.cfg:1039 Era_of_Magic/utils/abilities.cfg:1042
-#, fuzzy
 msgid ""
 "Regenerates +4:\n"
 "At the beginning of each turn this unit heals +4 hp. If it is poisoned, it "
@@ -4653,7 +4586,6 @@ msgstr "visszahívás"
 
 #. [dummy]: id=i8awake
 #: Era_of_Magic/utils/abilities.cfg:1187
-#, fuzzy
 msgid ""
 "Awaken:\n"
 "If a friendly adjacent unit with more than one hitpoint at the beginning of "
@@ -4742,7 +4674,6 @@ msgstr "rémség"
 
 #. [leadership]: id=terror
 #: Era_of_Magic/utils/abilities.cfg:1516
-#, fuzzy
 msgid ""
 "Awe:\n"
 "This unit can frighten enemy units that are next to it, making them fight "
@@ -4759,12 +4690,11 @@ msgstr ""
 "\n"
 "A szomszédos alacsonyabb szintű egységek kisebb sebzést okoznak csatában. Az "
 "ellenséges szomszédos egységek, beleértve az azonos szintűt és az "
-"alacsonyabb szintűt, a szintjük különbsége szorozva 15% + 15%-kal kisebb "
+"alacsonyabb szintűt is, a szintjük különbsége szorozva 15% + 15%-kal kisebb "
 "sebzést okoznak, ha szembeszállnak ezzel az egységgel."
 
 #. [leadership]: id=terror
 #: Era_of_Magic/utils/abilities.cfg:1552 Era_of_Magic/utils/abilities.cfg:1602
-#, fuzzy
 msgid ""
 "Awe:\n"
 "This unit can frighten enemy units that are next to it, making them fight "
@@ -4781,7 +4711,7 @@ msgstr ""
 "\n"
 "A szomszédos alacsonyabb szintű egységek kisebb sebzést okoznak csatában. Az "
 "ellenséges szomszédos egységek, beleértve az azonos szintűt és az "
-"alacsonyabb szintűt, a szintjük különbsége szorozva 15% + 15%-kal kisebb "
+"alacsonyabb szintűt is, a szintjük különbsége szorozva 15% + 15%-kal kisebb "
 "sebzést okoznak, ha szembeszállnak ezzel az egységgel."
 
 #. [damage]: id=banish
@@ -4791,7 +4721,6 @@ msgstr "irtás"
 
 #. [damage]: id=banish
 #: Era_of_Magic/utils/abilities.cfg:1665
-#, fuzzy
 msgid ""
 "Banish:\n"
 "If a Banisher hits an enemy magical unit, the enemy will turn into a DG "
@@ -4799,16 +4728,15 @@ msgid ""
 "below the banisher). If the enemy is at least two levels below your "
 "banisher, it’ll get completely destroyed. Any other enemy won’t be affected."
 msgstr ""
-"irtás:\n"
-"Ha egy szellemirtó megüt egy mágikus lényt, az átalakul dk-vé "
-"'dimenziókapuvá', (ez csak akkor történik meg, ha a célpont egy szinttel a "
+"Irtás:\n"
+"Ha egy szellemirtó megüt egy mágikus lényt, az átalakul dk-vá "
+"‘dimenziókapuvá’, (ez csak akkor történik meg, ha a célpont egy szinttel a "
 "támadó szintje alatt van). Ha a megtámadott egység legalább két szinttel a "
 "támadó alatt van, akkor teljesen megsemmisül. Más ellenséges egység esetén "
 "nem történik semmi."
 
 #. [damage]: id=banish
 #: Era_of_Magic/utils/abilities.cfg:1667
-#, fuzzy
 msgid ""
 "banish:\n"
 "If a Banisher hits an enemy magical unit, the enemy will turn into a DG "
@@ -4817,8 +4745,8 @@ msgid ""
 "banisher, it’ll get completely destroyed. Any other enemy won’t be affected."
 msgstr ""
 "irtás:\n"
-"Ha egy szellemirtó megüt egy mágikus lényt, az átalakul dk-vé "
-"'dimenziókapuvá', (ez csak akkor történik meg, ha a célpont egy szinttel a "
+"Ha egy szellemirtó megüt egy mágikus lényt, az átalakul dk-vá "
+"‘dimenziókapuvá’, (ez csak akkor történik meg, ha a célpont egy szinttel a "
 "támadó szintje alatt van). Ha a megtámadott egység legalább két szinttel a "
 "támadó alatt van, akkor teljesen megsemmisül. Más ellenséges egység esetén "
 "nem történik semmi."
@@ -4830,7 +4758,6 @@ msgstr "irtókör"
 
 #. [leadership]: id=cob
 #: Era_of_Magic/utils/abilities.cfg:1811
-#, fuzzy
 msgid ""
 "circle of banishment:\n"
 "This unit can affect enemy magical units that are next to it, making them "
@@ -4842,7 +4769,7 @@ msgid ""
 "do less damage (−40% lvl0, −30% lvl1, −15% lvl2, −10% lvl3)."
 msgstr ""
 "irtókör:\n"
-"Az egység köre csökkenti a szomszédos ellenséges egység erejét, s az "
+"Az egység köre csökkenti a szomszédos mágikus ellenséges egység erejét, s az "
 "gyengébben harcol.\n"
 "\n"
 "A szomszédos alacsonyabb szintű ellenséges mágikus egység kisebbet sebez a "
@@ -4899,7 +4826,6 @@ msgstr "kettős támadás"
 #. [dummy]: id=double attack
 #: Era_of_Magic/utils/doubleattack.cfg:31
 #: Era_of_Magic/utils/doubleattack.cfg:34
-#, fuzzy
 msgid ""
 "double attack:\n"
 "This unit can attack two enemies in one turn, but cannot move from a hex, "
@@ -4911,42 +4837,36 @@ msgstr ""
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/doubleattack.cfg:146
-#, fuzzy
 msgid "second target"
-msgstr "Újabb célpont!"
+msgstr "újabb célpont"
 
 #. [dummy]: id=split fire
 #: Era_of_Magic/utils/doubleattack.cfg:157
-#, fuzzy
 msgid "split fire"
-msgstr "boszorkánytűz"
+msgstr "osztott tűz"
 
 #. [dummy]: id=split fire
 #: Era_of_Magic/utils/doubleattack.cfg:158
-#, fuzzy
 msgid ""
 "split fire:\n"
 "This unit can attack two enemies in one turn with this attack."
 msgstr ""
-"Kettős támadás:\n"
-"Ez az egység két ellenséges egységet támadhat, bár nem mozdulhat el a "
-"helyéről, ahonnan az első ellenséget megtámadta."
+"Osztott tűz:\n"
+"Ez az egység két ellenséges egységet támadhat egy kör során."
 
 #. [dummy]: id=split fire
 #: Era_of_Magic/utils/doubleattack.cfg:160
-#, fuzzy
 msgid ""
 "double attack:\n"
 "This unit can attack two enemies in one turn with this attack."
 msgstr ""
 "Kettős támadás:\n"
-"Ez az egység két ellenséges egységet támadhat, bár nem mozdulhat el a "
-"helyéről, ahonnan az első ellenséget megtámadta."
+"Ez az egység két ellenséges egységet támadhat egy körben."
 
 #. [energy_draining]: id=energy_draining
 #: Era_of_Magic/utils/energy-draining.cfg:7
 msgid "energy draining"
-msgstr ""
+msgstr "energiaelszívás"
 
 #. [energy_draining]: id=energy_draining
 #: Era_of_Magic/utils/energy-draining.cfg:8
@@ -4955,6 +4875,9 @@ msgid ""
 "It’ll only get experience by draining the energy of a magical or living "
 "object. Therefore this unit won’t get experience in another way than killing."
 msgstr ""
+"Ez az egység nem harci tapasztalatok által fejlődik. Tapasztalatpontjait az "
+"élő illetve mágikus lényektől elszívott energiából nyeri. Csak gyilkolás "
+"útján tesz szert tapasztalatokra."
 
 #. [dummy]: id=cleave
 #. [dummy]: id=i8cleave
@@ -5001,7 +4924,6 @@ msgstr "9"
 
 #. [dummy]: id=i8cleavehydra
 #: Era_of_Magic/utils/i8cleave.cfg:954 Era_of_Magic/utils/i8cleave.cfg:1182
-#, fuzzy
 msgid "hydra’s strike"
 msgstr "hidraütés"
 
@@ -5074,16 +4996,14 @@ msgstr "troll vezér"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:48
-#, fuzzy
 msgid ""
 "Troll leader:\n"
 "This unit can lead our own Trolls that are next to it, making them fight "
 "better (+20%)."
 msgstr ""
-"Ork vezér:\n"
-"Ez az egység a mellette álló saját oldali orkokat jobb támadásra sarkallja.\n"
-"\n"
-"A szomszédos mezőn álló saját oldali ork többet sebez csatában (20%-kal)."
+"Troll vezér:\n"
+"Ez az egység a mellette álló saját oldali trollokat jobb támadásra sarkallja "
+"(+20%)."
 
 #. [petrifies]: id=sculpts
 #: Era_of_Magic/utils/sculpt.cfg:8
@@ -5102,52 +5022,58 @@ msgstr ""
 msgid ""
 " This unit returns to life if it is killed while it has more than one hit "
 "point."
-msgstr ""
+msgstr "Ez az egység a halála után feltámad, habár csak egyetlen ÉP-vel."
 
 #: Era_of_Magic/utils/special-notes.cfg:7
-#, fuzzy
 msgid ""
 " This unit can effecively fight with magical units by turning them into "
 "Dimensional Gates."
 msgstr ""
-"Irtás: ez az egység hatékonyan képes fellépni a mágikus lények ellen "
+"Ez az egység hatékonyan képes fellépni a mágikus lények ellen, "
 "dimenziókapuvá alakítva őket."
 
 #: Era_of_Magic/utils/special-notes.cfg:10
 msgid " This unit regenerates in the presence of lava."
-msgstr ""
+msgstr "Az egység láva környezetben regenerálódik."
 
 #: Era_of_Magic/utils/special-notes.cfg:13
 msgid " This unit is capable of minor healing."
-msgstr ""
+msgstr "Az egység kisebb gyógyításra képes."
 
 #: Era_of_Magic/utils/special-notes.cfg:16
 msgid ""
 " The presence of this unit inspires own units next to it to deal more damage "
 "in combat, though this only applies to units of lower or equal level."
 msgstr ""
+"Az egység jelenléte ösztönzőleg hat a szomszédos mezőkön harcoló azonos vagy "
+"alacsonyabb szintű saját egységekre, így azok többet sebeznek a harcban."
 
 #: Era_of_Magic/utils/special-notes.cfg:19
 msgid " This unit increases the resistances of adjacent friendly units."
-msgstr ""
+msgstr "Ez az egység megnöveli a szomszédos baráti egységek ellenállását. "
 
 #: Era_of_Magic/utils/special-notes.cfg:22
 msgid ""
 " This unit invokes awe in adjacent enemy units of the same or lower level, "
 "causing them to have their damage reduced."
 msgstr ""
+"Ez az egység a szomszédos ellenséges egységekben rettegést vált ki, így azok "
+"gyengébben harcolnak, kisebbet sebeznek."
 
 #: Era_of_Magic/utils/special-notes.cfg:25
+#, fuzzy
 msgid " This unit can turn enemy units into stone for two turns."
-msgstr ""
+msgstr "Az egység vízi környezetben regenerálódik."
 
 #: Era_of_Magic/utils/special-notes.cfg:28
 msgid " This unit is capable of superior healing and also cures poison."
 msgstr ""
+"Ez az egység különösen hatékony gyógyító, s mérgezésből kúráló képességekkel "
+"bír."
 
 #: Era_of_Magic/utils/special-notes.cfg:31
 msgid " This unit regenerates in the presence of water."
-msgstr ""
+msgstr "Az egység vízi környezetben regenerálódik."
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/summon.cfg:131 Era_of_Magic/utils/summon.cfg:168
@@ -5176,7 +5102,6 @@ msgstr "Súgó"
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/utils/summon.cfg:207
-#, fuzzy
 msgid ""
 "To summon a unit right-click on adjacent hexes near a selected summoner.\n"
 "\n"
@@ -5189,7 +5114,7 @@ msgid ""
 "selected unit able to summon."
 msgstr ""
 "Egy egység megidézéséhez jobbklikk a választott varázsló melleti mezőre.\n"
-" \n"
+"\n"
 "Minden mozgáspontra szükség van (s támadási lehetőségre is) egy egység "
 "megidézéséhez. Kastélyban, erődben nem lehet megidézni. Vízre sem lehet "
 "lényt megidézni.\n"
@@ -5236,12 +5161,12 @@ msgstr ""
 #: Era_of_Magic/utils/summon.cfg:265
 #, fuzzy
 msgid "Summon Fire Elemental (15 Gold)"
-msgstr "Tűzlény"
+msgstr "Tűzlény megidézése (15a)"
 
 #: Era_of_Magic/utils/summon.cfg:266
 #, fuzzy
 msgid "Summon Water Elemental (16 Gold)"
-msgstr "Vízlény"
+msgstr "Vízlény megidézése (16a)"
 
 #: Era_of_Magic/utils/summon.cfg:270 Era_of_Magic/utils/summon.cfg:325
 #: Era_of_Magic/utils/summon.cfg:373 Era_of_Magic/utils/summon.cfg:421
@@ -5258,50 +5183,52 @@ msgstr ""
 #: Era_of_Magic/utils/summon.cfg:316
 #, fuzzy
 msgid "Summon Fire Elemental (7 Gold)"
-msgstr "Tűzlény"
+msgstr "Tűzlény megidézése (7a)"
 
 #: Era_of_Magic/utils/summon.cfg:317
 #, fuzzy
 msgid "Summon Water Elemental (7 Gold)"
-msgstr "Vízlény"
+msgstr "Vízlény megidézése (7a)"
 
 #: Era_of_Magic/utils/summon.cfg:318
 #, fuzzy
 msgid "Summon Air Elemental (8 Gold)"
-msgstr "Szellőlény"
+msgstr "Szellőlény megidézése (8a)"
 
 #: Era_of_Magic/utils/summon.cfg:319
 #, fuzzy
 msgid "Summon Earth Elemental (8 Gold)"
-msgstr "Földlény"
+msgstr "Földlény megidézése (8a)"
 
 #: Era_of_Magic/utils/summon.cfg:369
+#, fuzzy
 msgid "Summon Rhami (12 Gold)"
-msgstr ""
+msgstr "Rhami megidézése(12a)"
 
 #: Era_of_Magic/utils/summon.cfg:417
+#, fuzzy
 msgid "Summon Jinn (14 Gold)"
-msgstr ""
+msgstr "Dzsinn megidézése(14a)"
 
 #: Era_of_Magic/utils/summon.cfg:470
 #, fuzzy
 msgid "Summon Fire Elemental (12 Gold)"
-msgstr "Tűzlény"
+msgstr "Tűzlény megidézése (12a)"
 
 #: Era_of_Magic/utils/summon.cfg:519
 #, fuzzy
 msgid "Summon Water Elemental (12 Gold)"
-msgstr "Vízlény"
+msgstr "Vízlény megidézése (12a)"
 
 #: Era_of_Magic/utils/summon.cfg:568
 #, fuzzy
 msgid "Summon Air Elemental (16 Gold)"
-msgstr "Szellőlény"
+msgstr "Szellőlény megidézése (16a)"
 
 #: Era_of_Magic/utils/summon.cfg:617
 #, fuzzy
 msgid "Summon Golem (16 Gold)"
-msgstr "Szellőlény"
+msgstr "Gólem megidézése(16a)"
 
 #. [dummy]: id=summon_roc
 #: Era_of_Magic/utils/summon.cfg:632
@@ -5318,8 +5245,9 @@ msgstr ""
 "ez az egység a szomszédos mezőre, ami nem falu, megidézhet egy új egységet."
 
 #: Era_of_Magic/utils/summon.cfg:670
+#, fuzzy
 msgid "Summon Roc Rider (22 Gold)"
-msgstr ""
+msgstr "()"
 
 #. [trait]: id=magical, description={STR_NONLIVING_DESCRIPTION}
 #: Era_of_Magic/utils/traits.cfg:7
@@ -5331,9 +5259,8 @@ msgstr "mágikus lény"
 msgid "female^magical"
 msgstr "mágikus lény"
 
-#, fuzzy
 #~ msgid "Default + Khalifate + Magic"
-#~ msgstr "Alapbeállítás+Mágia"
+#~ msgstr "Alap+Mágikus+Khalifa"
 
 #~ msgid "Double attack!"
 #~ msgstr "Kétszeri támadás"
