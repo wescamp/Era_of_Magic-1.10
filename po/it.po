@@ -1,10 +1,19 @@
+# translation of it.po to Italian
+# Italian translations for Battle for Wesnoth - Era of Magic addon
+#
+# Antonio Rosella <arosella@yahoo.com>, 2012.
+#
+# "POT-Creation-Date: 2012-03-08 16:15-0500\n"
+# "PO-Revision-Date: 2012-04-07 11:51+0100\n"
+#
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-08 16:15-0500\n"
-"PO-Revision-Date: 2012-01-15 13:43+0100\n"
-"Last-Translator: Stefano Coccato aka BioHazardX <dhamp90@aol.com>\n"
+"PO-Revision-Date: 2012-05-03 10:21+0100\n"
+"Last-Translator: BioHazardX <dhamp90@aol.com>\n"
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -15,32 +24,32 @@ msgstr ""
 #. [multiplayer_side]: id=Random
 #: Era_of_Magic/EoMa_eras.cfg:6
 msgid "Random Default"
-msgstr "Predefinito Casuale"
+msgstr "Predefinito casuale"
 
 #. [era]: id=era_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:16
 msgid "Era of Magic"
-msgstr "Era della Magia"
+msgstr "Era della magia"
 
 #. [era]: id=era_magic_rpg_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:31
 msgid "Era of Magic RPG"
-msgstr "Era della Magia RPG"
+msgstr "Era della magia RPG"
 
 #. [era]: id=era_magic_masters_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:46
 msgid "Era of Magic Masters"
-msgstr "Era dei Maestri di Magia"
+msgstr "Era dei maestri di magia"
 
 #. [era]: id=era_default_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:61
 msgid "Default + Magic"
-msgstr "Predefinito + Magia"
+msgstr "Predefinita + magia"
 
 #. [era]: id=era_heroes_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:83
 msgid "Heroes + Magic"
-msgstr "Eroi + Magia"
+msgstr "Eroi + magia"
 
 #. [language]
 #: Era_of_Magic/english.cfg:4
@@ -63,8 +72,9 @@ msgstr "Barbari"
 #: Era_of_Magic/factions/darkblood-masters.cfg:4
 #: Era_of_Magic/factions/darkblood-mrpg.cfg:4
 msgid "Dark Blood Alliance"
-msgstr "Alleanza Sanguescuro"
+msgstr "Alleanza sanguescuro"
 
+# Tutto in maiuscolo, visto che è il nome di una nazione.
 #. [multiplayer_side]: id=enlightenedones, type=I8 enlightened_archmage
 #. [multiplayer_side]: id=enlightenedones_masters, type=I8 enlightened_mastermage
 #. [multiplayer_side]: id=newenlightened_rpg, type=I8 enlightened_battlemage
@@ -90,7 +100,7 @@ msgstr "Kharos"
 #: Era_of_Magic/factions/runemasters-masters.cfg:4
 #: Era_of_Magic/factions/runemasters-mrpg.cfg:4
 msgid "Runemasters"
-msgstr "Maestri di Rune"
+msgstr "Maestri di rune"
 
 #. [multiplayer_side]: id=alkamija_rpg, type=I8 Ak_Summoner
 #. [multiplayer_side]: id=summoners, type=I8 Ak_SummonerII
@@ -113,7 +123,7 @@ msgstr "Tharis"
 #. [unit_type]: id=I8 Barbarian_AncientCyclop, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Ancient_Cyclops.cfg:4
 msgid "Ancient Cyclops"
-msgstr "Ciclope Antico"
+msgstr "Ciclope antico"
 
 #. [unit_type]: id=I8 AD_MD, race=mechanical
 #. [unit_type]: id=I8 AD_Pacificator, race=mechanical
@@ -270,22 +280,22 @@ msgstr "spada+ascia"
 #. [unit_type]: id=I8 Barbarian_OrcishBerserker, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_Berserker.cfg:4
 msgid "Barbarian Berserker"
-msgstr "Barbaro Furioso"
+msgstr "Barbaro furioso"
 
 #. [unit_type]: id=I8 Barbarian_BarbarianKing, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_King.cfg:4
 msgid "Barbarian King"
-msgstr "Re Barbaro"
+msgstr "Re dei barbari"
 
 #. [unit_type]: id=I8 Barbarian_GreatBarbarian, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_Lord.cfg:4
 msgid "Barbarian Lord"
-msgstr "Signore dei Barbari"
+msgstr "Signore dei barbari"
 
 #. [unit_type]: id=I8 Barbarian_OrcishBloodWarrior, race=orc
 #: Era_of_Magic/units/Barbarians/Blood_Warrior.cfg:4
 msgid "Blood Warrior"
-msgstr "Guerriero Sanguinario"
+msgstr "Guerriero sanguinario"
 
 #. [unit_type]: id=I8 Barbarian_Cyclop, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Cyclops.cfg:4
@@ -305,23 +315,25 @@ msgid ""
 "thing about these beasts is a certainty: when facing one in combat it is "
 "best not to get hit."
 msgstr ""
-"Sgraziati e con poca intelligenza, i Ciclopi si stavano estinguendo prima di "
-"fare parte dell’orda dei barbari. Dopo due secoli queste antiche creature "
-"hanno cominciato a proliferare, aumentando non solo il loro numero ma anche "
-"la loro forza. Alcuni dicono che i ciclopi siano stati costretti ad allearsi "
-"per colpa di qualche strano incantesimo e ciò potrebbe essere la ragione del "
-"loro incremento di potere. Una sola cosa è certa: meglio evitare di farsi "
-"colpire da queste creature in combattimento."
+"Enormi ma poco intelligenti, l’antica razza dei ciclopi si stava "
+"inevitabilmente estinguendo prima di entrare a fare parte dell’orda dei "
+"barbari finché, inspiegabilmente, dopo due secoli queste creature hanno "
+"cominciato a proliferare, aumentando non solo il loro numero ma anche la "
+"loro forza. Non si sa ancora perché i ciclopi combattano insieme ai barbari, "
+"ma voci di corridoio dicono che essi siano stati costretti ad allearsi per "
+"colpa di qualche strano incantesimo e questo presupposto sembrerebbe una "
+"valida ragione del loro incremento di potere. Una sola cosa è certa: meglio "
+"evitare di farsi colpire da queste creature in combattimento."
 
 #. [unit_type]: id=I8 Barbarian_CyclopBreaker, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Cyclops_Breaker.cfg:4
 msgid "Cyclops Breaker"
-msgstr "Ciclope Spaccatutto"
+msgstr "Ciclope spaccatutto"
 
 #. [unit_type]: id=I8 Barbarian_CyclopDestroyer, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Cyclops_Destroyer.cfg:4
 msgid "Cyclops Destroyer"
-msgstr "Ciclope Distruttore"
+msgstr "Ciclope distruttore"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Barbarians/Cyclops_Destroyer.cfg:68
@@ -339,17 +351,17 @@ msgstr "lancio del tronco"
 #. [unit_type]: id=I8 Barbarian_CyclopMighty, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Cyclops_Mighty.cfg:4
 msgid "Mighty Cyclops"
-msgstr "Ciclope Possente"
+msgstr "Ciclope possente"
 
 #. [unit_type]: id=I8 Barbarian_CyclopFire, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Fire_Cyclops.cfg:4
 msgid "Fire Cyclops"
-msgstr "Ciclope di Fuoco"
+msgstr "Ciclope di fuoco"
 
 #. [unit_type]: id=I8 Barbarian_GoblinArcher, race=goblin
 #: Era_of_Magic/units/Barbarians/Goblin_Archer.cfg:4
 msgid "Goblin Archer"
-msgstr "Goblin Arciere"
+msgstr "Goblin arciere"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Barbarians/Goblin_Archer.cfg:71
@@ -360,7 +372,7 @@ msgstr "freccia avvelenata"
 #. [unit_type]: id=I8 Barbarian_GoblinAssassin, race=goblin
 #: Era_of_Magic/units/Barbarians/Goblin_Assassin.cfg:4
 msgid "Goblin Assassin"
-msgstr "Goblin Assassino"
+msgstr "Goblin assassino"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Barbarians/Goblin_Assassin.cfg:45
@@ -371,12 +383,12 @@ msgstr "bolas"
 #. [unit_type]: id=I8 Barbarian_GoblinHunter, race=goblin
 #: Era_of_Magic/units/Barbarians/Goblin_Hunter.cfg:4
 msgid "Goblin Hunter"
-msgstr "Goblin Cacciatore"
+msgstr "Goblin cacciatore"
 
 #. [unit_type]: id=I8 Barbarian_GoblinKamikaze, race=goblin
 #: Era_of_Magic/units/Barbarians/Goblin_Kamikaze.cfg:4
 msgid "Goblin Kamikaze"
-msgstr "Goblin Kamikaze"
+msgstr "Goblin kamikaze"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Barbarians/Goblin_Kamikaze.cfg:27
@@ -387,7 +399,7 @@ msgstr "esplosione"
 #. [unit_type]: id=I8 Barbarian_GoblinRouser, race=goblin
 #: Era_of_Magic/units/Barbarians/Goblin_Rouser.cfg:4
 msgid "Goblin Rouser"
-msgstr "Goblin Incitatore"
+msgstr "Goblin incitatore"
 
 #. [unit_type]: id=I8 Barbarian_GoblinRouser, race=goblin
 #: Era_of_Magic/units/Barbarians/Goblin_Rouser.cfg:18
@@ -418,7 +430,7 @@ msgstr "tiro con la lancia"
 #. [unit_type]: id=I8 Barbarian_GoblinRunt, race=goblin
 #: Era_of_Magic/units/Barbarians/Goblin_Runt.cfg:4
 msgid "Goblin Runt"
-msgstr "Goblin Omuncolo"
+msgstr "Goblin omuncolo"
 
 #. [unit_type]: id=I8 Barbarian_GoblinRunt, race=goblin
 #. [unit_type]: id=I8 Barbarian_GoblinWarrior, race=goblin
@@ -431,37 +443,37 @@ msgid ""
 "lying around. Their superiors use them for cannon fodder, hurling them into "
 "impossible situations with often surprising results."
 msgstr ""
-"Rispetto alle altre piccole razze, i Goblin omuncoli sono ancora più piccoli "
-"e più deboli. Di certo è una meraviglia se queste minuscole creature possano "
+"Rispetto alle altre razze, i goblin omuncoli sono ancora più piccoli e più "
+"deboli. Di certo è una meraviglia se queste minuscole creature possano "
 "combattere, per di più armate di qualche pezzo di ferraglia trovata in giro. "
-"Essi vengono inoltre usati come “carne da cannone” dai loro superiori, che "
-"li scagliano in assurde situazioni con avendo spesso dei risultati "
+"Essi vengono inoltre sfruttati come “carne da cannone” dai loro superiori, "
+"che li scagliano in assurde situazioni con ricevendo spesso risultati "
 "sorprendenti."
 
 #. [unit_type]: id=I8 Barbarian_GoblinSniper, race=goblin
 #: Era_of_Magic/units/Barbarians/Goblin_Sniper.cfg:4
 msgid "Goblin Sniper"
-msgstr "Goblin Cecchino"
+msgstr "Goblin cecchino"
 
 #. [unit_type]: id=I8 Barbarian_GoblinWarbanner, race=goblin, description=
 #: Era_of_Magic/units/Barbarians/Goblin_Warbaner.cfg:4
 msgid "Goblin Warbanner"
-msgstr "Goblin con Stendardo di Guerra"
+msgstr "Goblin con stendardo di guerra"
 
 #. [unit_type]: id=I8 Barbarian_GoblinWarrior, race=goblin
 #: Era_of_Magic/units/Barbarians/Goblin_Warrior.cfg:4
 msgid "Goblin Warrior"
-msgstr "Goblin Guerriero"
+msgstr "Goblin guerriero"
 
 #. [unit_type]: id=I8 Barbarian_MadCyclop, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Mad_Cyclop.cfg:4
 msgid "Raging Cyclops"
-msgstr "Ciclope Furioso"
+msgstr "Ciclope furioso"
 
 #. [unit_type]: id=I8 Barbarian_OrcishWarbanner, race=orc
 #: Era_of_Magic/units/Barbarians/Orcish_Warbanner.cfg:4
 msgid "Orcish Warbanner"
-msgstr "Orco con Stendardo di Guerra"
+msgstr "Orco con stendardo di guerra"
 
 #. [unit_type]: id=I8 Barbarian_OrcishWarbanner, race=orc
 #. [unit_type]: id=I8 Barbarian_OrcishWarrior, race=orc
@@ -478,31 +490,31 @@ msgid ""
 "but one thing is sure, when the barbarian hordes come screaming for your "
 "blood the Orcs will be leading the charge."
 msgstr ""
-"Gli Orchi selvaggi e guerrieri formano la spina dorsale delle orde "
+"Gli orchi selvaggi e guerrieri formano la spina dorsale delle orde "
 "barbariche.\n"
 "\n"
 "La società degli orchi è basata sulla guerra e ogni componente lascia la "
-"propria tribù per predare ogni villaggio che incontra sulla loro strada. "
-"Comunque è cambiato qualcosa negli ultimi secoli. Gli Orchi ora combattono "
-"dalla parte dei Ciclopi, Troll, Roc e Goblin, in cerca di prede. Le origini "
-"di questo cambiamento sono sconosciute ma una cosa è certa, quando le orde "
-"barbariche vengono a reclamare il tuo sangue, gli Orchi comanderanno "
-"l’assalto."
+"propria piccola tribù per arruolarsi tra le varie armate mondiali. Comunque "
+"qualcosa è cambiato negli ultimi due secoli: gli orchi ora combattono fianco "
+"a fianco dei ciclopi, dei troll, dei roc e dei goblin sia in irregolari "
+"gruppi da caccia che in eserciti regolari. Le origini di questo cambiamento "
+"sono sconosciute ma una cosa è certa, quando le orde barbariche vengono a "
+"reclamare il tuo sangue, gli orchi comanderanno l’assalto."
 
 #. [unit_type]: id=I8 Barbarian_OrcishWarrior, race=orc
 #: Era_of_Magic/units/Barbarians/Orcish_Warrior.cfg:4
 msgid "Orcish Warrior"
-msgstr "Orco Guerriero"
+msgstr "Orco guerriero"
 
 #. [unit_type]: id=I8 Barbarian_RocMaster, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Roc_Master.cfg:4
 msgid "Roc Master"
-msgstr "Maestro di Roc"
+msgstr "Maestro di roc"
 
 #. [unit_type]: id=I8 Barbarian_RocRider, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Roc_Rider.cfg:4
 msgid "Roc Rider"
-msgstr "Cavalcatore di Roc"
+msgstr "Cavalcatore di roc"
 
 #. [unit_type]: id=I8 Barbarian_RocRider, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Roc_Rider.cfg:19
@@ -517,21 +529,20 @@ msgid ""
 "the goblins ride tamed Rocs into battle, their battle cries the only warning "
 "of impending doom."
 msgstr ""
-"I Roc della Montagna di Thornspire furono da tempo cresciuti lontani dalle "
-"popolazioni di goblin che vivevano di sotto. Finché un goblin "
-"particolarmente pazzo e avventato riuscì ad addomesticare queste bestie, "
-"cambiando il destino della sua gente. Si racconta che dopo molte numerose "
-"fughe il goblin alla fine riuscì a rubare un uovo, portandoselo a casa e "
-"avendo molto cura. Dopo tre mesi, quando i Roc attaccarono il villaggio "
-"rimasero sorpresi nel sentire un pianto acuto dall’alto e ancor più sorpresi "
-"quando furono fatti a pezzi da uno della loro razza. Da questo giorno i "
-"goblin cominciarono ad addomesticare i Roc per la battaglia, i quali le loro "
-"grida da battaglia sono avvertimento di morte imminente."
+"I roc della Montagna di Thornspire vivevano lontani e indipendenti dalle "
+"popolazioni di goblin di sotto, finchè arrivò un goblin particolarmente "
+"pazzo e avventato che riuscì ad addomesticare queste bestie, cambiando il "
+"destino della sua gente. Si racconta che dopo molte numerose fughe il goblin "
+"alla fine sia riuscito a rubare un uovo di roc, portandoselo a casa e avendo "
+"molto cura del cucciolo. Dopo tre mesi, i roc attaccarono il villaggio dei "
+"goblin ma furono massacrati e sconfitti dal loro simile allevato dal goblin. "
+"Da questo giorno i goblin cominciarono ad addomesticare i roc e a portare "
+"morte nei campi di battaglia."
 
 #. [unit_type]: id=I8 Barbarian_TrollFireWizard, race=troll
 #: Era_of_Magic/units/Barbarians/Troll_Fire_Wizard.cfg:4
 msgid "Troll Fire Wizard"
-msgstr "Troll Stregone del Fuoco"
+msgstr "Troll stregone del fuoco"
 
 #. [unit_type]: id=I8 Barbarian_TrollFireWizard, race=troll
 #: Era_of_Magic/units/Barbarians/Troll_Fire_Wizard.cfg:27
@@ -540,9 +551,9 @@ msgid ""
 "or tough as other trolls, their true power lies in their fire magic, which "
 "they use to blast enemies with gouts of fire."
 msgstr ""
-"I troll sciamani sono i capi mistici dei troll. Anche se non sono forti come "
-"gli altri troll, il loro potere risiede nel loro fuoco magico, usato per "
-"colpire i nemici."
+"I troll sciamani sono i capi mistici dei troll. Anche se non forti come gli "
+"altri troll, il loro potere risiede nel loro fuoco magico, usato per colpire "
+"i nemici."
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Barbarians/Troll_Fire_Wizard.cfg:43
@@ -552,7 +563,7 @@ msgstr "fiammata"
 #. [unit_type]: id=I8 Barbarian_TrollSorcerer, race=troll
 #: Era_of_Magic/units/Barbarians/Troll_Sorcerer.cfg:4
 msgid "Troll Sorcerer"
-msgstr "Troll Incantatore"
+msgstr "Troll incantatore"
 
 #. [unit_type]: id=I8 Barbarian_TrollSorcerer, race=troll
 #: Era_of_Magic/units/Barbarians/Troll_Sorcerer.cfg:27
@@ -566,19 +577,17 @@ msgid ""
 "preternatural aim of the Troll Sorcerers that no matter where the target is "
 "hiding they will unerringly seek it out."
 msgstr ""
-"Come tutti sanno, i troll che appartengono all’orda Barbarica non praticano "
-"la magia anche se non è del tutto veritiero. La pelle dura di queste "
-"misteriose creature può accecare se entra in contatto con loro stessi, "
-"infiammando ogni materiale attorno a loro. Poi con il tocco delle loro dita "
-"i troll possono incenerire i piccoli pezzi di paglia che celano nella mano "
-"prima di lanciarli contro il nemico. Grazie alla loro mira straordinaria, i "
-"Troll Incantatori non hanno nessun problema a colpire il bersaglio: anche se "
+"Come tutti sanno, i troll appartenenti all’orda barbarica non praticano la "
+"magia anche se non è del tutto veritiero. Grazie a una speciale tecnica, i "
+"troll possono infiammare ogni tipo di materiale attorno a loro con il "
+"semplice schiocco di dita. Grazie alla loro mira straordinaria, i troll "
+"incantatori non hanno nessun problema a colpire il bersaglio: anche se "
 "nascosto non sarà difficile trovarlo."
 
 #. [unit_type]: id=I8 Barbarian_TrollWarbanner, race=troll
 #: Era_of_Magic/units/Barbarians/Troll_Warbanner.cfg:4
 msgid "Troll Warbanner"
-msgstr "Troll con Stendardo di Guerra"
+msgstr "Troll con stendardo di guerra"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Barbarians/Troll_Warbanner.cfg:33
@@ -588,7 +597,7 @@ msgstr "stendardo"
 #. [unit_type]: id=I8_DB_BattleToadRecruit, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Battle_Toad.cfg:4
 msgid "Battle Toad"
-msgstr "Rospo da Battaglia"
+msgstr "Rospo da battaglia"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Dark_Blood_Alliance/Battle_Toad.cfg:21
@@ -619,12 +628,12 @@ msgstr "lingua"
 #: Era_of_Magic/units/Sky_Kingdom/Golem.cfg:51
 #: Era_of_Magic/units/Sky_Kingdom/Golem_Boss.cfg:197
 msgid "charge"
-msgstr "ariete"
+msgstr "carica"
 
 #. [unit_type]: id=I8_DB_SalamanderBlack, race=I8 salamander
 #: Era_of_Magic/units/Dark_Blood_Alliance/Black_Salamander.cfg:4
 msgid "Black Salamander"
-msgstr "Salamandra Nera"
+msgstr "Salamandra nera"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Dark_Blood_Alliance/Black_Salamander.cfg:58
@@ -637,7 +646,7 @@ msgstr "lama da polso"
 #. [unit_type]: id=I8_DB_SalamanderBlue, race=I8 salamander
 #: Era_of_Magic/units/Dark_Blood_Alliance/Blue_Salamander.cfg:4
 msgid "Blue Salamander"
-msgstr "Salamandra Blu"
+msgstr "Salamandra blu"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Dark_Blood_Alliance/Blue_Salamander.cfg:105
@@ -650,7 +659,7 @@ msgstr "chakram"
 #. [unit_type]: id=I8_DB_ChaosRider, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Chaos_Rider.cfg:4
 msgid "Chaos Rider"
-msgstr "Cavalcatore del Caos"
+msgstr "Cavalcatore del caos"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Dark_Blood_Alliance/Chaos_Rider.cfg:64
@@ -662,7 +671,7 @@ msgstr "urlo"
 #. [unit_type]: id=I8_DB_WyvernChaos, race=monster
 #: Era_of_Magic/units/Dark_Blood_Alliance/Chaos_Wyvern.cfg:4
 msgid "Chaos Wyvern"
-msgstr "Viverna del Caos"
+msgstr "Viverna del caos"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Dark_Blood_Alliance/Chaos_Wyvern.cfg:45
@@ -670,12 +679,12 @@ msgstr "Viverna del Caos"
 #: Era_of_Magic/units/Dark_Blood_Alliance/Wyvern.cfg:44
 #: Era_of_Magic/units/al_Kamija/DharmaRhami.cfg:147
 msgid "tackle"
-msgstr "equipaggiamento"
+msgstr "afferrare"
 
 #. [unit_type]: id=I8_DB_ChosenOfForest, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Chosen_of_Forest.cfg:4
 msgid "Chosen of Forest"
-msgstr "Eletto della Foresta"
+msgstr "Eletto della foresta"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Dark_Blood_Alliance/Chosen_of_Forest.cfg:146
@@ -688,7 +697,7 @@ msgstr "sfera di ghiaccio"
 #. [unit_type]: id=I8_DB_Shaman, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Clan_Leader.cfg:4
 msgid "Clan Leader"
-msgstr "Capo Clan"
+msgstr "Capo clan"
 
 #. [unit_type]: id=I8_DB_Shaman, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Clan_Leader.cfg:18
@@ -699,16 +708,16 @@ msgid ""
 "them to enspell their claws to make them more powerful; to cast deadlier ice-"
 "balls; and to cast better healing magic."
 msgstr ""
-"Gli Adepti che eccellono in battaglia, di solito perfezionano i loro "
-"attacchi d’acqua, diventando i leader dei loro clan, come simboleggiato "
-"dalle piume del loro copricapo. La loro conoscenza si espande a tal punto da "
-"essere capaci di: combattere con artigli molto potenti, evocare sfere di "
-"ghiaccio mortali, e di guarire meglio le ferite degli alleati."
+"Gli adepti che eccellono in battaglia di solito perfezionano i loro attacchi "
+"d’acqua, diventando i leader dei loro clan, come simboleggiato dalle piume "
+"del loro copricapo. La loro conoscenza si espande a tal punto da essere "
+"capaci di: combattere con artigli molto potenti, evocare sfere di ghiaccio "
+"mortali, e di guarire meglio le ferite degli alleati."
 
 #. [unit_type]: id=I8_DB_DarkShaman, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Corrupted_Shaman.cfg:4
 msgid "Corrupted Shaman"
-msgstr "Sciamano Corrotto"
+msgstr "Sciamano corrotto"
 
 #. [unit_type]: id=I8_DB_DarkShaman, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Corrupted_Shaman.cfg:18
@@ -723,15 +732,16 @@ msgid ""
 "usually make their way out and hire themselves to some of the morally "
 "bankrupt Tribes."
 msgstr ""
-"Alcuni dei Sciamani Sanguescuro diventano corrotti. Da chi, o da che cosa, "
-"nessuno lo sa, ma li conduce a scambiare la loro Magia dell’Acqua con quella "
-"opposta - il Fuoco. Perdono la loro abilità guaritiva, ma tutto ciò non "
-"sembra  importarne molto, e sostengono che il Fuoco sia superiore nei "
-"confronti dell’Acqua in modo inerente.\n"
-"La personalità dei corrotti cambia drasticamente, diventando egoista e "
-"crudele. Come conseguenza, vengono allontanati dalle loro tribù ed esiliati "
-"nel cuore del Grande Bog. Costretti a vagare per anni nel Bog, si "
-"congiungono con le Tribù più immorali, offrendosi sé stessi come guerrieri."
+"Alcuni dei sciamani sanguescuro diventano corrotti. Da chi, o da che cosa, "
+"nessuno lo sa, ma li conduce a scambiare la loro magia dell’acqua con quella "
+"opposta: il fuoco. Anche se perdono la loro abilità guaritiva, tutto ciò non "
+"sembra per niente scoraggiarli, ritenendo che il fuoco sia superiore nei "
+"confronti dell’acqua in modo inerente.\n"
+"Inoltre il comportamento e la personalità dei corrotti cambia drasticamente, "
+"diventando egoisti e crudeli. Come conseguenza vengono allontanati dalle "
+"loro tribù ed esiliati nel cuore della Grande Palude, i quali sono costretti "
+"a vagare in questo posto per anni, finché non si congiungeranno con le tribù "
+"più immorali, offrendosi come guerrieri."
 
 #. [unit_type]: id=I8_DB_Crossbowman, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Crossbowman.cfg:4
@@ -751,17 +761,18 @@ msgid ""
 "Spears are their preferred weapon, as their powerful hind legs can drive a "
 "spear with enough force to do considerable damage, either in hand or thrown."
 msgstr ""
-"I Sauriani sono piccoli di statura, e anche se ciò li rende deboli, sono "
+"I sauriani sono piccoli di statura e anche se ciò li rende deboli, sono "
 "molto, molto agili. In combattimento, la loro grandezza li aiuta molto e "
 "possono dare filo da torcere all’uomo più forte sulla terra.\n"
 "\n"
-"La lancia è la loro arma preferita, e possono maneggiarla così bene da fare "
-"molti danni sia nei combattimenti ravvicinati e sia a quelli a distanza."
+"La lancia è la loro arma preferita e possono maneggiarla così bene da fare "
+"molti danni sia nei combattimenti ravvicinati e sia in quelli a distanza."
 
+# La traduzione letterale è "Rospo a doppia distanza", ma per scelta personale questa unità è stata tradotta come "Rospo con doppio balestriere"
 #. [unit_type]: id=I8_DB_RangedToadDouble, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Double_Ranged_Toad.cfg:4
 msgid "Double Ranged Toad"
-msgstr "Rospo Cecchino"
+msgstr "Rospo con doppio balestriere"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Dark_Blood_Alliance/Double_Ranged_Toad.cfg:43
@@ -781,22 +792,22 @@ msgstr "fuoco di precisione"
 #. [unit_type]: id=I8_DB_DrednaughtRecruit, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Dreadnaught.cfg:4
 msgid "Dreadnaught"
-msgstr "Corazziere Veloce"
+msgstr "Corazziere veloce"
 
 #. [unit_type]: id=I8_DB_GreatLancer, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Great_Pikeman.cfg:4
 msgid "Great Pikeman"
-msgstr "Grande Picchiere"
+msgstr "Grande picchiere"
 
 #. [unit_type]: id=I8_DB_WyvernGreat, race=monster
 #: Era_of_Magic/units/Dark_Blood_Alliance/Great_Wyvern.cfg:4
 msgid "Great Wyvern"
-msgstr "Grande Viverna"
+msgstr "Grande viverna"
 
 #. [unit_type]: id=I8_DB_SalamanderGreen, race=I8 salamander
 #: Era_of_Magic/units/Dark_Blood_Alliance/Green_Salamander.cfg:4
 msgid "Green Salamander"
-msgstr "Salamandra Verde"
+msgstr "Salamandra verde"
 
 #. [unit_type]: id=I8_DB_Mystic, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Mystic.cfg:4
@@ -806,7 +817,7 @@ msgstr "Mistico"
 #. [unit_type]: id=I8_DB_MysticalToadRecruit, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Mystical_Toad.cfg:4
 msgid "Mystical Toad"
-msgstr "Rospo Mistico"
+msgstr "Rospo mistico"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Dark_Blood_Alliance/Mystical_Toad.cfg:46
@@ -817,7 +828,7 @@ msgstr "proiettile magico"
 #. [unit_type]: id=I8_DB_Lancer, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Pikeman.cfg:4
 msgid "Saurian Pikeman"
-msgstr "Sauriano Picchiere"
+msgstr "Sauriano picchiere"
 
 #. [unit_type]: id=I8_DB_Lancer, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Pikeman.cfg:19
@@ -827,16 +838,17 @@ msgid ""
 "are famous for the yellow war-paint they apply to themselves before battle, "
 "and for their knowledge of forest and swamp warfare."
 msgstr ""
-"La maggior parte dei soldati Sanguescuro sono equipaggiati con una lunga "
-"spada e un con un picco, usati per fermare e lacerare i nemici. Inoltre "
-"alcuni Sauriani sono famosi per i loro segni di guerra di colore giallo "
-"dipinti sui loro corpo, e per le loro conoscenze sui campi di battaglia "
+"La maggior parte dei soldati sanguescuro sono equipaggiati con una lunga "
+"spada e un con una picca, usato per fermare e lacerare i nemici. Inoltre "
+"alcuni sauriani sono famosi per i loro segni di guerra di colore giallo "
+"dipinti sui loro corpo e per le loro conoscenze sui campi di battaglia "
 "ambientati nelle foreste e nelle paludi."
 
+# La traduzione letterale è "Rospo a distanza", ma per scelta personale questa unità è stata tradotta come "Rospo con balestriere"
 #. [unit_type]: id=I8_DB_RangedToadRecruit, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Ranged_Toad.cfg:4
 msgid "Ranged Toad"
-msgstr "Rospo Bersagliere"
+msgstr "Rospo con balestriere"
 
 #. [unit_type]: id=I8_DB_ZSalamander, race=I8 salamander
 #: Era_of_Magic/units/Dark_Blood_Alliance/Salamander.cfg:4
@@ -846,7 +858,7 @@ msgstr "Salamandra"
 #. [unit_type]: id=I8_DB_ShamanAdept, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Shamanistic_Adept.cfg:4
 msgid "Shamanistic Adept"
-msgstr "Adepto Sciamanico"
+msgstr "Adepto sciamanico"
 
 #. [unit_type]: id=I8_DB_ShamanAdept, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Shamanistic_Adept.cfg:19
@@ -857,16 +869,16 @@ msgid ""
 "invaluable in battle, both to heal their allies, and to hurl balls of ice at "
 "their foes."
 msgstr ""
-"Se la Tribù Sanguescuro è conosciuta per qualcosa, di certo è per la loro "
-"magia sciamanica. I sauriani che hanno scelto di impararla sono deboli e "
-"incapaci di combattere fisicamente. Comunque, il controllo dell’acqua è "
-"inestimabile in battaglia, e possono sia curare i loro alleati e sia colpire "
-"i loro nemici con le sfere di ghiaccio."
+"Se la tribù sanguescuro è conosciuta per qualcosa, di certo è per la sua "
+"magia sciamanica. I sauriani che hanno scelto di imparare quest’arte sono "
+"deboli e incapaci di combattere fisicamente. Comunque, il controllo "
+"dell’acqua è inestimabile in battaglia, perché possono sia curare i loro "
+"alleati e sia colpire i loro nemici con le sfere di ghiaccio."
 
 #. [unit_type]: id=I8_DB_ShamanisticToadRecruit, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Shamanistic_Toad.cfg:4
 msgid "Shamanistic Toad"
-msgstr "Rospo Sciamanico"
+msgstr "Rospo sciamanico"
 
 #. [unit_type]: id=I8_DB_Shooter, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Shooter.cfg:4
@@ -876,7 +888,7 @@ msgstr "Bersagliere"
 #. [unit_type]: id=I8_DB_DamnedShaman, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Swamp_Mage.cfg:4
 msgid "Swamp Mage"
-msgstr "Mago delle Paludi"
+msgstr "Mago delle paludi"
 
 #. [unit_type]: id=I8_DB_DamnedShaman, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Swamp_Mage.cfg:19
@@ -890,12 +902,12 @@ msgid ""
 "and their ability to use the fires of the darkness itself and regenerate "
 "almost any wound is infamous in some parts of the Bog."
 msgstr ""
-"Qualche Sciamano Corrotto non lascia il Grande Borg, e sceglie di rimanere "
+"Qualche sciamano corrotto non lascia la Grande Palude, e sceglie di rimanere "
 "lì per compiere il proprio destino. Qualcuno girovaga in qualche strana "
-"parte di Borg in cui è coperta con l’oscurità. Molti di loro muoiono: i "
+"parte della palude di cui è coperta con l’oscurità. Molti di loro muoiono: i "
 "pochi che sopravvivono probabilmente stipulano un accordo con l’oscuro "
-"dominatore di quel posto, ritornandone...  deviati. La loro personalità è "
-"vuota, e vengono sfruttati come oggetti per l’oscurità stessa. Per il loro "
+"dominatore di quel posto, ritornandone....deviati. La loro personalità è "
+"vuota e vengono sfruttati come oggetti per l’oscurità stessa. Ma per il loro "
 "servizio ricevono un grande potere, tra cui l’abilità di usare le fiamme "
 "dell’oscurità e di rigenerare quasi tutti i tipi di ferite, anche le più "
 "gravi."
@@ -921,14 +933,14 @@ msgid ""
 "is known that they use special lures to make the Toads strike enemies with "
 "their long, sticky tongues."
 msgstr ""
-"Nel mezzo della Giungla della Vita giace il Grande Bog, terrificante e "
-"maligno. Si dice che molte creature si rifugiano in quel posto.\n"
+"Nel mezzo della Giungla della Vita giace la Grande Palude, luogo tetro e "
+"oscuro. Si dice che molte creature si rifugino in quel posto.\n"
 "\n"
-"I sauriani della tribù Sanguescuro sono famosi per la loro caccia e per "
-"l’addomesticamento dei Rospi Giganti di Bog, usati per essere cavalcati come "
-"se fossero un tipo di elefante da guerra; inoltre sono conosciuti per l’uso "
-"di strane sostanze applicate alla lingua lunga e appiccicosa dei Rospi, "
-"usata per colpire i nemici."
+"I sauriani della tribù sanguescuro sono famosi per la caccia e per "
+"l’addomesticamento dei rospi giganti della palude, usati per essere "
+"cavalcati come se fossero una sorta di elefanti da guerra; inoltre i "
+"sauriani sono conosciuti per l’uso di strane sostanze applicate alla lingua "
+"lunga e appiccicosa dei loro rospi, usata per colpire i nemici."
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Dark_Blood_Alliance/Toad.cfg:95
@@ -950,17 +962,18 @@ msgid ""
 "even more crazed and bloodthirsty than Nature intended, and released upon "
 "the Tribe’s multiple enemies."
 msgstr ""
-"Dalle terre paludose del Grande Bog si rifugiano le assettate Viverne. "
-"Queste bestie piene d’orgoglio, di cui si dice che siano le discendenti dei "
-"grandi Draghi antichi, vengono catturate dai sauriani Sanguescuro, e "
-"vengono  sfruttate come truppe d’assalto. Vengono torturate col fuoco per "
-"farle impazzire ancora di più, e vengono rilasciate per combattere i "
-"numerosi nemici della Tribù."
+"Dalle terre acquitrinose della Grande Palude si ergono le viverne assetate "
+"di sangue. Discendenti illegittime dei grandi dragoni antichi, queste bestie "
+"piene di orgoglio vengono sfortunatamente catturate dai sauriani "
+"sanguescuro, le quali vengono torturate col fuoco per farle impazzire ancora "
+"di più di quanto già lo sono. Infine vengono schierate tra le fila "
+"dell’esercito dei sanguescuro e sfruttate per combattere i numerosi nemici "
+"della tribù."
 
 #. [unit_type]: id=I8_DB_WyvernLancerRecruit, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Wyvern_Rider.cfg:4
 msgid "Wyvern Rider"
-msgstr "Cavalcatore di Viverne"
+msgstr "Cavalcatore di viverne"
 
 #. [unit_type]: id=I8_DB_WyvernLancerRecruit, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Wyvern_Rider.cfg:17
@@ -971,37 +984,37 @@ msgid ""
 "goad their mounts to bite their foes; sometimes, the Wyverns swallow them "
 "whole."
 msgstr ""
-"Non tutte le Viverne catturate dai Sanguescuro vengono torturate e mandate "
-"al fronte; alcune di loro vengono addomesticate e usate per essere cavalcate "
-"dai alcuni Sauriani. Quest’ultimi attaccano per primi i nemici con il picco "
-"per poi lasciare che le Viverne li divorano."
+"Non tutte le viverne catturate dai sanguescuro vengono torturate e mandate "
+"al fronte: alcune di loro vengono addomesticate e usate per essere cavalcate "
+"da alcuni sauriani. Durante il combattimento, i sauriani attaccano per primi "
+"con la picca per poi lasciare che le viverne divorino le membra del nemico."
 
 #. [unit_type]: id=I8_DB_WyvernGreatLancerRecruit, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Wyvern_Tamer.cfg:4
 msgid "Wyvern Tamer"
-msgstr "Viverna Addomesticata"
+msgstr "Viverna addomesticata"
 
 #. [unit_type]: id=I8 Kharos_LightAdept, race=human
 #: Era_of_Magic/units/Kharos/Adept_of_Light.cfg:4
 msgid "female^Adept of Light"
-msgstr "Adepta della Luce"
+msgstr "Adepta della luce"
 
 #. [unit_type]: id=I8 Kharos_SunBrownwarrior, race=human
 #: Era_of_Magic/units/Kharos/Brown_Warrior.cfg:4
 msgid "Brown Warrior"
-msgstr "Guerriero di Bronzo"
+msgstr "Guerriero di bronzo"
 
 #. [unit_type]: id=I8 Kharos_SunBrownwarrior, race=human
 #: Era_of_Magic/units/Kharos/Brown_Warrior.cfg:17
 msgid "Brown warriors are equipped with a very sharp sword and a mace."
 msgstr ""
-"I Guerrieri di Bronzo sono equipaggiati con una mazza e con una spada molto "
+"I guerrieri di bronzo sono equipaggiati con una mazza e con una spada molto "
 "tagliente."
 
 #. [unit_type]: id=I8 Kharos_SunCavalryArcher, race=human
 #: Era_of_Magic/units/Kharos/Cavalry_Archer.cfg:4
 msgid "Cavalry Archer"
-msgstr "Cavaliere Arciere"
+msgstr "Cavaliere arciere"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Kharos/Cavalry_Archer.cfg:25
@@ -1013,7 +1026,7 @@ msgstr "mazzata"
 #. [unit_type]: id=I8 Kharos_LightChild, race=human
 #: Era_of_Magic/units/Kharos/Child_of_Light.cfg:4
 msgid "female^Child of Light"
-msgstr "Figlia della Luce"
+msgstr "Figlia della luce"
 
 #. [attack]: type=arcane
 #. [attack]: type=impact
@@ -1033,7 +1046,7 @@ msgstr "raggio di luce"
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
 #: Era_of_Magic/units/Kharos/Cleric.cfg:4
 msgid "female^Cleric"
-msgstr "Chierica"
+msgstr "Chierichessa"
 
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
 #: Era_of_Magic/units/Kharos/Cleric.cfg:18
@@ -1041,13 +1054,13 @@ msgid ""
 "This unit is less effective than white mage but it can perform more magical "
 "attacks. The Cleric heals and leads other units."
 msgstr ""
-"Questa unità è meno efficace rispetto al Mago Bianco ma può usare molti "
-"attacchi magici. Il Chierico guarisce e comanda altre unità."
+"Questa unità è meno efficace rispetto al mago bianco ma può usare molti "
+"attacchi magici. Il chierico guarisce e comanda altre unità."
 
 #. [unit_type]: id=I8 Kharos_SunCavalryArcherII, race=human, description={SPECIAL_NOTES}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_SLOW}
 #: Era_of_Magic/units/Kharos/Elemental_Archer.cfg:4
 msgid "Elemental Archer"
-msgstr "Elementale Arciere"
+msgstr "Arciere elementale"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Kharos/Elemental_Archer.cfg:55
@@ -1080,7 +1093,7 @@ msgstr "Morirai in un batter d’occhio."
 #. [unit_type]: id=I8 Kharos_SunGoldenwarrior, race=human
 #: Era_of_Magic/units/Kharos/Golden_Warrior.cfg:4
 msgid "Golden Warrior"
-msgstr "Guerriero Dorato"
+msgstr "Guerriero dorato"
 
 #. [unit_type]: id=I8 Kharos_SunGoldenwarrior, race=human
 #: Era_of_Magic/units/Kharos/Golden_Warrior.cfg:17
@@ -1088,7 +1101,7 @@ msgid ""
 "Extremely fast, dangerous and powerful. The Golden warrior can focus the sun "
 "rays, completely burning an enemy."
 msgstr ""
-"Estremamente veloce, pericoloso e potente. Il Guerriero Dorato può "
+"Estremamente veloce, pericoloso e potente. Il guerriero dorato può "
 "concentrare i raggi solari per bruciare completamente il nemico."
 
 #. [attack]: type=arcane
@@ -1106,7 +1119,7 @@ msgstr "luce concentrata"
 #. [unit_type]: id=I8 Kharos_SunCavalryArcherHeavy, race=human
 #: Era_of_Magic/units/Kharos/Heavy_Cavalry_Archer.cfg:4
 msgid "Heavy Cavalry Archer"
-msgstr "Grande Cavaliere Arciere"
+msgstr "Grande cavaliere arciere"
 
 #. [unit_type]: id=I8 Kharos_LightInspired, race=human, description={SPECIAL_NOTES}+{EOMA_SPECIAL_NOTES_INSPIRE}+{EOMA_SPECIAL_NOTES_AWAKE}
 #: Era_of_Magic/units/Kharos/Inspired.cfg:4
@@ -1116,7 +1129,7 @@ msgstr "Inspiratrice"
 #. [unit_type]: id=I8 Kharos_WarbannerKharos, race=human
 #: Era_of_Magic/units/Kharos/Kharos_War_Banner.cfg:4
 msgid "Kharos War Banner"
-msgstr "Kharos con Stendardo di Guerra"
+msgstr "Kharos con stendardo di guerra"
 
 #. [unit_type]: id=I8 Kharos_Warbanner, race=human
 #. [unit_type]: id=I8 Kharos_WarbannerKharos, race=human
@@ -1128,11 +1141,11 @@ msgid ""
 "banner - one Cleric and soldier, who holds the banner. The Cleric creates a "
 "special aura, which decreases power of destructive spells casted on it."
 msgstr ""
-"I Kharos usano stendardi di guerra per far crescere il morale delle truppe "
-"vicine. Nel Stendardo di Guerra è raffigurato il sole dorato — simbolo della "
-"nazione di kharos. Due persone proteggono lo stendardo – un Chierico e un "
-"soldato. I Chierici creano un’aura speciale in grado di far aumentare il "
-"potere distruttivo degli incantesimi."
+"I kharos usano stendardi di guerra per far crescere il morale delle truppe "
+"vicine. In esso è raffigurato il sole dorato, simbolo della nazione di "
+"Kharos e due persone proteggono lo stendardo: un soldato e un chierico. I "
+"chierici creano un’aura speciale in grado di far aumentare il potere "
+"distruttivo degli incantesimi."
 
 #. [unit_type]: id=I8 Kharos_SunKirios, race=human
 #: Era_of_Magic/units/Kharos/Kirios.cfg:4
@@ -1147,10 +1160,10 @@ msgid ""
 "spell, which could stop him from reaching an enemy and destroy it with one "
 "single solar beam (70% reduction in spell damage)."
 msgstr ""
-"Il Kirios è il guerriero più forte nella nazione di Kharos. È il comandante "
-"supremo dell’esercito di Kharos. Il suo potere è fenomenale. Non esiste "
-"incantesimo in grado di fermarlo e può eliminare il nemico con un singolo "
-"raggio solare (70% danni magici in meno)"
+"Il kirios è il guerriero più forte nella nazione di Kharos ed è il "
+"comandante supremo dell’esercito di Kharos. Il suo potere è fenomenale "
+"perché non esiste nessun incantesimo in grado di fermarlo e può inoltre "
+"eliminare il nemico con un singolo raggio solare (70% danni magici in meno)"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Kharos/Kirios.cfg:62
@@ -1184,7 +1197,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunMasterofsun, race=human
 #: Era_of_Magic/units/Kharos/Master_of_Sun.cfg:4
 msgid "Master of Sun"
-msgstr "Maestro del Sole"
+msgstr "Maestro del sole"
 
 #. [unit_type]: id=I8 Kharos_SunMasterofsun, race=human
 #: Era_of_Magic/units/Kharos/Master_of_Sun.cfg:17
@@ -1193,10 +1206,9 @@ msgid ""
 "defend himself. This amazing unit releases huge amounts of sun energy in one "
 "point. This ability allows him to focus the sun rays 6 times on a target."
 msgstr ""
-"Il Maestro del Sole attacca in un batter d’occhio, e il nemico non è in "
-"grado di difendersi molto adeguatamente. Questa fantastica unità rilascia "
-"una grande quantità di energia solare in un solo colpo. Questa abilità fa in "
-"modo di concentrare  i raggi solar ben 6 volte contro un bersaglio."
+"Il maestro del sole attacca in un batter d’occhio, senza lasciare scampo al "
+"nemico. Questa fantastica unità rilascia una grande quantità di energia "
+"solare in un solo colpo e colpisce per ben 6 volte il proprio bersaglio."
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Master_of_Sun.cfg:224
@@ -1206,12 +1218,12 @@ msgstr "super-velocità"
 #. [unit_type]: id=I8 Kharos_LightMistress, race=human
 #: Era_of_Magic/units/Kharos/Mistress_of_Light.cfg:4
 msgid "female^Mistress of Light"
-msgstr "Padrona della Luce"
+msgstr "Padrona della luce"
 
 #. [unit_type]: id=I8 Kharos_LightMistress, race=human
 #: Era_of_Magic/units/Kharos/Mistress_of_Light.cfg:20
 msgid "Mistress of Light is an extremely powerful healer."
-msgstr "La Padrona della Luce è una guaritrice estremamente potente."
+msgstr "La padrona della luce è una guaritrice estremamente potente."
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Mistress_of_Light.cfg:122
@@ -1221,7 +1233,7 @@ msgstr "tempesta di luce"
 #. [unit_type]: id=I8 Kharos_SunPlatinumwarrior, race=human
 #: Era_of_Magic/units/Kharos/Platinum_Warrior.cfg:4
 msgid "Platinum Warrior"
-msgstr "Guerriero di Platino"
+msgstr "Guerriero di platino"
 
 #. [unit_type]: id=I8 Kharos_SunPlatinumwarrior, race=human
 #: Era_of_Magic/units/Kharos/Platinum_Warrior.cfg:18
@@ -1229,13 +1241,13 @@ msgid ""
 "Platinum warriors are equipped with a very sharp sword, silver spear and "
 "mace."
 msgstr ""
-"I Guerrieri di Platino sono equipaggiati con mazza, lancia d’argento e con "
+"I guerrieri di platino sono equipaggiati con mazza, lancia d’argento e con "
 "una spada molto tagliente."
 
 #. [unit_type]: id=I8 Kharos_LightProphetoflight, race=human, description={SPECIAL_NOTES}+{SPECIAL_NOTES_LEADERSHIP}+{SPECIAL_NOTES_ARCANE}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_CURES}+{SPECIAL_NOTES_LEADERSHIP}+{SPECIAL_NOTES_SLOW}
 #: Era_of_Magic/units/Kharos/Prophet_of_Light.cfg:4
 msgid "female^Prophet of Light"
-msgstr "Profetessa della Luce"
+msgstr "Profetessa della luce"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Prophet_of_Light.cfg:134
@@ -1250,7 +1262,7 @@ msgstr "Protettore"
 #. [unit_type]: id=I8 Kharos_SunProtector, race=human
 #: Era_of_Magic/units/Kharos/Protector.cfg:18
 msgid "The Protector holds a large towershield."
-msgstr "Il Protettore possiede un grande scudo."
+msgstr "Il protettore possiede un grande scudo."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Kharos/Protector.cfg:57
@@ -1269,7 +1281,7 @@ msgid ""
 "The Revenger is a heavy tactical defense unit. His retaliation strikes are "
 "always successful."
 msgstr ""
-"Il Vendicatore è una forte unità tattica e difensiva. I suoi colpi di "
+"Il vendicatore è una forte unità tattica e difensiva, e i suoi colpi di "
 "rivalsa hanno sempre successo."
 
 #. [unit_type]: id=I8 Kharos_SunShielder, race=human
@@ -1283,14 +1295,14 @@ msgid ""
 "Shielder is a heavy unit with large shield. He is equipped with spear. This "
 "unit is very steadfast, and if there is more of them they can be unstopable."
 msgstr ""
-"Lo Scudiero è una forte unità con un grande scudo. È equipaggiato con la "
-"lancia. Questa unità è molto difensiva, e può diventare irresistibile se si "
+"Lo scudiero è una forte unità equipaggiata con un grande scudo e con la "
+"lancia. Questa unità è molto difensiva, e può diventare infermabile se si "
 "trova in gruppo."
 
 #. [unit_type]: id=I8 Kharos_SunSilverwarrior, race=human
 #: Era_of_Magic/units/Kharos/Silver_Warrior.cfg:4
 msgid "Silver Warrior"
-msgstr "Guerriero Argentato"
+msgstr "Guerriero argentato"
 
 #. [unit_type]: id=I8 Kharos_SunSilverwarrior, race=human
 #: Era_of_Magic/units/Kharos/Silver_Warrior.cfg:17
@@ -1300,7 +1312,7 @@ msgstr "Indossa una buona armatura ed è molto pericoloso."
 #. [unit_type]: id=I8 Kharos_LightSister, race=human, description={SPECIAL_NOTES}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_ARCANE}+{EOMA_SPECIAL_NOTES_HEALS2}+{EOMA_SPECIAL_NOTES_INSPIRE}
 #: Era_of_Magic/units/Kharos/Sister_of_Light.cfg:4
 msgid "female^Sister of Light"
-msgstr "Sorella della Luce"
+msgstr "Sorella della luce"
 
 #. [unit_type]: id=I8 Kharos_SunSlicer, race=human
 #: Era_of_Magic/units/Kharos/Slicer.cfg:4
@@ -1310,7 +1322,7 @@ msgstr "Fenditore"
 #. [unit_type]: id=I8 Kharos_SunFollower, race=human
 #: Era_of_Magic/units/Kharos/Sun_Follower.cfg:4
 msgid "Sun Follower"
-msgstr "Adepto del Sole"
+msgstr "Adepto del sole"
 
 #. [unit_type]: id=I8 Kharos_SunFollower, race=human
 #: Era_of_Magic/units/Kharos/Sun_Follower.cfg:17
@@ -1318,14 +1330,14 @@ msgid ""
 "The Sun Follower is a very dangerous unit. His willpower is so high, that he "
 "can negate some agressive spells (30% reduction in spell damage)."
 msgstr ""
-"L’Adepto del Sole è molto pericoloso. Il suo potere è così alto da essere in "
-"grado di respingere gli incantesimi più aggressivi. (30% di riduzione per i "
-"danni magici)"
+"L’adepto del sole è molto pericoloso perché il suo potere è così alto da "
+"essere in grado di respingere gli incantesimi più aggressivi. (30% di "
+"riduzione per i danni magici)"
 
 #. [unit_type]: id=I8 Kharos_SunGuardian, race=human
 #: Era_of_Magic/units/Kharos/Sun_Guardian.cfg:4
 msgid "Sun Guardian"
-msgstr "Guardiano del Sole"
+msgstr "Guardiano del sole"
 
 #. [unit_type]: id=I8 Kharos_SunGuardian, race=human
 #: Era_of_Magic/units/Kharos/Sun_Guardian.cfg:17
@@ -1334,24 +1346,24 @@ msgid ""
 "chosen to protect the most important shrines in the Kharos country (50% "
 "reduction in spell damage)."
 msgstr ""
-"Il Guardiano del Sole è molto più potente dell’Adepto. È così forte, che è "
+"Il guardiano del sole è molto più potente dell’adepto. È così forte che è "
 "stato eletto per proteggere i santuari più importanti della nazione di "
 "Kharos (50% danni magici in meno)"
 
 #. [unit_type]: id=I8 Kharos_Warbanner, race=human
 #: Era_of_Magic/units/Kharos/War_Banner.cfg:4
 msgid "War Banner"
-msgstr "Stendardo di Guerra"
+msgstr "Stendardo di guerra"
 
 #. [unit_type]: id=I8 Kharos_SunWhitewarrior, race=human
 #: Era_of_Magic/units/Kharos/White_Warrior.cfg:4
 msgid "White Warrior"
-msgstr "Guerriero Bianco"
+msgstr "Guerriero bianco"
 
 #. [unit_type]: id=I8 Kharos_SunWhitewarrior, race=human
 #: Era_of_Magic/units/Kharos/White_Warrior.cfg:18
 msgid "White warriors are equipped with a very sharp sword."
-msgstr "I Guerrieri Bianchi sono equipaggiati con una spada molto tagliente."
+msgstr "I guerrieri bianchi sono equipaggiati con una spada molto tagliente."
 
 #. [unit_type]: id=I8 AD_mbBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/Balloon.cfg:4
@@ -1367,11 +1379,10 @@ msgid ""
 "to attack, and only by turning their weapons against them can one remotely "
 "hold any certainty to disposing of them."
 msgstr ""
-"Essendo molto veloci, possono coprire facilmente ogni tipo di terreno e, "
-"grazie a un nano bombarolo insediato nel rimorchio, hanno il potenziale di "
-"diventare una grave minaccia nel cuore della battaglia. Certamente sono "
-"degli avversari pericolosi da attaccare, e bisogna avere la certezza di "
-"eliminarli il prima possibile."
+"Grazie alla loro velocità, possono coprire facilmente ogni tipo di terreno e "
+"possono attaccare avendo a disposizione l’aiuto di un nano bombarolo "
+"insediato all’interno del rimorchio. Certamente rappresentano una grave "
+"minaccia in battaglia e bisogna eliminarli il prima possibile."
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/Balloon.cfg:58
@@ -1384,7 +1395,7 @@ msgstr "bombe"
 #. [unit_type]: id=I8 AD_dHeavyWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/Dwarvish_Heavy_Warrior.cfg:4
 msgid "Dwarvish Heavy Warrior"
-msgstr "Nano Guerriero Possente"
+msgstr "Grande nano guerriero"
 
 #. [attack]: type=fire
 #. [attack]: type=pierce
@@ -1400,7 +1411,7 @@ msgstr "fucile"
 #. [unit_type]: id=I8 AD_RuneLord, race=dwarf
 #: Era_of_Magic/units/Runemasters/Dwarvish_Rune_Lord.cfg:4
 msgid "Dwarvish Rune Lord"
-msgstr "Nano Signore di Rune"
+msgstr "Nano signore di rune"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Runemasters/Dwarvish_Rune_Lord.cfg:43
@@ -1410,12 +1421,12 @@ msgstr "spada runica"
 #. [unit_type]: id=I8 AD_RuneWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/Dwarvish_Rune_Warrior.cfg:4
 msgid "Dwarvish Rune Warrior"
-msgstr "Nano Guerriero di Rune"
+msgstr "Nano guerriero di rune"
 
 #. [unit_type]: id=I8 AD_mecTank, race=mechanical
 #: Era_of_Magic/units/Runemasters/Dwarvish_Tank.cfg:4
 msgid "Dwarvish Tank"
-msgstr "Carro Armato"
+msgstr "Carro armato dei nani"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Runemasters/Dwarvish_Tank.cfg:77
@@ -1439,7 +1450,7 @@ msgstr "colpi perforanti"
 #. [unit_type]: id=I8 AD_dWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/Dwarvish_Warrior.cfg:4
 msgid "Dwarvish Warrior"
-msgstr "Nano Guerriero"
+msgstr "Nano guerriero"
 
 #. [unit_type]: id=I8 AD_dWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/Dwarvish_Warrior.cfg:18
@@ -1455,20 +1466,20 @@ msgid ""
 "inhabit, then they will be greeted by these foot soldiers, blade bearing "
 "warriors that are sure to fend off any attempts at assault."
 msgstr ""
-"Anche se vengono chiamati Runisti, solo poche stirpi di questi nani hanno la "
-"capacità e la buona volontà di dedicare la loro esistenza nella "
-"fabbricazione di rune. Molti invece scelgono la strada in cui credono che la "
-"natura li abbia designato — la strada del guerriero. Il loro aspetto severo "
-"e robusto li aiuta a brandire le armi con prontezza.\n"
+"Anche se vengono chiamati runisti, solo poche stirpi di questi nani hanno la "
+"capacità e la buona volontà di dedicare la propria esistenza nella "
+"fabbricazione di rune. Molti invece scelgono ciò di cui credono che la "
+"natura li abbia designato: la strada del guerriero. Il loro aspetto severo e "
+"robusto li aiuta a brandire le armi con prontezza.\n"
 "\n"
-"Se qualcuno attira su sé stesso la furia di un Nano sarà in grosso pericolo, "
-"e per chi s’introduce nelle loro roccaforti, verranno accolti da guerrieri "
-"sicuri di difendere ogni tipo di assalto."
+"Se qualcuno attira su sè stesso la furia di un nano sarà in grosso pericolo, "
+"e per chi sintroduce abusivamente nelle loro roccaforti verrà accolto da "
+"guerrieri forti e sicuri in grado di neutralizzare ogni tipo di assalto."
 
 #. [unit_type]: id=I8 AD_FlyingFortress, race=mechanical
 #: Era_of_Magic/units/Runemasters/Flying_Fortress.cfg:4
 msgid "Flying Fortress"
-msgstr "Fortezza Volante"
+msgstr "Fortezza volante"
 
 #. [unit_type]: id=I8 AD_FlyingFortress, race=mechanical
 #: Era_of_Magic/units/Runemasters/Flying_Fortress.cfg:18
@@ -1487,18 +1498,17 @@ msgid ""
 "they have accrued a fearsome reputation, and are rightly feared by all but "
 "the strongest foe."
 msgstr ""
-"La Fortezza Volante simboleggia l’apice dell’abilità dei nani. Costruita "
-"come se fosse un carro armato con le ali, la Fortezza Volante ha a "
-"disposizione tre pale del rotore e un pallone gigante come supporto "
-"secondario. Questo modello ha cancellato la debolezza al fuoco presente nei "
-"modelli vecchi e inoltre l’equipaggio è attrezzato con potenti armi.\n"
+"La fortezza volante simboleggia l’apice della tecnologia dei nani. Costruita "
+"come se fosse un carro armato con le ali, la fortezza volante ha a "
+"disposizione per volare tre grandi pale di rotore e un pallone gigante come "
+"supporto secondario. Questo modello azzera ogni debolezza al fuoco presente "
+"nei modelli vecchi e inoltre l’equipaggio è attrezzato con potenti armi.\n"
 "\n"
-"Questi mostri minacciosi sono capaci di dominare i cieli, sfoderando la loro "
-"furia su chiunque abbia la sfortuna di incontrarli sulla loro strada. Le "
-"mitragliatrici e i bombardamenti riescono a centrare il bersaglio laddove il "
-"doppio cannone pesante fallisce.. Secolo dopo secolo, hanno aumentato la "
-"loro terribile reputazione, e sono giustamente temuti da tutti i nemici, "
-"anche dai più forti."
+"Questi mostri minacciosi dominano i cieli, sfoderando la loro furia su "
+"chiunque abbia la sfortuna di incontrarli sulla propria strada. Le "
+"mitragliatrici e i le bombe riescono a centrare il bersaglio laddove il "
+"doppio cannone pesante fallisce. Secolo dopo secolo, la loro terribile "
+"reputazione è aumentata tra le fila dei nemici, anche dei più forti."
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Runemasters/Flying_Fortress.cfg:71
@@ -1514,7 +1524,7 @@ msgstr "cannone"
 #. [unit_type]: id=I8 AD_mbHeavyBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/Heavy_Balloon.cfg:4
 msgid "Heavy Balloon"
-msgstr "Mongolfiera Avanzata"
+msgstr "Mongolfiera pesante"
 
 #. [unit_type]: id=I8 AD_mbHeavyBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/Heavy_Balloon.cfg:17
@@ -1531,16 +1541,17 @@ msgid ""
 "offense, sowing seeds of destruction with explosives that are unleashed to "
 "devastating effect."
 msgstr ""
-"Come membri della brigata leggera degli omuncoli, sono abbastanza usati come "
+"Membri della brigata leggera degli omuncoli, sono abbastanza usati come "
 "esercito militare.\n"
 "\n"
-"Sacrificando la velocità per la forza, i piloti esperti hanno a bordo un "
-"altro pezzo di ingegneria futuristica: la mitragliatrice, usata per colpire "
-"i nemici di sotto da lontano. Anche se non molto precisa, la mitragliatrice "
-"detiene apparentemente una velocità anormale, e causa morte tra i ranghi "
-"nemici. È stata concepita per sparare a breve distanza, e il vantaggio della "
-"lunga distanza è stato neutralizzato. Un pistolero avrà a disposizione una "
-"forma di attacco alternativo, seminando distruzione con potenti esplosivi."
+"Sacrificata la velocità per la forza, i piloti esperti hanno a bordo un "
+"utile pezzo di ingegneria futuristica: la mitragliatrice, usata per colpire "
+"da lontano i nemici di sotto. Anche se non molto precisa, la mitragliatrice "
+"detiene apparentemente una velocità anormale e causa morte tra i ranghi "
+"nemici. È stata concepita per sparare a breve distanza, quindi è "
+"svantaggiata contro gli attacchi a distanza, ma ci sarà un pistolero che per "
+"fare fronte a questo difetto avrà a disposizione una forma di attacco "
+"alternativo, seminando distruzione con potenti esplosivi."
 
 #. [unit_type]: id=I8 AD_rMechanic, race=dwarf
 #: Era_of_Magic/units/Runemasters/Mechanic.cfg:4
@@ -1557,12 +1568,12 @@ msgid ""
 "opposition they hold their own, employing their vast arsenal of tools to "
 "hold enemies at bay until their better armored brethren come to their rescue."
 msgstr ""
-"Questi nani sono reclutati per le loro abilità d’ingegneria fuori dal "
-"comune. I meccanici sono molto utili perché fanno varie cose, come ad "
-"esempio: costruire la base dei robot, riparare le perdite d’olio, fare il "
-"pieno di benzina ai carri armati ecc. Mantengono la loro posizione anche se "
-"sono attaccati dai nemici, occupandosi di fermarli con il loro vasto "
-"arsenale sperando che i loro fratelli corazzati giungano a salvarli."
+"Questi nani sono reclutati per le loro abilità ingegneristiche fuori dal "
+"comune. I meccanici sono molto utili perché fanno varie cose, ad esempio: "
+"costruire le macchine, riparare le perdite d’olio, fare il pieno di benzina "
+"ai carri armati ecc. Mantengono la loro posizione di difesa anche se "
+"attaccati dai nemici, trattenendoli il più possibile con il loro vasto "
+"arsenale sperando poi che i loro fratelli “meccanici” giungano a salvarli."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Runemasters/Mechanic.cfg:33
@@ -1593,7 +1604,7 @@ msgstr "granata"
 #. [unit_type]: id=I8 AD_MD, race=mechanical
 #: Era_of_Magic/units/Runemasters/Mechanical_Dragon.cfg:4
 msgid "Mechanical Dragon"
-msgstr "Drago Meccanico"
+msgstr "Drago meccanico"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/Mechanical_Dragon.cfg:98
@@ -1613,7 +1624,7 @@ msgstr "Paracadutista"
 #. [unit_type]: id=I8 AD_SteamUlfserkerRed, race=mechanical
 #: Era_of_Magic/units/Runemasters/Red_Ulfserker.cfg:4
 msgid "Red Ulfserker"
-msgstr "Ulfserker Rosso"
+msgstr "Ulfserker rosso"
 
 #. [unit_type]: id=I8 AD_SteamUlfserkerRed, race=mechanical
 #: Era_of_Magic/units/Runemasters/Red_Ulfserker.cfg:18
@@ -1628,27 +1639,26 @@ msgid ""
 "inward vigour and strength, that they can turn back damage accrued through "
 "the tides of time through careful conservation of energy."
 msgstr ""
-"Queste creature sono nate da un’antica tradizione quando i nani, invece di "
-"buttare via i rottami dei loro robot, si affezionarono così tanto delle loro "
-"creazioni, da costruire combattenti forti, robusti e molto veloci.\n"
+"Queste creature sono combattenti che vengono ricostruite continuamente dai "
+"nani per essere ancora più forti, robusti e veloci.\n"
 "\n"
 "La ruggine che si forma attorno alla vernice è ingannevole, perché essi "
-"superano in ogni aspetto i loro giovani cugini. L’armatura rivestita aiuta "
-"per proteggere contro gli attacchi e grazie alla loro forza interiore "
-"possono accumulare l’energia conservata nel corso della battaglia per "
-"contrattaccare i propri nemici molto duramente."
+"superano in ogni aspetto i loro giovani cugini. L’armatura rivestita aiuta a "
+"proteggerli contro gli attacchi e grazie alla loro forza interiore possono "
+"accumulare l’energia conservata nel corso della battaglia per contrattaccare "
+"i propri nemici molto duramente."
 
 #. [unit_type]: id=I8_AD_RuneMaster, race=dwarf
 #. [unit_type]: id=I8_AD_RuneMaster2, race=dwarf
 #: Era_of_Magic/units/Runemasters/RuneMaster2.cfg:4
 #: Era_of_Magic/units/Runemasters/Runemaster.cfg:4
 msgid "Runemaster"
-msgstr "Maestro di Rune"
+msgstr "Maestro di rune"
 
 #. [unit_type]: id=I8 AD_RuneArtist, race=dwarf
 #: Era_of_Magic/units/Runemasters/Rune_Artist.cfg:4
 msgid "Rune Artist"
-msgstr "Artista di Rune"
+msgstr "Artista di rune"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/Rune_Artist.cfg:41
@@ -1667,7 +1677,7 @@ msgstr "scarica elettrica"
 #. [unit_type]: id=I8 AD_maRuneAdept, race=dwarf
 #: Era_of_Magic/units/Runemasters/Runeadept.cfg:4
 msgid "Runeadept"
-msgstr "Adepto di Rune"
+msgstr "Adepto di rune"
 
 #. [unit_type]: id=I8 AD_maRuneAdept, race=dwarf
 #: Era_of_Magic/units/Runemasters/Runeadept.cfg:19
@@ -1680,27 +1690,27 @@ msgid ""
 "attacks, for these items of weaponary are imbued with potent forces of magic "
 "that rip through any trick aimed at hazing assault."
 msgstr ""
-"Questi piccoli ma robusti nani sono conosciuti come Adepti di Rune, fabbri "
-"in lingua antica. Quando si trovano in gruppo, sono dei temibili bersagli, e "
-"sono armati con un enorme martello che frantuma le prime linee nemiche. "
-"Anche se sono abbastanza minacciosi, hanno un’incessabile precisione e le "
-"loro armi sono impregnate con una potente magia che ferma ogni tipo di "
-"assalto."
+"Questi piccoli ma robusti nani sono conosciuti come adepti di rune, fabbri "
+"che discendono da tradizioni antiche. Sono armati con un enorme martello che "
+"frantuma le prime linee nemiche e quando si trovano in gruppo diventano dei "
+"temibili bersagli. Anche se sono abbastanza minacciosi, hanno un’incessabile "
+"precisione e le loro armi sono impregnate con una potente magia che ferma "
+"ogni tipo di assalto."
 
 #. [unit_type]: id=I8 AD_maRuneSmith, race=dwarf
 #: Era_of_Magic/units/Runemasters/Runesmith.cfg:4
 msgid "Runesmith"
-msgstr "Fabbro di Rune"
+msgstr "Fabbro di rune"
 
 #. [unit_type]: id=I8 AD_SteamBerserker, race=mechanical
 #: Era_of_Magic/units/Runemasters/Steam_Berserker.cfg:4
 msgid "Steam Berserker"
-msgstr "Furioso a Vapore"
+msgstr "Furioso a vapore"
 
 #. [unit_type]: id=I8 AD_SteamaUlfserker, race=mechanical
 #: Era_of_Magic/units/Runemasters/Steam_Ulfserker.cfg:4
 msgid "Steam Ulfserker"
-msgstr "Ulfserker a Vapore"
+msgstr "Ulfserker a vapore"
 
 #. [unit_type]: id=I8 AD_SteamaUlfserker, race=mechanical
 #: Era_of_Magic/units/Runemasters/Steam_Ulfserker.cfg:18
@@ -1711,17 +1721,16 @@ msgid ""
 "opponent in close combat, attacking in a furious frenzy that only ends when "
 "either one is dead."
 msgstr ""
-"Gli Ulfserker a Vapore sono la figura più importante dell’offensiva. Armati "
-"d’acciaio, rompono facilmente le linee nemiche e non hanno bisogno di "
-"portarsi via niente dai luoghi dei loro assalti, essendo delle creature "
-"meccaniche. Sono esperti nei combattimenti ravvicinati e nel bloccare i loro "
-"nemici, attaccandoli con una furia così cieca che termina solo quando uno "
-"dei due muore."
+"Gli ulfserker a vapore sono la figura più importante dell’offensiva. Armati "
+"e rivestiti d’acciaio, rompono facilmente le linee nemiche ed, essendo delle "
+"creature meccaniche, non sentono il bisogno di razziare i luoghi assaltati. "
+"Sono esperti nei combattimenti ravvicinati e nel bloccare i loro nemici, e "
+"attaccano con una furia così cieca che termina solo quando uno dei due muore."
 
 #. [unit_type]: id=I8 AD_meSteamcopter, race=mechanical
 #: Era_of_Magic/units/Runemasters/Steamcopter.cfg:4
 msgid "Steamcopter"
-msgstr "Girocottero a Vapore"
+msgstr "Girocottero a vapore"
 
 #. [unit_type]: id=I8 AD_meSteamcopter, race=mechanical
 #: Era_of_Magic/units/Runemasters/Steamcopter.cfg:16
@@ -1729,9 +1738,9 @@ msgid ""
 "With the aid of steam genies, Steamcopters are able to move faster and carry "
 "more bombs than Gyrocopters."
 msgstr ""
-"Con l’aiuto dei geni in materia di vapore, i Girocotteri a Vapore sono in "
-"grado di muoversi più velocemente e portare più bombe con sé rispetto ai "
-"normali Girocotteri."
+"Creati da dei veri geni in materia, i girocotteri a vapore sono in grado di "
+"muoversi più velocemente e portare più bombe con sé rispetto ai normali "
+"girocotteri."
 
 #. [unit_type]: id=I8 AD_mecSM, race=mechanical
 #: Era_of_Magic/units/Runemasters/Striding_Machine.cfg:4
@@ -1758,11 +1767,11 @@ msgid ""
 "converting those tools that they work with into deadly weapons that are more "
 "than a match for any who attempt to harry them."
 msgstr ""
-"Abili nei lavori manuali, questi Tecnici sono goffi e ubriaconi: solo il "
-"liquore è l’unica cosa che li fa lavorare.\n"
+"Abili nei lavori manuali, questi tecnici sono goffi e ubriaconi: solo il "
+"liquore è l’unica cosa che rende il loro spirito di lavoro così forte.\n"
 "\n"
 "Malgrado il loro sarcasmo, giocano un importante ruolo nelle squadre dei "
-"Meccanici, riparando tutto tranne i danni più intensi inflitti sulle unità "
+"meccanici, riparando tutto tranne i danni più intensi inflitti sulle unità "
 "meccaniche. È molto difficile appropriarsi dei loro insegnamenti sulla "
 "costruzione di armi da fuoco."
 
@@ -1774,7 +1783,7 @@ msgstr "inceneritore"
 #. [unit_type]: id=I8 enlightened_battlemage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Battlemage.cfg:4
 msgid "Battlemage"
-msgstr "Mago della Battaglia"
+msgstr "Mago della battaglia"
 
 #. [unit_type]: id=I8 enlightened_battlemage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Battlemage.cfg:18
@@ -1783,7 +1792,7 @@ msgid ""
 "attacks. They are, however, equiped only with daggers, and aren’t potent "
 "melee fighters."
 msgstr ""
-"I Maghi della Battaglia usano i loro poteri magici per eseguire potenti "
+"I maghi della battaglia usano i loro poteri magici per eseguire potenti "
 "attacchi a distanza. Comunque, sono equipaggiati con soli coltelli, e non "
 "sono molto forti nei combattimenti ravvicinati."
 
@@ -1795,7 +1804,7 @@ msgstr "proiettile"
 #. [unit_type]: id=I8 enlightened_blackmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Black_Mage.cfg:4
 msgid "Black Mage"
-msgstr "Mago Nero"
+msgstr "Mago nero"
 
 #. [unit_type]: id=I8 enlightened_blackmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Black_Mage.cfg:17
@@ -1803,13 +1812,13 @@ msgid ""
 "Black Magi know the art of black magic well, and use it as effectively as "
 "Dark Wizards."
 msgstr ""
-"I Maghi Neri conoscono molto bene l’arte della magia nera, e la usano "
-"efficacemente come gli Stregoni Oscuri."
+"I maghi neri conoscono molto bene l’arte della magia nera, e la usano "
+"efficaciemente come gli stregoni oscuri."
 
 #. [unit_type]: id=I8 DeadlyEye, race=mechanical
 #: Era_of_Magic/units/Sky_Kingdom/Deadly_Eye.cfg:4
 msgid "Deadly Eye"
-msgstr "Occhio Mortale"
+msgstr "Occhio mortale"
 
 #. [unit_type]: id=I8 DeadlyEye, race=mechanical
 #: Era_of_Magic/units/Sky_Kingdom/Deadly_Eye.cfg:17
@@ -1817,7 +1826,7 @@ msgid ""
 "Deadly Eyes are Magical Eyes that have somehow evolved. They can now "
 "solidify their auras, and use them like a fan of knives."
 msgstr ""
-"Gli Occhi Mortali sono l’evoluzione degli Occhi Magici. Ora possono "
+"Gli occhi mortali sono l’evoluzione degli occhi magici: ora possono "
 "rafforzare le loro aure, e usarle come se fossero dei coltelli."
 
 #. [attack]: type=blade
@@ -1837,14 +1846,14 @@ msgid ""
 "relatively fast and become quite powerful quickly, choosing one of the "
 "Elemental Paths."
 msgstr ""
-"Gli Elementalisti non sono molto bravi in battaglia come gli Illuminati, ma "
-"sono molto veloci e possono diventare forti in breve tempo, scegliendo una "
-"delle Strade Elementari."
+"Gli elementalisti non sono molto bravi in battaglia come gli illuminati, ma "
+"dopo aver scelto una delle strade elementali, diventano molto veloci e forti "
+"in breve tempo."
 
 #. [unit_type]: id=I8 enlightened_goldenmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Golden_Mage.cfg:4
 msgid "Golden Mage"
-msgstr "Mago Dorato"
+msgstr "Mago dorato"
 
 #. [unit_type]: id=I8 enlightened_goldenmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Golden_Mage.cfg:17
@@ -1853,10 +1862,10 @@ msgid ""
 "golden armor, after which they’re named, and use greatswords. They are known "
 "to emerge victorious from the harshest conflicts."
 msgstr ""
-"La spada e la magia dei Maghi Dorati sono bilanciati tra di loro. Dopo "
-"essere stati nominati come maghi, cominciano a indossare delle bellissime "
-"armature dorate e ad usare lo spadone come arma. Sono conosciuti per vincere "
-"i conflitti più cruenti."
+"La spada dei maghi dorati uguaglia la loro stessa magia. Dopo essere stati "
+"nominati come maghi, cominciano a indossare delle bellissime armature dorate "
+"e ad usare lo spadone come arma. Sono conosciuti per vincere i conflitti più "
+"cruenti."
 
 #. [unit_type]: id=I8 Golem, race=mechanical
 #: Era_of_Magic/units/Sky_Kingdom/Golem.cfg:4
@@ -1870,14 +1879,14 @@ msgid ""
 "Enlightened Magi. Their favored method of war is to charge, ramming their "
 "enemies with their stout bodies."
 msgstr ""
-"I Golem sono spiriti dell’Abisso, legati a un corpo concreto fatto di pietra "
-"dai Maghi Illuminati. Il loro metodo di guerra preferito è caricare il "
-"nemico e percuoterlo con i loro corpi robusti."
+"I golem sono spiriti dell’Abisso legati a un corpo concreto fatto di pietra "
+"dai maghi illuminati. Il loro metodo di guerra preferito è caricare il "
+"nemico e perquoterlo con i loro corpi robusti."
 
 #. [unit_type]: id=I8 Golem_boss, race=mechanical
 #: Era_of_Magic/units/Sky_Kingdom/Golem_Boss.cfg:4
 msgid "Golem Boss"
-msgstr "Golem Capo"
+msgstr "Capo dei golem"
 
 #. [unit_type]: id=I8 Golem_boss, race=mechanical
 #: Era_of_Magic/units/Sky_Kingdom/Golem_Boss.cfg:17
@@ -1885,8 +1894,9 @@ msgid ""
 "After some time, the spirit inside of the Golem starts to change its visage, "
 "growing eyes of sort from which it can shoot missiles of cold."
 msgstr ""
-"Dopo qualche tempo, lo spirito dentro al Golem inizia a migliorare la vista, "
-"avendo la possibilità di sparare una specie di missili gelidi dai suoi occhi."
+"Dopo qualche tempo, lo spirito dentro al golem inizia a migliorare il potere "
+"della propria vista, avendo così la possibilità di sparare una specie di "
+"missili gelidi dai suoi occhi."
 
 #. [unit_type]: id=I8 enlightened_Guru, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Guru.cfg:4
@@ -1901,11 +1911,11 @@ msgid ""
 "warriors, crushing their enemies beneath great chunks of rock they conjure "
 "out of nothing, and protecting themselves in inpenetrable ice stases."
 msgstr ""
-"Dopo aver imparato tutti i segreti del mondo, i Maghi Maestri diventano dei "
-"guru. I Guru, grazie alla loro straordinaria conoscenza sui segreti occulti "
-"del mondo, sono dei guerrieri terribili, e possono evocare dal nulla dei "
-"grossi pezzi di roccia per schiaccerei loro nemici, senza contare che "
-"possono inoltre proteggere sé stessi in impenetrabili stasi di ghiaccio."
+"Dopo aver imparato tutti i segreti del mondo, i maestri dei maghi diventano "
+"dei guru. I guru, grazie alla loro straordinaria conoscenza sui segreti "
+"occulti del mondo, sono dei guerrieri terribili e possono evocare dal nulla "
+"dei grossi pezzi di roccia per schiacciarei loro nemici, senza contare che "
+"possono inoltre proteggere sé stessi con impenetrabili stasi di ghiaccio."
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Sky_Kingdom/Guru.cfg:141
@@ -1920,7 +1930,7 @@ msgstr "masso"
 #. [unit_type]: id=I8 enlightened_HiddenFace, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Hidden_Face.cfg:4
 msgid "Hidden Face"
-msgstr "Identità Misteriosa"
+msgstr "Identità misteriosa"
 
 #. [unit_type]: id=I8 enlightened_HiddenFace, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Hidden_Face.cfg:18
@@ -1928,13 +1938,13 @@ msgid ""
 "Hidden faces are warriors who specialize in close combat, fast strikes, and "
 "dodging."
 msgstr ""
-"Le Identità Misteriose sono guerrieri specializzati in combattimenti "
-"ravvicinati, a colpire rapidamente e a schivare i colpi dei nemici."
+"Le identità misteriose sono guerrieri specializzati in combattimenti "
+"ravvicinati, in attacchi rapidi e nello schivare i colpi dei nemici."
 
 #. [unit_type]: id=I8 enlightened_mage_of_air, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Air.cfg:4
 msgid "Mage of Air"
-msgstr "Mago dell’Aria"
+msgstr "Mago dell’aria"
 
 #. [unit_type]: id=I8 enlightened_mage_of_air, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Air.cfg:16
@@ -1944,10 +1954,10 @@ msgid ""
 "are the exception to that rule, as the Magi create winds around them which "
 "batter those out of their paths."
 msgstr ""
-"I Maghi dell’Aria sono abbastanza veloci e molto pericolosi, e sono capaci "
-"di spagliare fulmini contro i loro nemici, ma dopotutto non indossano "
-"armature. I Maghi creano venti attorno ai nemici che possono tranquillamente "
-"sconfiggerli in tutti i fronti."
+"Anche se non sono molto resistenti per il fatto che non indossano armatura, "
+"i maghi dell’aria sono abbastanza veloci e molto pericolosi, e sono capaci "
+"di scagliare fulmini contro i loro nemici. I maghi creano trombe d’aria "
+"attorno ai nemici che possono tranquillamente sconfiggerli in tutti i fronti."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Air.cfg:157
@@ -1958,7 +1968,7 @@ msgstr "corto-circuito"
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Air.cfg:166
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:187
 msgid "sparks"
-msgstr "scintille"
+msgstr "scontille"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Air.cfg:178
@@ -1968,7 +1978,7 @@ msgstr "piccolo fulmine"
 #. [unit_type]: id=I8 enlightened_mage_of_fire, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Fire.cfg:4
 msgid "Mage of Fire"
-msgstr "Mago del Fuoco"
+msgstr "Mago del fuoco"
 
 #. [unit_type]: id=I8 enlightened_mage_of_fire, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Fire.cfg:16
@@ -1976,8 +1986,8 @@ msgid ""
 "Elementalists who choose the path of Fire become quite powerful, and "
 "quickly, but are rather slow, for their Art takes a toll on their bodies."
 msgstr ""
-"Gli elementalisti che hanno scelto la via del Fuoco diventano molto potenti "
-"e veloci, possono addirittura rallentare i loro nemici grazie all’Arte di "
+"Gli elementalisti che hanno scelto la via del fuoco diventano molto potenti "
+"e veloci, e possono addirittura rallentare i loro nemici grazie all’arte di "
 "controllare i loro corpi."
 
 #. [attack]: type=fire
@@ -1994,7 +2004,7 @@ msgstr "fiamme"
 #. [unit_type]: id=I8 enlightened_mage_of_water, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Water.cfg:4
 msgid "Mage of Water"
-msgstr "Mago dell’Acqua"
+msgstr "Mago dell’acqua"
 
 #. [unit_type]: id=I8 enlightened_mage_of_water, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Water.cfg:26
@@ -2003,9 +2013,9 @@ msgid ""
 "their control of the water inside their enemies’ bodies to slow them, and "
 "conjure shards of ice with deadly accuracy."
 msgstr ""
-"I Maghi dell’Acqua usano il loro potere per curare, non per distruggere. In "
-"battaglia, essi rallentano il nemico usando l’acqua interna al loro corpo, "
-"ed evocano aghi di ghiaccio con una precisione mortale."
+"I maghi dell’acqua usano il loro potere per curare, non per distruggere. In "
+"battaglia, essi rallentano il nemico usando l’acqua interna al loro corpo ed "
+"evocano aghi di ghiaccio con una precisione mortale."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Water.cfg:132
@@ -2024,7 +2034,7 @@ msgstr "punte di ghiaccio"
 #. [unit_type]: id=I8 MagicalEye, race=mechanical
 #: Era_of_Magic/units/Sky_Kingdom/Magical_Eye.cfg:4
 msgid "Magical Eye"
-msgstr "Occhio Magico"
+msgstr "Occhio magico"
 
 #. [unit_type]: id=I8 MagicalEye, race=mechanical
 #: Era_of_Magic/units/Sky_Kingdom/Magical_Eye.cfg:17
@@ -2033,14 +2043,14 @@ msgid ""
 "Eyes are surrounded by a gold aura, focusing its powers through their gaze, "
 "and usually ‘seeing’ and therefore hitting their enemies often."
 msgstr ""
-"Gli Occhi Magici sono una razza costruita dai Maghi Illuminati. Essi sono "
+"Gli occhi magici sono una razza costruita dai maghi illuminati. Essi sono "
 "circondati da un’aura dorata, che viene concentrata attraverso i loro "
 "sguardi per colpire i loro nemici “a vista”."
 
 #. [unit_type]: id=I8 enlightened_master_of_air, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:4
 msgid "Master of Air"
-msgstr "Maestro dell’Aria"
+msgstr "Maestro dell’aria"
 
 #. [unit_type]: id=I8 enlightened_master_of_air, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:17
@@ -2048,7 +2058,7 @@ msgid ""
 "These Magi are renowned for their speed and for their ability to create "
 "powerful winds. In battle, they conjure deadly storms of unspeakable power."
 msgstr ""
-"Questi Maghi sono celebri per la loro velocità e per la loro abilità di "
+"Questi maghi sono celebri per la loro velocità e per la loro abilità di "
 "creare potenti venti. In battaglia, evocano tempeste mortali di potenza "
 "indescrivibile."
 
@@ -2073,7 +2083,7 @@ msgstr "occhio del ciclone"
 #. [unit_type]: id=I8 enlightened_masterofelements, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Elements.cfg:4
 msgid "Master of Elements"
-msgstr "Maestro degli Elementi"
+msgstr "Maestro degli elementi"
 
 #. [attack]: type=fire
 #. [attack]: type=impact
@@ -2085,7 +2095,7 @@ msgstr "tocco"
 #. [unit_type]: id=I8 enlightened_master_of_fire, race=I8 magical
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Fire.cfg:4
 msgid "Master of Fire"
-msgstr "Maestro del Fuoco"
+msgstr "Maestro del fuoco"
 
 #. [unit_type]: id=I8 enlightened_master_of_fire, race=I8 magical
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Fire.cfg:18
@@ -2094,7 +2104,7 @@ msgid ""
 "becoming creatures of pure flame. Their control of fire is legendary, and "
 "their wrath is terrible to behold."
 msgstr ""
-"Passato un po’ di tempo, i Maghi del Fuoco esperti trascendono i loro corpi "
+"Passato un po’ di tempo, i maghi del fuoco esperti trascendono i loro corpi "
 "mortali per diventare delle creature di fiamme pure. Leggendario è il loro "
 "controllo del fuoco, e terribile è la loro ira."
 
@@ -2114,7 +2124,7 @@ msgstr "inferno"
 #. [unit_type]: id=I8 enlightened_master_of_water, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Water.cfg:4
 msgid "Master of Water"
-msgstr "Maestro dell’Acqua"
+msgstr "Maestro dell’acqua"
 
 #. [unit_type]: id=I8 enlightened_master_of_water, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Water.cfg:26
@@ -2123,9 +2133,9 @@ msgid ""
 "control is so great that they are able to regenerate themselves. They also "
 "slow their foes."
 msgstr ""
-"I Maestri dell’Acqua sono dei potenti guaritori e dei signori nel "
-"controllare il loro elemento. Essi hanno la grande capacità di rigenerarsi "
-"da soli. Inoltre possono rallentare i loro nemici."
+"I maestri dell’acqua sono potenti guaritori e signori nel controllare il "
+"loro elemento. Essi hanno la grande capacità di rigenerarsi da soli e "
+"possono rallentare i loro nemici."
 
 #. [attack]: type=cold
 #. [attack]: type=impact
@@ -2149,7 +2159,7 @@ msgstr "bolla"
 #. [unit_type]: id=I8 enlightened_mastermage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mastermage.cfg:4
 msgid "Mastermage"
-msgstr "Mago Maestro"
+msgstr "Maestro dei maghi"
 
 #. [unit_type]: id=I8 enlightened_mastermage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mastermage.cfg:17
@@ -2158,8 +2168,8 @@ msgid ""
 "attacks. When Mastermage is under attack, he creates an energy shield, which "
 "absorbs damage."
 msgstr ""
-"I Maghi Maestri conoscono le magie di ogni tipo, e possono usare una "
-"moltitudine di attacchi vari. Quando un Mago Maestro si trova sotto attacco, "
+"I maestri dei maghi conoscono le magie di ogni tipo, e possono usare una "
+"moltitudine di attacchi. Quando un maestro dei maghi si trova sotto attacco "
 "crea uno scudo energetico in grado di assorbire i danni."
 
 #. [attack]: type=arcane
@@ -2179,7 +2189,7 @@ msgid ""
 "but not the weakest. A large group of these units can be dangerous."
 msgstr ""
 "Mu è una creatura di origini sconosciute. È l’unità più economica dell’era, "
-"ma non la più debole. Un grande gruppo di queste unità può rivelarsi "
+"ma non la più debole: un grande gruppo di queste unità può rivelarsi molto "
 "pericoloso."
 
 #. [attack]: type=arcane
@@ -2190,7 +2200,7 @@ msgstr "mu"
 #. [unit_type]: id=I8 enlightened_MysticWarrior, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mystic_Warrior.cfg:4
 msgid "Mystic Warrior"
-msgstr "Guerriero Mistico"
+msgstr "Guerriero mistico"
 
 #. [unit_type]: id=I8 enlightened_MysticWarrior, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mystic_Warrior.cfg:74
@@ -2198,8 +2208,8 @@ msgid ""
 "Mystic warriors use special staffs to perform both their ranged and melee "
 "attacks."
 msgstr ""
-"I Guerrieri Mistici usano dei bastoni speciali per migliorare i loro "
-"attacchi ravvicinati e a distanza"
+"I guerrieri mistici usano dei bastoni speciali per migliorare i loro "
+"attacchi ravvicinati e a distanza."
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Sky_Kingdom/Mystic_Warrior.cfg:215
@@ -2209,7 +2219,7 @@ msgstr "colpo segreto"
 #. [unit_type]: id=I8 enlightened_sculptor, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Sculptor.cfg:4
 msgid "Sculptor"
-msgstr ""
+msgstr "Scultore"
 
 #. [attack]: type=arcane
 #. [attack]: type=cold
@@ -2222,7 +2232,7 @@ msgstr "sguardo fisso"
 #. [unit_type]: id=I8 enlightened_shadowmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Shadowmage.cfg:4
 msgid "Shadowmage"
-msgstr "Mago Ombra"
+msgstr "Mago dell’ombra"
 
 #. [unit_type]: id=I8 enlightened_shadowmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Shadowmage.cfg:18
@@ -2230,9 +2240,9 @@ msgid ""
 "Shadowmagi have learned the secrets of invisiblity. They are completely "
 "invisible, but can still be seen in daylight because of their equipment."
 msgstr ""
-"I Maghi dell’Ombra hanno imparato i segreti dell’invisibilità. Sono "
-"completamente invisibili, ma per colpa del loro equipaggiamento possono "
-"essere lo stesso visti di giorno."
+"I maghi dell’ombra hanno imparato i segreti dell’invisibilità ma possono "
+"usare questa abilità solo di notte per colpa del loro equipaggiamento che "
+"indossano."
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Sky_Kingdom/Shadowmage.cfg:41
@@ -2250,13 +2260,13 @@ msgid ""
 "Sorcerers are quite powerful while striking from far away, but are weak "
 "melee fighters."
 msgstr ""
-"Gli Incantatori sono abbastanza potenti quando attaccano da lontano, ma sono "
-"deboli negli attacchi ravvicinati."
+"Gli incantatori sono abbastanza potenti mentre colpiscono il nemico da "
+"lontano, ma deboli negli attacchi ravvicinati."
 
 #. [unit_type]: id=I8 enlightened_subversivemage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Subversivemage.cfg:4
 msgid "Subversive Mage"
-msgstr "Mago Sovversivo"
+msgstr "Mago sovversivo"
 
 #. [unit_type]: id=I8 enlightened_subversivemage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Subversivemage.cfg:18
@@ -2264,7 +2274,7 @@ msgid ""
 "Subversive Magi use black magicks to slow their enemies and to batter them "
 "with missles of cold."
 msgstr ""
-"I Maghi Sovversivi usano la magia nera per rallentare i nemici e i "
+"I maghi sovversivi usano la magia nera per rallentare i loro nemici e i "
 "proiettili di gelo per sconfiggerli."
 
 #. [unit_type]: id=I8 MysticMu, race=monster
@@ -2279,7 +2289,7 @@ msgid ""
 "secret weapon. These powerful magical creatures are a result of long, hard "
 "studies and experiments."
 msgstr ""
-"Gli Ums (<italic>text='um'</italic> in single) sono l’arma segreta del Regno "
+"Gli um (<italic>text='um'</italic> in single) sono l’arma segreta del Regno "
 "degli Illuminati. Queste potenti creature magiche sono il risultato di "
 "lunghi studi ed esperimenti."
 
@@ -2291,7 +2301,7 @@ msgstr "um"
 #. [unit_type]: id=I8 enlightened_abyssmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Void_Mage.cfg:4
 msgid "Void Mage"
-msgstr "Mago del Vuoto"
+msgstr "Mago del vuoto"
 
 #. [unit_type]: id=I8 enlightened_abyssmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Void_Mage.cfg:18
@@ -2299,13 +2309,13 @@ msgid ""
 "Magi of Darkness are masters of the fourth element. They cast powerful "
 "darkness spells."
 msgstr ""
-"I Maghi dell’Oscurità sono i maestri del quarto elemento. Evocano potenti "
+"I maghi dell’oscurità sono i maestri del quarto elemento ed evocano potenti "
 "incantesimi oscuri."
 
 #. [unit_type]: id=I8 enlightened_spellsword, race=human
 #: Era_of_Magic/units/Sky_Kingdom/War_Mage.cfg:4
 msgid "War Mage"
-msgstr "Mago da Guerra"
+msgstr "Mago della guerra"
 
 #. [unit_type]: id=I8 enlightened_spellsword, race=human
 #: Era_of_Magic/units/Sky_Kingdom/War_Mage.cfg:16
@@ -2313,18 +2323,18 @@ msgid ""
 "War Magi are equiped with longswords, and are quit proficient in their use. "
 "They are also able to perform devastating ranged attacks."
 msgstr ""
-"I Maghi da Guerra sono molto abili nell’uso dello spadone. Possono inoltre "
-"eseguire devastanti attacchi a distanza."
+"I maghi della guerra sono molto abili nell’uso dello spadone. Possono "
+"inoltre eseguire devastanti attacchi a distanza."
 
 #. [unit_type]: id=I8 Tharis_Bladedancer, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Bladedancer.cfg:4
 msgid "Bladedancer"
-msgstr "Danzatore di Lame"
+msgstr "Danzatore di lame"
 
 #. [unit_type]: id=I8 Tharis_Blademaster, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Blademaster.cfg:4
 msgid "Blademaster"
-msgstr "Maestro di Lame"
+msgstr "Maestro di lame"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Tharis/Blademaster.cfg:144
@@ -2336,7 +2346,7 @@ msgstr "pugnali"
 #. [unit_type]: id=I8 Tharis_Chaoshydra, race=monster
 #: Era_of_Magic/units/Tharis/Chaos_Hydra.cfg:4
 msgid "Chaos Hydra"
-msgstr "Idra del Caos"
+msgstr "Idra del caos"
 
 #. [unit_type]: id=I8 Tharis_Chaoshydra, race=monster
 #: Era_of_Magic/units/Tharis/Chaos_Hydra.cfg:17
@@ -2362,7 +2372,7 @@ msgstr "testata"
 #. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Cold_Matriarch.cfg:4
 msgid "Cold Matriarch"
-msgstr "Matriarca Fredda"
+msgstr "Matriarca del gelo"
 
 #. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Cold_Matriarch.cfg:19
@@ -2370,13 +2380,14 @@ msgid ""
 "Cold Matriarch creates cold aura which makes all cold spells very powerful "
 "(up to 25%) and makes fire spells, very weak."
 msgstr ""
-"La Matriarca Fredda emana un’aura fredda che rende tutti gli incantesimi "
-"freddi più forti (fino a 25%) e rende gli incantesimi di fuoco molto deboli."
+"La matriarca del gelo emana un’aura fredda in grado di creare tutti gli "
+"incantesimi freddi più forti (fino a 25%) e inoltre può lanciare incantesimi "
+"di fuoco molto deboli."
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Tharis/Cold_Matriarch.cfg:84
 msgid "matriarch-fire"
-msgstr "fuoco madre"
+msgstr "fuoco matriarcale"
 
 #. [unit_type]: id=I8 Tharis_Commander, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Commander.cfg:4
@@ -2386,7 +2397,7 @@ msgstr "Comandante"
 #. [unit_type]: id=I8 Tharis_Assassin, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Assassin.cfg:4
 msgid "Dark Assassin"
-msgstr "Assassino Oscuro"
+msgstr "Assassino oscuro"
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -2402,22 +2413,22 @@ msgstr "coltelli"
 #. [unit_type]: id=I8 Tharis_Hunter, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Hunter.cfg:4
 msgid "Dark Hunter"
-msgstr "Cacciatore Oscuro"
+msgstr "Cacciatore oscuro"
 
 #. [unit_type]: id=I8 Tharis_Slayer, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Slayer.cfg:4
 msgid "Dark Slayer"
-msgstr "Uccisore Oscuro"
+msgstr "Uccisore oscuro"
 
 #. [unit_type]: id=I8 Tharis_Darkwarrior, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Warrior.cfg:4
 msgid "Dark Warrior"
-msgstr "Guerriero Oscuro"
+msgstr "Guerriero oscuro"
 
 #. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Witch.cfg:4
 msgid "Dark Witch"
-msgstr "Strega Oscura"
+msgstr "Strega oscura"
 
 #. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Witch.cfg:18
@@ -2425,8 +2436,8 @@ msgid ""
 "Experienced in battle witch becomes shadow witch. Now she is more dangerous "
 "and she can perform ranged attack 5 times."
 msgstr ""
-"Una strega esperta in battaglia può diventare una strega dell’ombra. Ora che "
-"è più pericolosa può eseguire ben 5 volte gli attacchi a distanza."
+"Una strega esperta in battaglia può diventare una strega dell’ombra avendo "
+"la possibilità di eseguire ben 5 volte gli attacchi a distanza."
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Tharis/Dark_Witch.cfg:72
@@ -2438,7 +2449,7 @@ msgstr "fuoco stregato"
 #. [unit_type]: id=I8 Tharis_Darkwizard, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Wizard.cfg:4
 msgid "Dark Wizard"
-msgstr "Stregone Oscuro"
+msgstr "Stregone oscuro"
 
 #. [unit_type]: id=I8 Tharis_Darkwizard, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Wizard.cfg:17
@@ -2447,9 +2458,9 @@ msgid ""
 "He can make a lot of damage but his mana ends quicly. That’s why he performs "
 "only two attacks."
 msgstr ""
-"Lo Stregone Oscuro è equipaggiato con un bastone speciale, in grado di "
+"Lo stregone oscuro è equipaggiato con un bastone speciale, in grado di "
 "rafforzare gli incantesimi. Può fare molti danni ma il suo mana finisce "
-"molto velocemente. Per questo esegue solo due attacchi."
+"molto velocemente: per questo esegue solo due attacchi."
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Tharis/Dark_Wizard.cfg:99
@@ -2467,9 +2478,9 @@ msgid ""
 "Every dark dispile dreams about being a great warlock. But for now they must "
 "surive. They have very powerful magic but they can’t perform melee attacks."
 msgstr ""
-"Ogni discepolo oscuro sogna di diventare un grande stregone. Ma per ora "
-"devono pensare a sopravvivere. Hanno potenti magie ma non possono eseguire "
-"nessun attacco ravvicinato."
+"Ogni discepolo oscuro sogna di diventare un grande stregone, ma per ora "
+"devono pensare solo a sopravvivere. Usano potenti magie ma non possono "
+"eseguire nessun attacco ravvicinato."
 
 #. [unit_type]: id=I8 Tharis_Commander_in_chief, race=I8 tharis
 #: Era_of_Magic/units/Tharis/General.cfg:4
@@ -2479,17 +2490,17 @@ msgstr "Generale"
 #. [unit_type]: id=I8 Tharis_GreatHunter, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Great_Hunter.cfg:4
 msgid "Great Hunter"
-msgstr "Grande Cacciatore"
+msgstr "Grande cacciatore"
 
 #. [unit_type]: id=I8 Tharis_GreatHunter, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Great_Hunter.cfg:18
 msgid "Great Hunter can slow enemies by throwing nets."
-msgstr "Le reti del Grande Cacciatore possono rallentare i nemici."
+msgstr "Le reti del grande cacciatore rallentano i nemici."
 
 #. [unit_type]: id=I8 Tharis_Greatwarlock, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Great_Warlock.cfg:4
 msgid "Great Warlock"
-msgstr "Grande Stregone"
+msgstr "Grande stregone"
 
 #. [unit_type]: id=I8 Tharis_Greatwarlock, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Great_Warlock.cfg:17
@@ -2498,9 +2509,9 @@ msgid ""
 "he can move for a long distance. He is equipped with scythe and he uses very "
 "powerful magic spells."
 msgstr ""
-"I Grandi Stregoni conoscono molto bene la magia nera. Hanno imparato il "
-"segreto della levitazione, quindi possono coprire lunghe distanze. Sono "
-"equipaggiati con una falce e usano potenti incantesimi."
+"I grandi stregoni conoscono molto bene la magia nera e hanno imparato come "
+"levitare in aria, avendo l’abilità di muoversi a lunghe distanze. È "
+"equipaggiato con una falce e usa potenti incantesimi."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Tharis/Great_Warlock.cfg:103
@@ -2524,13 +2535,13 @@ msgid ""
 "The Hydra is a powerful beast with 3 heads. It regenerates itself and "
 "performs 7 attack, when it has full hp."
 msgstr ""
-"L’Idra è una forte bestia a 3 teste. Si rigenera da sola e colpisce 7 volte "
-"di fila, quando la sua salute è al massimo."
+"L’idra è una forte bestia a 3 teste. Si rigenera da sola e quando la sua "
+"salute è al massimo riesce a colpire 7 volte di fila il proprio nemico."
 
 #. [unit_type]: id=I8 Tharis_Masterofdarkness, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Master_of_Darkness.cfg:4
 msgid "Master of Darkness"
-msgstr "Maestro dell’Oscurità"
+msgstr "Maestro dell’oscurità"
 
 #. [unit_type]: id=I8 Tharis_Masterofdarkness, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Master_of_Darkness.cfg:17
@@ -2539,9 +2550,9 @@ msgid ""
 "When he is moving, he turns himself into bats. When night begins, Master of "
 "Dakness is the most powerful unit in the game during night."
 msgstr ""
-"È sinonimo di oscurità. Il suo potere magico è il più grande di tutta l’era. "
-"Quando si muove, si trasforma in uno stormo di pipistrelli. Quando giunge la "
-"notte, il Maestro dell’Oscurità è l’unità più potente del gioco."
+"È sinonimo di oscurità e le sue magie sono le più grandi di tutta l’era. "
+"Quando giunge la notte, il maestro dell’oscurità è l’unità più potente del "
+"gioco e si trasforma in uno stormo di pipistrelli per muoversi."
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Tharis/Master_of_Darkness.cfg:280
@@ -2551,12 +2562,12 @@ msgstr "implosione"
 #. [unit_type]: id=I8 Tharis_Masterofwar, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Master_of_War.cfg:4
 msgid "Master of War"
-msgstr "Maestro di Guerra"
+msgstr "Maestro della guerra"
 
 #. [unit_type]: id=I8 Tharis_Shadowmatriarch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Matriarch_of_Darkness.cfg:4
 msgid "Matriarch of Darkness"
-msgstr "Matriarca dell’Oscurità"
+msgstr "Matriarca dell’oscurità"
 
 #. [unit_type]: id=I8 Tharis_Shadowmatriarch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Matriarch_of_Darkness.cfg:20
@@ -2565,8 +2576,8 @@ msgid ""
 "enemy units inside fight worse. Also she can perform witch-fire spell 7 "
 "times."
 msgstr ""
-"La Matriarca dell’ombra non conosce pietà. Crea un’aura oscura, in cui "
-"penalizza i nemici al suo interno di combattere male. Può eseguire i fuochi "
+"La matriarca dell’ombra non conosce pietà. Crea un’aura oscura che penalizza "
+"i nemici al suo interno, facendoli combattere male. Può eseguire i fuochi "
 "stregati ben 7 volte."
 
 #. [attack]: type=cold
@@ -2577,7 +2588,7 @@ msgstr "portale di sangue"
 #. [unit_type]: id=I8 Tharis_Matriarch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Matriarch_of_Emptiness.cfg:4
 msgid "Matriarch of Emptiness"
-msgstr "Matriarca del Nulla"
+msgstr "Matriarca del nulla"
 
 #. [unit_type]: id=I8 Tharis_Matriarch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Matriarch_of_Emptiness.cfg:17
@@ -2585,19 +2596,19 @@ msgid ""
 "Matriarch of emtiness owns powerful orb, which drains all magical energy "
 "from air. That means all spells do minimal damage."
 msgstr ""
-"La Matriarca del Nulla possiede una potente sfera in grado di assorbire "
-"tutta l’energia magica proveniente dall’aria. Ciò significa che tutti gli "
-"incantesimi fanno danni minimi."
+"La matriarca del nulla possiede una potente sfera in grado di assorbire "
+"tutta l’energia magica proveniente dall’aria: ciò significa che tutti gli "
+"incantesimi nemici faranno danni minimi."
 
 #. [unit_type]: id=I8 Tharis_Deephydra, race=monster
 #: Era_of_Magic/units/Tharis/Raging_Hydra.cfg:4
 msgid "Raging Hydra"
-msgstr "Idra Furiosa"
+msgstr "Idra furiosa"
 
 #. [unit_type]: id=I8 Tharis_Sworddancer, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Sworddancer.cfg:4
 msgid "Sworddancer"
-msgstr "Danzatore di Spada"
+msgstr "Danzatore di spade"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Tharis/Sworddancer.cfg:23
@@ -2617,14 +2628,14 @@ msgid ""
 "fire. It is cheap spell and drains energy from an enemy. In close range "
 "witches use their spears."
 msgstr ""
-"Le Streghe sono le serve dell’oscurità. Usano uno speciale attacco magico "
-"chiamato fuoco stregato. È un facile incantesimo che assorbe energia dal "
-"nemico. In combattimenti ravvicinati le streghe usano la lancia."
+"Le streghe sono le serve dell’oscurità. Invocano un facile incantesimo "
+"chiamato “fuoco stregato”, il quale assorbe energia dal nemico. In "
+"combattimenti ravvicinati le streghe usano la lancia."
 
 #. [unit_type]: id=I8 Ak_Avatar_air, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Air_Avatar.cfg:4
 msgid "Air Avatar"
-msgstr "Avatar d’Aria"
+msgstr "Avatar d’aria"
 
 #. [unit_type]: id=I8 Ak_Avatar_air, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Air_Avatar.cfg:17
@@ -2637,13 +2648,12 @@ msgid ""
 "created, drifting from place to place, crackling with lightning from within "
 "their ethereal innards."
 msgstr ""
-"Gli avatar d’aria si sono distinti dai loro semplici elementali, "
-"sviluppandosi in vortici di tempesta, vento e nuvole oscure che sono diffusi "
-"all’interno e all’esterno di sé stessi. Gli avatar si sono trasformati in "
-"tempeste impetuose. Rafforzati con un corpo solido, gli avatar sono meno "
-"sensibili alle armi comuni come le spade e le frecce. Gli avatar d’aria si "
-"muovono da soli con le correnti che creano, girovagando in molti posti e "
-"tuonando dalle viscere più profonde."
+"Gli avatar d’aria si distinguono dai loro semplici elementali per il loro "
+"aspetto simile a una tempesta e per la loro forma a vortice, in cui vento e "
+"nuvole oscure compongono il loro corpo. Rafforzati con un corpo solido, gli "
+"avatar sono meno sensibili alle armi comuni come le spade e le frecce e "
+"riescono a muoversi da soli seguendo le correnti che creano da soli, "
+"girovagando in molti posti e tuonando dalle viscere più profonde."
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/al_Kamija/Air_Avatar.cfg:50
@@ -2655,7 +2665,7 @@ msgstr "uragano"
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Air_Elemental.cfg:4
 msgid "Air Elemental"
-msgstr "Elementale dell’Aria"
+msgstr "Elementale dell’aria"
 
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Air_Elemental.cfg:18
@@ -2673,11 +2683,11 @@ msgid ""
 msgstr ""
 "Gli elementali dell’aria sono entità magiche costruite interamente fuori "
 "dall’atmosfera dell’Abisso. I loro corpi si rigenerano di continuo col "
-"passaggio del tempo. Grazie alla loro anatomia, gli elementali di questa "
-"varietà sono veloci ed evasivi, anche se avendo un corpo così delicato "
-"basterebbe un singolo attacco ben riuscito per distruggere. Comunque, un "
-"“attacco ben riuscito” sarebbe molto difficile da realizzare su questi "
-"elementali, a causa del loro corpo altamente resistente.\n"
+"passare del tempo e la loro anatomia gli permette di essere molto veloci ed "
+"evasivi, anche se basterebbe un singolo attacco ben riuscito a distruggere "
+"il loro corpo così delicato. Comunque, a causa del loro corpo altamente "
+"resistente, un “attacco ben riuscito” sarebbe molto difficile da realizzare "
+"su questi elementali.\n"
 "\n"
 "Gli evocatori che invocano queste creature nel loro mondo sanno che un "
 "elementale potrebbe svanire molto velocemente."
@@ -2690,7 +2700,7 @@ msgstr "piccolo tuono"
 #. [unit_type]: id=I8 Ak_God_air, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Air_God.cfg:4
 msgid "Air God"
-msgstr "Dio dell’Aria"
+msgstr "Dio dell’aria"
 
 #. [unit_type]: id=I8 Ak_God_air, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Air_God.cfg:18
@@ -2707,17 +2717,16 @@ msgid ""
 "nimbus of raging thunder and rain living in the skies, extending calamity to "
 "wherever the eye of its storm gazes."
 msgstr ""
-"Gli uomini hanno paura del vento — cosa accadrebbe se un dolce zeffiro "
-"pomeridiano si trasformasse all’improvviso in un uragano di sera. Vento e "
+"Gli uomini hanno paura del vento...ma cosa accadrebbe se un dolce zeffiro "
+"pomeridiano si trasformasse all’improvviso in un uragano notturno? Vento e "
 "tempesta possono trasformare l’uomo più forte in una bambola che danza nel "
-"cielo; e il fulmine che viene scagliato contro di lui lo porta di nuovo "
-"sulla terra. Gli dei dell’aria devono essere temuti ancor di più, perché "
-"possono creare catastrofi con un semplice ordine. Gli dei dell’aria sono "
-"fisicamente immuni agli assalti grazie ai loro corpi che sono quasi simili "
-"ad una vera tempesta.\n"
+"cielo, e il fulmine scagliato sulla propria testa in cenere. In più devono "
+"essere temuti ancor di più perché possono creare catastrofi con un semplice "
+"gesto. Gli dei dell’aria sono fisicamente immuni agli assalti fisici grazie "
+"ai loro corpi che sono quasi simili ad una vera tempesta.\n"
 "\n"
 "Gli evocatori credono che persino il paradiso tremi alla sola vista di "
-"questi grandi nuvole di tuoni e pioggia, i quali possono distruggere tutto "
+"queste grandi nuvole di tuoni e pioggia, le quali possono distruggere tutto "
 "con lo solo sguardo del proprio occhio."
 
 #. [unit_type]: id=I8 Ak_Banisher, race=akhuman
@@ -2745,7 +2754,7 @@ msgstr "portale congelato"
 #. [unit_type]: id=I8 Ak_CamelRider, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Camel_Rider.cfg:4
 msgid "Camel Rider"
-msgstr "Cavalcatore di Cammelli"
+msgstr "Cavalcatore di cammelli"
 
 #. [unit_type]: id=I8 Ak_CamelRider, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Camel_Rider.cfg:18
@@ -2762,15 +2771,14 @@ msgid ""
 "the fray."
 msgstr ""
 "Per i soldati alle prima armi, i cammelli sono un raro spettacolo da vedere "
-"nei fronti. A differenza dei fratelli e sorelle usati come bestie da "
-"viaggio, i cammelli visti in battaglia sono molto allenati per correre e "
-"resistere. I cavalcatori sono acclamati per la loro abilità di usare una "
-"scimitarra per gli attacchi ravvicinati e piccole dozzine di queste per "
-"scagliarle contro i bersagli lontani.\n"
+"nei fronti. A differenza dei loro simili usati come bestie da viaggio, i "
+"cammelli visti in battaglia sono molto allenati per correre e resistere. I "
+"cavalcatori sono acclamati per la loro abilità di usare una scimitarra per "
+"gli attacchi ravvicinati e piccole dozzine di queste per scagliarle contro i "
+"bersagli lontani.\n"
 "\n"
-"Allenati nelle esplorazioni e nelle guerre ”colpisci e fuggi”, i cavalcatori "
-"di cammelli sono così veloci ad entrare in battaglia che sono considerati "
-"gli araldi della forza degli Evocatori."
+"Allenati nelle esplorazioni e nelle guerre “lampo”, i cavalcatori di "
+"cammelli sono considerati gli araldi della forza degli evocatori."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/al_Kamija/Camel_Rider.cfg:33
@@ -2793,7 +2801,7 @@ msgstr "lancio di scimitarra"
 #. [unit_type]: id=I8 Ak_CarpetMaster, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Carpet_Master.cfg:4
 msgid "Carpet Master"
-msgstr "Maestro dei Tappeti"
+msgstr "Maestro dei tappeti"
 
 #. [unit_type]: id=I8 Ak_CarpetMaster, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Carpet_Master.cfg:18
@@ -2806,14 +2814,12 @@ msgid ""
 "well-protected of targets. Prized with a more regal carpet, the carpet "
 "master soars through the air as effortlessly as any bird."
 msgstr ""
-"Capitani dei venti, ogni maestro dei tappeti può affermare di aver cavalcato "
-"i cieli così volte da non poterle contare. Il valore di un maestro di "
-"tappeti è sempre la sua abilità di sorvegliare grandi distanze, anche se i "
-"suoi attacchi a distanza sono divenuti veramente temibili. Durante la "
-"battaglia, la loro precisione con le bombe è stata migliorata "
-"considerevolmente, avendo la possibilità di colpire i bersagli più elusivi e "
-"ben protetti. Premiato con un più regale tappeto, il maestro dei tappeti si "
-"alza in volo senza sforzo come gli uccelli."
+"Capitani dei venti, i maestri dei tappeti affermano di aver cavalcato i "
+"cieli così tante volte che non possono essere contate. Oltre a coprire "
+"lunghe distanze, la sua abilità risiede in particolar modo nella precisione "
+"con le bombe, così da avere la possibilità di colpire i bersagli più elusivi "
+"e ben protetti. Premiato di aver più di un tappeto reale sotto i propri "
+"piedi, il maestro dei tappeti si alza in volo senza nessun tipo di problema."
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/al_Kamija/Carpet_Master.cfg:47
@@ -2824,7 +2830,7 @@ msgstr "polvere magica"
 #. [unit_type]: id=I8 Ak_CarpetRider, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Carpet_Rider.cfg:4
 msgid "Carpet Rider"
-msgstr "Cavalcatore di Tappeti"
+msgstr "Cavalcatore di tappeti"
 
 #. [unit_type]: id=I8 Ak_CarpetRider, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Carpet_Rider.cfg:18
@@ -2848,20 +2854,19 @@ msgid ""
 msgstr ""
 "\n"
 "Secondo la leggenda, il tappeto magico è stato creato dai desideri di una "
-"principessa. Lei, per soddisfare i propri vizi, desiderò un modo nuovo di "
-"viaggiare che fosse preferibilmente conveniente e rilassante. Carrozze e "
-"cammelli erano troppo comuni e noiosi per lei, così andò alla ricerca di "
-"qualcosa che rivoluzionasse i trasporti nella società degli Evocatori. Alla "
-"fine, uno dei suoi incantatori esperti intrecciò alcuni pezzi di oggetti "
-"magici tra loro e creò quello che noi chiamiamo “tappeto volante”. Subito "
-"dopo, tutti gli uomini ricchi cominciarono a cavalcare questi tappeti per i "
-"loro motivi personali.\n"
+"principessa, la quale, per soddisfare i propri vizi, desiderò un modo nuovo "
+"di viaggiare che rivoluzionasse i trasporti nella società degli evocatori, "
+"ritenendo che ormai i cammelli e le carrozze fossero un mezzo sorpassato. "
+"Alla fine, uno dei suoi incantatori esperti riuscì a intrecciare alcuni "
+"pezzi di oggetti magici tra loro e a creare quello che noi chiamiamo oggi "
+"“tappeto volante”. Subito dopo questa invenzione, tutti gli uomini ricchi "
+"del paese cominciarono a cavalcare questi tappeti per i loro motivi "
+"personali.\n"
 "\n"
-"Inevitabilmente, i tappeti magici diventarono importanti in tempi di guerra, "
+"Inevitabilmente, i tappeti magici divennero importanti in tempi di guerra, "
 "cavalcati solo da giovani uomini audaci e senza paura. Sopra a questi strani "
-"mezzi, gli assi del cielo eseguono impressionanti voli e giri di "
-"ricognizione. I cavalcatori attaccano i loro bersagli con piccole bombe "
-"perché il tappeto magico non è in grado di trasportare molto peso."
+"mezzi leggeri, gli assi del cielo eseguono impressionanti voli e giri di "
+"ricognizione, attaccando i loro bersagli con piccole bombe."
 
 #. [unit_type]: id=I8 Ak_DharmaRhami, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/DharmaRhami.cfg:4
@@ -2879,13 +2884,11 @@ msgid ""
 "with their weaponry as their lesser beings, opposition will crushed by a "
 "Dharma’rhami with brutal force and tactics."
 msgstr ""
-"I Dharma-rhami sono di colore rosso-sangue, ornati di ciondoli ed armati di "
-"lancia e di doppia lama. Il loro aspetto li fa apparire irascibili in "
-"combattimento, ma superficialmente sono prudenti e calmi, e combattono senza "
-"sete di sangue. Però, sono dominati da un’intento vendicativo fra le fila "
-"degli Evocatori. Sono tanto abili con le armi quanto i loro simili di grado "
-"inferiore; gli avversari saranno schiacciati dalla forza brutale e dalle "
-"tattiche dei Dharma’rhami."
+"Le dharma-rhami sono di colore rosso-sangue, ornate di ciondoli ed armate di "
+"lancia e doppia lama. Assumono un aspetto “bollente” in combattimento, ma in "
+"fondo sono prudenti e calme e non combattono mai per sete di sangue. I "
+"nemici verranno schiacciati dalla forza brutale e dalle tattiche delle "
+"dharma’rhami."
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -2904,7 +2907,7 @@ msgstr "coppa di fuoco"
 #. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Dimensional_Gate.cfg:5
 msgid "Dimensional Gate"
-msgstr "Portale Dimensionale"
+msgstr "Portale dimensionale"
 
 #. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
 #. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
@@ -2919,11 +2922,11 @@ msgid ""
 "itself into a true door for a being from the Abyss to emerge out of."
 msgstr ""
 "La maggior parte degli evocatori inesperti sono capaci di evocare solamente "
-"portali dimensionali: ponti instabili di energia esoterica in mezzo al "
-"nostro mondo e all’Abisso. I portali dimensionali, anche se primitivi, "
-"usufruiscono di precisi attacchi esoterici. Sebbene sia debole e fragile, "
-"una singola vita è tutto ciò che il portale richiede per solidificarsi in "
-"una vera porta per far emergere una creatura dall’Abisso."
+"portali dimensionali: ponti instabili di energia esoterica tra il nostro "
+"mondo e l’Abisso. I portali dimensionali, anche se primitivi, usufruiscono "
+"di precisi attacchi esoterici e sebbene siano deboli e fragili, basta una "
+"singola vita per solidificarsi in una vera porta capace di trasportare una "
+"creatura dall’Abisso."
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/al_Kamija/Dimensional_Gate.cfg:152
@@ -2933,7 +2936,7 @@ msgstr "fiamma blu"
 #. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Dimensional_Gate_2.cfg:4
 msgid "Dimensional Gate 2"
-msgstr "Portale Dimensionale 2"
+msgstr "Portale dimensionale 2"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/al_Kamija/Dimensional_Gate_2.cfg:30
@@ -2943,7 +2946,7 @@ msgstr "fiamma gialla"
 #. [unit_type]: id=I8 Ak_Dispeller, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Dispeller.cfg:4
 msgid "Dispeller"
-msgstr "Scacciatore"
+msgstr "Esiliatore"
 
 #. [unit_type]: id=I8 Ak_Dispeller, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Dispeller.cfg:17
@@ -2954,16 +2957,16 @@ msgid ""
 "dispellers are often called by summoners when something goes wrong, for "
 "example when an Efreeti rebels."
 msgstr ""
-"Alcuni Evocatori scelgono la strada opposta delle arti evocatrici, "
-"conosciuta come l’arte dell’esilio. Invece di portare alla luce nuove "
-"creature, essi le rimandano nell’Abisso. Avendo questa utile conoscenza, gli "
-"scacciatori sono spesso evocati quando si sta mettendo male, per esempio "
-"quando un Efreeti si ribella."
+"Alcuni evocatori scelgono la stada opposta delle arti evocatrici, conosciuta "
+"come l’arte dell’esilio. Invece di portare alla luce nuove creature, essi le "
+"spedicono dentro all’Abisso. Avendo questa utile conoscenza, gli esiliatori "
+"sono spesso chiamati dagli evocatori quando si sta mettendo davvero male, ad "
+"esempio quando un efreeti si ribella al proprio padrone."
 
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Earth_Avatar.cfg:4
 msgid "Earth Avatar"
-msgstr "Avatar di Terra"
+msgstr "Avatar di terra"
 
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Earth_Avatar.cfg:15
@@ -2978,13 +2981,13 @@ msgid ""
 "growing outside of its rocky cracks."
 msgstr ""
 "Gli avatar di terra, oltre ad essere enormi, sono molto lenti per colpa "
-"della loro massa. Per questa ragione, gli avatar di terra vengono evocate "
-"nei campi da battaglia per difendere le zone più importanti come le montagne "
-"e le cime. Grazie alla loro strana forza, gli avatar sfondano le truppe "
-"nemiche fermandone tutti i vari tipi d’attacco. Quando la missione è "
-"conclusa, questi giganti smettono di muoversi e rimangono immobili come se "
-"fossero delle statue di pietra; col passare del tempo, gli avatar diventano "
-"la nuova casa per piccoli ramoscelli di vegetazione cresciuti in mezzo alle "
+"della loro massa, e per questa ragione vengono evocate nei campi da "
+"battaglia per difendere le zone più importanti situate tra le montagne e le "
+"cime. Grazie alla loro strana forza, gli avatar sfondano le truppe nemiche "
+"fermandone tutti i vari tipi d’attacco e quando la missione è conclusa, "
+"questi giganti smettono di muoversi e rimangono immobili come se fossero "
+"delle statue di pietra: col passare del tempo, gli avatar diventano la nuova "
+"casa per i piccoli ramoscelli di vegetazione cresciuti in mezzo alle loro "
 "fessure rocciose."
 
 #. [attack]: type=impact
@@ -2997,7 +3000,7 @@ msgstr "colpo"
 #. [unit_type]: id=I8 Ak_Elemental_earth, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Earth_Elemental.cfg:4
 msgid "Earth Elemental"
-msgstr "Elementale di Terra"
+msgstr "Elementale di terra"
 
 #. [unit_type]: id=I8 Ak_Elemental_earth, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Earth_Elemental.cfg:16
@@ -3027,7 +3030,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Earth_God.cfg:4
 msgid "Earth God"
-msgstr "Dio della Terra"
+msgstr "Dio della terra"
 
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Earth_God.cfg:16
@@ -3043,8 +3046,8 @@ msgstr ""
 "Gli dei della terra sono semplicemente enormi: un solo pugno può far tremare "
 "le fondamenta della terra. Resistenti alle spade più taglienti, alle lance, "
 "agli incantesimi e grazie alla loro capacità di rigenerarsi di continuo il "
-"loro corpo e alla loro forza in grado di polverizzare decine di nemici in un "
-"colpo solo, gli dei della terra non sono facili da abbatterli."
+"proprio corpo e alla loro forza in grado di polverizzare decine di nemici in "
+"un colpo solo, gli dei della terra non saranno facili da abbattere."
 
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Efreeti.cfg:4
@@ -3061,12 +3064,12 @@ msgid ""
 "hue, tempering their magic with fire’s touch. In battles, efreets bask in "
 "razing and laying waste to whatever their blazes can reach."
 msgstr ""
-"Disastrosi per natura, gli efreet sono geni che hanno respinto, anche se non "
-"del tutto, ogni loro intimo desiderio conoscitivo. Per ragioni profonde che "
-"stanno al di sopra della comprensione dei loro signori, gli efreet cercano "
-"di causare distruzione nelle loro conquiste. Per questo, i loro corpi magici "
-"sono di colore rosso cremisi, avvolti nel fuoco. In battaglia, gli efreet "
-"godono nell’incenerire qualsiasi cosa vicina ad essi."
+"Distruttivi per natura, gli efreet sono geni dall pelle rosso cremisi "
+"avvolti nel fuoco che hanno rifiutato, anche se non del tutto, ogni loro "
+"intimo desiderio conoscitivo. Per ragioni profonde che stanno al di sopra "
+"della comprensione dei loro signori, gli efreet cercano di causare "
+"distruzione nelle loro conquiste, divertendosi nell’incenerire qualsiasi "
+"cosa vicina ad essi."
 
 #. [attack]: type=arcane
 #. [attack]: type=cold
@@ -3087,7 +3090,7 @@ msgstr "magico"
 #. [unit_type]: id=I8 Ak_Avatar_fire, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Fire_Avatar.cfg:4
 msgid "Fire Avatar"
-msgstr "Avatar di Fuoco"
+msgstr "Avatar di fuoco"
 
 #. [unit_type]: id=I8 Ak_Avatar_fire, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Fire_Avatar.cfg:17
@@ -3102,17 +3105,16 @@ msgid ""
 msgstr ""
 "Dopo aver consumato la carne, ossa, legno, ferro e perfino interi paesaggi, "
 "il fuoco inevitabilmente cambia forma e si trasforma in qualcosa di molto "
-"sinistro. È una visione terribile quella di vedere volare l’avatar di fuoco "
-"con le sue ali ardenti, abbagliando l’uomo e la terra. La magia conservata "
-"dentro al suo corpo dona all’avatar la possibilità di usare gli artigli "
-"infuocati. Solo gli evocatori abbastanza impavidi sono capaci di comandarli "
-"in guerra e di non farsi ridurre in cenere da creature pericolose di questo "
-"tipo."
+"sinistro: l’avatar di fuoco. Una visione terribile vedere volare l’avatar di "
+"fuoco con le sue ali ardenti, abbagliando l’uomo e la terra. La magia "
+"conservata dentro al suo corpo dona all’avatar la possibilità di usare gli "
+"artigli infuocati e solo gli evocatori abbastanza impavidi sono capaci di "
+"comandarli in guerra senza farsi ridurre in cenere."
 
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Fire_Elemental.cfg:4
 msgid "Fire Elemental"
-msgstr "Elementale di Fuoco"
+msgstr "Elementale di fuoco"
 
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Fire_Elemental.cfg:17
@@ -3129,16 +3131,16 @@ msgstr ""
 "Il fuoco è la manifestazione più pericolosa della distruzione naturale. Gli "
 "adepti sanno materializzare il fuoco dal nulla, e non c’è niente di più "
 "terribile della furia del fuoco. Con la sua forma ardente visibile "
-"nell’oscurità più assoluta, l’elementare del fuoco è un’entità esoterica e "
+"nell’oscurità più assoluta, l’elementale del fuoco è un’entità esoterica e "
 "magica evocata dall’Abisso, usata spesso per combattere in guerra. Dal "
-"momento in cui è trascinato in questo mondo, l’elementare brucia senza "
+"momento in cui viene trascinato in questo mondo, l’elementale brucia senza "
 "curarsi di niente ed esegue gli ordini dei propri evocatori finché non viene "
 "estinto."
 
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Fire_God.cfg:4
 msgid "Fire God"
-msgstr "Dio del Fuoco"
+msgstr "Dio del fuoco"
 
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Fire_God.cfg:18
@@ -3151,18 +3153,18 @@ msgid ""
 "its flames, the fire god appears as a miniature sun in the darkest of "
 "nights. Everything in its marked path is set ablaze."
 msgstr ""
-"Una volta raggiunto il culmine della conflagrazione,  l’elementale diventa "
+"Una volta raggiunto il culmine della conflagrazione, l’elementale diventa "
 "improvvisamente un inferno vivente, un dio con tutto il rispetto. Persino "
-"gli evocatori che hanno procurato queste legende dall’Abisso tremano alla "
-"vista della fenice infuocata, con le sue ali imponenti che sparpagliano "
-"scintille e cenere per terra. Il dio del fuoco appare come un sole in "
-"miniatura nelle notti più buie, inghiottendo ogni nemico con le sue fiamme. "
-"Ogni cosa che si trova nel suo territorio viene incenerita."
+"gli evocatori che hanno procurato queste leggende dall’Abisso tremano alla "
+"vista delle ali imponenti della fenice che sparpagliano scintille e cenere "
+"per terra. Il dio del fuoco appare come un sole in miniatura nelle notti più "
+"buie che inghiotte ogni nemico con le proprie fiamme. Ogni cosa che si trova "
+"nel suo territorio verrà incenerita all’istante."
 
 #. [unit_type]: id=I8 Ak_SummonerIII, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Grand_Summoner.cfg:4
 msgid "Grand Summoner"
-msgstr "Grande Evocatore"
+msgstr "Grande evocatore"
 
 #. [unit_type]: id=I8 Ak_SummonerIII, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Grand_Summoner.cfg:17
@@ -3179,15 +3181,15 @@ msgid ""
 "chance to hit."
 msgstr ""
 "Evocatori, scolari e guerrieri di ogni tipo riescono a raggiungere il "
-"Secondo Rango solo grazie al loro talento e alle loro abilità. Il Terzo "
-"Rango invece non è facilmente raggiungibile dai meno dotati in queste arti. "
-"I “Grandi Evocatori”, come essi vengono chiamati dai loro signori, valgono "
-"sia in guerra e sia in saggezza, guadagnandosi la preziosa conoscenza "
-"riguardo l’evocazione degli elementali dall’Abisso. Rispettati e temuti, i "
-"grandi evocatori eliminano i nemici con assoluta certezza grazie ai loro "
-"cerchi di distruzione.\n"
+"secondo rango solo grazie al proprio talento e alle proprie abilità. Il "
+"terzo rango invece non è facilmente raggiungibile dai meno dotati in queste "
+"arti. I “grandi evocatori”, come essi vengono chiamati dai loro signori, "
+"sono uomini valorosi sia in guerra e sia in saggezza, con la quale si sono "
+"guadagnati la preziosa conoscenza riguardo le evocazioni degli elementali "
+"dall’Abisso. Rispettati e temuti, i grandi evocatori eliminano i nemici con "
+"assoluta certezza grazie ai loro cerchi di distruzione.\n"
 "\n"
-"Note Speciali: L’attacco a distanza di questa unità ha sempre una "
+"Note speciali: L’attacco a distanza di questa unità ha sempre una "
 "possibilità pari al 100% di colpire."
 
 #. [attack]: type=fire
@@ -3199,7 +3201,7 @@ msgstr "cerchio della distruzione"
 #. [unit_type]: id=I8 Ak_EfreetiGreat, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Great_Efreeti.cfg:4
 msgid "Great Efreeti"
-msgstr "Grande Efreeti"
+msgstr "Grande efreeti"
 
 #. [unit_type]: id=I8 Ak_EfreetiGreat, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Great_Efreeti.cfg:19
@@ -3213,7 +3215,7 @@ msgid ""
 "summoners who drive them forward, making as much use as possible of their "
 "blasts of hellfire and ravaging firestorms."
 msgstr ""
-"I grandi efreet ribollono con un’ardente ferocia che si manifesta nella "
+"I grandi efreeti ribollono con un’ardente ferocia che si manifesta nella "
 "forma di una scia magica. Molti militari e civili sono stati ridotti in "
 "cenere in modo spietato per colpa di queste creature avvolte dal fuoco. Si "
 "racconta che in passato un grande efreet, nel giro di una notte, abbia "
@@ -3230,7 +3232,7 @@ msgstr "distruzione"
 #. [unit_type]: id=I8 Ak_Jinn_Great, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Great_Jinn.cfg:4
 msgid "Great Jinn"
-msgstr "Grande Genio"
+msgstr "Grande genio"
 
 #. [unit_type]: id=I8 Ak_Jinn_Great, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Great_Jinn.cfg:17
@@ -3248,14 +3250,15 @@ msgid ""
 msgstr ""
 "I nuovi evocatori imparano in fretta che i geni sono molti diversi dagli "
 "elementali che vengono evocati dall’Abisso. I geni hanno una sete "
-"insaziabile per la conoscenza che li fa diventare dei grandi geni. Più saggi "
-"dei loro maestri e possessori di alcune basi per l’evocamento, i grandi geni "
-"sono più simili agli umani, anche se non migliori in fatto di perspicacia.\n"
+"insaziabile per la conoscenza che li farà diventare dei grandi geni. Più "
+"saggi dei loro maestri e possessori di qualche tecnica di evocamento, i "
+"grandi geni sono più simili agli umani, anche se non migliori in fatto di "
+"perspicacia.\n"
 "\n"
 "I grandi geni occupano frequentemente posizioni di autorità, comandano "
 "divisioni e persino detengono un posto di potere nei consigli. Dotati "
 "d’intelligenza, i grandi geni sono sempre alla ricerca di risposte sulla "
-"vita, malgrado la loro posizione."
+"vita."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/al_Kamija/Great_Jinn.cfg:170
@@ -3268,7 +3271,7 @@ msgstr "scimitarra magica"
 #. [unit_type]: id=I8 Ak_HeavyCamelRider, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Heavy_Camel_Rider.cfg:4
 msgid "Heavy Camel Rider"
-msgstr "Grande Cavalcatore di Cammelli"
+msgstr "Grande cavalcatore di cammelli"
 
 #. [unit_type]: id=I8 Ak_HeavyCamelRider, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Heavy_Camel_Rider.cfg:18
@@ -3289,10 +3292,11 @@ msgstr ""
 "piccoli gruppi di cavalcatori poco esperti, mentre in guerra eseguono il "
 "ruolo di avanguardia, cavalcando davanti gli evocatori e i propri elementali."
 
+# Per "heavy summoner" ho scelto " evocatore possente", dato che la parola "grande evocatore" è già stata usata.
 #. [unit_type]: id=I8 Ak_SummonerHeavy, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Heavy_Summoner.cfg:4
 msgid "Heavy Summoner"
-msgstr "Potente Evocatore"
+msgstr "Evocatore possente"
 
 #. [unit_type]: id=I8 Ak_SummonerHeavy, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Heavy_Summoner.cfg:18
@@ -3313,21 +3317,21 @@ msgid ""
 "Like their fellow neutral summoners, heavy summoners can call forth Rhamis "
 "from the Abyss through their summoning circles."
 msgstr ""
-"Un evocatore allenato nelle “grandi arti” detiene un vantaggio unico su "
-"tutti gli evocatori di Terzo Rango: la conoscenza di un cerchio d’evocazione "
+"Un evocatore allenato nelle “arti possenti” detiene un vantaggio unico su "
+"tutti gli evocatori di terzo rango: la conoscenza di un cerchio d’evocazione "
 "aggiuntivo attorno a loro e ai loro alleati. Il cerchio della resistenza "
 "difende contro gli attacchi magici, riducendo il loro impatto e proteggendo "
 "i compagni dei potenti evocatori.\n"
 "\n"
-"I potenti evocatori sono disciplinati nei combattimenti faccia a faccia, "
-"vantandosi di avere una grande forza e resistenza. Piuttosto di concentrarsi "
-"nell’allenamento delle arti evocative, preferiscono coltivare la loro forza "
-"in anni di combattimenti. I grandi evocatori conoscono ancora l’invocazione "
-"di frecce magiche acquisite nel Secondo Rango, anche se questa è un’abilità "
-"dimenticata per l’amore dei loro muscoli.\n"
+"Gli evocatori possenti, piuttosto di concentrarsi sull’allenamento delle "
+"arti evocative, preferiscono coltivare la loro forza in anni di "
+"combattimenti e sono disciplinati nei combattimenti corpo a corpo, "
+"vantandosi di avere una grande forza e resistenza. Ciò nonostante conoscono "
+"ancora l’invocazione di frecce magiche acquisite nel secondo rango, anche se "
+"questa è un’abilità dimenticata per l’amore dei propri muscoli.\n"
 "\n"
-"Assieme ai loro compagni evocatori neutrali, i potenti evocatori possono "
-"richiamare le Rhami dall’Abisso attraverso i cerchi di evocazione."
+"Assieme ai loro compagni evocatori neutrali, gli evocatori possenti possono "
+"richiamare le rhami dall’Abisso attraverso i cerchi di evocazione."
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/al_Kamija/Heavy_Summoner.cfg:115
@@ -3357,13 +3361,13 @@ msgid ""
 "their inner magic has emerged to form the shape of a spear, attacking "
 "opponents from afar with precise deadliness."
 msgstr ""
-"Le Ho’rhami sono i generali delle armate degli evocatori e hanno l’abitudine "
-"di osservare la battaglia con occhio imparziale. Anche se rimangono sempre "
-"molto vendicative nel loro cuore, come leader hanno capito l’importanza "
-"delle vite dei propri compagni. Quando comandano il fronte, le Ho’rhami "
-"combattono con due lance e colpiscono i loro nemici con una ferocia "
-"inaudita. La lancia che è stata creata dalla loro magia interiore colpisce i "
-"nemici da distante con una precisione micidiale."
+"Le ho’rhamis sono i generali delle armate degli evocatori e hanno "
+"l’abitudine di osservare la battaglia con occhio imparziale. Anche se "
+"rimangono sempre molto vendicative nel loro cuore, come leader hanno capito "
+"l’importanza delle vite dei propri compagni. Quando comandano il fronte, le "
+"ho’rhamis combattono con due lance create dalla loro magia interiore con le "
+"quali colpiscono i nemici da distante con una precisione micidiale e con con "
+"una ferocia inaudita."
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -3387,12 +3391,13 @@ msgid ""
 "tangible weapons. These entities, while able to err like humans, are valued "
 "allies of the summoners, with their curious thoughts always wandering about."
 msgstr ""
-"I geni sono speciali  per molti evocatori grazie alla loro capacità di "
+"I geni sono speciali per molti evocatori grazie alla loro capacità di "
 "pensare, comprendere, imparare, e persino parlare: un’affinità che nessun "
-"altro elementare dell’Abisso può acquisire. Fatti interamente di magia, i "
-"geni sono molto resistenti contro le armi tangibili anche se sono molto "
+"altro elementale dell’Abisso può acquisire. Fatti interamente di magia, i "
+"geni sono molto resistenti contro le armi tangibili anche se molto "
 "vulnerabili agli attacchi esoterici. Queste entità sono gli alleati più "
-"valorosi degli evocatori, e possono commettere errori come gli umani."
+"valorosi degli evocatori ma per la capacità di pensare possono commettere "
+"errori come gli umani."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/al_Kamija/Jinn.cfg:358
@@ -3402,7 +3407,7 @@ msgstr "pugnale magico"
 #. [unit_type]: id=I8 Ak_Jinn_Wonderful, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Jinn_Wonderful.cfg:4
 msgid "Wonderful Jinn"
-msgstr "Genio Magnifico"
+msgstr "Genio magnifico"
 
 #. [unit_type]: id=I8 Ak_Jinn_Wonderful, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Jinn_Wonderful.cfg:17
@@ -3418,15 +3423,14 @@ msgid ""
 "of their superiors and have not yet retired into the shadows of the world."
 msgstr ""
 "I geni magnifici sono i saggi della società degli evocatori e diffondono la "
-"loro saggezza a chiunque che si mette ad ascoltarli. La loro ineguale "
+"loro saggezza a chiunque si metta ad ascoltarli. La loro ineguale "
 "immaginazione e intelletto del mondo sono evidenti attraverso la loro vasta "
 "affluenza di evocazioni e incantesimi esoterici. I geni di questo alto "
-"calibro hanno molto rispetto verso i loro signori umani e hanno imparato da "
-"soli come si eseguono le evocazioni offensive. I geni magnifici sono "
-"indipendenti da tanto tempo e non sono più i servitori dei loro maestri. È "
-"un mistero sul come essi abbiano saziato la loro immensurabile sete, e sul "
-"perché continuino ad eseguire gli ordini dei loro superiori invece di "
-"ritirarsi nell’oscurità del loro mondo."
+"calibro hanno imparato da soli l’utilizzo delle evocazioni offensive e anche "
+"se sono sono indipendenti dagli umani, dopotutto provano ancora molto "
+"rispetto verso i loro vecchi padroni. È un mistero sul come essi abbiano "
+"saziato la loro immensurabile sete, e sul perché continuino ad eseguire gli "
+"ordini dei loro superiori invece di ritirarsi nell’oscurità del loro mondo."
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/al_Kamija/Jinn_Wonderful.cfg:238
@@ -3436,7 +3440,7 @@ msgstr "super-cerchio"
 #. [unit_type]: id=I8 Ak_Jinn_Mystic, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Mystical_Jinn.cfg:4
 msgid "Mystical Jinn"
-msgstr "Genio Mistico"
+msgstr "Genio mistico"
 
 #. [unit_type]: id=I8 Ak_Jinn_Mystic, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Mystical_Jinn.cfg:18
@@ -3463,17 +3467,17 @@ msgid ""
 "\n"
 "― Mystic Jinn"
 msgstr ""
-"«Che cos’è l’illuminazione? È la cortina di tenebra che scende sulle "
+"“Che cos’è un illuminato? È la cortina di tenebra che discende nelle "
 "palpebre dell’uomo quando la morte striscia accanto di lui? È il rosso "
 "lucente del sangue che gorgoglia in una gola soffocata? Lo squarcio della "
-"terra che è a pezzi? O i suoni di morte che i soldati pronunciano prima che "
-"la mia magia entri nei loro cuori? Io non lo so.\n"
+"terra a pezzi? O i suoni di morte che i soldati pronunciano prima che la mia "
+"magia entri nei loro cuori? Io non lo so.\n"
 "\n"
-"C’è ancora una soddisfazione che può essere acquisita attraverso ciò che ho "
+"C’è una soddisfazione che può ancora essere acquisita attraverso ciò che ho "
 "faticato e svolto nelle ere dell’uomo. È una consolazione così dolce e calma "
 "quella di possedere un’esistenza che non sia in grado di aiutare ma solo di "
-"gridare dalla felicità. Ma c’è molto di più qui fuori... altri mondi che ho "
-"solo iniziato di esplorare. Anche se i miei poteri siano molto profondi, "
+"gridare dalla felicità. Ma c’è molto di più qui fuori...altri mondi che ho "
+"solo iniziato di esplorare. Anche se i miei poteri sono molto profondi, "
 "rimango sempre debole ad affrontare le cose più grandi. Ho bisogno di "
 "accertarmi di tutti i mondi presenti, nessuna importanza sul loro numero, "
 "sulla loro grandezza e sulla loro distanza dall’universo.\n"
@@ -3481,9 +3485,9 @@ msgstr ""
 "Al di là dell’immaginazione, posso raggiungere e afferrare qualsiasi cosa si "
 "nasconda nelle ombre. Anche se devo creare milioni di vuoti attraverso "
 "milioni di dimensioni, posso continuare nella mia ricerca sulla conoscenza. "
-"Imparerò molto. Scoprirò di più.»\n"
+"Imparerò molto. Scoprirò di più.”\n"
 "\n"
-"― Genio Mistico"
+"― Genio mistico"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/al_Kamija/Mystical_Jinn.cfg:258
@@ -3493,7 +3497,7 @@ msgstr "vortice dimensionale"
 #. [unit_type]: id=I8 Ak_Masterofbalance, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Neutral_Summoner.cfg:4
 msgid "Neutral Summoner"
-msgstr "Evocatore Neutrale"
+msgstr "Evocatore neutrale"
 
 #. [unit_type]: id=I8 Ak_Masterofbalance, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Neutral_Summoner.cfg:18
@@ -3506,13 +3510,11 @@ msgid ""
 "summoners are able to summon the fas Jinns through complex circles that "
 "connect their world with the Abyss."
 msgstr ""
-"Gli evocatori neutrali sono i più misteriosi Evocatori di Terzo Rango. "
-"Questi evocatori sono specializzati nell’usare una strana magia che "
-"indebolisce i nemici, rubando la loro vita ad ogni colpo. Essendo un gruppo "
-"segreto, gli evocatori neutrali infondono la magia d’assorbimento nelle loro "
-"scimitarre, e creano i loro cerchi con la stessa magia. Sono inoltre capaci "
-"di evocare i Geni attraverso cerchi complessi che connettono il loro mondo "
-"con quello del’Abisso."
+"Misteriosi e aderenti a un’organizzazione segreto, gli evocatori neutrali "
+"sono specializzati nel sfruttare una strana magia di assorbimento infusa "
+"nelle loro stesse scimitarre che indebolisce i nemici rubando la loro "
+"energia ad ogni colpo. Inoltre viene usata per creare i loro cerchi magici "
+"usati per evocare i geni dall’Abisso con il nostro mondo."
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/al_Kamija/Neutral_Summoner.cfg:109
@@ -3522,7 +3524,7 @@ msgstr "cerchio dell’equilibrio"
 #. [unit_type]: id=I8 Ak_Summoner, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Novice_Summoner.cfg:4
 msgid "Novice Summoner"
-msgstr "Novizio Evocatore"
+msgstr "Novizio evocatore"
 
 #. [unit_type]: id=I8 Ak_Summoner, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Novice_Summoner.cfg:18
@@ -3539,19 +3541,18 @@ msgid ""
 "Special Notes: Precision: The ranged attack of this unit always has an 80% "
 "chance to hit."
 msgstr ""
-"Agli alunni evocatori vengono prima insegnati le trascrizioni e i simboli "
-"fondamentali per il loro mestiere. Senza alcuna esperienza, che però verrà "
-"acquisita con l’età e con i combattimenti, i novizi non sono capaci di "
-"applicare queste arti senza l’aiuto di strumenti, come ad esempio le pagine "
-"di pergamena per le evocazioni di fuoco. L’evocazione è un’arte molto "
-"precisa, e persino gli incantesimi più elementari andranno a segno.\n"
+"Gli evocatori principianti imparano prima le trascrizioni fondamentali per "
+"il loro mestiere, anche se non sono in grado di applicare queste simboli "
+"senza l’aiuto di strumenti, come ad esempio le pagine di pergamena per le "
+"evocazioni di fuoco. L’evocazione è un’arte molto precisa, quindi gli "
+"incantesimi più elementari andranno a segno.\n"
 "\n"
 "A differenza dei maghi di altre società, gli evocatori novizi non sono "
 "gracili e sono molto abili nell’uso della scimitarra e nei combattimenti a "
 "pugni.\n"
 "\n"
-"Note Speciali: L’attacco a distanza di questa unità ha sempre una "
-"possibilità pari al’80% di colpire."
+"Note speciali: L’attacco a distanza di questa unità ha sempre una "
+"possibilità pari all’80% di colpire."
 
 #. [unit_type]: id=I8 Ak_Rhami, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Rhami.cfg:4
@@ -3571,15 +3572,14 @@ msgid ""
 "react. Rhamis are fiercely loyal and search to enact revenge upon their "
 "fallen comrades."
 msgstr ""
-"Le Rhami sono una razza di agili e flessibili creature residenti "
+"Le rhami sono una razza di agili e flessibili creature residenti "
 "nell’Abisso. Con quattro braccia e, come i geni, benedette con il dono "
-"dell’intelligenza, le Rhami adempiono il loro lavoro come accurato esercito "
-"per gli evocatori. Per qualche affinità magica sconosciuta, le Rhami "
-"rigenerano i loro corpi subito dopo essere state ferite. Sono armate con una "
-"lama in ogni mano, e tirano colpi e fendenti con straordinaria velocità "
-"sovrumana. Con le quattro lame e la sua energia, una Rhami balza in "
-"combattimento e colpisce prima che i suoi nemici possano reagire. Le Rhami "
-"sono molto devote e cercano di vendicarsi dei loro comandanti caduti."
+"dell’intelligenza, le rhami possono rigenerare i loro corpi e adempiono il "
+"loro lavoro come accurato esercito per gli evocatori. Sono armate con una "
+"lama ad ogni braccia, che le permettono di eseguire colpi sfiatati con "
+"straordinaria velocità sovrumana e di uccidere senza dare al nemico il tempo "
+"di reagire. Le rhami sono molto devote e cercano di vendicarsi dei loro "
+"comandanti caduti."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/al_Kamija/Rhami.cfg:276
@@ -3604,16 +3604,15 @@ msgid ""
 "prefer entering frays alongside their companions, fulfilling their roles as "
 "ardent avengers for the dead."
 msgstr ""
-"Oltre ad essere ornate dappertutto di oro e di essere in possesso di un "
-"ciondolo speciale che lancia fuoco elementale, le Rhami’datus hanno "
-"migliorato la loro vista e sono diventate più abili a tagliare i loro nemici "
-"con le loro lame. Seconde solo agli elementali di fuoco, anche se sono "
-"sempre più intelligenti, le Rhami’datus hanno imparato a brandire il fuoco, "
-"diventandone le specialiste del fuoco degli evocatori.\n"
+"Oltre ad essere ornate dappertutto di oro, le rhami’datu sono in possesso di "
+"un ciondolo speciale che lancia fuoco elementale e sono diventate più abili "
+"a tagliare i loro nemici con le loro lame. Seconde solo agli elementali di "
+"fuoco (ma sempre più intelligenti), le rhami’datu hanno imparato a brandire "
+"il fuoco, diventandone le specialiste del fuoco degli evocatori.\n"
 "\n"
-"Molte di queste Rhami sono promosse come comandanti, ma c’è sempre qualcuna "
-"che preferisce combattere al fianco del loro esercito, adempiendo il suo "
-"ruolo di vendicatrice ardente."
+"Molte di queste rhami sono promosse come comandanti, ma c’è sempre qualcuna "
+"che preferisce combattere al fianco del loro esercito, adempiendo il proprio "
+"ruolo di vendicatrice infernale."
 
 #. [unit_type]: id=I8 Ak_RhamiKai, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/RhamiKai.cfg:4
@@ -3630,13 +3629,13 @@ msgid ""
 "also can launch magical attacks through their eyes that drain the strength "
 "and life of opponents into their own."
 msgstr ""
-"Le Rhami’kai hanno scambiato le quattro scimitarre con un”unica arma: la "
-"lancia. Con questa, le Rhami’kai ottengono più potere e precisione dai loro "
-"attacchi ma perdono molta della loro velocità. Le Rhami’kai, carismatiche e "
-"sensibili tanto quanto gli umani, comandano gli altri in combattimento, "
-"organizzando veloci e forti attacchi. Le Rhami’kai possono inoltre lanciare "
-"attacchi magici dai loro occhi che assorbe la forza e la vita dei loro "
-"nemici."
+"L’arte delle rhami’kai consiste nel maneggiare quattro scimitarre per "
+"fondere una sola arma: la lancia. Con questa, le rhami’kai ottengono più "
+"potere e precisione dai loro attacchi ma perdono molta della loro velocità. "
+"Carismatiche e sensibili tanto quanto gli umani, esse comandano i propri "
+"soldati in combattimento, organizzando veloci e forti attacchi. Le "
+"rhami’kais possono inoltre lanciare attacchi magici dai loro occhi in grado "
+"di assorbire la forza e la vita dei loro nemici."
 
 #. [unit_type]: id=I8 Ak_SummonerII, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Summoner.cfg:4
@@ -3655,14 +3654,13 @@ msgid ""
 "Special Notes: Precision: Ranged attack of this unit always has a 80% chance "
 "to hit."
 msgstr ""
-"Promossi al Secondo Rango, gli evocatori sono abbastanza abili nell’eseguire "
-"evocazioni minori, usando i loro corpi come mezzo. Avendo un cerchio magico "
-"tracciato nelle loro mani, possono liberare frecce magiche che colpiscono i "
-"nemici con infallibile precisione. Gli evocatori, armati di martelli e "
-"scimitarre, sono stati allenati nell’uccidere i nemici sia da vicino e sia "
-"da distante.\n"
+"Promossi al secondo rango, gli evocatori sono abbastanza abili nell’eseguire "
+"evocazioni minori, usando i loro corpi come mezzo. Scagliano frecce magiche "
+"che colpiscono i nemici con infallibile precisione disponendo di un cerchio "
+"magico tracciato nelle loro mani; oppure uccidono i loro nemici con martelli "
+"e scimitarre sia da vicino e sia da distante.\n"
 "\n"
-"Note Speciali: Precisione: Gli attacchi a distanza di questa unità ha sempre "
+"Note speciali: Precisione: gli attacchi a distanza di questa unità ha sempre "
 "l’80% di possibilità di colpire."
 
 #. [attack]: type=fire
@@ -3672,9 +3670,8 @@ msgstr "freccia magica"
 
 #. [unit_type]: id=I8 Ak_SummonerIV, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Summons_Master.cfg:4
-#, fuzzy
 msgid "Summons Master"
-msgstr "Maestro di evocazioni"
+msgstr "Maestro delle evocazioni"
 
 #. [unit_type]: id=I8 Ak_SummonerIV, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Summons_Master.cfg:19
@@ -3699,20 +3696,21 @@ msgid ""
 "All around the summons master, miracles occur. Ruin is wrought."
 msgstr ""
 "Pochi uomini della storia hanno abbracciato il mistero velato dal titolo di "
-"Quarto Rango. Questi sono uomini che maneggiano l’intero potere dell’Abisso "
-"con la mano destra e la completa devastazione delle arti di evocazione con "
-"la loro sinistra. Un maestro evocatore arriva al culmime di tutte le arti "
-"evocative costruite e comprese nel corso della storia.\n"
+"quarto rango, maneggiando l’intero potere dell’Abisso con la mano destra e "
+"la completa devastazione delle arti di evocazione con la sinistra. Un "
+"maestro delle evocazioni arriva al culmine di tutte le arti evocative "
+"insegnate e comprese nel corso della storia.\n"
 "\n"
-"L’arte dell’evocatore maestro dà vita all’opera più grande: il mega-cerchio. "
-"Il cerchio abbonda di magie e di tutte le cose che si possono immaginare—"
+"L’arte di un maestro delle evocazioni dà vita all’opera più grande: il mega-"
+"cerchio. Il cerchio abbonda di tutte le cose che si possono immaginare: "
 "magie che possono richiamare, riparare, curare, distruggere, creare, e "
 "ricreare. Gli uomini all’interno del cerchio vengono rivestiti con doni "
-"soprannaturali e le loro ferite vengono chiuse dall’aiuto della magia pura e "
-"dalla loro forza due volte più forte. Dai simboli del mega-cerchio si alza "
-"una luce abbagliante nei cieli, cancellando tutta la rabbia interiore.\n"
+"soprannaturali, le loro ferite vengono chiuse dall’aiuto della magia pura e "
+"la loro forza diventa due volte più forte. Dai simboli del mega-cerchio si "
+"alza una luce abbagliante nei cieli, la quale cancella tutta la rabbia "
+"interiore.\n"
 "\n"
-"Attorno agli evocatori accadono miracoli. Il male è stato vinto."
+"Attorno ai maestri delle evocazioni accadono miracoli. Il male è stato vinto."
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/al_Kamija/Summons_Master.cfg:110
@@ -3722,7 +3720,7 @@ msgstr "incantesimo del potere"
 #. [unit_type]: id=I8 Ak_Avatar_water, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Water_Avatar.cfg:4
 msgid "Water Avatar"
-msgstr "Avatar d’Acqua"
+msgstr "Avatar d’acqua"
 
 #. [unit_type]: id=I8 Ak_Avatar_water, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Water_Avatar.cfg:24
@@ -3736,19 +3734,17 @@ msgid ""
 "sometimes wondered why the frothy tides of a beach were pulling at his feet "
 "in the middle of a battlefield."
 msgstr ""
-"Col tempo, l’elementale d’acqua aumenta drasticamente la sua grandezza e la "
-"sua forza per diventare qualcosa di più potente: un’avatar d’acqua. Gli "
-"avatar d’acqua cambiano spesso aspetto e usano questa abilità per adattarsi "
-"al tipo di battaglia che devono affrontare. I loro corpi sono diventati "
-"turbolenti e violenti per combattere, e il loro vero aspetto consiste in un "
-"caotico tifone di pioggia e acqua. Qualche volta molti soldati confusi si "
-"domandano come abbiano fatto le correnti leggere a trascinare i propri piedi "
-"nel mezzo della battaglia."
+"Col passare del tempo, l’elementale d’acqua aumenta drasticamente la propria "
+"grandezza e forza per diventare qualcosa di più potente: un avatar d’acqua. "
+"Il corpo agitato e turbolento dell’avatar d’acqua consiste in un vero tifone "
+"caotico di pioggia e acqua: molti soldati confusi si domandano come abbiano "
+"fatto le correnti leggere a trascinare i propri piedi nel mezzo della "
+"battaglia."
 
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Water_Elemental.cfg:4
 msgid "Water Elemental"
-msgstr "Elementale d’Acqua"
+msgstr "Elementale d’acqua"
 
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Water_Elemental.cfg:25
@@ -3768,18 +3764,18 @@ msgstr ""
 "L’Abisso è la casa per le creature che sono composte solamente di acqua "
 "pura, elemento essenziale per ogni creatura vivente. Ogni creatura è legata "
 "da uno speciale incantesimo che rende il loro aspetto completamente liquido, "
-"favorendone la rigenerazione. La straordinaria acqua che compone il loro "
-"corpo ha delle moderate proprietà curative, che può riparare i danni degli "
-"alleati. Meno volatile rispetto agli altri abitanti dell’Abisso, gli "
+"favorendone la rigenerazione. Inoltre la straordinaria acqua che compone il "
+"loro corpo ha delle moderate proprietà curative, che può riparare i danni "
+"degli alleati. Meno volatili rispetto agli altri abitanti dell’Abisso, gli "
 "elementali d’acqua sono i favoriti dagli evocatori più conservatori.\n"
 "\n"
-"Questo non vuol dire che siano innocui, e il nemico più incauto può trovarsi "
+"Questo non vuol dire che siano innocui: il nemico più incauto può trovarsi "
 "congelato in un attimo, con le membra trasformate in inutile ghiaccio."
 
 #. [unit_type]: id=I8 Ak_God_water, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Water_God.cfg:4
 msgid "Water God"
-msgstr "Dio dell’Acqua"
+msgstr "Dio dell’acqua"
 
 #. [unit_type]: id=I8 Ak_God_water, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Water_God.cfg:25
@@ -3797,13 +3793,13 @@ msgstr ""
 "Introvabili persino nell’Abisso, gli dei dell’acqua si sono congelati "
 "assumendo la forma di un serpente glaciale. Malgrado il loro aspetto "
 "inflessibile, queste bestie d’acqua si muovono con sorprendente grazia e "
-"flessibilità. Gli dei del’acqua sono considerati dagli Evocatori come "
-"miracoli della vita e l’acqua magica che li compongono aiuta a guarire le "
-"ferite degli alleati grazie alla loro purezza.\n"
+"flessibilità. Gli dei dell’acqua sono considerati dagli evocatori come "
+"miracoli della vita e l’acqua pura e magica che li compongono aiuta a "
+"guarire le ferite degli alleati.\n"
 "\n"
 "La loro forza e la loro bellezza artica abbagliano chiunque sia nemico degli "
-"Evocatori, e possono congelare il cuore di un uomo prima che il suo corpo "
-"venga inghiottito dalla bufera gelante."
+"evocatori, congelando il cuore di un uomo prima che il suo corpo venga "
+"inghiottito dalla bufera gelante."
 
 #. [race]: id=I8 tharis
 #: Era_of_Magic/units/units.cfg:5
@@ -3905,8 +3901,8 @@ msgid ""
 "This unit is made of water. As a result, if it is standing in water, it will "
 "receive 6 hp."
 msgstr ""
-"Fatto d’Acqua:\n"
-"Questa unità è fatta d’acqua. Quindi, se si trova in acqua, riceverà 6 hp."
+"Fatto di acqua:\n"
+"Questa unità è fatta di acqua. Quindi, se si trova in acqua, riceverà 6 pf."
 
 #. [regenerate]: id=water
 #: Era_of_Magic/utils/abilities.cfg:10
@@ -3920,7 +3916,7 @@ msgid ""
 "This unit is made of water. If it stands in water, it will receive 6 hp."
 msgstr ""
 "rifugio acquatico:\n"
-"Questa unità è fatta d’acqua. Se si trova in acqua, riceverà 6 hp."
+"Questa unità è fatta di acqua. Se si trova in acqua, riceverà 6 pf."
 
 #. [regenerate]: id=fire
 #: Era_of_Magic/utils/abilities.cfg:27
@@ -3933,8 +3929,8 @@ msgid ""
 "Made of Fire:\n"
 "This unit is made of fire. If it stands in lava, it will receive 6 hp."
 msgstr ""
-"Fatto di Fuoco:\n"
-"Questa unità è fatta di fuoco. Se è ferma sulla lava, riceverà 6 hp."
+"Fatto di fuoco:\n"
+"Questa unità è fatta di fuoco. Se è ferma sulla lava, riceverà 6 pf."
 
 #. [regenerate]: id=fire
 #: Era_of_Magic/utils/abilities.cfg:30
@@ -3949,7 +3945,7 @@ msgid ""
 msgstr ""
 "rifugio bollente:\n"
 "Questa unità è fatta di fuoco. Se si trova nelle zone magmatiche, riceverà 6 "
-"hp."
+"pf."
 
 #. [regenerate]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:47
@@ -3995,7 +3991,7 @@ msgid ""
 "The opponent has always a 0% chance to hit, when this unit is attacking."
 msgstr ""
 "nessuno contrattacco:\n"
-"Quando quest’unità sta attaccando, l’avversario ha sempre una chance di "
+"Quando questa unità sta attaccando, l’avversario ha sempre una chance di "
 "colpire pari allo 0%."
 
 #. [damage]: id=evasion
@@ -4036,7 +4032,7 @@ msgid ""
 "Dark Aura:\n"
 "Makes all adjacent enemy units fight worse (−25% for attack)."
 msgstr ""
-"Aura Oscura:\n"
+"Aura oscura:\n"
 "Induce tutte le unità nemiche adiacenti a combattere male (-25% ad ogni "
 "attacco)"
 
@@ -4059,10 +4055,10 @@ msgstr ""
 "Guarisce +12:\n"
 "Cura le unità amiche adiacenti all’inizio di ogni turno.\n"
 "\n"
-"Un’unità curata dal guaritore può dopo ricevere un massimo di 12 hp al "
+"Un’unità curata dal guaritore può dopo ricevere un massimo di 12 pf al "
 "turno.\n"
 "Un guarito può curare un’unità avvelenata, sebbene quell’unità curata dal "
-"veleno non riceverà nessun punto salute addizionale al turno."
+"veleno non riceverà nessun punto ferita addizionale al turno."
 
 #. [resistance]: id=i8protection
 #: Era_of_Magic/utils/abilities.cfg:227
@@ -4106,9 +4102,9 @@ msgid ""
 "This unit and all adjacent friendly units receive a +20% bonus to fire, "
 "cold, and arcane resistances."
 msgstr ""
-"Cerchio della Resistenza:\n"
+"Cerchio della resistenza:\n"
 "Questa unità e tutte le unità amiche vicine ad essa ricevono un bonus pari "
-"al 20% per resistere agli attacchi esoterici, al fuoco e al gelo."
+"al 20% per resistere agli attacchi esoterici, al fuoco e al freddo."
 
 #. [resistance]: id=cr
 #: Era_of_Magic/utils/abilities.cfg:275
@@ -4117,15 +4113,14 @@ msgstr "cerchio della suscettibilità"
 
 #. [resistance]: id=cr
 #: Era_of_Magic/utils/abilities.cfg:276
-#, fuzzy
 msgid ""
 "Circle of Susceptibility:\n"
 "All adjacent enemy units’ fire, cold, and arcane resistances are weakened by "
 "20%."
 msgstr ""
 "Cerchio della Suscettibilità:\n"
-"Tutte le unità vicine a quelle nemiche ricevono un bonus pari al 20% per "
-"resistere agli attacchi esoterici, al fuoco e al gelo."
+"Le abilità di resistenza agli attacchi esoterici, al fuoco e al gelo di "
+"tutte le unità nemiche adiacenti vengono ridotte del 20%."
 
 #. [resistance]: id=deadzone
 #: Era_of_Magic/utils/abilities.cfg:293
@@ -4139,9 +4134,9 @@ msgid ""
 "Adjacent friendly units receive a 99% bonus to fire, cold, and arcane "
 "resistances."
 msgstr ""
-"Zona Morta:\n"
+"Zona morta:\n"
 "Le unità amiche vicine ricevono un bonus pari al 99% come resistenza "
-"esoterica, al fuoco e al gelo."
+"esoterica, al fuoco e al freddo."
 
 #. [resistance]: id=coldaura
 #: Era_of_Magic/utils/abilities.cfg:310
@@ -4155,9 +4150,9 @@ msgid ""
 "Area around this unit provides a 50% bonus to fire resistance and a −25% "
 "bonus to cold resistance."
 msgstr ""
-"Aura Fredda.\n"
+"Aura fredda.\n"
 "L’aura attorno al nemico garantisce un bonus di 50%  per la resistenza al "
-"fuoco e -25% di resistenza al gelo."
+"fuoco e -25% di resistenza al freddo."
 
 #. [chance_to_hit]: id=i8revenge
 #: Era_of_Magic/utils/abilities.cfg:341 Era_of_Magic/utils/abilities.cfg:344
@@ -4229,7 +4224,7 @@ msgid ""
 "if they have units next to it. Any enemy unit that first discovers this unit "
 "immediately loses all its remaining movement."
 msgstr ""
-"Imboscata sui Monti:\n"
+"Imboscata nei monti:\n"
 "Questa unità è in grado di nascondersi nelle montagne e nelle colline, "
 "avendo la possibilità di non essere rilevata dai suoi nemici.\n"
 "\n"
@@ -4283,15 +4278,14 @@ msgstr "morte furiosa"
 
 #. [damage]: id=i8furiousdeath
 #: Era_of_Magic/utils/abilities.cfg:538
-#, fuzzy
 msgid ""
 "Furious Death:\n"
 "Moments before this unit's death, it flies into a fury. The unit with this "
 "ability attacks all adjacent units and then it finally dies."
 msgstr ""
-"Morte Furiosa:\n"
-"Prima che l’unità muore, scatena tutta la sua furia. L’unità con questa "
-"abilità attacca tutte le unità nei pressi e poi muore."
+"Morte furiosa:\n"
+"Prima di morire, l’unità scatena tutta la sua furia. L’unità con questa "
+"abilità attacca tutte i nemici nei pressi e poi finalmente muore."
 
 #. [damage]: id=i8battlefrenzy
 #: Era_of_Magic/utils/abilities.cfg:553 Era_of_Magic/utils/abilities.cfg:554
@@ -4305,7 +4299,7 @@ msgid ""
 "When this attack is used, this units gets an extra strike and additional "
 "damage (+2) after each successful hit. Does not work on defense."
 msgstr ""
-"Mania da Battaglia:\n"
+"Mania da battaglia:\n"
 "Quando si usa questo attacco, l’unità riceve un colpo e un danno aggiuntivi "
 "(+2) dopo ogni colpo andato a segno. Non funziona in difesa."
 
@@ -4316,7 +4310,7 @@ msgid ""
 "This unit gets one extra strike and additional damage (+2) with each hit "
 "during attack. Does not work on defense."
 msgstr ""
-"Mania da Battaglia:\n"
+"Mania da battaglia:\n"
 "Questa unità riceve un colpo e un danno aggiuntivi (+2) a ogni colpo andato "
 "a segno, durante gli attacchi. Non funziona in difesa."
 
@@ -4370,7 +4364,7 @@ msgstr ""
 "All’inizio di ogni turno, abilità l’unità a riparare le unità amiche vicine "
 "di tipo meccanico.\n"
 "\n"
-"Un’unità curata dal guaritore può salire di 5 hp ad ogni turno."
+"Un’unità curata dal guaritore può salire di 5 pf ad ogni turno."
 
 #. [heals]: id=i8repair
 #: Era_of_Magic/utils/abilities.cfg:726
@@ -4390,7 +4384,7 @@ msgstr ""
 "All’inizio di ogni turno, abilità l’unità a riparare le unità amiche vicine "
 "di tipo meccanico.\n"
 "\n"
-"Un’unità curata dal guaritore può salire di 8 hp ad ogni turno."
+"Un’unità curata dal guaritore può salire di 8 pf ad ogni turno."
 
 #. [damage]: id=i8grenade
 #: Era_of_Magic/utils/abilities.cfg:775 Era_of_Magic/utils/abilities.cfg:777
@@ -4400,8 +4394,8 @@ msgid ""
 "not work on defense."
 msgstr ""
 "Granata:\n"
-"Quando si usa questo attacco, tutte le unità ricevono dei danni se sono "
-"adiacenti al bersaglio. Non funziona in difesa."
+"Quando si usa questo attacco, tutte le unità adiacenti al bersaglio ricevono "
+"dei danni. Non funziona in difesa."
 
 #. [dummy]: id=runeaura
 #. [resistance]: id=runeauraactive
@@ -4419,17 +4413,17 @@ msgid ""
 "resistance. The transformation lasts for one turn. Transformed unit cannot "
 "attack."
 msgstr ""
-"Aura Runica:\n"
+"Aura runica:\n"
 "Quando questa abilità è attivata, tutti i Maestri di Rune creano delle auree "
 "speciali. Le unità vicine agli esagoni s, ne, nw ricevono un bonus di "
-"resistenza agli attacchi esoterici, al fuoco e al gelo pari al 99%. Le altre "
-"unità, invece, ricevono  -99% contro questi tipi di attacchi. Gli effetti "
-"durano un solo turno. Le unità trasformate non possono attaccare."
+"resistenza agli attacchi esoterici, al fuoco e al freddo pari al 99%. Le "
+"altre unità, invece, ricevono  -99% contro questi tipi di attacchi. Gli "
+"effetti durano un solo turno. Le unità trasformate non possono attaccare."
 
 #. [set_menu_item]: id=runeaura_menu
 #: Era_of_Magic/utils/abilities.cfg:826
 msgid "Activate Aura (24g)"
-msgstr "Attivare l’Aura (costo 24)"
+msgstr "Attivare l’aura (24g)"
 
 #. [message]: speaker=unit
 #: Era_of_Magic/utils/abilities.cfg:850
@@ -4449,10 +4443,10 @@ msgid ""
 "cold and arcane resistance. Other units receive a −99% bonus to fire, cold "
 "and arcane resistance."
 msgstr ""
-"Aura Runica:\n"
+"Aura runica:\n"
 "Le unità vicine agli esagoni s, ne, nw ricevono un bonus di resistenza agli "
-"attacchi esoterici, al fuoco e al gelo pari al 99%. Le altre unità ricevono "
-"un bonus di -99% contro questi tipi di attacchi."
+"attacchi esoterici, al fuoco e al freddo pari al 99%. Le altre unità "
+"ricevono un bonus di -99% contro questi tipi di attacchi."
 
 #. [damage]: id=swallow
 #: Era_of_Magic/utils/abilities.cfg:917 Era_of_Magic/utils/abilities.cfg:918
@@ -4467,7 +4461,8 @@ msgid ""
 "living unit."
 msgstr ""
 "Recupera +4:\n"
-"Questa unità guadagna 4 punti salute ogni volta che uccide un’unità nemica."
+"Questa unità guadagna 4 punti ferita ogni volta che uccide un’unità nemica "
+"vivente."
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/abilities.cfg:948
@@ -4489,7 +4484,7 @@ msgid ""
 "units next to it. Any enemy unit that first discovers this unit immediately "
 "loses all its remaining movement."
 msgstr ""
-"Imboscata nelle Paludi:\n"
+"Imboscata nelle paludi:\n"
 "Questa unità è in grado di nascondersi nelle paludi, avendo la possibilità "
 "di non essere rilevata dai suoi nemici.\n"
 "\n"
@@ -4575,12 +4570,12 @@ msgid ""
 "units next to it. Any enemy unit that first discovers this unit immediately "
 "loses all its remaining movement."
 msgstr ""
-"Imboscata nelle Caverne:\n"
+"Imboscata nelle cavernei:\n"
 "Questa unità è in grado di nascondersi nelle caverne, avendo la possibilità "
 "di non essere rilevata dai suoi nemici.\n"
 "\n"
-"Le unità nemiche non possono vedere se è nascosta nelle caverne, a meno che "
-"non ci siano altre unità affiancate. Alcune unità nemiche perdono "
+"Le unità nemiche non possono vedere se è nascosta nelle caverne, ad "
+"eccezione se essa si trova vicino a loro. Alcune unità nemiche perdono "
 "immediatamente tutti i loro movimenti restanti dopo aver scoperto per primi "
 "l’unità nascosta."
 
@@ -4598,8 +4593,8 @@ msgstr ""
 "Questa unità è in grado di nascondersi nelle foreste, avendo la possibilità "
 "di non essere rilevata dai suoi nemici.\n"
 "\n"
-"Le unità nemiche non possono vedere se è nascosta nelle caverne, a meno che "
-"non ci siano altre unità affiancate. Alcune unità nemiche perdono "
+"Le unità nemiche non possono vedere se è nascosta nelle caverne, ad "
+"eccezione se essa si trova vicino a loro. Alcune unità nemiche perdono "
 "immediatamente tutti i loro movimenti restanti dopo aver scoperto per primi "
 "l’unità nascosta."
 
@@ -4616,8 +4611,8 @@ msgid ""
 "will remove it instead of healing."
 msgstr ""
 "Rigenera +4:\n"
-"All’inizio di ogni turno, questa unità riceve +4 hp. Se è avvelenata, "
-"guarirà dal veleno invece di ricevere i punti."
+"All’inizio di ogni turno, questa unità riceve 4 pf. Se è avvelenata, guarirà "
+"dal veleno invece di ricevere i punti."
 
 #. [dummy]: id=i8awake
 #: Era_of_Magic/utils/abilities.cfg:1186
@@ -4634,10 +4629,10 @@ msgid ""
 "for sure."
 msgstr ""
 "Risvegliato:\n"
-"Se un’unità amica vicina con un punto salute in più muore all’inizio della "
-"battaglia, verrò resuscitata, ricevendo +6 d’esperienza e rimanendo in "
-"battaglia con un solo punto salute. Se muore di nuovo (avendo un punto "
-"salute), morirà sicuramente."
+"Se un’unità amica vicina con un punto ferita in più muore all’inizio della "
+"battaglia verrà resuscitata, ricevendo 6 punti esperienza e rimanendo in "
+"battaglia con un solo punto ferita. Se muore di nuovo (avendo un punto "
+"ferita) non potrà più resuscitare."
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/abilities.cfg:1302 Era_of_Magic/utils/abilities.cfg:1372
@@ -4666,12 +4661,12 @@ msgstr ""
 "Guarisce +2:\n"
 "Attiva l’abilità di curare le unità amiche vicine all’inizio di ogni turno.\n"
 "\n"
-"Un’unità curata dal guaritore guadagna 2 HP ad ogni turno."
+"Un’unità curata dal guaritore guadagna 2 pf ad ogni turno."
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/abilities.cfg:1435 Era_of_Magic/utils/abilities.cfg:1468
 msgid "inspire"
-msgstr "ispirazione"
+msgstr "inspirare"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/abilities.cfg:1436
@@ -4683,8 +4678,8 @@ msgid ""
 "Adjacent friendly level 0 units will do 25% more damage in battle.\n"
 "Adjacent friendly level 1 units will do 10% more damage in battle."
 msgstr ""
-"Inspirazione:\n"
-"Questa unità ispira le unità amiche vicine a combattere meglio.\n"
+"Inspirare:\n"
+"Questa unità inspira le unità amiche vicine a combattere meglio.\n"
 "\n"
 "Le unità amiche vicine di livello 0 faranno in battaglia 25% di danni in "
 "più.\n"
@@ -4701,11 +4696,11 @@ msgid ""
 "Adjacent friendly level 1 units will do 25% more damage in battle.\n"
 "Adjacent friendly level 2 units will do 10% more damage in battle."
 msgstr ""
-"Inspirazione:\n"
-"Questa unità ispira le unità amiche vicine a combattere meglio.\n"
+"Inspirare:\n"
+"Questa unità inspira le unità amiche vicine a combattere meglio.\n"
 "\n"
 "Le unità amiche vicine di livello 0 causeranno 25% di danni in più in "
-"battaglia.\n"
+"battaglia .\n"
 "Le unità amiche vicine di livello 1 causeranno 25% di danni in più in "
 "battaglia.\n"
 "Le unità amiche vicine di livello 2 causeranno 10% di danni in più in "
@@ -4734,7 +4729,7 @@ msgstr ""
 "\n"
 "Le unità nemiche di livello inferiore faranno meno danni in battaglia. Se "
 "un’unità di inferiore o uguale livello è vicina a un nemico con l’abilità "
-"Timore, i danni dei suoi attacchi saranno ridotti del 15% in meno rispetto "
+"“timore”, i danni dei suoi attacchi saranno ridotti del 15% in meno rispetto "
 "la differenza dei loro livelli + 15%."
 
 #. [leadership]: id=terror
@@ -4754,7 +4749,7 @@ msgstr ""
 "\n"
 "Le unità nemiche di livello inferiore faranno meno danni in battaglia. Se "
 "un’unità di inferiore o uguale livello è vicina a un nemico con l’abilità "
-"Timore, i danni dei suoi attacchi saranno ridotti del 15% in meno rispetto "
+"“timore”, i danni dei suoi attacchi saranno ridotti del 15% in meno rispetto "
 "la differenza dei loro livelli + 15%."
 
 #. [damage]: id=banish
@@ -4772,8 +4767,8 @@ msgid ""
 "banisher, it’ll get completely destroyed. Any other enemy won’t be affected."
 msgstr ""
 "Esilio:\n"
-"Se un Punitore colpisce un’unità nemica magica, il nemico si trasformerà in "
-"un “Portale Dimensionale” (capita solo se il bersaglio è esattamente di un "
+"Se un punitore colpisce un’unità nemica magica, il nemico si trasformerà in "
+"un “portale dimensionale” (capita solo se il bersaglio è esattamente di un "
 "livello inferiore al punitore). Se il nemico è di due livelli inferiori al "
 "punitore, sarà completamente distrutto. Nessun altro nemico verrà contagiato."
 
@@ -4787,8 +4782,8 @@ msgid ""
 "banisher, it’ll get completely destroyed. Any other enemy won’t be affected."
 msgstr ""
 "esilio:\n"
-"Se un Punitore colpisce un’unità nemica magica, il nemico si trasformerà in "
-"un “Portale Dimensionale” (capita solo se il bersaglio è esattamente di un "
+"Se un punitore colpisce un’unità nemica magica, il nemico si trasformerà in "
+"un “portale dimensionale” (capita solo se il bersaglio è esattamente di un "
 "livello inferiore al punitore). Se il nemico è di due livelli inferiori al "
 "punitore, sarà completamente distrutto. Nessun altro nemico verrà contagiato."
 
@@ -4815,7 +4810,7 @@ msgstr ""
 "\n"
 "Le unità nemiche adiacenti di basso livello faranno meno danni in battaglia. "
 "Gli attacchi di un’unità nemica di basso o uguale livello provocano meno "
-"danni contro un’unità capace di usare il Cerchio della Punizione (−40% lvl0, "
+"danni contro un’unità capace di usare il cerchio della punizione (−40% lvl0, "
 "−30% lvl1, −15% lvl2, −10% lvl3)."
 
 #. [chance_to_hit]: id=i8bloodlust
@@ -4829,7 +4824,7 @@ msgid ""
 "Bloodlust: When this attack is used, this units gets an extra strike after "
 "each successful hit."
 msgstr ""
-"Sete di sangue: Quando si usa questo attacco, l’unità riceve un colpo "
+"Sete di sangue: Quando si usa questo attacco, l’unità ottiene un colpo "
 "addizionale ad ogni colpo andato a segno."
 
 #. [chance_to_hit]: id=i8bloodlust
@@ -4838,7 +4833,7 @@ msgid ""
 "Bloodlust: This unit gets one extra strike with each hit during attack. Does "
 "not work on defense."
 msgstr ""
-"Sete di Sangue: Questa unità guadagna un colpo extra ad ogni colpo inferto "
+"Sete di sangue: questa unità guadagna un colpo extra ad ogni colpo inferto "
 "in battaglia. Non funziona in difesa."
 
 #. [damage]: id=i8concentrated
@@ -4853,7 +4848,7 @@ msgid ""
 "each successful hit (+4)."
 msgstr ""
 "Furia crescente: quando questo attacco è attivo, il danno delle unità "
-"aumenta dopo ogni colpo andato a segno (+4)"
+"aumenta dopo ogni colpo andato a segno (+4)."
 
 #. [dummy]: id=double attack
 #. [unstore_unit]
@@ -4906,7 +4901,7 @@ msgstr ""
 #. [energy_draining]: id=energy_draining
 #: Era_of_Magic/utils/energy-draining.cfg:7
 msgid "energy draining"
-msgstr "assorbimento d’energia"
+msgstr "assorbimento di energia"
 
 #. [energy_draining]: id=energy_draining
 #: Era_of_Magic/utils/energy-draining.cfg:8
@@ -4917,7 +4912,7 @@ msgid ""
 msgstr ""
 "Questa unità non può avanzare di livello migliorando le proprie abilità e "
 "magie. Potrà ricevere l’esperienza solo assorbendo l’energia da soggetti "
-"viventi o magici. Quindi non potrà mai ricevere esperienza in nessun modo se "
+"viventi o magici, quindi non potrà mai ricevere esperienza in nessun modo se "
 "non uccidendo."
 
 #. [dummy]: id=cleave
@@ -4931,25 +4926,25 @@ msgstr "fendente"
 #. [dummy]: id=i8cleave
 #: Era_of_Magic/utils/i8cleave.cfg:68 Era_of_Magic/utils/i8cleave.cfg:420
 #: Era_of_Magic/utils/i8cleave.cfg:574
-#, fuzzy
 msgid ""
 "Cleave:\n"
 "A unit with this ability can hurt units that are adjacent to the attacker "
 "and the defender at the same time."
 msgstr ""
-"Fendente: Un’unità con questa abilità colpisce allo stesso tempo le unità "
-"che sono adiacenti all’attaccante e al difensore."
+"Fendente:\n"
+"Un’unità con questa abilità colpisce allo stesso tempo le unità che sono "
+"adiacenti all’attaccante e al difensore."
 
 #. [dummy]: id=i8cleave
 #: Era_of_Magic/utils/i8cleave.cfg:728
-#, fuzzy
 msgid ""
 "Cleave:\n"
 "]A unit with this ability can hurt units that are adjacent to the attacker "
 "and the defender at the same time."
 msgstr ""
-"Fendente: Un’unità con questa abilità colpisce allo stesso tempo le unità "
-"che sono adiacenti all’attaccante e al difensore."
+"Fendente\n"
+"Un’unità con questa abilità colpisce allo stesso tempo le unità che sono "
+"adiacenti all’attaccante e al difensore."
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/i8cleave.cfg:782 Era_of_Magic/utils/i8cleave.cfg:799
@@ -4970,14 +4965,14 @@ msgstr "colpo dell’idra"
 
 #. [dummy]: id=i8cleavehydra
 #: Era_of_Magic/utils/i8cleave.cfg:955 Era_of_Magic/utils/i8cleave.cfg:1183
-#, fuzzy
 msgid ""
 "Hydra’s strike:\n"
 "This ability allows an owner to do damage to 2 hostile units standing near a "
 "target."
 msgstr ""
-"Colpo dell’Idra: Questa unità è in grado di infliggere danni a 2 unità "
-"ostili vicine al bersaglio."
+"Colpo dell’idra:\n"
+"Questa unità è in grado di infliggere danni a 2 unità ostili vicine al "
+"bersaglio."
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/i8cleave.cfg:1009 Era_of_Magic/utils/i8cleave.cfg:1026
@@ -4994,7 +4989,7 @@ msgstr "12"
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:7
 msgid "goblin leader"
-msgstr "capo goblin"
+msgstr "capo dei goblin"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:8
@@ -5005,16 +5000,16 @@ msgid ""
 "\n"
 "Adjacent own Goblins will do more damage in battle (20% more)."
 msgstr ""
-"Capo goblin:\n"
-"Questa unità può comandare i Goblin vicini ad essa, facendoli combattere "
+"Capo dei goblin:\n"
+"Questa unità può comandare i goblin vicini ad essa, facendoli combattere "
 "meglio.\n"
 "\n"
-"I Goblin faranno più danni in battaglia (20% in più)"
+"I goblin adiacenti faranno più danni in battaglia (20% in più)."
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:27
 msgid "orcish leader"
-msgstr "capo orco"
+msgstr "capo degli orchi"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:28
@@ -5025,16 +5020,16 @@ msgid ""
 "\n"
 "Adjacent own Orcs will do more damage in battle (20% more)."
 msgstr ""
-"Capo orco:\n"
-"Questa unità può comandare gli Orchi vicini ad essa, facendoli combattere "
+"Capo degli orchi:\n"
+"Questa unità può comandare gli orchi vicini ad essa, facendoli combattere "
 "meglio.\n"
 "\n"
-"Gli Orchi faranno più danni in battaglia (20% in più)"
+"Gli orchi adiacenti faranno più danni in battaglia (20% in più)."
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:47
 msgid "troll leader"
-msgstr "capo troll"
+msgstr "capo dei troll"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:48
@@ -5043,14 +5038,14 @@ msgid ""
 "This unit can lead our own Trolls that are next to it, making them fight "
 "better (+20%)."
 msgstr ""
-"Capo troll:\n"
-"Questa unità può comandare i Troll vicini ad essa, facendoli combattere "
-"meglio (+20%)"
+"Capo dei troll:\n"
+"Questa unità può comandare i troll vicini ad essa, facendoli combattere "
+"meglio (+20%)."
 
 #. [petrifies]: id=sculpts
 #: Era_of_Magic/utils/sculpt.cfg:8
 msgid "sculpts"
-msgstr ""
+msgstr "scolpisce"
 
 #. [petrifies]: id=sculpts
 #: Era_of_Magic/utils/sculpt.cfg:9
@@ -5059,22 +5054,25 @@ msgid ""
 "This attack petrifies the target, turning it to stone for two turns. Units "
 "that have been petrified may not move or attack."
 msgstr ""
+"Scolpire:\n"
+"Questo attacco pietrifica il bersaglio, trasformandolo in pietra per due "
+"turni. Le unità pietrificate non possono muoversi o attaccare."
 
 #: Era_of_Magic/utils/special-notes.cfg:4
 msgid ""
 " This unit returns to life if it is killed while it has more than one hit "
 "point."
 msgstr ""
-"Questa unità ritorna in vita se è stata uccisa mentre aveva un punto di "
-"salute in più."
+"Questa unità ritorna in vita se è stata uccisa mentre aveva un punto ferita "
+"in più."
 
 #: Era_of_Magic/utils/special-notes.cfg:7
 msgid ""
 " This unit can effecively fight with magical units by turning them into "
 "Dimensional Gates."
 msgstr ""
-"Questa unità combatte efficacemente se trasforma le unità magiche in Portali "
-"Dimensionali."
+"Questa unità combatte efficacemente se trasforma le unità magiche in portali "
+"dimensionali."
 
 #: Era_of_Magic/utils/special-notes.cfg:10
 msgid " This unit regenerates in the presence of lava."
@@ -5082,20 +5080,20 @@ msgstr "Questa unità si rigenera in presenza di lava."
 
 #: Era_of_Magic/utils/special-notes.cfg:13
 msgid " This unit is capable of minor healing."
-msgstr "Questa unità è capace di curarsi le ferite lievi."
+msgstr "Questa unità è capace di curarsi in modo lieve."
 
 #: Era_of_Magic/utils/special-notes.cfg:16
 msgid ""
 " The presence of this unit inspires own units next to it to deal more damage "
 "in combat, though this only applies to units of lower or equal level."
 msgstr ""
-"La presenza di questa unità ispira le vicine unità amiche di infliggere più "
+"La presenza di questa unità inspira le vicine unità amiche di infliggere più "
 "danni in combattimento, e si applica alle sole unità di basso o uguale "
 "livello."
 
 #: Era_of_Magic/utils/special-notes.cfg:19
 msgid " This unit increases the resistances of adjacent friendly units."
-msgstr "Questa unità aumenta la resistenza di unità amiche vicine ad essa"
+msgstr "Questa unità aumenta la resistenza di unità amiche vicine ad essa."
 
 #: Era_of_Magic/utils/special-notes.cfg:22
 msgid ""
@@ -5106,9 +5104,8 @@ msgstr ""
 "livello minore vicine ad essa, riducendo i danni ricevuti dai loro attacchi."
 
 #: Era_of_Magic/utils/special-notes.cfg:25
-#, fuzzy
 msgid " This unit can turn enemy units into stone for two turns."
-msgstr "Questa unità si rigenera in presenza d’acqua."
+msgstr " Questa unità pietrifica le unità nemiche in pietra per due turni."
 
 #: Era_of_Magic/utils/special-notes.cfg:28
 msgid " This unit is capable of superior healing and also cures poison."
@@ -5116,7 +5113,7 @@ msgstr "Questa unità è capace di curare il veleno e le ferite più gravi."
 
 #: Era_of_Magic/utils/special-notes.cfg:31
 msgid " This unit regenerates in the presence of water."
-msgstr "Questa unità si rigenera in presenza d’acqua."
+msgstr "Questa unità si rigenera in presenza di acqua."
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/summon.cfg:131 Era_of_Magic/utils/summon.cfg:168
@@ -5131,12 +5128,12 @@ msgstr "Errore"
 #. [message]: speaker=narrator
 #: Era_of_Magic/utils/summon.cfg:181
 msgid "I have insufficient materials. I am unable to summon."
-msgstr "Non ho materiali sufficienti per evocare."
+msgstr "Non ho risorse sufficienti per evocare."
 
 #. [set_menu_item]: id=summon_zhelp
 #: Era_of_Magic/utils/summon.cfg:192
 msgid "Summon Help"
-msgstr "Aiuto sulle Evocazioni"
+msgstr "Aiuto sulle evocazioni"
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/utils/summon.cfg:206
@@ -5156,13 +5153,12 @@ msgid ""
 "If there are 2 or more summoners, a new unit will be summoned by the last "
 "selected unit able to summon."
 msgstr ""
-"Per evocare un’unità basta fare clic col tasto destro del mouse sugli "
-"esagoni vicini all’evocatore selezionato.\n"
+"Per evocare un’unità basta clickare col mouse destro negli esagoni vicini "
+"all’evocatore selezionato.\n"
 "\n"
 "Hai bisogno di tutti i punti mossa (e attacchi restanti) per evocare una "
-"creatura. Non puoi evocare nei castelli o nei villaggi. Si possono evocare "
-"nuove unità sull’acqua.\n"
-"Ogni evocazione aggiunge +4 all’esperienza attuale.\n"
+"creatura. Non puoi evocare nei castelli, nei villaggi e in acqua.\n"
+"Ogni evocazione aggiunge 4 punti all’esperienza attuale.\n"
 "\n"
 "Se ci sono 2 o più evocatori, una nuova unità verrà evocata dall’ultima "
 "unità evocatrice selezionata."
@@ -5202,14 +5198,12 @@ msgstr ""
 "questa unità può evocare nuove unità attorno a lui, ma non nei villaggi."
 
 #: Era_of_Magic/utils/summon.cfg:265
-#, fuzzy
 msgid "Summon Fire Elemental (15 Gold)"
-msgstr "Evoca Elementale di Fuoco (15g)"
+msgstr "Evoca elementale di fuoco (15 oro)"
 
 #: Era_of_Magic/utils/summon.cfg:266
-#, fuzzy
 msgid "Summon Water Elemental (16 Gold)"
-msgstr "Evoca Elementale d’Acqua (16g)"
+msgstr "Evoca elementale d’acqua (16 oro)"
 
 #: Era_of_Magic/utils/summon.cfg:270 Era_of_Magic/utils/summon.cfg:325
 #: Era_of_Magic/utils/summon.cfg:373 Era_of_Magic/utils/summon.cfg:421
@@ -5224,54 +5218,44 @@ msgstr ""
 "villaggi."
 
 #: Era_of_Magic/utils/summon.cfg:316
-#, fuzzy
 msgid "Summon Fire Elemental (7 Gold)"
-msgstr "Evoca Elementale di Fuoco (7g)"
+msgstr "Evoca elementale di fuoco (7 oro)"
 
 #: Era_of_Magic/utils/summon.cfg:317
-#, fuzzy
 msgid "Summon Water Elemental (7 Gold)"
-msgstr "Evoca Elementale d’Acqua (7g)"
+msgstr "Evoca elementale d’acqua (7 oro)"
 
 #: Era_of_Magic/utils/summon.cfg:318
-#, fuzzy
 msgid "Summon Air Elemental (8 Gold)"
-msgstr "Evoca Elementale d’Aria (8g)"
+msgstr "Evoca elementale d’aria (8 oro)"
 
 #: Era_of_Magic/utils/summon.cfg:319
-#, fuzzy
 msgid "Summon Earth Elemental (8 Gold)"
-msgstr "Evoca Elementale di Terra (8g)"
+msgstr "Evoca elementale di terra (8 oro)"
 
 #: Era_of_Magic/utils/summon.cfg:369
-#, fuzzy
 msgid "Summon Rhami (12 Gold)"
-msgstr "Evoca Rhami (12g)"
+msgstr "Evoca rhami (12 oro)"
 
 #: Era_of_Magic/utils/summon.cfg:417
-#, fuzzy
 msgid "Summon Jinn (14 Gold)"
-msgstr "Evoca Genio (14g)"
+msgstr "Evoca genio (14 oro)"
 
 #: Era_of_Magic/utils/summon.cfg:470
-#, fuzzy
 msgid "Summon Fire Elemental (12 Gold)"
-msgstr "Evoca Elementale di Fuoco (12g)"
+msgstr "Evoca elementale di fuoco (12 oro)"
 
 #: Era_of_Magic/utils/summon.cfg:519
-#, fuzzy
 msgid "Summon Water Elemental (12 Gold)"
-msgstr "Evoca Elementale d’Acqua (12g)"
+msgstr "Evoca elementale d’acqua (12 oro)"
 
 #: Era_of_Magic/utils/summon.cfg:568
-#, fuzzy
 msgid "Summon Air Elemental (16 Gold)"
-msgstr "Evoca Elementale d’Aria (16g)"
+msgstr "Evoca elementale d’aria (16 oro)"
 
 #: Era_of_Magic/utils/summon.cfg:617
-#, fuzzy
 msgid "Summon Golem (16 Gold)"
-msgstr "Evoca Golem (16g)"
+msgstr "Evoca golem (16 oro)"
 
 #. [dummy]: id=summon_roc
 #: Era_of_Magic/utils/summon.cfg:632
@@ -5284,13 +5268,12 @@ msgid ""
 "Summon Roc:\n"
 "this unit can summon new units near him, but not in villages."
 msgstr ""
-"Evoca Cavalcatore di Roc:\n"
+"Evoca roc:\n"
 "questa unità può evocare nuove unità vicine a lui, ma non nei villaggi."
 
 #: Era_of_Magic/utils/summon.cfg:670
-#, fuzzy
 msgid "Summon Roc Rider (22 Gold)"
-msgstr "Evoca Cavalcatore di Roc (22g)"
+msgstr "Evoca cavalcatore di roc (22 oro)"
 
 #. [trait]: id=magical, description={STR_NONLIVING_DESCRIPTION}
 #: Era_of_Magic/utils/traits.cfg:7
@@ -5303,4 +5286,4 @@ msgid "female^magical"
 msgstr "magica"
 
 #~ msgid "Default + Khalifate + Magic"
-#~ msgstr "Predefenito + Khalifate + Magia"
+#~ msgstr "Predefenito + khalifate + magia"
