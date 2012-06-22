@@ -1,15 +1,15 @@
 # Automatically generated, 2010.
-# IWAI, Masaharu <iwaim.sub@gmail.com>, 2010.
+# IWAI, Masaharu <iwaim.sub@gmail.com>, 2010, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-08 16:15-0500\n"
-"PO-Revision-Date: 2010-12-05 13:58+0900\n"
+"PO-Revision-Date: 2012-06-11 11:24+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
-"Language: Japanese\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -42,13 +42,11 @@ msgstr ""
 
 #. [era]: id=era_heroes_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:83
-#, fuzzy
 msgid "Heroes + Magic"
-msgstr "魔法の時代"
+msgstr ""
 
 #. [language]
 #: Era_of_Magic/english.cfg:4
-#, fuzzy
 msgid "range^kamikaze"
 msgstr "カミカゼ"
 
@@ -511,7 +509,7 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Barbarians/Troll_Fire_Wizard.cfg:43
 msgid "flame blast"
-msgstr "炎の爆発"
+msgstr "爆炎"
 
 #. [unit_type]: id=I8 Barbarian_TrollSorcerer, race=troll
 #: Era_of_Magic/units/Barbarians/Troll_Sorcerer.cfg:4
@@ -924,7 +922,6 @@ msgstr "弓での打撃"
 
 #. [unit_type]: id=I8 Kharos_LightChild, race=human
 #: Era_of_Magic/units/Kharos/Child_of_Light.cfg:4
-#, fuzzy
 msgid "female^Child of Light"
 msgstr "光の使徒"
 
@@ -2372,7 +2369,6 @@ msgstr "ハリケーン"
 
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Air_Elemental.cfg:4
-#, fuzzy
 msgid "Air Elemental"
 msgstr "風の精霊"
 
@@ -2548,7 +2544,6 @@ msgstr ""
 #: Era_of_Magic/units/al_Kamija/DharmaRhami.cfg:135
 #: Era_of_Magic/units/al_Kamija/RhamiKai.cfg:123
 #: Era_of_Magic/units/al_Kamija/RhamiKai.cfg:135
-#, fuzzy
 msgid "divine spear"
 msgstr "神の槍"
 
@@ -2560,9 +2555,8 @@ msgstr "炎の杯"
 
 #. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Dimensional_Gate.cfg:5
-#, fuzzy
 msgid "Dimensional Gate"
-msgstr "次元の扉 2"
+msgstr "次元の扉"
 
 #. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
 #. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
@@ -2644,7 +2638,6 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Elemental_earth, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Earth_Elemental.cfg:4
-#, fuzzy
 msgid "Earth Elemental"
 msgstr "土の精霊"
 
@@ -2682,7 +2675,6 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Efreeti.cfg:4
-#, fuzzy
 msgid "Efreet"
 msgstr "イフリート"
 
@@ -2732,7 +2724,6 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Fire_Elemental.cfg:4
-#, fuzzy
 msgid "Fire Elemental"
 msgstr "火の精霊"
 
@@ -3220,7 +3211,6 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Water_Elemental.cfg:4
-#, fuzzy
 msgid "Water Elemental"
 msgstr "水の精霊"
 
