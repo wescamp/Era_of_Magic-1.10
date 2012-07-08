@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-08 16:15-0500\n"
-"PO-Revision-Date: 2012-07-01 01:16+0900\n"
+"PO-Revision-Date: 2012-07-09 03:09+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
 "Language: ja\n"
@@ -3769,7 +3769,6 @@ msgstr ""
 
 #. [dummy]: id=i8parachute
 #: Era_of_Magic/utils/abilities.cfg:675
-#, fuzzy
 msgid "parachute"
 msgstr "落下傘"
 
@@ -3786,7 +3785,6 @@ msgstr ""
 
 #. [heals]: id=i8repair
 #: Era_of_Magic/utils/abilities.cfg:705
-#, fuzzy
 msgid "repairs +5"
 msgstr "修理 +5"
 
@@ -3807,7 +3805,6 @@ msgstr ""
 
 #. [heals]: id=i8repair
 #: Era_of_Magic/utils/abilities.cfg:726
-#, fuzzy
 msgid "repairs +8"
 msgstr "修理 +8"
 
@@ -3840,7 +3837,6 @@ msgstr ""
 #. [dummy]: id=runeaura
 #. [resistance]: id=runeauraactive
 #: Era_of_Magic/utils/abilities.cfg:785 Era_of_Magic/utils/abilities.cfg:890
-#, fuzzy
 msgid "rune aura"
 msgstr "ルーンオーラ"
 
@@ -4027,7 +4023,6 @@ msgstr ""
 
 #. [dummy]: id=i8awake
 #: Era_of_Magic/utils/abilities.cfg:1186
-#, fuzzy
 msgid "awaken"
 msgstr "復活"
 
@@ -4058,7 +4053,6 @@ msgstr ""
 
 #. [heals]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:1417
-#, fuzzy
 msgid "heals +2"
 msgstr "回復 +2"
 
@@ -4563,7 +4557,6 @@ msgstr ""
 #: Era_of_Magic/utils/summon.cfg:331 Era_of_Magic/utils/summon.cfg:379
 #: Era_of_Magic/utils/summon.cfg:432 Era_of_Magic/utils/summon.cfg:481
 #: Era_of_Magic/utils/summon.cfg:530 Era_of_Magic/utils/summon.cfg:579
-#, fuzzy
 msgid "summon"
 msgstr "召喚"
 
@@ -4588,14 +4581,12 @@ msgstr ""
 "村には召喚できません。"
 
 #: Era_of_Magic/utils/summon.cfg:265
-#, fuzzy
 msgid "Summon Fire Elemental (15 Gold)"
-msgstr "火の精霊"
+msgstr "火の精霊を召喚（15ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:266
-#, fuzzy
 msgid "Summon Water Elemental (16 Gold)"
-msgstr "水の精霊"
+msgstr "水の精霊を召喚（16ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:270 Era_of_Magic/utils/summon.cfg:325
 #: Era_of_Magic/utils/summon.cfg:373 Era_of_Magic/utils/summon.cfg:421
@@ -4610,56 +4601,47 @@ msgstr ""
 "とができます。"
 
 #: Era_of_Magic/utils/summon.cfg:316
-#, fuzzy
 msgid "Summon Fire Elemental (7 Gold)"
-msgstr "火の精霊"
+msgstr "火の精霊を召喚（7ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:317
-#, fuzzy
 msgid "Summon Water Elemental (7 Gold)"
-msgstr "水の精霊"
+msgstr "水の精霊を召喚（7ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:318
-#, fuzzy
 msgid "Summon Air Elemental (8 Gold)"
-msgstr "風の精霊"
+msgstr "風の精霊を召喚（8ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:319
-#, fuzzy
 msgid "Summon Earth Elemental (8 Gold)"
-msgstr "土の精霊"
+msgstr "土の精霊を召喚（8ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:369
 msgid "Summon Rhami (12 Gold)"
-msgstr ""
+msgstr "Rhamiを召喚（12ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:417
 msgid "Summon Jinn (14 Gold)"
-msgstr ""
+msgstr "ジンを召喚（14ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:470
-#, fuzzy
 msgid "Summon Fire Elemental (12 Gold)"
-msgstr "火の精霊"
+msgstr "火の精霊を召喚（12ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:519
-#, fuzzy
 msgid "Summon Water Elemental (12 Gold)"
-msgstr "水の精霊"
+msgstr "水の精霊を召喚（12ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:568
-#, fuzzy
 msgid "Summon Air Elemental (16 Gold)"
-msgstr "風の精霊"
+msgstr "風の精霊を召喚（16ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:617
-#, fuzzy
 msgid "Summon Golem (16 Gold)"
-msgstr "風の精霊"
+msgstr "ゴーレムを召喚（16ゴールド）"
 
 #. [dummy]: id=summon_roc
 #: Era_of_Magic/utils/summon.cfg:632
-#, fuzzy
 msgid "summon roc"
 msgstr "ロックの召喚"
 
