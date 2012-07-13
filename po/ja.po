@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-08 16:15-0500\n"
-"PO-Revision-Date: 2012-06-11 11:24+0900\n"
+"PO-Revision-Date: 2012-07-13 17:41+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
 "Language: ja\n"
@@ -712,9 +712,8 @@ msgstr "狙い撃ち"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Dark_Blood_Alliance/Double_Ranged_Toad.cfg:52
-#, fuzzy
 msgid "crossbow ×2"
-msgstr "クロスボウ x2"
+msgstr "クロスボウ ×2"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Dark_Blood_Alliance/Double_Ranged_Toad.cfg:64
@@ -894,7 +893,6 @@ msgstr "ワイバーンの調教師"
 
 #. [unit_type]: id=I8 Kharos_LightAdept, race=human
 #: Era_of_Magic/units/Kharos/Adept_of_Light.cfg:4
-#, fuzzy
 msgid "female^Adept of Light"
 msgstr "光の熟練者"
 
@@ -942,9 +940,8 @@ msgstr "光線"
 
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
 #: Era_of_Magic/units/Kharos/Cleric.cfg:4
-#, fuzzy
 msgid "female^Cleric"
-msgstr "魔法生物"
+msgstr "牧師"
 
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
 #: Era_of_Magic/units/Kharos/Cleric.cfg:18
@@ -1018,7 +1015,6 @@ msgstr "騎馬の重弓兵"
 # [ja] 意訳
 #. [unit_type]: id=I8 Kharos_LightInspired, race=human, description={SPECIAL_NOTES}+{EOMA_SPECIAL_NOTES_INSPIRE}+{EOMA_SPECIAL_NOTES_AWAKE}
 #: Era_of_Magic/units/Kharos/Inspired.cfg:4
-#, fuzzy
 msgid "female^Inspired"
 msgstr "覚醒者"
 
@@ -1098,7 +1094,6 @@ msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightMistress, race=human
 #: Era_of_Magic/units/Kharos/Mistress_of_Light.cfg:4
-#, fuzzy
 msgid "female^Mistress of Light"
 msgstr "光の支配者"
 
@@ -1126,7 +1121,6 @@ msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightProphetoflight, race=human, description={SPECIAL_NOTES}+{SPECIAL_NOTES_LEADERSHIP}+{SPECIAL_NOTES_ARCANE}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_CURES}+{SPECIAL_NOTES_LEADERSHIP}+{SPECIAL_NOTES_SLOW}
 #: Era_of_Magic/units/Kharos/Prophet_of_Light.cfg:4
-#, fuzzy
 msgid "female^Prophet of Light"
 msgstr "光の預言者"
 
@@ -1189,7 +1183,6 @@ msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightSister, race=human, description={SPECIAL_NOTES}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_ARCANE}+{EOMA_SPECIAL_NOTES_HEALS2}+{EOMA_SPECIAL_NOTES_INSPIRE}
 #: Era_of_Magic/units/Kharos/Sister_of_Light.cfg:4
-#, fuzzy
 msgid "female^Sister of Light"
 msgstr "光の修道女"
 
@@ -1719,7 +1712,6 @@ msgstr "覆面は、近接戦闘や速攻、回避能力を得意とする戦士
 
 #. [unit_type]: id=I8 enlightened_mage_of_air, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Air.cfg:4
-#, fuzzy
 msgid "Mage of Air"
 msgstr "風の魔術師"
 
@@ -1750,7 +1742,6 @@ msgstr "小さな稲妻"
 
 #. [unit_type]: id=I8 enlightened_mage_of_fire, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Fire.cfg:4
-#, fuzzy
 msgid "Mage of Fire"
 msgstr "火の魔術師"
 
@@ -1774,7 +1765,6 @@ msgstr "火炎"
 
 #. [unit_type]: id=I8 enlightened_mage_of_water, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Water.cfg:4
-#, fuzzy
 msgid "Mage of Water"
 msgstr "水の魔術師"
 
@@ -1797,7 +1787,6 @@ msgstr "水の爆発"
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Elements.cfg:120
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Water.cfg:100
 #: Era_of_Magic/units/Sky_Kingdom/Mastermage.cfg:124
-#, fuzzy
 msgid "icicles"
 msgstr "氷弾"
 
@@ -3269,38 +3258,33 @@ msgstr "魔法生物"
 
 #. [race]: id=I8 cyclop
 #: Era_of_Magic/units/units.cfg:15
-#, fuzzy
 msgid "race^Cyclops"
-msgstr "火のサイクロプス"
+msgstr "サイクロプス"
 
 #. [race]: id=I8 cyclop
 #: Era_of_Magic/units/units.cfg:16
-#, fuzzy
 msgid "race+female^Cyclops"
-msgstr "人間族"
+msgstr "サイクロプス"
 
 #. [race]: id=I8 cyclop
 #: Era_of_Magic/units/units.cfg:17
-#, fuzzy
 msgid "race^Cyclopes"
-msgstr "火のサイクロプス"
+msgstr "サイクロプス"
 
 #. [race]: id=I8 roc
 #: Era_of_Magic/units/units.cfg:29
-#, fuzzy
 msgid "race^Roc"
-msgstr "魔法生物"
+msgstr "ロック"
 
 #. [race]: id=I8 roc
 #: Era_of_Magic/units/units.cfg:30
-#, fuzzy
 msgid "race+female^Roc"
-msgstr "人間族"
+msgstr "ロック"
 
 #. [race]: id=I8 roc
 #: Era_of_Magic/units/units.cfg:31
 msgid "race^Rocs"
-msgstr ""
+msgstr "ロック"
 
 #. [race]: id=I8 magical, description=
 #: Era_of_Magic/units/units.cfg:39
@@ -3309,7 +3293,6 @@ msgstr "魔法生物"
 
 #. [race]: id=I8 magical, description=
 #: Era_of_Magic/units/units.cfg:40
-#, fuzzy
 msgid "race+female^Magical"
 msgstr "魔法生物"
 
@@ -3320,19 +3303,16 @@ msgstr "魔法生物"
 
 #. [race]: id=I8 salamander
 #: Era_of_Magic/units/units.cfg:51
-#, fuzzy
 msgid "race^Salamander"
 msgstr "サラマンダー"
 
 #. [race]: id=I8 salamander
 #: Era_of_Magic/units/units.cfg:52
-#, fuzzy
 msgid "race+female^Salamander"
-msgstr "人間族"
+msgstr "サラマンダー"
 
 #. [race]: id=I8 salamander
 #: Era_of_Magic/units/units.cfg:53
-#, fuzzy
 msgid "race^Salamanders"
 msgstr "サラマンダー"
 
@@ -3649,7 +3629,6 @@ msgstr ""
 
 #. [dummy]: id=i8hitandrun
 #: Era_of_Magic/utils/abilities.cfg:383
-#, fuzzy
 msgid "hit and run"
 msgstr "ヒットエンドラン"
 
@@ -3790,7 +3769,6 @@ msgstr ""
 
 #. [dummy]: id=i8parachute
 #: Era_of_Magic/utils/abilities.cfg:675
-#, fuzzy
 msgid "parachute"
 msgstr "落下傘"
 
@@ -3807,7 +3785,6 @@ msgstr ""
 
 #. [heals]: id=i8repair
 #: Era_of_Magic/utils/abilities.cfg:705
-#, fuzzy
 msgid "repairs +5"
 msgstr "修理 +5"
 
@@ -3828,7 +3805,6 @@ msgstr ""
 
 #. [heals]: id=i8repair
 #: Era_of_Magic/utils/abilities.cfg:726
-#, fuzzy
 msgid "repairs +8"
 msgstr "修理 +8"
 
@@ -3861,7 +3837,6 @@ msgstr ""
 #. [dummy]: id=runeaura
 #. [resistance]: id=runeauraactive
 #: Era_of_Magic/utils/abilities.cfg:785 Era_of_Magic/utils/abilities.cfg:890
-#, fuzzy
 msgid "rune aura"
 msgstr "ルーンオーラ"
 
@@ -4048,7 +4023,6 @@ msgstr ""
 
 #. [dummy]: id=i8awake
 #: Era_of_Magic/utils/abilities.cfg:1186
-#, fuzzy
 msgid "awaken"
 msgstr "復活"
 
@@ -4079,7 +4053,6 @@ msgstr ""
 
 #. [heals]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:1417
-#, fuzzy
 msgid "heals +2"
 msgstr "回復 +2"
 
@@ -4584,7 +4557,6 @@ msgstr ""
 #: Era_of_Magic/utils/summon.cfg:331 Era_of_Magic/utils/summon.cfg:379
 #: Era_of_Magic/utils/summon.cfg:432 Era_of_Magic/utils/summon.cfg:481
 #: Era_of_Magic/utils/summon.cfg:530 Era_of_Magic/utils/summon.cfg:579
-#, fuzzy
 msgid "summon"
 msgstr "召喚"
 
@@ -4609,14 +4581,12 @@ msgstr ""
 "村には召喚できません。"
 
 #: Era_of_Magic/utils/summon.cfg:265
-#, fuzzy
 msgid "Summon Fire Elemental (15 Gold)"
-msgstr "火の精霊"
+msgstr "火の精霊を召喚（15ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:266
-#, fuzzy
 msgid "Summon Water Elemental (16 Gold)"
-msgstr "水の精霊"
+msgstr "水の精霊を召喚（16ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:270 Era_of_Magic/utils/summon.cfg:325
 #: Era_of_Magic/utils/summon.cfg:373 Era_of_Magic/utils/summon.cfg:421
@@ -4631,56 +4601,47 @@ msgstr ""
 "とができます。"
 
 #: Era_of_Magic/utils/summon.cfg:316
-#, fuzzy
 msgid "Summon Fire Elemental (7 Gold)"
-msgstr "火の精霊"
+msgstr "火の精霊を召喚（7ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:317
-#, fuzzy
 msgid "Summon Water Elemental (7 Gold)"
-msgstr "水の精霊"
+msgstr "水の精霊を召喚（7ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:318
-#, fuzzy
 msgid "Summon Air Elemental (8 Gold)"
-msgstr "風の精霊"
+msgstr "風の精霊を召喚（8ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:319
-#, fuzzy
 msgid "Summon Earth Elemental (8 Gold)"
-msgstr "土の精霊"
+msgstr "土の精霊を召喚（8ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:369
 msgid "Summon Rhami (12 Gold)"
-msgstr ""
+msgstr "Rhamiを召喚（12ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:417
 msgid "Summon Jinn (14 Gold)"
-msgstr ""
+msgstr "ジンを召喚（14ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:470
-#, fuzzy
 msgid "Summon Fire Elemental (12 Gold)"
-msgstr "火の精霊"
+msgstr "火の精霊を召喚（12ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:519
-#, fuzzy
 msgid "Summon Water Elemental (12 Gold)"
-msgstr "水の精霊"
+msgstr "水の精霊を召喚（12ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:568
-#, fuzzy
 msgid "Summon Air Elemental (16 Gold)"
-msgstr "風の精霊"
+msgstr "風の精霊を召喚（16ゴールド）"
 
 #: Era_of_Magic/utils/summon.cfg:617
-#, fuzzy
 msgid "Summon Golem (16 Gold)"
-msgstr "風の精霊"
+msgstr "ゴーレムを召喚（16ゴールド）"
 
 #. [dummy]: id=summon_roc
 #: Era_of_Magic/utils/summon.cfg:632
-#, fuzzy
 msgid "summon roc"
 msgstr "ロックの召喚"
 
