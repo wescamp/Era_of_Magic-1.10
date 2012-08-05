@@ -1,12 +1,11 @@
 # # Drakefriend, 2011.
 # Torben Undiwill, 2012.
-# Torben Undiwill, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-08 16:15-0500\n"
-"PO-Revision-Date: 2012-04-30 17:01+0200\n"
+"PO-Revision-Date: 2012-08-03 10:25+0200\n"
 "Last-Translator: Torben Undiwill <>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -1111,7 +1110,7 @@ msgstr "Kavaleriebogeschütze"
 #. [unit_type]: id=I8 Kharos_LightInspired, race=human, description={SPECIAL_NOTES}+{EOMA_SPECIAL_NOTES_INSPIRE}+{EOMA_SPECIAL_NOTES_AWAKE}
 #: Era_of_Magic/units/Kharos/Inspired.cfg:4
 msgid "female^Inspired"
-msgstr "Erleuchtete"
+msgstr "Erwählte"
 
 #. [unit_type]: id=I8 Kharos_WarbannerKharos, race=human
 #: Era_of_Magic/units/Kharos/Kharos_War_Banner.cfg:4
@@ -1657,7 +1656,7 @@ msgstr "Runenkundler"
 #: Era_of_Magic/units/Runemasters/Runemaster.cfg:39
 #: Era_of_Magic/units/Runemasters/Runesmith.cfg:41
 msgid "runes"
-msgstr "Ruenfluch"
+msgstr "Runenfluch"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/Rune_Artist.cfg:53
@@ -1838,9 +1837,9 @@ msgid ""
 "relatively fast and become quite powerful quickly, choosing one of the "
 "Elemental Paths."
 msgstr ""
-"Elementarier sind schlechtere Kämpfer als die anderen Weisen, doch sind sie "
-"recht schnell und können in kurzer Zeit sehr mächtig werden, wenn sie einen "
-"der Elementarpfade wählen."
+"Elementarier sind schlechtere Kämpfer als die anderen Erleuchteten, doch "
+"sind sie recht schnell und können in kurzer Zeit sehr mächtig werden, wenn "
+"sie einen der Elementarpfade wählen."
 
 #. [unit_type]: id=I8 enlightened_goldenmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Golden_Mage.cfg:4
@@ -1870,9 +1869,9 @@ msgid ""
 "Enlightened Magi. Their favored method of war is to charge, ramming their "
 "enemies with their stout bodies."
 msgstr ""
-"Golems sind Geister aus dem Abgrund, die von den Weisen Magiern in steinerne "
-"Körper gebunden wurden. Ihre bevorzugte Strategie ist es, ihre Gegner mit "
-"ihren massigen Leiben zu rammen."
+"Golems sind Geister aus dem Abgrund, die von den Erleuchteten Magiern in "
+"steinerne Körper gebunden wurden. Ihre bevorzugte Strategie ist es, ihre "
+"Gegner mit ihren massigen Leibern zu rammen."
 
 #. [unit_type]: id=I8 Golem_boss, race=mechanical
 #: Era_of_Magic/units/Sky_Kingdom/Golem_Boss.cfg:4
@@ -2034,10 +2033,10 @@ msgid ""
 "Eyes are surrounded by a gold aura, focusing its powers through their gaze, "
 "and usually ‘seeing’ and therefore hitting their enemies often."
 msgstr ""
-"Magische Augen sind magische Gebilde, welche häufig von den Weisen beleben "
-"werden. Diese Augen sind von einer goldenen Aura umgeben und können ihre "
-"Kraft durch ihren Blick bündeln - sie \"sehen\" ihre Feinde und treffen sie "
-"deshalb meist auch."
+"Magische Augen sind magische Gebilde, welche häufig von den Erleuchteten "
+"beleben werden. Diese Augen sind von einer goldenen Aura umgeben und können "
+"ihre Kraft durch ihren Blick bündeln - sie \"sehen\" ihre Feinde und treffen "
+"sie deshalb meist auch."
 
 #. [unit_type]: id=I8 enlightened_master_of_air, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:4
@@ -2719,7 +2718,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Banisher, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Banisher.cfg:4
 msgid "Banisher"
-msgstr "Banner"
+msgstr "Bannmeister"
 
 #. [unit_type]: id=I8 Ak_Banisher, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Banisher.cfg:18
@@ -2900,7 +2899,7 @@ msgstr "Feuerschale"
 #. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Dimensional_Gate.cfg:5
 msgid "Dimensional Gate"
-msgstr "Dimensiontor"
+msgstr "Weltentor"
 
 #. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
 #. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
@@ -2914,11 +2913,11 @@ msgid ""
 "a single fallen life is all that the gate requires in order to solidify "
 "itself into a true door for a being from the Abyss to emerge out of."
 msgstr ""
-"Die erfahrungsloseste Beschwörer können nur Dimensionstore beschwören: "
-"instabile Brücken mystischer Energien zwischen dieser Welt und dem Abgrund. "
-"Dimensionstore sind ihrer primitiver Natur zu Trotz mit genauen Nadelstichen "
-"angreifen. Sind sie auch schwach und leicht zu zerstören, reicht ein "
-"einziges ausgehauchtes Leben aus, dass sich das Tor zu einem wahren Portal "
+"Die unerfahrensten Beschwörer können nur Weltentore beschwören: instabile "
+"Brücken mystischer Energien zwischen dieser Welt und dem Abgrund. Weltentore "
+"sind ihrer primitiver Natur zu Trotz mit genauen Nadelstichen angreifen. "
+"Sind sie auch schwach und leicht zu zerstören, reicht ein einziges "
+"ausgehauchtes Leben aus, dass sich das Tor zu einem wahren Portal "
 "verfestigt, durch die ein Wesen aus dem Abgrund austreten kann"
 
 #. [attack]: type=arcane
@@ -2929,7 +2928,7 @@ msgstr "Blaue Flamme"
 #. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Dimensional_Gate_2.cfg:4
 msgid "Dimensional Gate 2"
-msgstr "Dimensiontor 2"
+msgstr "Weltentor 2"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/al_Kamija/Dimensional_Gate_2.cfg:30
@@ -2939,7 +2938,7 @@ msgstr "Gelbe Flamme"
 #. [unit_type]: id=I8 Ak_Dispeller, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Dispeller.cfg:4
 msgid "Dispeller"
-msgstr "Austreiber"
+msgstr "Banner"
 
 #. [unit_type]: id=I8 Ak_Dispeller, race=akhuman
 #: Era_of_Magic/units/al_Kamija/Dispeller.cfg:17
@@ -3058,11 +3057,11 @@ msgid ""
 "hue, tempering their magic with fire’s touch. In battles, efreets bask in "
 "razing and laying waste to whatever their blazes can reach."
 msgstr ""
-"Von Natur aus eine Katastrophe sind Afriten Dschinn, die ihren innneren "
+"Von Natur aus eine Katastrophe sind Afriten Djinn, die ihren innneren "
 "Wissensdurst größten teils oder gar vollständig abgelehnt haben. Aus "
 "Gründen, die für ihre Genossen nicht nachvollziehbar sind, versuchen "
 "Afriten, Zerstörung auf ihren Streifzügen auszusähen. Ihre Haut hat ist "
-"scharlach geworden, ihre Magie mit feuriger Berührung verändert. In der "
+"scharlachrot geworden, ihre Magie mit feuriger Berührung verändert. In der "
 "Schlacht legen Afriten alles in Schutt und Asche, was ihre Lohen erreichen "
 "können."
 
@@ -3224,7 +3223,7 @@ msgstr "Vernichtung"
 #. [unit_type]: id=I8 Ak_Jinn_Great, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Great_Jinn.cfg:4
 msgid "Great Jinn"
-msgstr "Großer Dschinn"
+msgstr "Großer Djinn"
 
 #. [unit_type]: id=I8 Ak_Jinn_Great, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Great_Jinn.cfg:17
@@ -3240,16 +3239,16 @@ msgid ""
 "jinns still search for answers to life’s questions, despite the position "
 "they have."
 msgstr ""
-"Jungbeschwörer lernen schnell, dass Dschinn grundverschieden sind von den "
-"Elementargeistern, die sie aus dem Abgrund beschworen. Dschinn besitzen eine "
-"unstillbaren Wissenshunger, und das Wissen wird sie bald zu Großen Dschinn "
+"Jungbeschwörer lernen schnell, dass Djinn grundverschieden sind von den "
+"Elementargeistern, die sie aus dem Abgrund beschworen. Djinn besitzen eine "
+"unstillbaren Wissenshunger, und das Wissen wird sie bald zu Großen Dsjinn "
 "erheben. Nun weiser als ihre Heerren und der Grundlagen der Beschwörung "
-"kundig, werden Große Dschinn wie Menschen behandelt, wenn sie nicht gar als "
+"kundig, werden Große Djinn wie Menschen behandelt, wenn sie nicht gar als "
 "noch intelligenter gelten.\n"
 "\n"
-"Große Dschinn bekleiden oft Führungspositionen, führen Regimenter und halten "
+"Große Djinn bekleiden oft Führungspositionen, führen Regimenter und halten "
 "gar Posten in Räten inne. Dank ihrer klugen Geister und trotz der ihnen "
-"verliehenen Ämter suchen Große Dschinn immernoch Antworten."
+"verliehenen Ämter suchen Große Djinn immer noch Antworten."
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/al_Kamija/Great_Jinn.cfg:170
@@ -3370,7 +3369,7 @@ msgstr "Doppelt Göttlicher Speer"
 #. [unit_type]: id=I8 Ak_Jinn, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Jinn.cfg:4
 msgid "Jinn"
-msgstr "Dschinn"
+msgstr "Djinn"
 
 #. [unit_type]: id=I8 Ak_Jinn, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Jinn.cfg:19
@@ -3382,9 +3381,9 @@ msgid ""
 "tangible weapons. These entities, while able to err like humans, are valued "
 "allies of the summoners, with their curious thoughts always wandering about."
 msgstr ""
-"Dschinn sind sogar in bezug auf die Beschwörer eine Besonderheit, wegen "
-"ihrer geistigen Fähigkeiten zu sprechen, zu denken, zu lernen, zu verstehen; "
-"ein Hang, den kein anderer Bewohner des Abgrundes je erreichen kann. Da sie "
+"Djinn sind sogar in Bezug auf die Beschwörer eine Besonderheit, wegen ihrer "
+"geistigen Fähigkeiten zu sprechen, zu denken, zu lernen, zu verstehen; ein "
+"Hang, den kein anderer Bewohner des Abgrundes je erreichen kann. Da sie "
 "vollständig aus Magie bestehen, sind sie zwar verwundbar durch arkane "
 "Zauber, nicht so sehr jedoch durch physische Waffen. Auch wenn diese Wesen "
 "wie Menschen fehlbar sind, sind sie kostbare Verbündete Al-Kamijas. Ihre "
@@ -3398,7 +3397,7 @@ msgstr "Magischer Dolch"
 #. [unit_type]: id=I8 Ak_Jinn_Wonderful, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Jinn_Wonderful.cfg:4
 msgid "Wonderful Jinn"
-msgstr "Erhabener Dschinn"
+msgstr "Erhabener Djinn"
 
 #. [unit_type]: id=I8 Ak_Jinn_Wonderful, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Jinn_Wonderful.cfg:17
@@ -3413,14 +3412,14 @@ msgid ""
 "they have sated their immeasurable thirst, for they still follow the orders "
 "of their superiors and have not yet retired into the shadows of the world."
 msgstr ""
-"Erhabene Dschinn sind Mentoren der Gesellschaft al-Kamijas, bereit ihre "
+"Erhabene Djinn sind Mentoren der Gesellschaft al-Kamijas, bereit ihre "
 "Weisheit an jeden weiterzugeben, der sie zu vernehmen bereit ist. Ihre "
 "konkurrenzlose Vorstellungskraft und Intelligenz zeigt sich in ihrem "
-"gewaltigen Arsenal an Angriffszaubern. Dschinn von hohem Kaliber, die sich "
+"gewaltigen Arsenal an Angriffszaubern. Djinn von hohem Kaliber, die sich "
 "selbst offensive Beschwörungen erarbeitet haben, verlangen ihren "
-"menschlichen Kollegen gewaltigen Respekt ab. Erhabene Dschinn sind schon "
-"seit langen unabhängig, nicht länger Diener ihrer Herren. Es ist ein Rätsel, "
-"ob sie ihren unermesslichen Hunger gestillt haben, da sie noch immer die "
+"menschlichen Kollegen gewaltigen Respekt ab. Erhabene Djinn sind schon seit "
+"langen unabhängig, nicht länger Diener ihrer Herren. Es ist ein Rätsel, ob "
+"sie ihren unermesslichen Hunger gestillt haben, da sie noch immer die "
 "Befehle ihrer Vorgesetzten befolgen und sich noch nicht in die Schatten der "
 "Welt zurückgezogen haben."
 
@@ -3432,7 +3431,7 @@ msgstr "Kreis der Vollkommenheit"
 #. [unit_type]: id=I8 Ak_Jinn_Mystic, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Mystical_Jinn.cfg:4
 msgid "Mystical Jinn"
-msgstr "Legendärer Dschinn"
+msgstr "Mystischer Djinn"
 
 #. [unit_type]: id=I8 Ak_Jinn_Mystic, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Mystical_Jinn.cfg:18
@@ -3462,7 +3461,7 @@ msgstr ""
 "'Was ist Erleuchtung? Ist es der Vorhang der Dunkelheit, der vor dem Auge "
 "fällt.wenn der Tod sich anschleicht? Ist es das leuchtende Rot vergossenen "
 "Bluts, das aus durchschnittener Gurgel strömt? Das Reißen der Welt, wenn "
-"Diimensionen verzerrt werden? Oder die letzte Schrei, wenn mein Zauber des "
+"Dimensionen verzerrt werden? Oder die letzte Schrei, wenn mein Zauber des "
 "Kämpen Herz erreicht? Ich weiß es nicht.\n"
 "\n"
 "Und doch gibt es eine gewisse Satisfikation, die nur durch meine Taten und "
@@ -3477,7 +3476,7 @@ msgstr ""
 "Millionen von Dimesionen, ich muss die Suche nach Wissen verfolgen. Ich "
 "werde weiter lernen. Ich werde mehr entdecken.'\n"
 "\n"
-"-Legendärer Dschinn"
+"-Mystischer Djinn"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/al_Kamija/Mystical_Jinn.cfg:258
