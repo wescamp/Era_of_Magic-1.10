@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-08 16:15-0500\n"
 "PO-Revision-Date: 2011-08-09 11:52+0100\n"
 "Last-Translator: Łukasz Wawrowski <inferno-8@wp.pl>\n"
