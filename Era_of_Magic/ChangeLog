@@ -1,6 +1,61 @@
 Era of Magic - ChangeLog
 ------------------------
 
+Version 1.0.0
+
+- Translation
+    * Updated translations: German, Polish
+
+- Factions
+    * New faction: the Destroyers - an undead faction consisting of 19 animated units divided into 6 recruitable types
+    * Corrected various unit id references
+
+- Eras
+    * New game mode: EoMa Masters & Slaves - choose your lvl 3 hero and recruit your lvl 1 units only
+        * Era of Magic Masters renamed to EoMa Heroes
+        * Era of Magic RPG renamed to EoMa RPG
+
+- Units
+    * Changed every unit's unit type id to reflect its name
+    * Custom undead variations for almost all categories of era's units
+    * Mu gets new attack (impact - melee)
+    * Um gets new attack (pierce - melee)
+    * Goblin Warrior +2 damage to ranged attack
+    * Toads cost: 18g; 60% defense in swamp
+    * Wyvern Rider cost: 22g
+    * Salamander cost: 20g
+    * Shaman Adept cost: 17g
+    * Wyvern cost: 20g
+    * Golem cost: 22g
+    * Disciple cost: 14g; arcane resistance +20%; 60% cover in forests
+    * Roc Rider cost: 20g
+    * Blade Dancer moves: 6
+    * Dark Warrior cost: 15g; arcane resistance +10%; fire resistance +10%; 60% cover in villages
+    * Commander, General, Master of War arcane resistance +30%
+    * Slayer, Blade Dancer arcane resistance +20%; fearless trait
+    * Magical Eye 15 hp; cold resistance -20%
+    * Deadly Eye 25hp
+    * Hydra cost: 20g; 42 hp
+    * Witch arcane resistance +10%; pierce resistance +20%
+    * Dark Hunter, Dark Assassin added the marksman weapon special to the ranged attack
+    * Fire Cyclops, Ancient Cyclops more resistant to physical damage
+    * Added Water God portrait
+
+- Abilities and Weapon Specials
+    * New abilities: Area Attack and Lord of Fungus
+        * Rewritten/Fixed abilities:
+            - No Counter-Attack: doesn't work on units with the Berserker ability (finally!)
+            - Growing Fury: fixed the issue with setting unit's damage to constant value resulting in loss of damage upgrades
+            - Beam: fixed issue with damage calculation to a second target; the ability grants experience points after a successful kill
+            - Cleave: fixed issue with damage calculation; the ability grants experience points after a successul kill; removed old definitions
+            - Awake: fixed issue with unstoring units without presence of Inspired; simplified the code; updated descripion
+        * Removed abilties:
+            - Grenade
+    * Made it so that rune aura's activation code does not affect all Runemasters on the map
+
+- Other
+    * Updated the credits
+
 Version 0.18.0
 
 - Translation

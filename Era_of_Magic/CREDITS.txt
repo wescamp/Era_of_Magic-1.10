@@ -2,6 +2,11 @@
 ERA CREATOR
 inferno8
 
+ERA MAINTAINERS
+inferno8
+Espreon
+Alarantalara
+
 ART
 inferno8
 
@@ -10,17 +15,23 @@ AzuSkyLigh (Summoners)
 Araja (corrections)
 sur.nhm (Dark Blood Alliance)
 CheeseLord (Runemasters)
+Slug (Barbarians)
 
 CODING
-inferno8
+Alarantalara
+Espreon
 fog_of_gold
 
 BALANCING
+Adris
 barowei
 dk
 fog_of_gold
 Froz
+jozio
+kalfat
 nikon
+Piko
 Poliuks
 Sagez
 salvor
@@ -30,8 +41,10 @@ WindEnchanter
 X-Site
 
 ORGANIZING
+Alarantalara
+Espreon
 Mica
--stf- (savegames)
+-stf-
 Karambol
 
 TRANSLATIONS
@@ -78,6 +91,7 @@ Michchar
 mnewton1
 Quietus
 Peter The Great1
+Ravana
 Sandermatt
 Slug (Barbarians descriptions)
 -stf-
