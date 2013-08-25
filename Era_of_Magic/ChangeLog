@@ -1,6 +1,36 @@
 Era of Magic - ChangeLog
 ------------------------
 
+Version 1.1.0
+
+- Translation
+    * Bound the Nightmare line's files to wesnoth-Era_of_Magic instead of wesnoth-units
+    * Updated translations: German, Italian, Polish
+
+- Factions
+    * Fixed list of random leaders for the Tharis and Barbarians factions in the Masters & Slaves era
+
+- Eras
+    * EoMa RPG
+        * Fixed the path to the Destroyers' symbol image
+
+- Units
+    * The Toad and Corrupted Shaman regenerate 6 HP per turn again
+	* Improved defences & movement costs on cave terrain for units: Carpet Rider, Carpet Master, Fire Avatar, Fire Elemental, Water Elemental, Water Avatar, Water God
+	* Omen cost: 20g
+	* Mara cost: 17g
+	* Atokpi hp (lvl 1-3): 30 40 50
+
+- Abilties
+	* Moved Destroyers' plague ability to a separate file
+
+- Portraits
+	* New portraits for units: Great Efreeti, Guru, Master of Air, Master of Sun, Carpet Rider/Master
+
+- Graphics
+	* New sprites for Fire Avatar and Fire God
+
+
 Version 1.0.0
 
 - Translation
