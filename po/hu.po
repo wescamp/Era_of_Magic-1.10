@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Magic-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-14 07:09-0500\n"
+"POT-Creation-Date: 2013-08-25 18:31-0400\n"
 "PO-Revision-Date: 2012-04-06 15:23+0100\n"
 "Last-Translator: Kelemen Zoltan <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
@@ -18,34 +18,34 @@ msgid "Random Default"
 msgstr "Véletlen alapbeállítás"
 
 #. [era]: id=era_magic_{ERA_OF_MAGIC_VERSION}
-#: Era_of_Magic/EoMa_eras.cfg:211
+#: Era_of_Magic/EoMa_eras.cfg:16
 msgid "Era of Magic"
 msgstr "Mágikus kor"
 
 #. [era]: id=era_magic_rpg_{ERA_OF_MAGIC_VERSION}
-#: Era_of_Magic/EoMa_eras.cfg:230
+#: Era_of_Magic/EoMa_eras.cfg:35
 #, fuzzy
 msgid "EoMa RPG"
 msgstr "Mágikus kor SZJ"
 
 #. [era]: id=era_magic_masters_{ERA_OF_MAGIC_VERSION}
-#: Era_of_Magic/EoMa_eras.cfg:249
+#: Era_of_Magic/EoMa_eras.cfg:54
 msgid "EoMa Heroes"
 msgstr ""
 
 #. [era]: id=era_magic_slaves_{ERA_OF_MAGIC_VERSION}
-#: Era_of_Magic/EoMa_eras.cfg:268
+#: Era_of_Magic/EoMa_eras.cfg:73
 msgid "EoMa Masters & Slaves"
 msgstr ""
 
 #. [era]: id=era_default_magic_{ERA_OF_MAGIC_VERSION}
-#: Era_of_Magic/EoMa_eras.cfg:287
+#: Era_of_Magic/EoMa_eras.cfg:92
 #, fuzzy
 msgid "Default + EoMa"
 msgstr "Alap+Mágikus"
 
 #. [era]: id=era_heroes_magic_{ERA_OF_MAGIC_VERSION}
-#: Era_of_Magic/EoMa_eras.cfg:313
+#: Era_of_Magic/EoMa_eras.cfg:118
 #, fuzzy
 msgid "Heroes + EoMa"
 msgstr "Hősök+Mágikus"
@@ -150,6 +150,7 @@ msgstr "Ősi küklopsz"
 #. [unit_type]: id=EoMa_Abaddon, race=undead
 #. [unit_type]: id=EoMa_Adept_of_Light, race=human
 #. [unit_type]: id=EoMa_Ancient_Cyclops, race=I8 cyclop
+#. [unit_type]: id=EoMa_Apocalypse, race=undead
 #. [unit_type]: id=EoMa_Atokpi, race=undead
 #. [unit_type]: id=EoMa_Atokpi_General, race=undead
 #. [unit_type]: id=EoMa_Atokpi_Samurai, race=undead
@@ -197,6 +198,7 @@ msgstr "Ősi küklopsz"
 #. [unit_type]: id=EoMa_Green_Salamander, race=I8 salamander
 #. [unit_type]: id=EoMa_Heavy_Cavalry_Archer, race=human
 #. [unit_type]: id=EoMa_Legendary_Cyclops, race=undead
+#. [unit_type]: id=EoMa_Mara, race=undead
 #. [unit_type]: id=EoMa_Master_of_Elements, race=human
 #. [unit_type]: id=EoMa_Master_of_War, race=I8 tharis
 #. [unit_type]: id=EoMa_Mechanical_Dragon, race=mechanical
@@ -204,6 +206,7 @@ msgstr "Ősi küklopsz"
 #. [unit_type]: id=EoMa_Moloch, race=undead
 #. [unit_type]: id=EoMa_Mystic, race=lizard
 #. [unit_type]: id=EoMa_Mystical_Toad, race=lizard
+#. [unit_type]: id=EoMa_Nightmare, race=undead
 #. [unit_type]: id=EoMa_Obliterator, race=undead
 #. [unit_type]: id=EoMa_Omen, race=undead
 #. [unit_type]: id=EoMa_Pacificator, race=mechanical
@@ -271,6 +274,9 @@ msgstr "Ősi küklopsz"
 #: Era_of_Magic/units/Destroyers/Cyclop1.cfg:24
 #: Era_of_Magic/units/Destroyers/Cyclop2.cfg:24
 #: Era_of_Magic/units/Destroyers/Cyclop3.cfg:25
+#: Era_of_Magic/units/Destroyers/Mara1.cfg:24
+#: Era_of_Magic/units/Destroyers/Mara2.cfg:24
+#: Era_of_Magic/units/Destroyers/Mara3.cfg:25
 #: Era_of_Magic/units/Destroyers/Omen1.cfg:24
 #: Era_of_Magic/units/Destroyers/Omen2.cfg:24
 #: Era_of_Magic/units/Destroyers/Omen3.cfg:24
@@ -492,9 +498,7 @@ msgid "Goblin Runt"
 msgstr "Nyápic kobold"
 
 #. [unit_type]: id=EoMa_Goblin_Runt, race=goblin
-#. [unit_type]: id=EoMa_Goblin_Warrior, race=goblin
 #: Era_of_Magic/units/Barbarians/Goblin_Runt.cfg:18
-#: Era_of_Magic/units/Barbarians/Goblin_Warrior.cfg:18
 msgid ""
 "Belonging to a race already small in statue Goblin runts are born smaller "
 "and weaker then most. Indeed it is a wonder that such tiny creatures can "
@@ -523,6 +527,23 @@ msgstr "Kobold zászlótartó"
 #: Era_of_Magic/units/Barbarians/Goblin_Warrior.cfg:4
 msgid "Goblin Warrior"
 msgstr "Kobold harcos"
+
+#. [unit_type]: id=EoMa_Goblin_Warrior, race=goblin
+#: Era_of_Magic/units/Barbarians/Goblin_Warrior.cfg:18
+#, fuzzy
+msgid ""
+"Belonging to a race already small in stature, Goblin runts are born smaller "
+"and weaker than most. Indeed it is a wonder that such tiny creatures can "
+"fight at all, armed as they are with any piece of pointy scrap metal found "
+"lying around. Their superiors use them for cannon fodder, hurling them into "
+"impossible situations with often surprising results."
+msgstr ""
+"A nyápicok még az általában kistermetű koboldok közül is kitűnnek "
+"törpeségükkel. Már az is csoda, hogy egy ilyen parányi lény harcba "
+"bocsátkozik, s ráadásul még páncélt is viselnek, amit az elhullajtott "
+"fémdarabkákból eszkábálnak maguknak. Feletteseik ágyútöltelék gyanánt "
+"használják őket, képtelen helyzetekben is bevetik őket nemegyszer meglepően "
+"eredményesen."
 
 #. [unit_type]: id=EoMa_Orcish_Warbanner, race=orc
 #: Era_of_Magic/units/Barbarians/Orcish_Warbanner.cfg:4
@@ -577,12 +598,13 @@ msgstr "Roklovas"
 
 #. [unit_type]: id=EoMa_Roc_Rider, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Roc_Rider.cfg:20
+#, fuzzy
 msgid ""
 "The Rocs of Thornspire Mountain had long grown fat off the flesh of the "
 "goblins who lived below. It took one particularly mad and foolhardy goblin "
 "to change the fate of his people when he set out to tame the beasts. After "
 "several narrow escapes the goblin managed to steal an egg from the great "
-"birds and rose it under his care. Less then three months later when the Rocs "
+"birds and rose it under his care. Less than three months later when the Rocs "
 "attacked they were surprised to hear a piercing cry from above and even more "
 "surprised when they were ripped to shreds by one of their own. To this day "
 "the goblins ride tamed Rocs into battle, their battle cries the only warning "
@@ -1136,6 +1158,45 @@ msgstr "Brutális küklopsz"
 msgid "Extinct Cyclops Mage"
 msgstr "Ősi küklopsz"
 
+#. [unit_type]: id=EoMa_Nightmare, race=undead
+#: Era_of_Magic/units/Destroyers/Mara1.cfg:4
+msgid "Nightmare"
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Magic/units/Destroyers/Mara1.cfg:41
+msgid "kiss"
+msgstr ""
+
+#. [unit_type]: id=EoMa_Mara, race=undead
+#: Era_of_Magic/units/Destroyers/Mara2.cfg:4
+msgid "Mara"
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Magic/units/Destroyers/Mara2.cfg:41
+#, fuzzy
+msgid "touch of doom"
+msgstr "mágikus érintés"
+
+#. [attack]: type=fire
+#: Era_of_Magic/units/Destroyers/Mara2.cfg:54
+#: Era_of_Magic/units/Destroyers/Mara3.cfg:55
+#, fuzzy
+msgid "chaotic blast"
+msgstr "hullámverés"
+
+#. [unit_type]: id=EoMa_Apocalypse, race=undead
+#: Era_of_Magic/units/Destroyers/Mara3.cfg:4
+msgid "Apocalypse"
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Magic/units/Destroyers/Mara3.cfg:42
+#, fuzzy
+msgid "touch of apocalypse"
+msgstr "mágikus érintés"
+
 #. [unit_type]: id=EoMa_Omen, race=undead
 #: Era_of_Magic/units/Destroyers/Omen1.cfg:4
 msgid "Omen"
@@ -1147,7 +1208,7 @@ msgstr ""
 #: Era_of_Magic/units/Destroyers/Omen2.cfg:44
 #: Era_of_Magic/units/Destroyers/Omen3.cfg:44
 #: Era_of_Magic/units/Destroyers/Omen4.cfg:45
-#: Era_of_Magic/utils/abilities.cfg:1862
+#: Era_of_Magic/utils/abilities.cfg:1822
 #, fuzzy
 msgid "area attack"
 msgstr "kettős támadás"
@@ -1295,7 +1356,7 @@ msgstr "fehér kard"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Golden_Warrior.cfg:148
-#: Era_of_Magic/units/Kharos/Master_of_Sun.cfg:237
+#: Era_of_Magic/units/Kharos/Master_of_Sun.cfg:238
 msgid "light focusing"
 msgstr "lézerfény"
 
@@ -1382,7 +1443,7 @@ msgid "Master of Sun"
 msgstr "Napmester"
 
 #. [unit_type]: id=EoMa_Master_of_Sun, race=human
-#: Era_of_Magic/units/Kharos/Master_of_Sun.cfg:18
+#: Era_of_Magic/units/Kharos/Master_of_Sun.cfg:19
 msgid ""
 "Master of Sun attacks in a twinkle of an eye, so enemy can’t succesfully "
 "defend himself. This amazing unit releases huge amounts of sun energy in one "
@@ -1394,7 +1455,7 @@ msgstr ""
 "csapásra teszi alkalmassá az egységet."
 
 #. [attack]: type=arcane
-#: Era_of_Magic/units/Kharos/Master_of_Sun.cfg:225
+#: Era_of_Magic/units/Kharos/Master_of_Sun.cfg:226
 msgid "ultraspeed"
 msgstr "villámütés"
 
@@ -1779,7 +1840,7 @@ msgstr "csavarhúzó"
 #. [damage]: id=i8grenade
 #: Era_of_Magic/units/Runemasters/Mechanic.cfg:61
 #: Era_of_Magic/units/Runemasters/Technician.cfg:84
-#: Era_of_Magic/utils/abilities.cfg:780 Era_of_Magic/utils/abilities.cfg:781
+#: Era_of_Magic/utils/abilities.cfg:767 Era_of_Magic/utils/abilities.cfg:768
 msgid "grenade"
 msgstr "gránát"
 
@@ -2094,7 +2155,7 @@ msgid "Guru"
 msgstr "Mester"
 
 #. [unit_type]: id=EoMa_Guru, race=human
-#: Era_of_Magic/units/Sky_Kingdom/Guru.cfg:18
+#: Era_of_Magic/units/Sky_Kingdom/Guru.cfg:19
 msgid ""
 "When Mastermagi learn all of the world’s secrets, they become gurus. Gurus, "
 "due to their amazing knowledge of the world’s occult secerts, are fearsome "
@@ -2107,12 +2168,12 @@ msgstr ""
 "áthatolhatatlan jégburok övezi testüket."
 
 #. [attack]: type=arcane
-#: Era_of_Magic/units/Sky_Kingdom/Guru.cfg:142
+#: Era_of_Magic/units/Sky_Kingdom/Guru.cfg:143
 msgid "touch of magic"
 msgstr "mágikus érintés"
 
 #. [attack]: type=impact
-#: Era_of_Magic/units/Sky_Kingdom/Guru.cfg:154
+#: Era_of_Magic/units/Sky_Kingdom/Guru.cfg:155
 msgid "landmass"
 msgstr "göröngy"
 
@@ -2155,7 +2216,7 @@ msgstr "rövidzár"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Sky_Kingdom/Mage_of_Air.cfg:167
-#: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:188
+#: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:189
 msgid "sparks"
 msgstr "szikrák"
 
@@ -2241,7 +2302,7 @@ msgid "Master of Air"
 msgstr "Szélmester"
 
 #. [unit_type]: id=EoMa_Master_of_Air, race=human
-#: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:18
+#: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:19
 msgid ""
 "These Magi are renowned for their speed and for their ability to create "
 "powerful winds. In battle, they conjure deadly storms of unspeakable power."
@@ -2251,19 +2312,19 @@ msgstr ""
 "kavarnak."
 
 #. [attack]: type=impact
-#: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:179
+#: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:180
 msgid "short circuit"
 msgstr "rövidzár"
 
 #. [attack]: type=arcane
-#: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:200
+#: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:201
 #: Era_of_Magic/units/al_Kamija/Air_Avatar.cfg:62
 #: Era_of_Magic/units/al_Kamija/Air_God.cfg:121
 msgid "thunder"
 msgstr "zivatar"
 
 #. [attack]: type=arcane
-#: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:212
+#: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:213
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Elements.cfg:145
 msgid "eye of the storm"
 msgstr "hurrikán szeme"
@@ -2276,7 +2337,7 @@ msgstr "Elemek mestere"
 #. [attack]: type=fire
 #. [attack]: type=impact
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Elements.cfg:109
-#: Era_of_Magic/units/al_Kamija/Great_Efreeti.cfg:104
+#: Era_of_Magic/units/al_Kamija/Great_Efreeti.cfg:105
 msgid "touch"
 msgstr "érintés"
 
@@ -2298,9 +2359,9 @@ msgstr ""
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Fire.cfg:189
-#: Era_of_Magic/units/al_Kamija/Fire_Avatar.cfg:114
-#: Era_of_Magic/units/al_Kamija/Fire_Elemental.cfg:165
-#: Era_of_Magic/units/al_Kamija/Fire_God.cfg:125
+#: Era_of_Magic/units/al_Kamija/Fire_Avatar.cfg:115
+#: Era_of_Magic/units/al_Kamija/Fire_Elemental.cfg:166
+#: Era_of_Magic/units/al_Kamija/Fire_God.cfg:126
 msgid "burning fist"
 msgstr "égő ököl"
 
@@ -2328,9 +2389,9 @@ msgstr ""
 #. [attack]: type=cold
 #. [attack]: type=impact
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Water.cfg:89
-#: Era_of_Magic/units/al_Kamija/Water_Avatar.cfg:118
-#: Era_of_Magic/units/al_Kamija/Water_Elemental.cfg:233
-#: Era_of_Magic/units/al_Kamija/Water_God.cfg:153
+#: Era_of_Magic/units/al_Kamija/Water_Avatar.cfg:120
+#: Era_of_Magic/units/al_Kamija/Water_Elemental.cfg:235
+#: Era_of_Magic/units/al_Kamija/Water_God.cfg:155
 msgid "frozen fist"
 msgstr "jeges ököl"
 
@@ -2972,7 +3033,7 @@ msgstr ""
 "ezért a tevegelők a Varázslók seregében oroszlánrészt vállalnak a csatákból."
 
 #. [attack]: type=blade
-#: Era_of_Magic/units/al_Kamija/Camel_Rider.cfg:34
+#: Era_of_Magic/units/al_Kamija/Camel_Rider.cfg:38
 #: Era_of_Magic/units/al_Kamija/DharmaRhami.cfg:122
 #: Era_of_Magic/units/al_Kamija/Grand_Summoner.cfg:117
 #: Era_of_Magic/units/al_Kamija/Heavy_Camel_Rider.cfg:32
@@ -2984,7 +3045,7 @@ msgid "scimitar"
 msgstr "handzsár"
 
 #. [attack]: type=blade
-#: Era_of_Magic/units/al_Kamija/Camel_Rider.cfg:43
+#: Era_of_Magic/units/al_Kamija/Camel_Rider.cfg:47
 #: Era_of_Magic/units/al_Kamija/Heavy_Camel_Rider.cfg:41
 msgid "scimitar throw"
 msgstr "hajítóhandzsár"
@@ -2995,7 +3056,7 @@ msgid "Carpet Master"
 msgstr "Szőnyegmester"
 
 #. [unit_type]: id=EoMa_Carpet_Master, race=akhuman
-#: Era_of_Magic/units/al_Kamija/Carpet_Master.cfg:19
+#: Era_of_Magic/units/al_Kamija/Carpet_Master.cfg:20
 msgid ""
 "Captains of the winds, any carpet master can attest to having ridden the "
 "skies more times than he can count. A carpet master’s worth is still his "
@@ -3013,8 +3074,8 @@ msgstr ""
 "szőnyegmesterek olyan könnyedén szelik a levegőt, mint a madarak."
 
 #. [attack]: type=cold
-#: Era_of_Magic/units/al_Kamija/Carpet_Master.cfg:48
-#: Era_of_Magic/units/al_Kamija/Carpet_Rider.cfg:75
+#: Era_of_Magic/units/al_Kamija/Carpet_Master.cfg:50
+#: Era_of_Magic/units/al_Kamija/Carpet_Rider.cfg:73
 msgid "magical powder"
 msgstr "mágikus por"
 
@@ -3024,7 +3085,7 @@ msgid "Carpet Rider"
 msgstr "Repülőszőnyeges"
 
 #. [unit_type]: id=EoMa_Carpet_Rider, race=akhuman
-#: Era_of_Magic/units/al_Kamija/Carpet_Rider.cfg:19
+#: Era_of_Magic/units/al_Kamija/Carpet_Rider.cfg:20
 msgid ""
 "\n"
 "According to legend, the magic carpet originated from the desires of of a "
@@ -3272,7 +3333,7 @@ msgstr ""
 #. [attack]: type=cold
 #. [attack]: type=fire
 #: Era_of_Magic/units/al_Kamija/Efreeti.cfg:180
-#: Era_of_Magic/units/al_Kamija/Great_Efreeti.cfg:116
+#: Era_of_Magic/units/al_Kamija/Great_Efreeti.cfg:117
 #: Era_of_Magic/units/al_Kamija/Great_Jinn.cfg:182
 #: Era_of_Magic/units/al_Kamija/Jinn.cfg:370
 #: Era_of_Magic/units/al_Kamija/Jinn_Wonderful.cfg:199
@@ -3400,7 +3461,7 @@ msgid "Great Efreeti"
 msgstr "Nagy ifrit"
 
 #. [unit_type]: id=EoMa_Great_Efreeti, race=I8 magical
-#: Era_of_Magic/units/al_Kamija/Great_Efreeti.cfg:19
+#: Era_of_Magic/units/al_Kamija/Great_Efreeti.cfg:20
 msgid ""
 "Great efreetis seethe with a fiery rage that manifests itself in the form of "
 "their magic’s wake. In bodies of smoldering heat and flames, both militants "
@@ -3421,7 +3482,7 @@ msgstr ""
 "pusztító indulatait."
 
 #. [attack]: type=impact
-#: Era_of_Magic/units/al_Kamija/Great_Efreeti.cfg:128
+#: Era_of_Magic/units/al_Kamija/Great_Efreeti.cfg:129
 msgid "destruction"
 msgstr "irtótűz"
 
@@ -3920,7 +3981,7 @@ msgid "Water Avatar"
 msgstr "Folyamlény"
 
 #. [unit_type]: id=EoMa_Water_Avatar, race=I8 magical
-#: Era_of_Magic/units/al_Kamija/Water_Avatar.cfg:24
+#: Era_of_Magic/units/al_Kamija/Water_Avatar.cfg:25
 msgid ""
 "With time, the water elemental dramatically increases both its size and "
 "strength of current to become something grander: an avatar of water. "
@@ -3944,7 +4005,7 @@ msgid "Water Elemental"
 msgstr "Vízlény"
 
 #. [unit_type]: id=EoMa_Water_Elemental, race=I8 magical
-#: Era_of_Magic/units/al_Kamija/Water_Elemental.cfg:25
+#: Era_of_Magic/units/al_Kamija/Water_Elemental.cfg:27
 msgid ""
 "The Abyss is home to aquatic beings composed of nothing more than the same "
 "pure water essential for all living creatures. Such a being is held together "
@@ -3977,7 +4038,7 @@ msgid "Water God"
 msgstr "Tengeristen"
 
 #. [unit_type]: id=EoMa_Water_God, race=I8 magical
-#: Era_of_Magic/units/al_Kamija/Water_God.cfg:26
+#: Era_of_Magic/units/al_Kamija/Water_God.cfg:28
 msgid ""
 "Scarce even in the Abyss, water gods have frozen into the shape of glacial "
 "serpents. Despite their rigid appearance, these beasts of water dart across "
@@ -4088,14 +4149,14 @@ msgstr ""
 "Shahrukh,Krishi"
 
 #. [regenerate]: id=water
-#: Era_of_Magic/utils/abilities.cfg:7 Era_of_Magic/utils/abilities.cfg:10
+#: Era_of_Magic/utils/abilities.cfg:26 Era_of_Magic/utils/abilities.cfg:28
 msgid "water"
 msgstr "víz"
 
 #. [regenerate]: id=water
-#: Era_of_Magic/utils/abilities.cfg:8
+#: Era_of_Magic/utils/abilities.cfg:27 Era_of_Magic/utils/abilities.cfg:29
+#, fuzzy
 msgid ""
-"Made of Water:\n"
 "This unit is made of water. As a result, if it is standing in water, it will "
 "receive 6 hp."
 msgstr ""
@@ -4103,39 +4164,45 @@ msgstr ""
 "Ez az egység vízből áll. Emiatt vízi terepen 6 ÉP-t gyógyul."
 
 #. [regenerate]: id=water
-#: Era_of_Magic/utils/abilities.cfg:11
+#: Era_of_Magic/utils/abilities.cfg:27 Era_of_Magic/utils/abilities.cfg:29
 #, fuzzy
-msgid ""
-"Made of Water:\n"
-"This unit is made of water. If it stands in water, it will receive 6 hp."
-msgstr ""
-"vízlakó:\n"
-"Ez az egység vízből áll. Ha vízi terepen áll, 6 ÉP-t gyógyul."
+msgid "Made of Water"
+msgstr "Vízmágus"
 
 #. [regenerate]: id=fire
-#: Era_of_Magic/utils/abilities.cfg:27 Era_of_Magic/utils/abilities.cfg:30
+#: Era_of_Magic/utils/abilities.cfg:44 Era_of_Magic/utils/abilities.cfg:46
 msgid "fire"
 msgstr "tűz"
 
 #. [regenerate]: id=fire
-#: Era_of_Magic/utils/abilities.cfg:28 Era_of_Magic/utils/abilities.cfg:31
-msgid ""
-"Made of Fire:\n"
-"This unit is made of fire. If it stands in lava, it will receive 6 hp."
+#: Era_of_Magic/utils/abilities.cfg:45 Era_of_Magic/utils/abilities.cfg:47
+#, fuzzy
+msgid "Made of Fire"
+msgstr "Tűzmágus"
+
+#. [regenerate]: id=fire
+#: Era_of_Magic/utils/abilities.cfg:45 Era_of_Magic/utils/abilities.cfg:47
+#, fuzzy
+msgid "This unit is made of fire. If it stands in lava, it will receive 6 hp."
 msgstr ""
-"Tűzlény:\n"
+"lávalakó:\n"
 "Ez az egység tűzből áll. Ha lávaterepen áll, 6 ÉP-t gyógyul."
 
 #. [regenerate]: id=healing
-#: Era_of_Magic/utils/abilities.cfg:47
+#: Era_of_Magic/utils/abilities.cfg:62
 msgid "megacircle"
 msgstr "bűvkör"
 
 #. [regenerate]: id=healing
-#: Era_of_Magic/utils/abilities.cfg:48
+#: Era_of_Magic/utils/abilities.cfg:63
+#, fuzzy
+msgid "Megacircle"
+msgstr "bűvkör"
+
+#. [regenerate]: id=healing
+#: Era_of_Magic/utils/abilities.cfg:63
 #, fuzzy
 msgid ""
-"Megacircle:\n"
 "This unit owns powerful magic circle which affects all units inside. All "
 "friendly units fight better (+125%, +100%, +75%, +50%, +25% — lvl 0, 1, 2, "
 "3, 4) and regenerate themselves."
@@ -4146,30 +4213,39 @@ msgstr ""
 "+50%, +25% - 0, 1, 2, 3, 4 szintű) és regenerálódnak."
 
 #. [chance_to_hit]: id=circle
-#: Era_of_Magic/utils/abilities.cfg:137
+#: Era_of_Magic/utils/abilities.cfg:151
 msgid "always hits"
 msgstr "mindig talál"
 
 #. [chance_to_hit]: id=circle
-#: Era_of_Magic/utils/abilities.cfg:138
+#: Era_of_Magic/utils/abilities.cfg:152
 #, fuzzy
-msgid ""
-"Always Hits:\n"
-"This attack always has a 100% chance to hit"
+msgid "Always Hits"
+msgstr "mindig talál"
+
+#. [chance_to_hit]: id=circle
+#: Era_of_Magic/utils/abilities.cfg:152
+#, fuzzy
+msgid "This attack always has a 100% chance to hit"
 msgstr ""
 "mindig talál:\n"
 "Ez a támadás 100% eséllyel talál."
 
 #. [attacks]: id=nocounter
-#: Era_of_Magic/utils/abilities.cfg:148 Era_of_Magic/utils/abilities.cfg:151
+#: Era_of_Magic/utils/abilities.cfg:161 Era_of_Magic/utils/abilities.cfg:163
 msgid "no counter-attack"
 msgstr "nincs ellentámadás"
 
 #. [attacks]: id=nocounter
-#: Era_of_Magic/utils/abilities.cfg:149 Era_of_Magic/utils/abilities.cfg:152
+#: Era_of_Magic/utils/abilities.cfg:162 Era_of_Magic/utils/abilities.cfg:164
+#, fuzzy
+msgid "No Counter-attack"
+msgstr "nincs ellentámadás"
+
+#. [attacks]: id=nocounter
+#: Era_of_Magic/utils/abilities.cfg:162 Era_of_Magic/utils/abilities.cfg:164
 #, fuzzy
 msgid ""
-"no counter-attack:\n"
 "The opponent has a 0% chance to hit, when this unit is attacking. Does not "
 "work on opponents with berserker frenzy."
 msgstr ""
@@ -4177,14 +4253,14 @@ msgstr ""
 "Az ellenséges egységnek esélye sincs, hogy ellentámadása sikerrel jár."
 
 #. [damage]: id=evasion
-#: Era_of_Magic/utils/abilities.cfg:171 Era_of_Magic/utils/abilities.cfg:172
+#: Era_of_Magic/utils/abilities.cfg:182 Era_of_Magic/utils/abilities.cfg:183
 msgid "evasion"
 msgstr "gyengítés"
 
 #. [damage]: id=evasion
-#: Era_of_Magic/utils/abilities.cfg:173 Era_of_Magic/utils/abilities.cfg:175
+#: Era_of_Magic/utils/abilities.cfg:184 Era_of_Magic/utils/abilities.cfg:185
+#, fuzzy
 msgid ""
-"Evasion:\n"
 "When this attack is used offensively, this unit takes one third less damage "
 "in retaliation."
 msgstr ""
@@ -4192,29 +4268,46 @@ msgstr ""
 "Amikor ilyen támadással támad az egység, az ellentámadás egyharmaddal kisebb "
 "sebzést okoz a normálnál."
 
+#. [damage]: id=evasion
+#: Era_of_Magic/utils/abilities.cfg:184 Era_of_Magic/utils/abilities.cfg:185
+#, fuzzy
+msgid "Evasion"
+msgstr "gyengítés"
+
 #. [leadership]: id=darkaura
-#: Era_of_Magic/utils/abilities.cfg:188
+#: Era_of_Magic/utils/abilities.cfg:197
 msgid "dark aura"
 msgstr "sötét aura"
 
 #. [leadership]: id=darkaura
-#: Era_of_Magic/utils/abilities.cfg:189
-msgid ""
-"Dark Aura:\n"
-"Makes all adjacent enemy units fight worse (−25% for attack)."
+#: Era_of_Magic/utils/abilities.cfg:198
+#, fuzzy
+msgid "Makes all adjacent enemy units fight worse (−25% for attack)."
 msgstr ""
 "Sötét Aura:\n"
 "A sötét aura az ellenséges támadások sebzését csökkenti (25%-kal)."
 
+#. [leadership]: id=darkaura
+#: Era_of_Magic/utils/abilities.cfg:198
+#, fuzzy
+msgid "Dark Aura"
+msgstr "sötét aura"
+
 #. [heals]: id=healing
-#: Era_of_Magic/utils/abilities.cfg:208
+#: Era_of_Magic/utils/abilities.cfg:216
 msgid "ultracures"
 msgstr "szupergyógyítás"
 
 #. [heals]: id=healing
-#: Era_of_Magic/utils/abilities.cfg:209
+#: Era_of_Magic/utils/abilities.cfg:217
+#, fuzzy
+msgid "Heals +12"
+msgstr "gyógyítás +2"
+
+#. [heals]: id=healing
+#: Era_of_Magic/utils/abilities.cfg:217
+#, fuzzy
 msgid ""
-"Heals +12:\n"
 "Allows the unit to heal adjacent friendly units at the beginning of each "
 "turn.\n"
 "\n"
@@ -4230,14 +4323,14 @@ msgstr ""
 "páciens."
 
 #. [resistance]: id=i8protection
-#: Era_of_Magic/utils/abilities.cfg:234
+#: Era_of_Magic/utils/abilities.cfg:241
 msgid "defender"
 msgstr "védelmező"
 
 #. [resistance]: id=i8protection
-#: Era_of_Magic/utils/abilities.cfg:235
+#: Era_of_Magic/utils/abilities.cfg:242
+#, fuzzy
 msgid ""
-"Defender:\n"
 "Adjacent friendly units receive a +20% bonus to all resistances (up to a "
 "maximum of 40%)."
 msgstr ""
@@ -4245,30 +4338,46 @@ msgstr ""
 "A közeli baráti egységek +20% ellenállással vérteződnek fel (legfeljebb 40%-"
 "ig)"
 
+#. [resistance]: id=i8protection
+#: Era_of_Magic/utils/abilities.cfg:242
+#, fuzzy
+msgid "Defender"
+msgstr "védelmező"
+
 #. [chance_to_hit]: id=precision
-#: Era_of_Magic/utils/abilities.cfg:251
+#: Era_of_Magic/utils/abilities.cfg:257
 msgid "precision"
 msgstr "precizitás"
 
 #. [chance_to_hit]: id=precision
-#: Era_of_Magic/utils/abilities.cfg:252
+#: Era_of_Magic/utils/abilities.cfg:258
 #, fuzzy
-msgid ""
-"Precision:\n"
-"This attack always has a 80% chance to hit"
+msgid "Precision"
+msgstr "precizitás"
+
+#. [chance_to_hit]: id=precision
+#: Era_of_Magic/utils/abilities.cfg:258
+#, fuzzy
+msgid "This attack always has a 80% chance to hit"
 msgstr ""
 "precizitás:\n"
 "Ez a támadás mindig 80% eséllyel talál"
 
 #. [resistance]: id=cr
-#: Era_of_Magic/utils/abilities.cfg:265
+#: Era_of_Magic/utils/abilities.cfg:270
 msgid "circle of resistance"
 msgstr "ellenállási kör"
 
 #. [resistance]: id=cr
-#: Era_of_Magic/utils/abilities.cfg:266
+#: Era_of_Magic/utils/abilities.cfg:271
+#, fuzzy
+msgid "Circle of Resistance"
+msgstr "ellenállási kör"
+
+#. [resistance]: id=cr
+#: Era_of_Magic/utils/abilities.cfg:271
+#, fuzzy
 msgid ""
-"Circle of Resistance:\n"
 "This unit and all adjacent friendly units receive a +20% bonus to fire, "
 "cold, and arcane resistances."
 msgstr ""
@@ -4277,15 +4386,20 @@ msgstr ""
 "a hideg és a földöntúli támadások ellen."
 
 #. [resistance]: id=cr
-#: Era_of_Magic/utils/abilities.cfg:282
+#: Era_of_Magic/utils/abilities.cfg:286
 msgid "circle of susceptibility"
 msgstr "gyengítő kör"
 
 #. [resistance]: id=cr
-#: Era_of_Magic/utils/abilities.cfg:283
+#: Era_of_Magic/utils/abilities.cfg:287
+#, fuzzy
+msgid "Circle of Susceptibility"
+msgstr "gyengítő kör"
+
+#. [resistance]: id=cr
+#: Era_of_Magic/utils/abilities.cfg:287
 #, fuzzy
 msgid ""
-"Circle of Susceptibility:\n"
 "All adjacent enemy units’ fire, cold, and arcane resistances are weakened by "
 "20%."
 msgstr ""
@@ -4294,14 +4408,14 @@ msgstr ""
 "hideg és a földöntúli támadások ellen."
 
 #. [resistance]: id=deadzone
-#: Era_of_Magic/utils/abilities.cfg:300
+#: Era_of_Magic/utils/abilities.cfg:303
 msgid "deadzone"
 msgstr "holtsáv"
 
 #. [resistance]: id=deadzone
-#: Era_of_Magic/utils/abilities.cfg:301
+#: Era_of_Magic/utils/abilities.cfg:304
+#, fuzzy
 msgid ""
-"Deadzone:\n"
 "Adjacent friendly units receive a 99% bonus to fire, cold, and arcane "
 "resistances."
 msgstr ""
@@ -4309,15 +4423,27 @@ msgstr ""
 "A szomszédos baráti egységek 99% ellenállást kapnak a tűz-, hideg és "
 "földöntúli támadások ellen."
 
+#. [resistance]: id=deadzone
+#: Era_of_Magic/utils/abilities.cfg:304
+#, fuzzy
+msgid "Deadzone"
+msgstr "holtsáv"
+
 #. [resistance]: id=coldaura
-#: Era_of_Magic/utils/abilities.cfg:317
+#: Era_of_Magic/utils/abilities.cfg:319
 msgid "cold aura"
 msgstr "hideg aura"
 
 #. [resistance]: id=coldaura
-#: Era_of_Magic/utils/abilities.cfg:318
+#: Era_of_Magic/utils/abilities.cfg:320
+#, fuzzy
+msgid "Cold Aura"
+msgstr "hideg aura"
+
+#. [resistance]: id=coldaura
+#: Era_of_Magic/utils/abilities.cfg:320
+#, fuzzy
 msgid ""
-"Cold Aura:\n"
 "Area around this unit provides a 50% bonus to fire resistance and a −25% "
 "bonus to cold resistance."
 msgstr ""
@@ -4327,66 +4453,80 @@ msgstr ""
 "hatásos ebben az aurában."
 
 #. [chance_to_hit]: id=i8revenge
-#: Era_of_Magic/utils/abilities.cfg:348 Era_of_Magic/utils/abilities.cfg:351
+#: Era_of_Magic/utils/abilities.cfg:349 Era_of_Magic/utils/abilities.cfg:351
 msgid "revenge"
 msgstr "bosszú"
 
 #. [chance_to_hit]: id=i8revenge
-#: Era_of_Magic/utils/abilities.cfg:349 Era_of_Magic/utils/abilities.cfg:352
+#: Era_of_Magic/utils/abilities.cfg:350 Era_of_Magic/utils/abilities.cfg:352
 #, fuzzy
-msgid ""
-"Revenge:\n"
-"The unit has 100% hitting chance during retalitation."
+msgid "Revenge"
+msgstr "Bosszúálló"
+
+#. [chance_to_hit]: id=i8revenge
+#: Era_of_Magic/utils/abilities.cfg:350 Era_of_Magic/utils/abilities.cfg:352
+#, fuzzy
+msgid "The unit has 100% hitting chance during retalitation."
 msgstr ""
 "bosszú:\n"
 "Ez az egység mindig 100% eséllyel talál visszatámadáskor."
 
 #. [dummy]: id=i8 kamikaze
-#: Era_of_Magic/utils/abilities.cfg:365
+#: Era_of_Magic/utils/abilities.cfg:364
 msgid "kamikaze"
 msgstr "kamikaze"
 
 #. [dummy]: id=i8 kamikaze
-#: Era_of_Magic/utils/abilities.cfg:366
-msgid ""
-"Kamikaze:\n"
-"This unit always hits a target when attacking, but it dies instantly."
+#: Era_of_Magic/utils/abilities.cfg:365
+#, fuzzy
+msgid "This unit always hits a target when attacking, but it dies instantly."
 msgstr "Kamikaze: ez az egység mindig talál, de egyúttal maga is megsemmisül."
 
+#. [dummy]: id=i8 kamikaze
+#: Era_of_Magic/utils/abilities.cfg:365
+#, fuzzy
+msgid "Kamikaze"
+msgstr "kamikaze"
+
 #. [dummy]: id=i8hitandrun
-#: Era_of_Magic/utils/abilities.cfg:390
+#: Era_of_Magic/utils/abilities.cfg:388
 msgid "hit and run"
 msgstr "üss és fuss"
 
 #. [dummy]: id=i8hitandrun
-#: Era_of_Magic/utils/abilities.cfg:391
-msgid ""
-"Hit and Run:\n"
-"This unit gains 3 moves back after attacking, but cannot attack again."
+#: Era_of_Magic/utils/abilities.cfg:389
+#, fuzzy
+msgid "This unit gains 3 moves back after attacking, but cannot attack again."
 msgstr ""
 "Üss és fuss:\n"
 "Ez az egység támadás után még rendelkezik 3 mozgásponttal, de támadását már "
 "nem ismételheti meg."
 
+#. [dummy]: id=i8hitandrun
+#: Era_of_Magic/utils/abilities.cfg:389
+#, fuzzy
+msgid "Hit and Run"
+msgstr "üss és fuss"
+
 #. [unstore_unit]
-#: Era_of_Magic/utils/abilities.cfg:406
+#: Era_of_Magic/utils/abilities.cfg:403
 msgid "FLEE!"
 msgstr "FUTÁS!"
 
 #. [hides]: id=mountainambush
-#: Era_of_Magic/utils/abilities.cfg:416
+#: Era_of_Magic/utils/abilities.cfg:413
 msgid "mountain ambush"
 msgstr "hegyi rajtaütés"
 
 #. [hides]: id=mountainambush
-#: Era_of_Magic/utils/abilities.cfg:417
+#: Era_of_Magic/utils/abilities.cfg:414
 msgid " mountain ambush"
 msgstr "hegyi rajtaütés"
 
 #. [hides]: id=mountainambush
-#: Era_of_Magic/utils/abilities.cfg:418
+#: Era_of_Magic/utils/abilities.cfg:415
+#, fuzzy
 msgid ""
-"Mountain Ambush:\n"
 "This unit can hide in mountains and hills, and remain undetected by its "
 "enemies.\n"
 "\n"
@@ -4403,10 +4543,15 @@ msgstr ""
 "az egységnek a helyzetét, elveszti a mozgáspontjait."
 
 #. [hides]: id=mountainambush
-#: Era_of_Magic/utils/abilities.cfg:422
+#: Era_of_Magic/utils/abilities.cfg:415 Era_of_Magic/utils/abilities.cfg:418
+#, fuzzy
+msgid "Mountain Ambush"
+msgstr "hegyi rajtaütés"
+
+#. [hides]: id=mountainambush
+#: Era_of_Magic/utils/abilities.cfg:418
 #, fuzzy
 msgid ""
-"Mountain Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
 "\n"
 "Enemy units cannot see this unit while it is in mountains or hills, except "
@@ -4422,33 +4567,43 @@ msgstr ""
 "egységnek a helyzetét, elveszti a mozgáspontjait."
 
 #. [dummy]: id=i8fury
-#: Era_of_Magic/utils/abilities.cfg:442
+#: Era_of_Magic/utils/abilities.cfg:437
 msgid "fury"
 msgstr "őrjöngés"
 
 #. [dummy]: id=i8fury
-#: Era_of_Magic/utils/abilities.cfg:443
-msgid ""
-"Fury:\n"
-"This unit can attack another unit after killing an enemy."
+#: Era_of_Magic/utils/abilities.cfg:438
+#, fuzzy
+msgid "This unit can attack another unit after killing an enemy."
 msgstr ""
 "Őrjöngés:\n"
 "Ez az egység újra támadhat egy ellenséges egység megölése után."
 
+#. [dummy]: id=i8fury
+#: Era_of_Magic/utils/abilities.cfg:438
+msgid "Fury"
+msgstr ""
+
 #. [unstore_unit]
-#: Era_of_Magic/utils/abilities.cfg:465
+#: Era_of_Magic/utils/abilities.cfg:459
 msgid "FURY!"
 msgstr "ŐRÜLET!"
 
 #. [damage]: id=i8furiousdeath
-#: Era_of_Magic/utils/abilities.cfg:544
+#: Era_of_Magic/utils/abilities.cfg:538
 msgid "furious death"
 msgstr "tomboló halál"
 
 #. [damage]: id=i8furiousdeath
-#: Era_of_Magic/utils/abilities.cfg:545
+#: Era_of_Magic/utils/abilities.cfg:539
+#, fuzzy
+msgid "Furious Death"
+msgstr "tomboló halál"
+
+#. [damage]: id=i8furiousdeath
+#: Era_of_Magic/utils/abilities.cfg:539
+#, fuzzy
 msgid ""
-"Furious Death:\n"
 "Moments before this unit's death, it flies into a fury. The unit with this "
 "ability attacks all adjacent units and then it finally dies."
 msgstr ""
@@ -4456,14 +4611,14 @@ msgstr ""
 "megtámad minden szomszédos egységet, mielőtt végleg kimúlna."
 
 #. [damage]: id=i8battlefrenzy
-#: Era_of_Magic/utils/abilities.cfg:560 Era_of_Magic/utils/abilities.cfg:561
+#: Era_of_Magic/utils/abilities.cfg:553 Era_of_Magic/utils/abilities.cfg:554
 msgid "battlefrenzy"
 msgstr "harcikedv"
 
 #. [damage]: id=i8battlefrenzy
-#: Era_of_Magic/utils/abilities.cfg:562
+#: Era_of_Magic/utils/abilities.cfg:555
+#, fuzzy
 msgid ""
-"Battlefrenzy:\n"
 "When this attack is used, this units gets an extra strike and additional "
 "damage (+2) after each successful hit. Does not work on defense."
 msgstr ""
@@ -4472,9 +4627,15 @@ msgstr ""
 "nem működik."
 
 #. [damage]: id=i8battlefrenzy
-#: Era_of_Magic/utils/abilities.cfg:564
+#: Era_of_Magic/utils/abilities.cfg:555 Era_of_Magic/utils/abilities.cfg:556
+#, fuzzy
+msgid "Battlefrenzy"
+msgstr "harcikedv"
+
+#. [damage]: id=i8battlefrenzy
+#: Era_of_Magic/utils/abilities.cfg:556
+#, fuzzy
 msgid ""
-"Battlefrenzy:\n"
 "This unit gets one extra strike and additional damage (+2) with each hit "
 "during attack. Does not work on defense."
 msgstr ""
@@ -4483,15 +4644,20 @@ msgstr ""
 "nem működik."
 
 #. [dummy]: id=i8hardlanding
-#: Era_of_Magic/utils/abilities.cfg:673
+#: Era_of_Magic/utils/abilities.cfg:664
 msgid "hard landing"
 msgstr "megsemmisítő vég"
 
 #. [dummy]: id=i8hardlanding
-#: Era_of_Magic/utils/abilities.cfg:674
+#: Era_of_Magic/utils/abilities.cfg:665
+#, fuzzy
+msgid "Hard Landing"
+msgstr "megsemmisítő vég"
+
+#. [dummy]: id=i8hardlanding
+#: Era_of_Magic/utils/abilities.cfg:665
 #, fuzzy
 msgid ""
-"Hard Landing:\n"
 "When this large unit is destroyed, it falls on a ground dealing damage to "
 "all adjacent units. "
 msgstr ""
@@ -4499,14 +4665,20 @@ msgstr ""
 " Amikor ez az egység meghal, a szomszédos egységeknek is sebzést okoz."
 
 #. [dummy]: id=i8parachute
-#: Era_of_Magic/utils/abilities.cfg:682
+#: Era_of_Magic/utils/abilities.cfg:672
 msgid "parachute"
 msgstr "ejtőernyős"
 
 #. [dummy]: id=i8parachute
-#: Era_of_Magic/utils/abilities.cfg:683
+#: Era_of_Magic/utils/abilities.cfg:673
+#, fuzzy
+msgid "Parachute"
+msgstr "ejtőernyős"
+
+#. [dummy]: id=i8parachute
+#: Era_of_Magic/utils/abilities.cfg:673
+#, fuzzy
 msgid ""
-"Parachute:\n"
 "The pilot of this machine is equipped with parachute and he can survive a "
 "destruction of his vehicle."
 msgstr ""
@@ -4515,14 +4687,20 @@ msgstr ""
 "járművének megsemmisülését."
 
 #. [heals]: id=i8repair
-#: Era_of_Magic/utils/abilities.cfg:712
+#: Era_of_Magic/utils/abilities.cfg:701
 msgid "repairs +5"
 msgstr "javítás +5"
 
 #. [heals]: id=i8repair
-#: Era_of_Magic/utils/abilities.cfg:713
+#: Era_of_Magic/utils/abilities.cfg:702
+#, fuzzy
+msgid "Repairs +5"
+msgstr "javítás +5"
+
+#. [heals]: id=i8repair
+#: Era_of_Magic/utils/abilities.cfg:702
+#, fuzzy
 msgid ""
-"Repairs +5:\n"
 "Allows the unit to repair adjacent friendly mechanical units at the "
 "beginning of each turn.\n"
 "\n"
@@ -4534,14 +4712,20 @@ msgstr ""
 "A javított egység életereje legfeljebb 5 ÉP-vel nő körönként."
 
 #. [heals]: id=i8repair
-#: Era_of_Magic/utils/abilities.cfg:733
+#: Era_of_Magic/utils/abilities.cfg:721
 msgid "repairs +8"
 msgstr "javítás +8"
 
 #. [heals]: id=i8repair
-#: Era_of_Magic/utils/abilities.cfg:734
+#: Era_of_Magic/utils/abilities.cfg:722
+#, fuzzy
+msgid "Repairs +8"
+msgstr "javítás +8"
+
+#. [heals]: id=i8repair
+#: Era_of_Magic/utils/abilities.cfg:722
+#, fuzzy
 msgid ""
-"Repairs +8:\n"
 "Allows the unit to repair adjacent friendly mechanical units at the "
 "beginning of each turn.\n"
 "\n"
@@ -4553,9 +4737,9 @@ msgstr ""
 "A javított egység életereje legfeljebb 8 ÉP-vel nő körönként."
 
 #. [damage]: id=i8grenade
-#: Era_of_Magic/utils/abilities.cfg:782 Era_of_Magic/utils/abilities.cfg:784
+#: Era_of_Magic/utils/abilities.cfg:769 Era_of_Magic/utils/abilities.cfg:770
+#, fuzzy
 msgid ""
-"Grenade:\n"
 "When this attack is used, all units adjacent to a target get damage. Does "
 "not work on defense."
 msgstr ""
@@ -4563,16 +4747,22 @@ msgstr ""
 " Amikor ezt a támadást használják, minden szomszédos egység sebződik. "
 "Védekezés közben nem használható."
 
+#. [damage]: id=i8grenade
+#: Era_of_Magic/utils/abilities.cfg:769 Era_of_Magic/utils/abilities.cfg:770
+#, fuzzy
+msgid "Grenade"
+msgstr "gránát"
+
 #. [dummy]: id=runeaura
 #. [resistance]: id=runeauraactive
-#: Era_of_Magic/utils/abilities.cfg:792 Era_of_Magic/utils/abilities.cfg:897
+#: Era_of_Magic/utils/abilities.cfg:777 Era_of_Magic/utils/abilities.cfg:881
 msgid "rune aura"
 msgstr "rúnaaura"
 
 #. [dummy]: id=runeaura
-#: Era_of_Magic/utils/abilities.cfg:793
+#: Era_of_Magic/utils/abilities.cfg:778
+#, fuzzy
 msgid ""
-"Rune Aura:\n"
 "When this ability is activated, all Rune Masters create special auras. "
 "Adjacent units on hexes: s, ne, nw receive a 99% bonus to fire, cold and "
 "arcane resistance. Other units receive a −99% bonus to fire, cold and arcane "
@@ -4586,27 +4776,34 @@ msgstr ""
 "ellen. A többi szomszédos egység -99% ellenállást szerez ugyanezen támadások "
 "ellen. Az átalakulás egy körig tart. Az átalakult egység nem támadhat."
 
+#. [dummy]: id=runeaura
+#. [resistance]: id=runeauraactive
+#: Era_of_Magic/utils/abilities.cfg:778 Era_of_Magic/utils/abilities.cfg:882
+#, fuzzy
+msgid "Rune Aura"
+msgstr "rúnaaura"
+
 #. [set_menu_item]: id=runeaura_menu
-#: Era_of_Magic/utils/abilities.cfg:833
+#: Era_of_Magic/utils/abilities.cfg:817
 #, fuzzy
 msgid "Activate Aura (24 Gold)"
 msgstr "Aura aktiválása (24a)"
 
 #. [message]: speaker=unit
-#: Era_of_Magic/utils/abilities.cfg:857
+#: Era_of_Magic/utils/abilities.cfg:841
 #, fuzzy
 msgid "Activate aura? (24 Gold)"
 msgstr "Aura aktiválása (24a)"
 
 #. [print]
-#: Era_of_Magic/utils/abilities.cfg:878
+#: Era_of_Magic/utils/abilities.cfg:862
 msgid "You don’t have enough gold to activate the rune aura!"
 msgstr "Nincs elég aranyad, hogy aktiváld a rúnaaurát!"
 
 #. [resistance]: id=runeauraactive
-#: Era_of_Magic/utils/abilities.cfg:898
+#: Era_of_Magic/utils/abilities.cfg:882
+#, fuzzy
 msgid ""
-"Rune Aura:\n"
 "Adjacent friendly units on hexes: s, ne, nw receive a 99% bonus to fire, "
 "cold and arcane resistance. Other units receive a −99% bonus to fire, cold "
 "and arcane resistance."
@@ -4617,14 +4814,14 @@ msgstr ""
 "többi egység ellenállása 99%-kal csökken ugyanezen támadások ellen."
 
 #. [damage]: id=swallow
-#: Era_of_Magic/utils/abilities.cfg:924 Era_of_Magic/utils/abilities.cfg:925
+#: Era_of_Magic/utils/abilities.cfg:907 Era_of_Magic/utils/abilities.cfg:908
 msgid "swallow +4"
 msgstr "bekebelezés +4"
 
 #. [damage]: id=swallow
-#: Era_of_Magic/utils/abilities.cfg:926 Era_of_Magic/utils/abilities.cfg:928
+#: Era_of_Magic/utils/abilities.cfg:909 Era_of_Magic/utils/abilities.cfg:910
+#, fuzzy
 msgid ""
-"Swallow +4:\n"
 "This unit gains 4 hitpoints added to its current health whenever it kills a "
 "living unit."
 msgstr ""
@@ -4632,20 +4829,31 @@ msgstr ""
 "Ez az egység 4 ép-vel növeli aktuális ép-jét valahányszor megöl egy élő "
 "egységet."
 
+#. [damage]: id=swallow
+#: Era_of_Magic/utils/abilities.cfg:909 Era_of_Magic/utils/abilities.cfg:910
+msgid "Swallow +4"
+msgstr "Bekebelezés +4"
+
 #. [unstore_unit]
-#: Era_of_Magic/utils/abilities.cfg:955
+#: Era_of_Magic/utils/abilities.cfg:936
 msgid "4"
 msgstr "4"
 
 #. [hides]: id=swampambush
-#: Era_of_Magic/utils/abilities.cfg:978 Era_of_Magic/utils/abilities.cfg:979
+#: Era_of_Magic/utils/abilities.cfg:959 Era_of_Magic/utils/abilities.cfg:960
 msgid "swamp ambush"
 msgstr "mocsári rajtaütés"
 
 #. [hides]: id=swampambush
-#: Era_of_Magic/utils/abilities.cfg:980
+#: Era_of_Magic/utils/abilities.cfg:961 Era_of_Magic/utils/abilities.cfg:964
+#, fuzzy
+msgid "Swamp Ambush"
+msgstr "mocsári rajtaütés"
+
+#. [hides]: id=swampambush
+#: Era_of_Magic/utils/abilities.cfg:961 Era_of_Magic/utils/abilities.cfg:964
+#, fuzzy
 msgid ""
-"Swamp Ambush:\n"
 "This unit can hide in swamp, and remain undetected by its enemies.\n"
 "\n"
 "Enemy units cannot see this unit while it is in swamp, except if they have "
@@ -4660,35 +4868,21 @@ msgstr ""
 "ha mellélépnek. Az első ellenséges egység, amely felderíti ennek az "
 "egységnek a helyzetét, elveszti a mozgáspontjait. "
 
-#. [hides]: id=swampambush
-#: Era_of_Magic/utils/abilities.cfg:984
-#, fuzzy
-msgid ""
-"Swamp Ambush:\n"
-"This unit can hide in forest, and remain undetected by its enemies.\n"
-"\n"
-"Enemy units cannot see this unit while it is in swamp, except if they have "
-"units next to it. Any enemy unit that first discovers this unit immediately "
-"loses all its remaining movement."
-msgstr ""
-"Rajtaütés:\n"
-"Ez az egység a mocsárban képes elrejtőzni, s így ellenségei számára "
-"láthatatlanná válik.\n"
-"\n"
-"Az ellenséges egységek nem látják ezt az egységet, míg mocsárban áll, kivéve "
-"ha mellélépnek. Az első ellenséges egység, amely felderíti ennek az "
-"egységnek a helyzetét, elveszti a mozgáspontjait."
-
 #. [hides]: id=waterambush
-#: Era_of_Magic/utils/abilities.cfg:1000 Era_of_Magic/utils/abilities.cfg:1001
+#: Era_of_Magic/utils/abilities.cfg:979 Era_of_Magic/utils/abilities.cfg:980
 msgid "water ambush"
 msgstr "vízi rajtaütés"
 
 #. [hides]: id=waterambush
-#: Era_of_Magic/utils/abilities.cfg:1002
+#: Era_of_Magic/utils/abilities.cfg:981 Era_of_Magic/utils/abilities.cfg:984
+#, fuzzy
+msgid "Water Ambush"
+msgstr "vízi rajtaütés"
+
+#. [hides]: id=waterambush
+#: Era_of_Magic/utils/abilities.cfg:981 Era_of_Magic/utils/abilities.cfg:984
 #, fuzzy
 msgid ""
-"Water Ambush:\n"
 "This unit can hide in water, and remain undetected by its enemies.\n"
 "\n"
 "Enemy units cannot see this unit while it is in water, except if they have "
@@ -4703,34 +4897,15 @@ msgstr ""
 "mellélépnek. Az első ellenséges egység, amely felderíti ennek az egységnek a "
 "helyzetét, elveszti a mozgáspontjait."
 
-#. [hides]: id=waterambush
-#: Era_of_Magic/utils/abilities.cfg:1006
-#, fuzzy
-msgid ""
-"Water Ambush:\n"
-"This unit can hide in forest, and remain undetected by its enemies.\n"
-"\n"
-"Enemy units cannot see this unit while it is in water, except if they have "
-"units next to it. Any enemy unit that first discovers this unit immediately "
-"loses all its remaining movement."
-msgstr ""
-"Rajtaütés:\n"
-"Ez az egység a vízben képes elrejtőzni, s így ellenségei számára "
-"láthatatlanná válik.\n"
-"\n"
-"Az ellenséges egységek nem látják ezt az egységet, míg vízben áll, kivéve ha "
-"mellélépnek. Az első ellenséges egység, amely felderíti ennek az egységnek a "
-"helyzetét, elveszti a mozgáspontjait."
-
 #. [hides]: id=caveambush
-#: Era_of_Magic/utils/abilities.cfg:1022 Era_of_Magic/utils/abilities.cfg:1023
+#: Era_of_Magic/utils/abilities.cfg:999 Era_of_Magic/utils/abilities.cfg:1000
 msgid "cave ambush"
 msgstr "barlangi rajtaütés"
 
 #. [hides]: id=caveambush
-#: Era_of_Magic/utils/abilities.cfg:1024
+#: Era_of_Magic/utils/abilities.cfg:1001 Era_of_Magic/utils/abilities.cfg:1004
+#, fuzzy
 msgid ""
-"Cave Ambush:\n"
 "This unit can hide in cave, and remain undetected by its enemies.\n"
 "\n"
 "Enemy units cannot see this unit while it is in cave, except if they have "
@@ -4746,35 +4921,28 @@ msgstr ""
 "egységnek a helyzetét, elveszti a mozgáspontjait."
 
 #. [hides]: id=caveambush
-#: Era_of_Magic/utils/abilities.cfg:1028
+#: Era_of_Magic/utils/abilities.cfg:1001 Era_of_Magic/utils/abilities.cfg:1004
 #, fuzzy
-msgid ""
-"Cave Ambush:\n"
-"This unit can hide in forest, and remain undetected by its enemies.\n"
-"\n"
-"Enemy units cannot see this unit while it is in cave, except if they have "
-"units next to it. Any enemy unit that first discovers this unit immediately "
-"loses all its remaining movement."
-msgstr ""
-"Rajtaütés:\n"
-"Ez az egység elrejtőzhet az erdőben, s ezáltal ellenségei számára "
-"láthatatlanná válik.\n"
-"Az ellenséges egységek nem látják ezt az egységet, míg erdőben áll, kivéve "
-"ha mellélépnek. Az első ellenséges egység, amely felderíti ennek az "
-"egységnek a helyzetét, elveszti a mozgáspontjait."
+msgid "Cave Ambush"
+msgstr "barlangi rajtaütés"
 
-#. [regenerate]: id=i8reg4
-#. [regenerate]: id=regen4
-#: Era_of_Magic/utils/abilities.cfg:1045 Era_of_Magic/utils/abilities.cfg:1048
-#: Era_of_Magic/utils/abilities.cfg:2387 Era_of_Magic/utils/abilities.cfg:2390
-msgid "regenerates +4"
+#. [regenerate]: id=regen6
+#: Era_of_Magic/utils/abilities.cfg:1020 Era_of_Magic/utils/abilities.cfg:1022
+#, fuzzy
+msgid "regenerates +6"
 msgstr "felfrissülés +4"
 
-#. [regenerate]: id=regen4
-#: Era_of_Magic/utils/abilities.cfg:1046 Era_of_Magic/utils/abilities.cfg:1049
+#. [regenerate]: id=regen6
+#: Era_of_Magic/utils/abilities.cfg:1021 Era_of_Magic/utils/abilities.cfg:1023
+#, fuzzy
+msgid "Regenerates +6"
+msgstr "felfrissülés +4"
+
+#. [regenerate]: id=regen6
+#: Era_of_Magic/utils/abilities.cfg:1021 Era_of_Magic/utils/abilities.cfg:1023
+#, fuzzy
 msgid ""
-"Regenerates +4:\n"
-"At the beginning of each turn this unit heals +4 hp. If it is poisoned, it "
+"At the beginning of each turn this unit heals +6 hp. If it is poisoned, it "
 "will remove it instead of healing."
 msgstr ""
 "felfrissülés +4:\n"
@@ -4782,15 +4950,20 @@ msgstr ""
 "helyett kikúrálódik a mérgezésből."
 
 #. [dummy]: id=i8awake
-#: Era_of_Magic/utils/abilities.cfg:1185
+#: Era_of_Magic/utils/abilities.cfg:1158
 msgid "awaken"
 msgstr "visszahívás"
 
 #. [dummy]: id=i8awake
-#: Era_of_Magic/utils/abilities.cfg:1186
+#: Era_of_Magic/utils/abilities.cfg:1159
+#, fuzzy
+msgid "Awaken"
+msgstr "visszahívás"
+
+#. [dummy]: id=i8awake
+#: Era_of_Magic/utils/abilities.cfg:1159
 #, fuzzy
 msgid ""
-"Awaken:\n"
 "If a friendly adjacent unit with more than one hitpoint at the beginning of "
 "the battle dies, it is resurrected, gets +6 experience and remains in battle "
 "with one hitpoint. If it dies again (having one hitpoint), it will be killed "
@@ -4803,26 +4976,26 @@ msgstr ""
 "meghal (1 ép-vel), akkor végleg eltávozik az élők közül."
 
 #. [unstore_unit]
-#: Era_of_Magic/utils/abilities.cfg:1322 Era_of_Magic/utils/abilities.cfg:1892
-#: Era_of_Magic/utils/abilities.cfg:1952 Era_of_Magic/utils/i8cleave.cfg:80
+#: Era_of_Magic/utils/abilities.cfg:1294 Era_of_Magic/utils/abilities.cfg:1851
+#: Era_of_Magic/utils/abilities.cfg:1911 Era_of_Magic/utils/i8cleave.cfg:80
 msgid "female^awoken"
 msgstr "visszahívott"
 
 #. [unstore_unit]
-#: Era_of_Magic/utils/abilities.cfg:1330 Era_of_Magic/utils/abilities.cfg:1901
-#: Era_of_Magic/utils/abilities.cfg:1961 Era_of_Magic/utils/i8cleave.cfg:88
+#: Era_of_Magic/utils/abilities.cfg:1302 Era_of_Magic/utils/abilities.cfg:1860
+#: Era_of_Magic/utils/abilities.cfg:1920 Era_of_Magic/utils/i8cleave.cfg:88
 msgid "awoken"
 msgstr "visszahívott"
 
 #. [heals]: id=healing
-#: Era_of_Magic/utils/abilities.cfg:1352
+#: Era_of_Magic/utils/abilities.cfg:1324
 msgid "heals +2"
 msgstr "gyógyítás +2"
 
 #. [heals]: id=healing
-#: Era_of_Magic/utils/abilities.cfg:1353
+#: Era_of_Magic/utils/abilities.cfg:1325
+#, fuzzy
 msgid ""
-"Heals +2:\n"
 "Allows the unit to heal adjacent friendly units at the beginning of each "
 "turn.\n"
 "\n"
@@ -4834,15 +5007,21 @@ msgstr ""
 "A gyógyított egység legfeljebb 2 ÉP-t gyógyul körönként a beavatkozás "
 "hatására."
 
+#. [heals]: id=healing
+#: Era_of_Magic/utils/abilities.cfg:1325
+#, fuzzy
+msgid "Heals +2"
+msgstr "gyógyítás +2"
+
 #. [leadership]: id=leadership
-#: Era_of_Magic/utils/abilities.cfg:1370 Era_of_Magic/utils/abilities.cfg:1403
+#: Era_of_Magic/utils/abilities.cfg:1341 Era_of_Magic/utils/abilities.cfg:1373
 msgid "inspire"
 msgstr "ösztönzés"
 
 #. [leadership]: id=leadership
-#: Era_of_Magic/utils/abilities.cfg:1371
+#: Era_of_Magic/utils/abilities.cfg:1342
+#, fuzzy
 msgid ""
-"Inspire:\n"
 "This unit can inspire friendly units that are next to it, making them fight "
 "better.\n"
 "\n"
@@ -4856,9 +5035,15 @@ msgstr ""
 "Az 1-s szintű baráti egységek 10%-kal nagyobbat sebeznek a harcban."
 
 #. [leadership]: id=leadership
-#: Era_of_Magic/utils/abilities.cfg:1404
+#: Era_of_Magic/utils/abilities.cfg:1342 Era_of_Magic/utils/abilities.cfg:1374
+#, fuzzy
+msgid "Inspire"
+msgstr "ösztönzés"
+
+#. [leadership]: id=leadership
+#: Era_of_Magic/utils/abilities.cfg:1374
+#, fuzzy
 msgid ""
-"Inspire:\n"
 "This unit can inspire friendly units that are next to it, making them fight "
 "better.\n"
 "\n"
@@ -4874,15 +5059,22 @@ msgstr ""
 "A 2-s szintű baráti egységek 10%-kal nagyobbat sebeznek a harcban."
 
 #. [leadership]: id=terror
-#: Era_of_Magic/utils/abilities.cfg:1450 Era_of_Magic/utils/abilities.cfg:1486
-#: Era_of_Magic/utils/abilities.cfg:1536
+#: Era_of_Magic/utils/abilities.cfg:1419 Era_of_Magic/utils/abilities.cfg:1454
+#: Era_of_Magic/utils/abilities.cfg:1503
 msgid "awe"
 msgstr "rémség"
 
 #. [leadership]: id=terror
-#: Era_of_Magic/utils/abilities.cfg:1451
+#: Era_of_Magic/utils/abilities.cfg:1420 Era_of_Magic/utils/abilities.cfg:1455
+#: Era_of_Magic/utils/abilities.cfg:1504
+#, fuzzy
+msgid "Awe"
+msgstr "rémség"
+
+#. [leadership]: id=terror
+#: Era_of_Magic/utils/abilities.cfg:1420
+#, fuzzy
 msgid ""
-"Awe:\n"
 "This unit can frighten enemy units that are next to it, making them fight "
 "worse.\n"
 "\n"
@@ -4901,9 +5093,9 @@ msgstr ""
 "sebzést okoznak, ha szembeszállnak ezzel az egységgel."
 
 #. [leadership]: id=terror
-#: Era_of_Magic/utils/abilities.cfg:1487 Era_of_Magic/utils/abilities.cfg:1537
+#: Era_of_Magic/utils/abilities.cfg:1455 Era_of_Magic/utils/abilities.cfg:1504
+#, fuzzy
 msgid ""
-"Awe:\n"
 "This unit can frighten enemy units that are next to it, making them fight "
 "worse.\n"
 "\n"
@@ -4922,14 +5114,14 @@ msgstr ""
 "sebzést okoznak, ha szembeszállnak ezzel az egységgel."
 
 #. [damage]: id=banish
-#: Era_of_Magic/utils/abilities.cfg:1598 Era_of_Magic/utils/abilities.cfg:1599
+#: Era_of_Magic/utils/abilities.cfg:1564 Era_of_Magic/utils/abilities.cfg:1565
 msgid "banish"
 msgstr "irtás"
 
 #. [damage]: id=banish
-#: Era_of_Magic/utils/abilities.cfg:1600 Era_of_Magic/utils/abilities.cfg:1602
+#: Era_of_Magic/utils/abilities.cfg:1566 Era_of_Magic/utils/abilities.cfg:1567
+#, fuzzy
 msgid ""
-"Banish:\n"
 "If a Banisher hits an enemy magical unit, the enemy will turn into a DG "
 "‘Dimensional Gate’, (this happens only if the target is exactly one level "
 "below the banisher). If the enemy is at least two levels below your "
@@ -4942,16 +5134,21 @@ msgstr ""
 "támadó alatt van, akkor teljesen megsemmisül. Más ellenséges egység esetén "
 "nem történik semmi."
 
+#. [damage]: id=banish
+#: Era_of_Magic/utils/abilities.cfg:1566 Era_of_Magic/utils/abilities.cfg:1567
+#, fuzzy
+msgid "Banish"
+msgstr "Szellemirtó"
+
 #. [leadership]: id=cob
-#: Era_of_Magic/utils/abilities.cfg:1745
+#: Era_of_Magic/utils/abilities.cfg:1709
 msgid "circle of banishment"
 msgstr "irtókör"
 
 #. [leadership]: id=cob
-#: Era_of_Magic/utils/abilities.cfg:1746
+#: Era_of_Magic/utils/abilities.cfg:1710
 #, fuzzy
 msgid ""
-"Circle of Banishment:\n"
 "This unit can affect enemy magical units that are next to it, making them "
 "fight worse.\n"
 "\n"
@@ -4970,71 +5167,97 @@ msgstr ""
 "csökken (-40% 0-s szinten, -30% 1-s szinten, -15% 2-s szinten, -10% 3-s "
 "szinten)."
 
+#. [leadership]: id=cob
+#: Era_of_Magic/utils/abilities.cfg:1710
+#, fuzzy
+msgid "Circle of Banishment"
+msgstr "irtókör"
+
 #. [leadership]: id=eomafear15
 #. [leadership]: id=eomafear25
 #. [leadership]: id=eomafear35
-#: Era_of_Magic/utils/abilities.cfg:1813 Era_of_Magic/utils/abilities.cfg:1830
-#: Era_of_Magic/utils/abilities.cfg:1847
+#: Era_of_Magic/utils/abilities.cfg:1776 Era_of_Magic/utils/abilities.cfg:1792
+#: Era_of_Magic/utils/abilities.cfg:1808
 msgid "fear"
 msgstr ""
 
 #. [leadership]: id=eomafear15
-#: Era_of_Magic/utils/abilities.cfg:1814
+#. [leadership]: id=eomafear25
+#. [leadership]: id=eomafear35
+#: Era_of_Magic/utils/abilities.cfg:1777 Era_of_Magic/utils/abilities.cfg:1793
+#: Era_of_Magic/utils/abilities.cfg:1809
+msgid "Fear"
+msgstr ""
+
+#. [leadership]: id=eomafear15
+#: Era_of_Magic/utils/abilities.cfg:1777
 #, fuzzy
-msgid ""
-"Fear:\n"
-"Fear makes all enemy units fight worse (-15% damage)."
+msgid "Fear makes all enemy units fight worse (-15% damage)."
 msgstr ""
 "Sötét Aura:\n"
 "A sötét aura az ellenséges támadások sebzését csökkenti (25%-kal)."
 
 #. [leadership]: id=eomafear25
-#: Era_of_Magic/utils/abilities.cfg:1831
+#: Era_of_Magic/utils/abilities.cfg:1793
 #, fuzzy
-msgid ""
-"Fear:\n"
-"Fear makes all enemy units fight worse (-25% damage)."
+msgid "Fear makes all enemy units fight worse (-25% damage)."
 msgstr ""
 "Sötét Aura:\n"
 "A sötét aura az ellenséges támadások sebzését csökkenti (25%-kal)."
 
 #. [leadership]: id=eomafear35
-#: Era_of_Magic/utils/abilities.cfg:1848
+#: Era_of_Magic/utils/abilities.cfg:1809
 #, fuzzy
-msgid ""
-"Fear:\n"
-"Fear makes all enemy units fight worse (-35% damage)."
+msgid "Fear makes all enemy units fight worse (-35% damage)."
 msgstr ""
 "Sötét Aura:\n"
 "A sötét aura az ellenséges támadások sebzését csökkenti (25%-kal)."
 
 #. [dummy]: id=i8areahit
-#: Era_of_Magic/utils/abilities.cfg:1863
+#: Era_of_Magic/utils/abilities.cfg:1823
 msgid ""
-"Area Attack:\n"
 "This attack can hit some of adjacent enemy units (or even all depending on "
 "your luck)."
 msgstr ""
 
+#. [dummy]: id=i8areahit
+#: Era_of_Magic/utils/abilities.cfg:1823
+#, fuzzy
+msgid "Area Attack"
+msgstr "kettős támadás"
+
 #. [dummy]: id=lordoffungus
-#: Era_of_Magic/utils/abilities.cfg:2355
+#: Era_of_Magic/utils/abilities.cfg:2314
 msgid "fungus lord"
 msgstr ""
 
 #. [dummy]: id=lordoffungus
-#: Era_of_Magic/utils/abilities.cfg:2356
-msgid ""
-"Fungus Lord:\n"
-"This unit regenerates 8 hp each turn it is on a mushroom grove."
+#: Era_of_Magic/utils/abilities.cfg:2315
+msgid "Fungus Lord"
 msgstr ""
 
-#. [regenerate]: id=i8reg4
-#: Era_of_Magic/utils/abilities.cfg:2388 Era_of_Magic/utils/abilities.cfg:2391
+#. [dummy]: id=lordoffungus
+#: Era_of_Magic/utils/abilities.cfg:2315
 #, fuzzy
-msgid ""
-"Regenerates +4:\n"
-"This unit regenerates 4 hp every turn."
+msgid "This unit regenerates 8 hp each turn it is on a mushroom grove."
+msgstr "Az egység láva környezetben regenerálódik."
+
+#. [regenerate]: id=i8reg4
+#: Era_of_Magic/utils/abilities.cfg:2346 Era_of_Magic/utils/abilities.cfg:2348
+#, fuzzy
+msgid "This unit regenerates 4 hp every turn."
 msgstr "Az egység vízi környezetben regenerálódik."
+
+#. [regenerate]: id=i8reg4
+#: Era_of_Magic/utils/abilities.cfg:2346 Era_of_Magic/utils/abilities.cfg:2348
+#, fuzzy
+msgid "Regenerates +4"
+msgstr "felfrissülés +4"
+
+#. [regenerate]: id=i8reg4
+#: Era_of_Magic/utils/abilities.cfg:2347
+msgid "regenerates +4"
+msgstr "felfrissülés +4"
 
 #. [chance_to_hit]: id=i8bloodlust
 #: Era_of_Magic/utils/bloodlust.cfg:5 Era_of_Magic/utils/bloodlust.cfg:6
@@ -5042,19 +5265,27 @@ msgid "bloodlust"
 msgstr "vérszomj"
 
 #. [chance_to_hit]: id=i8bloodlust
+#: Era_of_Magic/utils/bloodlust.cfg:7 Era_of_Magic/utils/bloodlust.cfg:8
+#, fuzzy
+msgid "Bloodlust"
+msgstr "vérszomj"
+
+#. [chance_to_hit]: id=i8bloodlust
 #: Era_of_Magic/utils/bloodlust.cfg:7
+#, fuzzy
 msgid ""
-"Bloodlust: When this attack is used, this units gets an extra strike after "
-"each successful hit."
+"When this attack is used, this units gets an extra strike after each "
+"successful hit."
 msgstr ""
 "Vérszomj: Amikor ez a támadástípust használja az egység, minden találat után "
 "növekszik a csapásszáma."
 
 #. [chance_to_hit]: id=i8bloodlust
 #: Era_of_Magic/utils/bloodlust.cfg:8
+#, fuzzy
 msgid ""
-"Bloodlust: This unit gets one extra strike with each hit during attack. Does "
-"not work on defense."
+"This unit gets one extra strike with each hit during attack. Does not work "
+"on defense."
 msgstr ""
 "Vérszomj: Az egység minden találat után újabb csapáshoz jut. Védekezés "
 "esetén nem történik semmi."
@@ -5066,9 +5297,16 @@ msgstr "növekvő őrjöngés"
 
 #. [damage]: id=i8growingfury
 #: Era_of_Magic/utils/concentrated.cfg:7 Era_of_Magic/utils/concentrated.cfg:8
+#, fuzzy
+msgid "Growing Fury"
+msgstr "növekvő őrjöngés"
+
+#. [damage]: id=i8growingfury
+#: Era_of_Magic/utils/concentrated.cfg:7 Era_of_Magic/utils/concentrated.cfg:8
+#, fuzzy
 msgid ""
-"Growing fury: When this attack is used, this units damage increases after "
-"each successful hit (+4)."
+"When this attack is used, this units damage increases after each successful "
+"hit (+4)."
 msgstr ""
 "Növekvő őrjöngés: Ennél a támadástípusnál minden találat után nő az okozott "
 "sebzés nagysága (+4)."
@@ -5077,15 +5315,15 @@ msgstr ""
 #. [unstore_unit]
 #: Era_of_Magic/utils/doubleattack.cfg:19
 #: Era_of_Magic/utils/doubleattack.cfg:30
-#: Era_of_Magic/utils/doubleattack.cfg:33
+#: Era_of_Magic/utils/doubleattack.cfg:32
 msgid "double attack"
 msgstr "kettős támadás"
 
 #. [dummy]: id=double attack
 #: Era_of_Magic/utils/doubleattack.cfg:31
-#: Era_of_Magic/utils/doubleattack.cfg:34
+#: Era_of_Magic/utils/doubleattack.cfg:33
+#, fuzzy
 msgid ""
-"double attack:\n"
 "This unit can attack two enemies in one turn, but cannot move from a hex, "
 "where the first enemy was attacked."
 msgstr ""
@@ -5093,37 +5331,48 @@ msgstr ""
 "Ez az egység két ellenséges egységet támadhat, bár nem mozdulhat el a "
 "helyéről, ahonnan az első ellenséget megtámadta."
 
+#. [dummy]: id=double attack
+#: Era_of_Magic/utils/doubleattack.cfg:31
+#: Era_of_Magic/utils/doubleattack.cfg:33
+#, fuzzy
+msgid "Double Attack"
+msgstr "Kétszeri támadás"
+
 #. [unstore_unit]
-#: Era_of_Magic/utils/doubleattack.cfg:146
+#: Era_of_Magic/utils/doubleattack.cfg:144
 msgid "second target"
 msgstr "újabb célpont"
 
 #. [dummy]: id=split fire
-#: Era_of_Magic/utils/doubleattack.cfg:157
+#: Era_of_Magic/utils/doubleattack.cfg:155
 msgid "split fire"
 msgstr "osztott tűz"
 
 #. [dummy]: id=split fire
-#: Era_of_Magic/utils/doubleattack.cfg:158
-msgid ""
-"split fire:\n"
-"This unit can attack two enemies in one turn with this attack."
+#: Era_of_Magic/utils/doubleattack.cfg:156
+#: Era_of_Magic/utils/doubleattack.cfg:157
+#, fuzzy
+msgid "Split Fire"
+msgstr "osztott tűz"
+
+#. [dummy]: id=split fire
+#: Era_of_Magic/utils/doubleattack.cfg:156
+#: Era_of_Magic/utils/doubleattack.cfg:157
+#, fuzzy
+msgid "This unit can attack two enemies in one turn with this attack."
 msgstr ""
 "Osztott tűz:\n"
 "Ez az egység két ellenséges egységet támadhat egy kör során."
 
-#. [dummy]: id=split fire
-#: Era_of_Magic/utils/doubleattack.cfg:160
-msgid ""
-"double attack:\n"
-"This unit can attack two enemies in one turn with this attack."
-msgstr ""
-"Kettős támadás:\n"
-"Ez az egység két ellenséges egységet támadhat egy körben."
-
 #. [energy_draining]: id=energy_draining
 #: Era_of_Magic/utils/energy-draining.cfg:7
 msgid "energy draining"
+msgstr "energiaelszívás"
+
+#. [energy_draining]: id=energy_draining
+#: Era_of_Magic/utils/energy-draining.cfg:8
+#, fuzzy
+msgid "Energy Draining"
 msgstr "energiaelszívás"
 
 #. [energy_draining]: id=energy_draining
@@ -5145,8 +5394,13 @@ msgstr "osztott csapás"
 #. [dummy]: id=cleave
 #: Era_of_Magic/utils/i8cleave.cfg:132
 #, fuzzy
+msgid "Cleave"
+msgstr "osztott csapás"
+
+#. [dummy]: id=cleave
+#: Era_of_Magic/utils/i8cleave.cfg:132
+#, fuzzy
 msgid ""
-"Cleave:\n"
 "A unit with this ability can hurt units that are adjacent to the attacker "
 "and the defender at the same time."
 msgstr ""
@@ -5154,24 +5408,24 @@ msgstr ""
 "mindkettejükkel szomszédos egységet is támadja. "
 
 #. [unstore_unit]
-#: Era_of_Magic/utils/i8cleave.cfg:391 Era_of_Magic/utils/i8cleave.cfg:408
-#: Era_of_Magic/utils/i8cleave.cfg:494 Era_of_Magic/utils/i8cleave.cfg:511
+#: Era_of_Magic/utils/i8cleave.cfg:390 Era_of_Magic/utils/i8cleave.cfg:407
+#: Era_of_Magic/utils/i8cleave.cfg:493 Era_of_Magic/utils/i8cleave.cfg:510
 msgid "5"
 msgstr "5"
 
 #. [unstore_unit]
-#: Era_of_Magic/utils/i8cleave.cfg:426 Era_of_Magic/utils/i8cleave.cfg:443
-#: Era_of_Magic/utils/i8cleave.cfg:529 Era_of_Magic/utils/i8cleave.cfg:546
+#: Era_of_Magic/utils/i8cleave.cfg:425 Era_of_Magic/utils/i8cleave.cfg:442
+#: Era_of_Magic/utils/i8cleave.cfg:528 Era_of_Magic/utils/i8cleave.cfg:545
 msgid "9"
 msgstr "9"
 
 #. [dummy]: id=i8cleavehydra
-#: Era_of_Magic/utils/i8cleave.cfg:565 Era_of_Magic/utils/i8cleave.cfg:798
+#: Era_of_Magic/utils/i8cleave.cfg:564 Era_of_Magic/utils/i8cleave.cfg:797
 msgid "hydra’s strike"
 msgstr "hidraütés"
 
 #. [dummy]: id=i8cleavehydra
-#: Era_of_Magic/utils/i8cleave.cfg:566 Era_of_Magic/utils/i8cleave.cfg:799
+#: Era_of_Magic/utils/i8cleave.cfg:565 Era_of_Magic/utils/i8cleave.cfg:798
 #, fuzzy
 msgid ""
 "Hydra’s Strike:\n"
@@ -5182,14 +5436,14 @@ msgstr ""
 "álló ellenséges egységet tud megsebezni egy körben. "
 
 #. [unstore_unit]
-#: Era_of_Magic/utils/i8cleave.cfg:623 Era_of_Magic/utils/i8cleave.cfg:640
-#: Era_of_Magic/utils/i8cleave.cfg:726 Era_of_Magic/utils/i8cleave.cfg:743
+#: Era_of_Magic/utils/i8cleave.cfg:622 Era_of_Magic/utils/i8cleave.cfg:639
+#: Era_of_Magic/utils/i8cleave.cfg:725 Era_of_Magic/utils/i8cleave.cfg:742
 msgid "6"
 msgstr "6"
 
 #. [unstore_unit]
-#: Era_of_Magic/utils/i8cleave.cfg:658 Era_of_Magic/utils/i8cleave.cfg:675
-#: Era_of_Magic/utils/i8cleave.cfg:761 Era_of_Magic/utils/i8cleave.cfg:778
+#: Era_of_Magic/utils/i8cleave.cfg:657 Era_of_Magic/utils/i8cleave.cfg:674
+#: Era_of_Magic/utils/i8cleave.cfg:760 Era_of_Magic/utils/i8cleave.cfg:777
 msgid "12"
 msgstr "12"
 
@@ -5200,8 +5454,8 @@ msgstr "kobold vezér"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:8
+#, fuzzy
 msgid ""
-"Goblin leader:\n"
 "This unit can lead our own Goblins that are next to it, making them fight "
 "better.\n"
 "\n"
@@ -5214,14 +5468,26 @@ msgstr ""
 "A szomszédos baráti koboldok nagyobb sebzést okoznak a csatában (20%-kal)."
 
 #. [leadership]: id=leadership
-#: Era_of_Magic/utils/leaderships.cfg:27
+#: Era_of_Magic/utils/leaderships.cfg:8
+#, fuzzy
+msgid "Goblin Leader"
+msgstr "kobold vezér"
+
+#. [leadership]: id=leadership
+#: Era_of_Magic/utils/leaderships.cfg:26
 msgid "orcish leader"
 msgstr "ork vezér"
 
 #. [leadership]: id=leadership
-#: Era_of_Magic/utils/leaderships.cfg:28
+#: Era_of_Magic/utils/leaderships.cfg:27
+#, fuzzy
+msgid "Orcish Leader"
+msgstr "ork vezér"
+
+#. [leadership]: id=leadership
+#: Era_of_Magic/utils/leaderships.cfg:27
+#, fuzzy
 msgid ""
-"Orcish leader:\n"
 "This unit can lead our own Orcs that are next to it, making them fight "
 "better.\n"
 "\n"
@@ -5233,20 +5499,26 @@ msgstr ""
 "A szomszédos mezőn álló saját oldali ork többet sebez csatában (20%-kal)."
 
 #. [leadership]: id=leadership
-#: Era_of_Magic/utils/leaderships.cfg:47
+#: Era_of_Magic/utils/leaderships.cfg:45
 msgid "troll leader"
 msgstr "troll vezér"
 
 #. [leadership]: id=leadership
-#: Era_of_Magic/utils/leaderships.cfg:48
+#: Era_of_Magic/utils/leaderships.cfg:46
+#, fuzzy
 msgid ""
-"Troll leader:\n"
 "This unit can lead our own Trolls that are next to it, making them fight "
 "better (+20%)."
 msgstr ""
 "Troll vezér:\n"
 "Ez az egység a mellette álló saját oldali trollokat jobb támadásra sarkallja "
 "(+20%)."
+
+#. [leadership]: id=leadership
+#: Era_of_Magic/utils/leaderships.cfg:46
+#, fuzzy
+msgid "Troll Leader"
+msgstr "troll vezér"
 
 #. [petrifies]: id=sculpts
 #: Era_of_Magic/utils/sculpt.cfg:8
@@ -5256,9 +5528,13 @@ msgstr ""
 #. [petrifies]: id=sculpts
 #: Era_of_Magic/utils/sculpt.cfg:9
 msgid ""
-"Sculpt:\n"
 "This attack petrifies the target, turning it to stone for two turns. Units "
 "that have been petrified may not move or attack."
+msgstr ""
+
+#. [petrifies]: id=sculpts
+#: Era_of_Magic/utils/sculpt.cfg:9
+msgid "Sculpt"
 msgstr ""
 
 #: Era_of_Magic/utils/special-notes.cfg:4
@@ -5374,10 +5650,10 @@ msgstr ""
 #. [dummy]: id=summon_lvl3
 #. [dummy]: id=summon_lvl4
 #. [dummy]: id=summon_ns
-#: Era_of_Magic/utils/summon.cfg:227 Era_of_Magic/utils/summon.cfg:278
-#: Era_of_Magic/utils/summon.cfg:331 Era_of_Magic/utils/summon.cfg:379
-#: Era_of_Magic/utils/summon.cfg:432 Era_of_Magic/utils/summon.cfg:481
-#: Era_of_Magic/utils/summon.cfg:530 Era_of_Magic/utils/summon.cfg:579
+#: Era_of_Magic/utils/summon.cfg:227 Era_of_Magic/utils/summon.cfg:276
+#: Era_of_Magic/utils/summon.cfg:327 Era_of_Magic/utils/summon.cfg:373
+#: Era_of_Magic/utils/summon.cfg:424 Era_of_Magic/utils/summon.cfg:471
+#: Era_of_Magic/utils/summon.cfg:518 Era_of_Magic/utils/summon.cfg:565
 msgid "summon"
 msgstr "megidézés"
 
@@ -5389,105 +5665,128 @@ msgstr "megidézés"
 #. [dummy]: id=summon_lvl3
 #. [dummy]: id=summon_lvl4
 #. [dummy]: id=summon_ns
-#: Era_of_Magic/utils/summon.cfg:228 Era_of_Magic/utils/summon.cfg:279
-#: Era_of_Magic/utils/summon.cfg:332 Era_of_Magic/utils/summon.cfg:380
-#: Era_of_Magic/utils/summon.cfg:433 Era_of_Magic/utils/summon.cfg:482
-#: Era_of_Magic/utils/summon.cfg:531 Era_of_Magic/utils/summon.cfg:580
-msgid ""
-"Summon:\n"
-"this unit can summon new units near him, but not in villages."
+#: Era_of_Magic/utils/summon.cfg:228 Era_of_Magic/utils/summon.cfg:277
+#: Era_of_Magic/utils/summon.cfg:328 Era_of_Magic/utils/summon.cfg:374
+#: Era_of_Magic/utils/summon.cfg:425 Era_of_Magic/utils/summon.cfg:472
+#: Era_of_Magic/utils/summon.cfg:519 Era_of_Magic/utils/summon.cfg:566
+#, fuzzy
+msgid "Summon"
+msgstr "Megidézés"
+
+#. [dummy]: id=guru
+#. [dummy]: id=moa
+#. [dummy]: id=mof
+#. [dummy]: id=mow
+#. [dummy]: id=summon_hs
+#. [dummy]: id=summon_lvl3
+#. [dummy]: id=summon_lvl4
+#. [dummy]: id=summon_ns
+#. [dummy]: id=summon_roc
+#: Era_of_Magic/utils/summon.cfg:228 Era_of_Magic/utils/summon.cfg:277
+#: Era_of_Magic/utils/summon.cfg:328 Era_of_Magic/utils/summon.cfg:374
+#: Era_of_Magic/utils/summon.cfg:425 Era_of_Magic/utils/summon.cfg:472
+#: Era_of_Magic/utils/summon.cfg:519 Era_of_Magic/utils/summon.cfg:566
+#: Era_of_Magic/utils/summon.cfg:617
+#, fuzzy
+msgid "This unit can summon new units near him, but not in villages."
 msgstr ""
 "Megidézés:\n"
 "ez az egység képes új lényeket megidézni a mellette álló mezőre, kivéve "
 "falvakba."
 
-#: Era_of_Magic/utils/summon.cfg:265
+#: Era_of_Magic/utils/summon.cfg:264
 #, fuzzy
 msgid "Summon Fire Elemental (15 Gold)"
 msgstr "Tűzlény megidézése (15a)"
 
-#: Era_of_Magic/utils/summon.cfg:266
+#: Era_of_Magic/utils/summon.cfg:265
 #, fuzzy
 msgid "Summon Water Elemental (16 Gold)"
 msgstr "Vízlény megidézése (16a)"
 
-#: Era_of_Magic/utils/summon.cfg:270 Era_of_Magic/utils/summon.cfg:325
-#: Era_of_Magic/utils/summon.cfg:373 Era_of_Magic/utils/summon.cfg:421
-#: Era_of_Magic/utils/summon.cfg:474 Era_of_Magic/utils/summon.cfg:523
-#: Era_of_Magic/utils/summon.cfg:572 Era_of_Magic/utils/summon.cfg:621
-#: Era_of_Magic/utils/summon.cfg:674
+#: Era_of_Magic/utils/summon.cfg:269
+#, fuzzy
 msgid ""
-" this unit can create other units in the near free spaces, but not in "
+"This unit can create other units in the near free spaces, but not in "
 "villages."
 msgstr ""
 " ez az egység megidézhet más egységeket egy szmszédos szabad mezőre, ami nem "
 "falu. "
 
-#: Era_of_Magic/utils/summon.cfg:316
+#: Era_of_Magic/utils/summon.cfg:313
 #, fuzzy
 msgid "Summon Fire Elemental (7 Gold)"
 msgstr "Tűzlény megidézése (7a)"
 
-#: Era_of_Magic/utils/summon.cfg:317
+#: Era_of_Magic/utils/summon.cfg:314
 #, fuzzy
 msgid "Summon Water Elemental (7 Gold)"
 msgstr "Vízlény megidézése (7a)"
 
-#: Era_of_Magic/utils/summon.cfg:318
+#: Era_of_Magic/utils/summon.cfg:315
 #, fuzzy
 msgid "Summon Air Elemental (8 Gold)"
 msgstr "Szellőlény megidézése (8a)"
 
-#: Era_of_Magic/utils/summon.cfg:319
+#: Era_of_Magic/utils/summon.cfg:316
 #, fuzzy
 msgid "Summon Earth Elemental (8 Gold)"
 msgstr "Földlény megidézése (8a)"
 
-#: Era_of_Magic/utils/summon.cfg:369
+#: Era_of_Magic/utils/summon.cfg:322 Era_of_Magic/utils/summon.cfg:368
+#: Era_of_Magic/utils/summon.cfg:414 Era_of_Magic/utils/summon.cfg:465
+#: Era_of_Magic/utils/summon.cfg:512 Era_of_Magic/utils/summon.cfg:559
+#: Era_of_Magic/utils/summon.cfg:606 Era_of_Magic/utils/summon.cfg:657
+#, fuzzy
+msgid ""
+" This unit can create other units in the near free spaces, but not in "
+"villages."
+msgstr ""
+" ez az egység megidézhet más egységeket egy szmszédos szabad mezőre, ami nem "
+"falu. "
+
+#: Era_of_Magic/utils/summon.cfg:364
 #, fuzzy
 msgid "Summon Rhami (12 Gold)"
 msgstr "Rhami megidézése(12a)"
 
-#: Era_of_Magic/utils/summon.cfg:417
+#: Era_of_Magic/utils/summon.cfg:410
 #, fuzzy
 msgid "Summon Jinn (14 Gold)"
 msgstr "Dzsinn megidézése(14a)"
 
-#: Era_of_Magic/utils/summon.cfg:470
+#: Era_of_Magic/utils/summon.cfg:461
 #, fuzzy
 msgid "Summon Fire Elemental (12 Gold)"
 msgstr "Tűzlény megidézése (12a)"
 
-#: Era_of_Magic/utils/summon.cfg:519
+#: Era_of_Magic/utils/summon.cfg:508
 #, fuzzy
 msgid "Summon Water Elemental (12 Gold)"
 msgstr "Vízlény megidézése (12a)"
 
-#: Era_of_Magic/utils/summon.cfg:568
+#: Era_of_Magic/utils/summon.cfg:555
 #, fuzzy
 msgid "Summon Air Elemental (16 Gold)"
 msgstr "Szellőlény megidézése (16a)"
 
-#: Era_of_Magic/utils/summon.cfg:617
+#: Era_of_Magic/utils/summon.cfg:602
 #, fuzzy
 msgid "Summon Golem (16 Gold)"
 msgstr "Gólem megidézése(16a)"
 
 #. [dummy]: id=summon_roc
-#: Era_of_Magic/utils/summon.cfg:632
+#: Era_of_Magic/utils/summon.cfg:616
 msgid "summon roc"
 msgstr "rokmadár megidézése"
 
 #. [dummy]: id=summon_roc
-#: Era_of_Magic/utils/summon.cfg:633
-msgid ""
-"Summon Roc:\n"
-"this unit can summon new units near him, but not in villages."
-msgstr ""
-"Rokmadár megidézése:\n"
-"ez az egység a szomszédos mezőre, ami nem falu, megidézhet egy új egységet."
+#: Era_of_Magic/utils/summon.cfg:617
+#, fuzzy
+msgid "Summon Roc"
+msgstr "Megidézés"
 
-#: Era_of_Magic/utils/summon.cfg:670
+#: Era_of_Magic/utils/summon.cfg:653
 #, fuzzy
 msgid "Summon Roc Rider (22 Gold)"
 msgstr "()"
@@ -5502,6 +5801,86 @@ msgstr "mágikus lény"
 msgid "female^magical"
 msgstr "mágikus lény"
 
+#, fuzzy
+#~ msgid ""
+#~ "Made of Water:\n"
+#~ "This unit is made of water. If it stands in water, it will receive 6 hp."
+#~ msgstr ""
+#~ "vízlakó:\n"
+#~ "Ez az egység vízből áll. Ha vízi terepen áll, 6 ÉP-t gyógyul."
+
+#~ msgid ""
+#~ "Made of Fire:\n"
+#~ "This unit is made of fire. If it stands in lava, it will receive 6 hp."
+#~ msgstr ""
+#~ "Tűzlény:\n"
+#~ "Ez az egység tűzből áll. Ha lávaterepen áll, 6 ÉP-t gyógyul."
+
+#, fuzzy
+#~ msgid ""
+#~ "Swamp Ambush:\n"
+#~ "This unit can hide in forest, and remain undetected by its enemies.\n"
+#~ "\n"
+#~ "Enemy units cannot see this unit while it is in swamp, except if they "
+#~ "have units next to it. Any enemy unit that first discovers this unit "
+#~ "immediately loses all its remaining movement."
+#~ msgstr ""
+#~ "Rajtaütés:\n"
+#~ "Ez az egység a mocsárban képes elrejtőzni, s így ellenségei számára "
+#~ "láthatatlanná válik.\n"
+#~ "\n"
+#~ "Az ellenséges egységek nem látják ezt az egységet, míg mocsárban áll, "
+#~ "kivéve ha mellélépnek. Az első ellenséges egység, amely felderíti ennek "
+#~ "az egységnek a helyzetét, elveszti a mozgáspontjait."
+
+#, fuzzy
+#~ msgid ""
+#~ "Water Ambush:\n"
+#~ "This unit can hide in forest, and remain undetected by its enemies.\n"
+#~ "\n"
+#~ "Enemy units cannot see this unit while it is in water, except if they "
+#~ "have units next to it. Any enemy unit that first discovers this unit "
+#~ "immediately loses all its remaining movement."
+#~ msgstr ""
+#~ "Rajtaütés:\n"
+#~ "Ez az egység a vízben képes elrejtőzni, s így ellenségei számára "
+#~ "láthatatlanná válik.\n"
+#~ "\n"
+#~ "Az ellenséges egységek nem látják ezt az egységet, míg vízben áll, kivéve "
+#~ "ha mellélépnek. Az első ellenséges egység, amely felderíti ennek az "
+#~ "egységnek a helyzetét, elveszti a mozgáspontjait."
+
+#, fuzzy
+#~ msgid ""
+#~ "Cave Ambush:\n"
+#~ "This unit can hide in forest, and remain undetected by its enemies.\n"
+#~ "\n"
+#~ "Enemy units cannot see this unit while it is in cave, except if they have "
+#~ "units next to it. Any enemy unit that first discovers this unit "
+#~ "immediately loses all its remaining movement."
+#~ msgstr ""
+#~ "Rajtaütés:\n"
+#~ "Ez az egység elrejtőzhet az erdőben, s ezáltal ellenségei számára "
+#~ "láthatatlanná válik.\n"
+#~ "Az ellenséges egységek nem látják ezt az egységet, míg erdőben áll, "
+#~ "kivéve ha mellélépnek. Az első ellenséges egység, amely felderíti ennek "
+#~ "az egységnek a helyzetét, elveszti a mozgáspontjait."
+
+#~ msgid ""
+#~ "double attack:\n"
+#~ "This unit can attack two enemies in one turn with this attack."
+#~ msgstr ""
+#~ "Kettős támadás:\n"
+#~ "Ez az egység két ellenséges egységet támadhat egy körben."
+
+#~ msgid ""
+#~ "Summon Roc:\n"
+#~ "this unit can summon new units near him, but not in villages."
+#~ msgstr ""
+#~ "Rokmadár megidézése:\n"
+#~ "ez az egység a szomszédos mezőre, ami nem falu, megidézhet egy új "
+#~ "egységet."
+
 #~ msgid "Era of Magic Masters"
 #~ msgstr "Mágikus kor mesteri szint"
 
@@ -5510,13 +5889,6 @@ msgstr "mágikus lény"
 
 #~ msgid "lavahome"
 #~ msgstr "lávalakó"
-
-#~ msgid ""
-#~ "lavahome:\n"
-#~ "This unit is made of fire. If it stands in lava, it will receive 6 hp."
-#~ msgstr ""
-#~ "lávalakó:\n"
-#~ "Ez az egység tűzből áll. Ha lávaterepen áll, 6 ÉP-t gyógyul."
 
 #~ msgid ""
 #~ "evasion:\n"
@@ -5556,9 +5928,6 @@ msgstr "mágikus lény"
 
 #~ msgid "Default + Khalifate + Magic"
 #~ msgstr "Alap+Mágikus+Khalifa"
-
-#~ msgid "Double attack!"
-#~ msgstr "Kétszeri támadás"
 
 #~ msgid "hatchet"
 #~ msgstr "hajítóbárd"
@@ -5680,9 +6049,6 @@ msgstr "mágikus lény"
 #~ msgid "Yes"
 #~ msgstr "Igen"
 
-#~ msgid "Swallow +4"
-#~ msgstr "Bekebelezés +4"
-
 #~ msgid ""
 #~ "Troll leader:\n"
 #~ "This unit can lead our own Trolls that are next to it, making them fight "
@@ -5701,9 +6067,6 @@ msgstr "mágikus lény"
 #~ "A szomszédos álló saját oldali troll többet sebez csatában (20%-kal) és "
 #~ "minden baráti egység plusz ellenállást kap a mágikus támadások ellen "
 #~ "(+30% a tűz, a hideg, a földöntúli támadások ellen)."
-
-#~ msgid "Summon "
-#~ msgstr "Megidézés"
 
 #~ msgid ""
 #~ "Concentrated: When this attack is used, this units damage increases after "
